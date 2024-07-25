@@ -1440,7 +1440,7 @@ L'ÉDUCATION I-MISC
 SENTIMENTALE I-MISC
 l'année B-DATE
 dernière I-DATE
-  B-DATE
+; B-DATE
 maintenant I-DATE
 Hussonnet B-PER
 Hussonnet B-PER
@@ -5989,7 +5989,7 @@ Frédéric B-PER
 Baron B-PER
 M. B-PER
 Joseph I-PER
-Regimbart  B-PER
+Regimbart; B-PER
 d'Arnoux B-PER
 Frédéric B-PER
 Vicomte B-PER

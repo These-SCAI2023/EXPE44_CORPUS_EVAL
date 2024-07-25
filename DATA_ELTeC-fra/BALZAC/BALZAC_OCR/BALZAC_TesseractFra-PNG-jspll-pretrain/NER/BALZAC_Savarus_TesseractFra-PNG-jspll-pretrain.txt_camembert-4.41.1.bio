@@ -1506,7 +1506,7 @@ de I-PER
 enquettcrie I-PER
 l'Ombre B-PER
 Francesca B-PER
- Rondfinr B-PER
+;Rondfinr B-PER
 Rodolphe B-PER
 Française B-LOC
 Rodolpheles B-PER
@@ -3471,7 +3471,7 @@ Gentillet B-PER
 madame B-PER
 aint- I-PER
 -Vie‘ I-PER
-Six  B-LOC
+Six; B-LOC
 Girardot B-PER
 Girardot B-PER
 à B-DATE
@@ -4669,7 +4669,7 @@ de I-PER
 Vandenesse I-PER
 320 I-PER
 DE I-PER
-BALZAC  I-PER
+BALZAC; I-PER
 1111 B-DATE
 madame B-PER
 de I-PER
@@ -6667,7 +6667,7 @@ Du B-PER
 Tillet I-PER
 du B-PER
 Tillet I-PER
- Gigogne B-PER
+;Gigogne B-PER
 du B-PER
 Tillet I-PER
 Madame B-PER

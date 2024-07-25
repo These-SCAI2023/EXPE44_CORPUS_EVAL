@@ -1363,7 +1363,7 @@ Dambreuses B-MISC
 mars B-DATE
 Frédéric B-PER
 Deslauriers B-PER
-  B-DATE
+; B-DATE
 quinze I-DATE
 jours I-DATE
 le B-PER
@@ -5941,7 +5941,7 @@ Frédéric B-PER
 Baron B-PER
 M. B-PER
 Joseph I-PER
-Regimbart ». B-PER
+Regimbart;». B-PER
 d'Arnoux B-PER
 Frédéric B-PER
 Vicom B-PER

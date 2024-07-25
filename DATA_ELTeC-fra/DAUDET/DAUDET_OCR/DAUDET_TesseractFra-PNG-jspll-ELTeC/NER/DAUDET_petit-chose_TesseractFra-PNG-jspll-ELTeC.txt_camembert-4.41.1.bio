@@ -2158,7 +2158,7 @@ Roger B-PER
 Dans B-DATE
 cinq I-DATE
 minutes I-DATE
-  B-DATE
+; B-DATE
 une I-DATE
 heure I-DATE
 après I-DATE
@@ -5952,7 +5952,7 @@ Irma I-PER
 Borel I-PER
 mère B-PER
 Jacques I-PER
-C j B-PER
+C;j B-PER
 Me B-PER
 Irma I-PER
 Abord I-PER

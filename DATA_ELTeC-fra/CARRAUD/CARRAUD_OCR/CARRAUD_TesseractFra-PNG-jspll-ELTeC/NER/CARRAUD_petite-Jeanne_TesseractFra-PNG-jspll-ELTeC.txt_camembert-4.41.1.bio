@@ -1192,7 +1192,7 @@ M. B-PER
 le I-PER
 curé I-PER
 Paris B-LOC
-D  B-PER
+D; B-PER
 ear I-PER
 eu B-PER
 JEANNE B-MISC
@@ -3642,6 +3642,6 @@ Louis B-PER
 Paul B-PER
 Jeanne B-PER
 Jeanne B-PER
-803 Enfants B-MISC
+803;Enfants B-MISC
  B-DATE
 hui B-DATE

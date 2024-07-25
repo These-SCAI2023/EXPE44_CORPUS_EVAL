@@ -2106,7 +2106,7 @@ Roger B-PER
 Dans B-DATE
 cinq I-DATE
 minutes I-DATE
-  B-DATE
+; B-DATE
 une I-DATE
 heure I-DATE
 apres I-DATE
@@ -2604,7 +2604,7 @@ acques B-PER
 d B-DATE
 un B-DATE
 an I-DATE
- II4 B-MISC
+;II4 B-MISC
 LE I-MISC
 PETIT I-MISC
 CHOSE I-MISC

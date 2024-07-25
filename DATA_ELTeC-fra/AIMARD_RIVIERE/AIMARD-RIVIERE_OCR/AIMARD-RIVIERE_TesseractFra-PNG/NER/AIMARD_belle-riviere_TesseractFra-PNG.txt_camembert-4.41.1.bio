@@ -3020,7 +3020,7 @@ comte B-PER
 de I-PER
 Commercy I-PER
 Paris B-LOC
-  B-DATE
+; B-DATE
 un I-DATE
 mois I-DATE
 après I-DATE
@@ -4966,10 +4966,10 @@ madame B-PER
 de I-PER
 Maleval I-PER
 Peaux- B-MISC
-  I-MISC
+; I-MISC
 Rouges I-MISC
 Peaux- B-MISC
-  I-MISC
+; I-MISC
 Rouges I-MISC
 Léona B-PER
 Français B-MISC
@@ -5702,7 +5702,7 @@ Dieu B-MISC
 me I-MISC
 pardonne! I-MISC
 M...... B-PER
-L...... M B-PER
+L......;M B-PER
 LA B-MISC
 BELLE I-MISC
 RIVIÈRE I-MISC

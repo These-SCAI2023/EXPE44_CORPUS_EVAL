@@ -168,7 +168,7 @@ Médor B-PER
 Carrière—Fondue B-LOC
 VILLAGE B-LOC
 une B-DATE
-heure  I-DATE
+heure; I-DATE
 deux I-DATE
 heures I-DATE
 père B-PER
@@ -252,8 +252,8 @@ Jeacquet B-PER
 Dieu B-MISC
 LA,ROSE B-LOC
 Base B-LOC
-A rtaban B-PER
-A rtaban B-PER
+A;rtaban B-PER
+A;rtaban B-PER
 Norine B-PER
 Norine B-PER
 Plai— B-PER
@@ -473,7 +473,7 @@ Rose I-PER
 M. B-PER
 Céran I-PER
 -Ole B-PER
- JÆk—V"'Wfiw—Wær B-PER
+;JÆk—V"'Wfiw—Wær B-PER
 M. B-PER
 Céran I-PER
 Saint—Brunelle B-LOC
@@ -556,7 +556,7 @@ M“° B-PER
 Doro— I-PER
 mée I-PER
 J'Ê‘AZ B-PER
-J. -J I-PER
+J.;-J I-PER
 ’AVOC B-MISC
 PIGNON B-MISC
 Jean—Claude B-PER

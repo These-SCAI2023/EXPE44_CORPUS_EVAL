@@ -4537,7 +4537,7 @@ jours I-DATE
 Guaymas B-LOC
 Tête B-LOC
 d’Aigle I-LOC
-l‘A  B-LOC
+l‘A; B-LOC
 pac/ B-LOC
 ' B-LOC
 un B-DATE
@@ -4639,12 +4639,12 @@ de I-PER
 Pompadour I-PER
 M B-PER
 réchal I-PER
-B chei B-PER
+B;chei B-PER
 u I-PER
 M B-MISC
 réchal I-MISC
 de I-MISC
-B chei B-PER
+B;chei B-PER
 Louis B-PER
 XVI I-PER
 l’Eglise B-MISC

@@ -740,7 +740,7 @@ minutes I-DATE
 deux B-DATE
 trois B-DATE
 minutes I-DATE
- ÉDucation B-PER
+;ÉDucation B-PER
 Inuit B-MISC
 X B-PER
 AH I-PER
@@ -4676,7 +4676,7 @@ Français B-LOC
 AH B-MISC
 . I-MISC
 ! I-MISC
-Qu>M ..— I-MISC
+Qu>M;..— I-MISC
 AH B-MISC
 LA B-PER
 BELLE I-PER
@@ -5234,7 +5234,7 @@ madame B-PER
 de I-PER
 Maleval I-PER
 Peaux- B-MISC
-  B-PER
+; B-PER
 Rouges B-MISC
 Prenez B-MISC
 Garde I-MISC
