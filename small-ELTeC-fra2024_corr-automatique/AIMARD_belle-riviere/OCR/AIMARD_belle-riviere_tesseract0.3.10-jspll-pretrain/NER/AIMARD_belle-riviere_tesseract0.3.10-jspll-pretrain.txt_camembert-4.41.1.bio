@@ -4095,7 +4095,7 @@ un B-DATE
 an I-DATE
 app I-DATE
 Paris B-LOC
-; B-DATE
+  B-DATE
 un I-DATE
 mois I-DATE
 après I-DATE
@@ -8397,7 +8397,7 @@ L B-PER
 tour B-LOC
 de I-LOC
 France I-LOC
-L; B-PER
+L  B-PER
 comte I-PER
 EE B-MISC
 Can I-MISC

@@ -3885,7 +3885,7 @@ un B-DATE
 an I-DATE
 au I-DATE
 Paris B-LOC
-; B-DATE
+  B-DATE
 un I-DATE
 mois I-DATE
 après I-DATE
@@ -8282,7 +8282,7 @@ de B-LOC
 France I-LOC
 comte B-PER
 le B-PER
-L; I-PER
+L  I-PER
 comte I-PER
 EE B-LOC
 Can I-LOC
