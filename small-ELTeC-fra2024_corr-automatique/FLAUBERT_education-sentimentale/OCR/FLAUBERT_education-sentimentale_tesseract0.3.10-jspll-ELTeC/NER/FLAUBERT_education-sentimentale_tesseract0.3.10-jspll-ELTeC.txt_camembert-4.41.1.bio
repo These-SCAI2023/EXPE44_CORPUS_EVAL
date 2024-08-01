@@ -125,7 +125,7 @@ SENTIMENTALE I-MISC
 L'ÉDUCATION B-MISC
 SENTIMENTALE I-MISC
 Faut B-PER
-  B-DATE
+; B-DATE
 un I-DATE
 jour I-DATE
 arpe B-PER
@@ -1564,7 +1564,7 @@ noux B-PER
 tre B-PER
 ELLe I-PER
 Madame B-PER
-  B-DATE
+; B-DATE
 une I-DATE
 heure I-DATE
 après I-DATE
@@ -5157,7 +5157,7 @@ Frédéric B-PER
 Sénécal B-PER
 l’Académie B-ORG
 l'École B-ORG
-  I-ORG
+; I-ORG
 normale I-ORG
 Conservatoire B-LOC
 Comédie-Fran B-LOC
@@ -9577,7 +9577,7 @@ père B-PER
 Rose I-PER
 Louise B-PER
 Frédéric B-PER
-D  B-PER
+D; B-PER
 M. B-PER
 Paul I-PER
 de I-PER

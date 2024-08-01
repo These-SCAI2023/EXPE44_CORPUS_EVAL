@@ -15184,7 +15184,7 @@ Vient B-ORG
 proprietiires I-ORG
 |
 | I-ORG
-sECreT =paR I-ORG
+sECreT;=paR I-ORG
 un I-ORG
 petit I-ORG
 port I-ORG
@@ -102841,7 +102841,7 @@ autorit I-MISC
 |
 | I-MISC
 a I-MISC
-  I-MISC
+; I-MISC
 Déat O
 , O
 Bour B-LOC

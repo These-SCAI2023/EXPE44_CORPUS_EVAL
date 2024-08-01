@@ -8696,7 +8696,7 @@ la O
 plus O
 Grande B-MISC
 proprets I-MISC
-  O
+; O
 elle O
 s' O
 assit O
@@ -11265,7 +11265,7 @@ servir O
 de O
 ses O
 Riguilles B-LOC
-  O
+; O
 |
 | O
 olle O
@@ -19490,7 +19490,7 @@ Cerband B-MISC
 t I-MISC
 ' I-MISC
 Donnée I-MISC
-  O
+; O
 tu O
 te O
 charges O
@@ -22619,7 +22619,7 @@ di- O
 mancheut O
 Stre B-MISC
 bien I-MISC
-  O
+; O
 mais O
 je O
 n' O
@@ -38649,7 +38649,7 @@ Vinior I-PER
 , O
 suns O
 repondro O
-  O
+; O
 leva O
 le O
 bas O
@@ -45355,7 +45355,7 @@ son O
 |
  | O
 rien O
-  O
+; O
 at O
 quand O
 Lounne B-PER
@@ -45374,7 +45374,7 @@ potits O
 Hannalte B-MISC
 jusque O
 I4 B-ORG
-  O
+; O
 si O
 los O
 |
@@ -45586,7 +45586,7 @@ rapporteront O
 , O
 notre O
 maitre O
-  O
+; O
 et O
 |
 | O
@@ -50655,7 +50655,7 @@ inme I-PER
 payeras I-PER
 on I-PER
 journéesT I-PER
-  O
+; O
 Grand B-LOC
 Louis B-PER
 na O
@@ -61302,7 +61302,7 @@ raison O
 monsieur O
 le O
 curé O
-  O
+; O
 quand O
 |
 | O
@@ -65707,7 +65707,7 @@ d' O
 aller O
 en O
 journée B-PER
-  O
+; O
 elle O
 |
 | O

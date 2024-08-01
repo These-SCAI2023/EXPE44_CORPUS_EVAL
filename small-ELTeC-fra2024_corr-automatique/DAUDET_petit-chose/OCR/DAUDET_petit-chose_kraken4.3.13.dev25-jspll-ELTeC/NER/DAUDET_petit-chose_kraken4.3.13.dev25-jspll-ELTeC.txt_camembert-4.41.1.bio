@@ -3941,7 +3941,7 @@ Voulez-vous I-MISC
 faire I-MISC
 Rogerner B-PER
 Cher B-PER
-  B-DATE
+; B-DATE
 une I-DATE
 heure I-DATE
 après I-DATE

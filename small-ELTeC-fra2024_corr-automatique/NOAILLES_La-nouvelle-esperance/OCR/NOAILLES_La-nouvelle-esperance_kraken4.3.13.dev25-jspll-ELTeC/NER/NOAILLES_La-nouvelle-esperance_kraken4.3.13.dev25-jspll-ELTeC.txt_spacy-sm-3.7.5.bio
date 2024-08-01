@@ -3084,7 +3084,7 @@ prande O
 | O
 lsoif B-PER
 profonde I-PER
-  O
+; O
 l' O
 antre O
 portait O
@@ -3598,7 +3598,7 @@ Fontensy I-PER
 mettant O
 . O
 docteur O
-  O
+; O
 |
 | O
 D B-PER
@@ -5073,7 +5073,7 @@ Frileuse B-MISC
 , O
 : O
 Protégeźs O
-  O
+; O
 et O
 . O
 confiez B-PER
@@ -6761,7 +6761,7 @@ Boudes B-ORG
 aur I-ORG
 la I-ORG
 labilo I-ORG
-de . O
+de;. O
 |
  | O
 son O
@@ -8239,7 +8239,7 @@ de O
 la O
 jeune O
 Alle B-LOC
-  O
+; O
 ils O
 corisdrenti O
 les O
@@ -9256,7 +9256,7 @@ heques O
 legeres O
 et O
 Vilrees B-MISC
-  O
+; O
 n O
 Biis B-ORG
 conle O
@@ -9917,7 +9917,7 @@ aceneil O
 hospitalier O
 , O
 la O
-  O
+; O
 |
 | O
 t O
@@ -10329,7 +10329,7 @@ Lanteuil B-ORG
 | O
 de O
 hois O
-  O
+; O
 alle O
 se O
 balancait O
@@ -12097,7 +12097,7 @@ S' O
 occupe O
 d' O
 eux O
-  O
+; O
 quelle O
 chiance O
 ils O
@@ -18721,7 +18721,7 @@ ensemble O
 , O
 où O
 Est B-ORG
-  O
+; O
 |
 | O
 moi O
@@ -18828,7 +18828,7 @@ tu O
 Cs O
 tout O
 ce O
-  O
+; O
 |
 | O
 que O
@@ -19808,7 +19808,7 @@ avef O
 ses O
 volets O
 peints O
-  O
+; O
 |
 | O
 en O
@@ -20868,7 +20868,7 @@ Sabine B-PER
 , O
 pour O
 L B-MISC
-  I-MISC
+; I-MISC
 |
 | I-MISC
 blait I-MISC
@@ -23099,7 +23099,7 @@ pour O
 entrer O
 dans O
 Ce B-MISC
-  I-MISC
+; I-MISC
 |
 | I-MISC
 CATACIETO I-MISC
@@ -23751,7 +23751,7 @@ de O
 la O
 soie O
 et O
-  O
+; O
 |
 | O
 de O
@@ -23996,7 +23996,7 @@ Cela O
 la O
 ravissait O
 , O
-  O
+; O
 |
 | O
 et O
@@ -38093,7 +38093,7 @@ rapide O
 avec O
 une O
 brus- O
-  O
+; O
 |
 | O
 Que B-MISC
@@ -38834,7 +38834,7 @@ tenir O
 un O
 jour O
 ondormi O
-  O
+; O
 |
 | O
 contre O
@@ -39509,7 +39509,7 @@ em O
 de O
 longues B-LOC
 . O
-  O
+; O
 |
 | O
 isoirbes O
@@ -40741,7 +40741,7 @@ tremblaient O
 clle O
 savdit O
 ce O
-  O
+; O
 |
 | O
 Quil B-PER
@@ -41628,7 +41628,7 @@ lions O
 et O
 , O
 mordi O
-  O
+; O
 |
  | O
 Mant O
@@ -42845,7 +42845,7 @@ que O
 c' O
 était O
 irremediable O
-  O
+; O
 |
 | O
 i O
@@ -43141,7 +43141,7 @@ et O
 la O
 femine O
 etaient O
-  O
+; O
 |
  | O
 CNREmIS B-LOC
@@ -47818,7 +47818,7 @@ par O
 | O
 Surprise B-PER
 , O
-  O
+; O
 cétaient O
 des O
 trahisons O
@@ -55502,7 +55502,7 @@ de O
 l' O
 esprit O
 , O
-  O
+; O
 |
 | O
 Lans B-PER
@@ -56369,7 +56369,7 @@ pussent O
 Ctre B-PER
 oncore O
 des O
-  O
+; O
 |
 | O
 Amants B-MISC
@@ -56468,7 +56468,7 @@ autre O
 Stant O
 euxmemes O
 lun O
-  O
+; O
 |
 | O
 et O
@@ -60686,7 +60686,7 @@ bonheur I-MISC
 clle O
 avait O
 touyjours O
-  O
+; O
 |
 | O
 desire O
@@ -60699,7 +60699,7 @@ Pierre B-MISC
 surtout O
 qu' O
 elle O
-  O
+; O
 |
 | O
 cat O
@@ -61782,7 +61782,7 @@ de O
 temps O
 et O
 qui O
-  O
+; O
 |
 | O
 Veulont B-LOC
@@ -62768,7 +62768,7 @@ un O
 etre O
 de O
 solitude O
-  O
+; O
 : O
 |
 | O
@@ -63258,7 +63258,7 @@ d' O
 un O
 Coup B-MISC
 . O
-  O
+; O
 |
 | O
 Cmmbarrasse B-LOC
@@ -68011,7 +68011,7 @@ Clections B-MISC
 Artes B-MISC
 au O
 prin- O
-  O
+; O
 |
 | O
 lemmps O
@@ -69681,7 +69681,7 @@ aupres O
 d' O
 elle O
 plus O
-  O
+; O
 |
 | O
 a O
@@ -69709,7 +69709,7 @@ a O
 iiouvelle O
 . O
 amie O
-  O
+; O
 elle O
 avait O
 seuleineut O
@@ -70004,7 +70004,7 @@ Une B-MISC
 |
 | I-MISC
 Brodait I-MISC
-  O
+; O
 l' O
 autre O
 lisalt O
@@ -70316,9 +70316,9 @@ Conles B-LOC
 et.un O
 , O
 prince O
-  O
+; O
 toinhee O
-  O
+; O
 de O
 |
 
@@ -71382,7 +71382,7 @@ Fontenay I-PER
 . O
 parlait O
 de O
-  O
+; O
 |
 | O
 Ce O
@@ -76475,7 +76475,7 @@ Philippe B-PER
 . O
 Forbier B-PER
 repondit O
-  O
+; O
 quil O
 allait O
 ecrire O
@@ -81011,7 +81011,7 @@ ohscurcissait O
 le O
 prand O
 mor- O
-  O
+; O
 |
 | O
 Ceau B-PER
@@ -82804,7 +82804,7 @@ purets O
 exacte O
 et O
 involontaire O
-  O
+; O
 |
 | O
 e O
@@ -82931,7 +82931,7 @@ pesant O
 quclle O
 se O
 sentit O
-  O
+; O
 |
 | O
 mourir O
@@ -83694,9 +83694,9 @@ regardait O
 de O
 . O
 loin O
-  O
+; O
 les O
-  O
+; O
 i O
 |
  | O
@@ -89030,7 +89030,7 @@ futsurpris O
 , O
 necompritpas O
 , O
-  O
+; O
 |
 | O
 LA O
@@ -89652,7 +89652,7 @@ vicillie O
 Cétait O
 pour O
 lui O
-  O
+; O
 |
 | O
 torjours O
@@ -90039,7 +90039,7 @@ donncos O
 , O
 se O
 delen O
-  O
+; O
 |
 | O
 dait O
@@ -90307,7 +90307,7 @@ crut O
 tout O
 de O
 suite O
-  O
+; O
 clle O
 savait O
 quil O
@@ -98371,7 +98371,7 @@ pre O
 | O
 nouilles O
 angoissces O
-  O
+; O
 dont O
 le O
 petit O
@@ -100058,7 +100058,7 @@ qu' O
 elle O
 ecoute O
 et O
-  O
+; O
 |
 | O
 au O
@@ -104050,7 +104050,7 @@ pere O
 n' O
 était O
 plus O
-  O
+; O
 |
 | O
 heurcuse O
@@ -104063,7 +104063,7 @@ dont O
 . O
 sd O
 Con B-MISC
-  O
+; O
 |
 | O
 Scienco B-PER
@@ -104401,7 +104401,7 @@ oi O
 son O
 Cousin B-LOC
 . O
-  O
+; O
 |
 | O
 Louis B-PER
@@ -104665,7 +104665,7 @@ larmes O
 dans O
 toutes O
 lo5 O
-  O
+; O
 |
 | O
 remefni- O
@@ -107632,7 +107632,7 @@ souriait O
 a O
 cette O
 idesi O
-  O
+; O
 i B-MISC
 |
 | I-MISC
@@ -108184,7 +108184,7 @@ de O
 pharmacic O
 . O
 Le O
-  O
+; O
 i O
 |
 | O
@@ -108253,7 +108253,7 @@ une O
 crise O
 de O
 rhumnai B-PER
-  O
+; O
 i O
 |
 | O
@@ -108800,7 +108800,7 @@ s' O
 affaiblit O
 , O
 diminue O
-  O
+; O
 |
 | O
 i O
