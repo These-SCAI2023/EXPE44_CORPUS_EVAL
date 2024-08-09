@@ -1759,7 +1759,7 @@ n B-DATE
 ocu B-PER
 GiGGiiiridf B-PER
 E B-PER
-;Aggg B-PER
+ Aggg B-PER
 trente-trois B-DATE
 ans I-DATE
 et B-DATE
@@ -4293,7 +4293,7 @@ La B-MISC
 valeur I-MISC
 de I-MISC
 leurs I-MISC
-caprices; I-MISC
+caprices  I-MISC
 qui I-MISC
 cassent I-MISC
 deux B-DATE

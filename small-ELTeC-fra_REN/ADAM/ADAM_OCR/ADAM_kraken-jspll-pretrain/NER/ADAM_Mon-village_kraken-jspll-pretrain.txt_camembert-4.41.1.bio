@@ -179,14 +179,14 @@ Carriere-Fondue B-LOC
 M0N B-LOC
 VILLAGE I-LOC
 une B-DATE
-heure; I-DATE
+heure  I-DATE
 deux I-DATE
 heures I-DATE
 se I-DATE
 M0N B-MISC
 VILLAGE I-MISC
 une B-DATE
-heure; I-DATE
+heure  I-DATE
 deux I-DATE
 heures I-DATE
 Des B-MISC

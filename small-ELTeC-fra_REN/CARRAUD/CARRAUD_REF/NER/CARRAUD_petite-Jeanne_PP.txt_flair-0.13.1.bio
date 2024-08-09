@@ -40,7 +40,7 @@ Guillaume I-PER
 mande B-PER
 rien I-PER
 Catherine B-PER
-; I-PER
+  I-PER
 j'aime I-PER
 déjà I-PER
 votre I-PER
@@ -825,7 +825,7 @@ de I-LOC
 Solange I-LOC
 Tixier B-LOC
 Jeanne B-PER
-; I-PER
+  I-PER
 je I-PER
 vais I-PER
 lui I-PER

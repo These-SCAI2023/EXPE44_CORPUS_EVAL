@@ -671,7 +671,7 @@ soir O
 la O
 rue B-LOC
 Saint-Honoré I-LOC
-; O
+  O
 le O
 cocher O
 |
@@ -795,7 +795,7 @@ prendre O
 de O
 l' O
 importance O
-; O
+  O
 puis O
 une O
 |
@@ -1025,7 +1025,7 @@ le O
 trouve O
 abominable O
 , O
-; O
+  O
 mademoïselle B-LOC
 . O
 |
@@ -1278,7 +1278,7 @@ comte I-PER
 m' O
 aurait O
 grondée O
-; O
+  O
 je O
 me O
 garda O
@@ -1432,7 +1432,7 @@ et O
 vous O
 êtes O
 faible O
-; O
+  O
 VOUS B-MISC
 |
 | O
@@ -1613,7 +1613,7 @@ attirera O
 des O
 hommages O
 empressés O
-; O
+  O
 elle O
 ne O
 voudra O
@@ -1701,7 +1701,7 @@ position O
 de O
 la O
 province O
-; O
+  O
 àla O
 cour O
 , O
@@ -1933,7 +1933,7 @@ Paris B-LOC
 = O
 Sans O
 doute O
-; O
+  O
 äun O
 conditions O
 que O
@@ -2190,7 +2190,7 @@ deviner O
 
 | O
 énigme O
-; O
+  O
 ils O
 veulent O
 m' O
@@ -2518,7 +2518,7 @@ dédain O
 et O
 de O
 colère O
-; O
+  O
 |
 | O
 elle O
@@ -2633,7 +2633,7 @@ Lameth B-PER
 La O
 suivante O
 sortit O
-; O
+  O
 pendant O
 ce O
 temps O
@@ -2784,7 +2784,7 @@ corset O
 de O
 damas O
 noir O
-; O
+  O
 sa O
 main O
 et O
@@ -2793,7 +2793,7 @@ pied O
 |
 | O
 mignons O
-; O
+  O
 et O
 , O
 faisant O
@@ -3005,7 +3005,7 @@ fou O
 de O
 sa O
 fiancée O
-; O
+  O
 il O
 me O
 |
@@ -3032,7 +3032,7 @@ il O
 sér O
 le O
 mien O
-; O
+  O
 |
 | O
 chacun O
@@ -3306,7 +3306,7 @@ les O
 |
 | O
 convives O
-; O
+  O
 on O
 ouvrit O
 enfin O
@@ -4523,7 +4523,7 @@ elle O
 s' O
 était O
 imposé O
-; O
+  O
 vous O
 |
 | O
@@ -4574,7 +4574,7 @@ SINON O
 | O
 chère O
 enfant O
-; O
+  O
 mais O
 je O
 les O
@@ -4629,7 +4629,7 @@ d' O
 Henriette B-PER
 se O
 rembrunit O
-; O
+  O
 |
 | O
 puis O
@@ -4699,7 +4699,7 @@ a- O
 voir O
 bonne O
 mine O
-; O
+  O
 c’ O
 est O
 assez O
@@ -4823,7 +4823,7 @@ sur O
 |
 | O
 vous O
-; O
+  O
 rappelez O
 -vous O
 qu' O
@@ -4884,7 +4884,7 @@ soumettre O
 à O
 ses O
 caprices O
-; O
+  O
 venez O
 rè- O
 |
@@ -5010,7 +5010,7 @@ Le O
 souper O
 était O
 fini O
-; O
+  O
 ils O
 se O
 retirèrent O
@@ -5071,7 +5071,7 @@ quoi O
 que O
 ce O
 soit O
-; O
+  O
 il' O
 a O
 |
@@ -5448,7 +5448,7 @@ marquise O
 à O
 son O
 aspect O
-; O
+  O
 je O
 |
 | O
@@ -5866,7 +5866,7 @@ Sis- I-PER
 |
 | O
 sone O
-; O
+  O
 Madame B-PER
 a O
 daigné O
@@ -5972,7 +5972,7 @@ roi O
 entra O
 au O
 conseil O
-; O
+  O
 on O
 se O
 dispersà O
@@ -7510,7 +7510,7 @@ la O
 couvent O
 du O
 regard O
-; O
+  O
 |
 | O
 comme O
@@ -8320,7 +8320,7 @@ qu’ O
 elle O
 avait O
 risquée O
-; O
+  O
 l’ O
 amour O
 - O
@@ -9050,7 +9050,7 @@ retourner O
 à O
 sa O
 place O
-; O
+  O
 lorsqu' O
 elle O
 chercha O
@@ -9318,7 +9318,7 @@ honneur O
 | O
 continua O
 Madame B-PER
-; O
+  O
 je O
 saurai O
 bien O
@@ -9621,7 +9621,7 @@ la O
 promesse O
 de O
 son O
-père;'ses O
+père 'ses O
 engag- O
 |
 
@@ -9715,7 +9715,7 @@ leur O
 répondit O
 encore O
 moins O
-; O
+  O
 elle O
 |
 | O
@@ -9764,7 +9764,7 @@ battit O
 briser O
 sa O
 poitrine O
-; O
+  O
 elle O
 était O
 |
@@ -9954,7 +9954,7 @@ toute O
 « O
 ma O
 reconnaissance O
-; O
+  O
 pour O
 un O
 semblable O
@@ -10238,7 +10238,7 @@ perdue O
 , O
 ni O
 gagnée O
-; O
+  O
 c' O
 était O
 une O
@@ -10366,7 +10366,7 @@ prendre O
 cette O
 ennuyeuse O
 entrée O
-; O
+  O
 en O
 vérité O
 , O
@@ -10515,7 +10515,7 @@ cause O
 de O
 la O
 parenté O
-; O
+  O
 mais O
 ] O
 ai O
@@ -10622,7 +10622,7 @@ qui O
 jouait O
 du O
 violon O
-; O
+  O
 ils O
 ne O
 se O
@@ -10835,7 +10835,7 @@ belle O
 pour O
 lui O
 plaire O
-; O
+  O
 son O
 miroir O
 lui O
@@ -10871,7 +10871,7 @@ roi O
 ou O
 chez O
 Madame B-PER
-; O
+  O
 jamais1l O
 n' O
 avait O
@@ -10899,7 +10899,7 @@ avait O
 prononcé O
 entre O
 eux O
-; O
+  O
 |
 | O
 la O
@@ -11189,7 +11189,7 @@ prépara- O
 | O
 tifs O
 immenses O
-; O
+  O
 chaque O
 femme O
 orna O
@@ -12191,7 +12191,7 @@ atté- O
 |
 | O
 rée O
-; O
+  O
 un O
 pressentiment O
 lui O
@@ -12221,7 +12221,7 @@ attachée O
 depuis O
 son O
 enfance O
-; O
+  O
 |
 | O
 _ O
@@ -13573,7 +13573,7 @@ que O
 par O
 l' O
 autre O
-; O
+  O
 pour O
 le O
 cœur O
@@ -13690,7 +13690,7 @@ rivaux O
 d' O
 un O
 jour O
-; O
+  O
 Lauzun B-PER
 l' O
 expir O
@@ -13874,7 +13874,7 @@ en O
 perdait O
 la O
 tête O
-; O
+  O
 1l O
 ne O
 quittait O
@@ -14386,7 +14386,7 @@ ma O
 position O
 , O
 Monsieur B-PER
-; O
+  O
 |
 | O
 vous O
@@ -14397,7 +14397,7 @@ ne O
 suis O
 pas O
 libre O
-; O
+  O
 ma O
 main O
 est O
@@ -14485,7 +14485,7 @@ ai O
 avoué O
 à O
 personne O
-; O
+  O
 je O
 |
 | O
@@ -14497,7 +14497,7 @@ cacher O
 moi O
 - O
 même O
-; O
+  O
 mon O
 cœur O
 |
@@ -14749,7 +14749,7 @@ sera O
 toute O
 ma O
 vie O
-; O
+  O
 peut O
 -il O
 en O
@@ -14864,7 +14864,7 @@ tout O
 en O
 ce O
 monde O
-; O
+  O
 mais O
 nous O
 avons O
@@ -14874,7 +14874,7 @@ de I-PER
 
 | I-PER
 Lameth I-PER
-; O
+  O
 ils O
 persuaderont O
 à O
@@ -14927,7 +14927,7 @@ moyen O
 nous O
 est O
 offert O
-; O
+  O
 je O
 défiera O
 |
@@ -15004,7 +15004,7 @@ meurs O
 Et O
 moi O
 aussi O
-; O
+  O
 mais O
 je O
 ne O
@@ -15249,7 +15249,7 @@ nous O
 | O
 voir O
 souvent O
-; O
+  O
 d' O
 ici O
 là O
@@ -15274,7 +15274,7 @@ ainsi O
 est O
 la O
 jeunesse O
-; O
+  O
 pour O
 elle O
 l' O
@@ -15369,7 +15369,7 @@ Volailles I-PER
 est O
 bien O
 sévère O
-; O
+  O
 |
 
 | O
@@ -15538,7 +15538,7 @@ de O
 mademoiselle O
 de O
 Roucy B-PER
-; O
+  O
 c' O
 était O
 comme O
@@ -15557,7 +15557,7 @@ se O
 |
 | O
 parler O
-; O
+  O
 le O
 marquis O
 s' O
@@ -15766,7 +15766,7 @@ leur O
 | O
 amour O
 mutuel O
-; O
+  O
 elles O
 furent O
 découvertes O
@@ -16248,7 +16248,7 @@ dit O
 madame B-PER
 d' I-PER
 Audincourt I-PER
-; O
+  O
 1l O
 a O
 engagé O
@@ -16290,7 +16290,7 @@ la O
 demander O
 en O
 mariage O
-; O
+  O
 s’ O
 il O
 est O
@@ -16520,7 +16520,7 @@ d' O
 une O
 voix O
 tremblante O
-; O
+  O
 vous O
 êtes O
 restée O
@@ -16598,7 +16598,7 @@ reprenons O
 pas O
 notre O
 parole O
-; O
+  O
 mon O
 fils O
 vous O
@@ -16650,7 +16650,7 @@ repris O
 toute O
 sa O
 hauteur O
-; O
+  O
 je O
 ne O
 |||| O
@@ -16723,7 +16723,7 @@ ni O
 grâce O
 ni O
 honneur O
-; O
+  O
 mademoiselle O
 de O
 Roucy B-PER
@@ -16855,7 +16855,7 @@ j' O
 M. B-PER
 de I-PER
 Lameth I-PER
-; O
+  O
 vous O
 tiendriez B-PER
 |
@@ -16984,7 +16984,7 @@ femme O
 qui O
 me O
 haïrait O
-; O
+  O
 mais O
 mon O
 malheur- O
@@ -17160,7 +17160,7 @@ moi- O
 |
 | O
 même O
-; O
+  O
 et O
 bien O
 ! O
@@ -17311,7 +17311,7 @@ vous O
 |
 | O
 désobéir O
-; O
+  O
 mais O
 je O
 n' O
@@ -17435,7 +17435,7 @@ dire O
 M. B-PER
 de I-PER
 Roucy I-PER
-; O
+  O
 |
 | O
 pour O
@@ -17571,7 +17571,7 @@ de O
 dire O
 cet O
 homme O
-; O
+  O
 prenez O
 - O
 y O
@@ -17936,7 +17936,7 @@ morte O
 Ils O
 se O
 quittérent O
-; O
+  O
 madame B-PER
 d' I-PER
 Audincourt I-PER
@@ -18165,7 +18165,7 @@ la O
 permission O
 de O
 partir O
-; O
+  O
 en O
 vérité O
 , O
@@ -18317,7 +18317,7 @@ sans O
 prononcer O
 une O
 parole O
-; O
+  O
 elle O
 ne O
 répondit O
@@ -20029,7 +20029,7 @@ c' O
 est O
 de O
 tuer O
-; O
+  O
 |
 | O
 ses O
@@ -20180,7 +20180,7 @@ Elle O
 ne O
 cédera O
 pas O
-; O
+  O
 d’ O
 ailleurs O
 je O
@@ -21035,7 +21035,7 @@ Non O
 pas O
 celui O
 -là O
-; O
+  O
 ce O
 Nicolle B-PER
 qui O
@@ -21526,7 +21526,7 @@ et O
 ils O
 s' O
 écrivent O
-; O
+  O
 j' O
 en O
 émais O
@@ -21645,7 +21645,7 @@ me O
 soumettre O
 et O
 attendre O
-; O
+  O
 mais O
 les O
 |
@@ -22575,7 +22575,7 @@ ce O
 que O
 prétend O
 cette O
-; O
+  O
 |
 | O
 feuille O
@@ -22666,7 +22666,7 @@ tés O
 mais O
 elle O
 respire O
-; O
+  O
 le O
 marquis O
 a O
@@ -24368,7 +24368,7 @@ pensionnaire O
 | O
 aux O
 Ursulines B-LOC
-; O
+  O
 madame B-PER
 l’ I-PER
 Abbesse I-PER
@@ -24634,7 +24634,7 @@ dévier O
 de O
 sa O
 route O
-; O
+  O
 il O
 a O
 de O
@@ -24715,7 +24715,7 @@ petite O
 chambre O
 d' O
 Henriette B-PER
-; O
+  O
 assise O
 en O
 |
@@ -24895,7 +24895,7 @@ hommages O
 des O
 jeunes O
 seigneurs O
-; O
+  O
 si O
 par O
 hasard O
@@ -25457,7 +25457,7 @@ elle O
 | O
 sy O
 cramponna O
-; O
+  O
 c' O
 était O
 en O
@@ -25750,7 +25750,7 @@ le O
 courage O
 , O
 Louison B-PER
-; O
+  O
 tu O
 descendras O
 à O
@@ -26685,7 +26685,7 @@ pein- O
 | O
 tures O
 charmantes O
-; O
+  O
 quatre O
 beaux O
 chevaux O
@@ -26870,7 +26870,7 @@ semée O
 | O
 de O
 fleurs O
-; O
+  O
 des O
 jeunes O
 filles O
@@ -27190,7 +27190,7 @@ petite-fille O
 | O
 de O
 Louis-le-Gros B-LOC
-; O
+  O
 il O
 promit O
 foi O
@@ -27292,7 +27292,7 @@ fut O
 fatimaéchal O
 de B-LOC
 France I-LOC
-; O
+  O
 1l O
 n' O
 y O
@@ -28322,7 +28322,7 @@ d' O
 une O
 affichaité O
 extraordinaire O
-; O
+  O
 en O
 des- O
 |
@@ -28587,7 +28587,7 @@ quel- O
 | O
 ques O
 mois O
-; O
+  O
 onne O
 parlait O
 que O
@@ -28677,7 +28677,7 @@ SINON I-MISC
 |
 | O
 heureux O
-; O
+  O
 comme O
 elle O
 était O
@@ -28981,7 +28981,7 @@ beau-père O
 Malgré O
 mon O
 beau-père O
-; O
+  O
 mon O
 mari O
 me O
@@ -29051,7 +29051,7 @@ Le B-MISC
 château I-MISC
 d’ I-MISC
 Anizy I-MISC
-; O
+  O
 situé O
 à O
 un O
@@ -29222,9 +29222,9 @@ ou O
 l’ O
 autre O
 parti O
-; O
+  O
 enfin O
-; O
+  O
 en O
 1540 O
 , O
@@ -29365,7 +29365,7 @@ made- O
 moselle B-LOC
 de I-LOC
 Roucy I-LOC
-; O
+  O
 par O
 une O
 espèce O
@@ -29665,7 +29665,7 @@ La O
 journée O
 était O
 süperte B-LOC
-; O
+  O
 on O
 lui O
 un O
@@ -29700,7 +29700,7 @@ au O
 |
 | O
 cardinal O
-; O
+  O
 votre O
 Éminence B-MISC
 a O
@@ -30042,7 +30042,7 @@ espère O
 une O
 resplendissante O
 toilette O
-; O
+  O
 il O
 ne O
 |
@@ -30135,7 +30135,7 @@ P B-LOC
 — O
 À O
 merveille O
-; O
+  O
 pourtant O
 ... O
 |
@@ -30278,7 +30278,7 @@ un O
 abime O
 , O
 Madame B-PER
-; O
+  O
 vous O
 jouez O
 avec O
@@ -30416,7 +30416,7 @@ ce O
 qui O
 se O
 passe O
-; O
+  O
 je O
 veille O
 à O
@@ -31013,7 +31013,7 @@ ce O
 serait O
 la O
 beauté O
-; O
+  O
 car O
 avec O
 la O
@@ -31113,7 +31113,7 @@ comtesse O
 ne O
 put O
 dormir O
-; O
+  O
 elle O
 appela O
 Louison B-PER
@@ -31247,7 +31247,7 @@ ne O
 serons O
 point O
 aperçues O
-; O
+  O
 si O
 nous O
 |
@@ -31304,7 +31304,7 @@ blanche O
 |
 | O
 Madame B-PER
-; O
+  O
 il O
 est O
 seul O
@@ -31333,7 +31333,7 @@ clair O
 de O
 la O
 lune O
-; O
+  O
 |
 | O
 il O
@@ -31436,7 +31436,7 @@ signe O
 de O
 la O
 croix O
-; O
+  O
 n‘approchez O
 pas O
 , O
@@ -31483,7 +31483,7 @@ de O
 voir O
 son O
 visage O
-; O
+  O
 c' O
 est O
 bien O
@@ -31572,7 +31572,7 @@ un O
 |
 | O
 arbre O
-; O
+  O
 elle O
 tremblait O
 de O
@@ -31667,7 +31667,7 @@ enten- O
 |
 | O
 dre B-ORG
-; O
+  O
 le O
 cavalier O
 disparut O
@@ -31998,7 +31998,7 @@ SINON O
 | O
 quelque O
 indulgence O
-; O
+  O
 ce O
 pauvre O
 marquis O
@@ -32626,7 +32626,7 @@ colère O
 à O
 la O
 haine O
-; O
+  O
 il O
 lui O
 répète O
@@ -33125,7 +33125,7 @@ venus O
 de O
 l' O
 armée O
-; O
+  O
 il O
 |
 | O
@@ -33642,7 +33642,7 @@ quelques O
 |
 | O
 minutes O
-; O
+  O
 les O
 deux O
 parcs O
@@ -34445,7 +34445,7 @@ lui O
 , O
 sans O
 douteé O
-; O
+  O
 |
 | O
 il O
@@ -34606,7 +34606,7 @@ ne O
 pas O
 la O
 contrarier O
-; O
+  O
 son O
 |
 
@@ -34812,7 +34812,7 @@ pour O
 cette O
 ridicule O
 scène O
-; O
+  O
 |
 | O
 nous O
@@ -35249,7 +35249,7 @@ que O
 deviennent O
 les O
 hôtes O
-; O
+  O
 mais O
 je O
 vais O
@@ -35912,7 +35912,7 @@ vos O
 |
 | O
 ordres O
-; O
+  O
 mais O
 rappelez O
 -vous O
@@ -36894,7 +36894,7 @@ le O
 roi O
 vingt-quatre O
 heures O
-; O
+  O
 |
 | O
 il O
@@ -36904,7 +36904,7 @@ honorée O
 de O
 ses O
 bontés O
-; O
+  O
 et O
 promptement O
 |
@@ -37216,7 +37216,7 @@ un O
 si O
 furieux O
 coup O
-; O
+  O
 qu' O
 il O
 l' O
@@ -37286,7 +37286,7 @@ il O
 n' O
 existait O
 plus O
-; O
+  O
 de O
 À B-MISC
 la I-MISC
@@ -37383,7 +37383,7 @@ garde O
 |
 | O
 décrire O
-; O
+  O
 elle O
 ne O
 le O
@@ -37445,7 +37445,7 @@ Sis= B-PER
 
 | O
 sone O
-; O
+  O
 ét O
 que O
 . O
@@ -37546,7 +37546,7 @@ On O
 vous O
 cachä O
 tout O
-; O
+  O
 vous O
 crûtes O
 votre O
@@ -37559,7 +37559,7 @@ mort O
 et O
 moi O
 aussi O
-; O
+  O
 sans O
 cela O
 vous O
@@ -37750,12 +37750,12 @@ toutes O
 | O
 les O
 langues O
-; O
+  O
 il O
 exalt O
 votre O
 perfidie O
-; O
+  O
 il O
 vous O
 ap- O
@@ -37787,7 +37787,7 @@ de O
 | O
 ses O
 projets O
-; O
+  O
 il O
 lui O
 représent O
@@ -38555,7 +38555,7 @@ instruits O
 | O
 de O
 narriveée B-PER
-; O
+  O
 voilà O
 pourquoi O
 ils O
@@ -39530,7 +39530,7 @@ comtesse O
 , O
 dit O
 -elle O
-; O
+  O
 j' O
 espère O
 que O
@@ -39846,7 +39846,7 @@ J' O
 ai O
 faith O
 mourir O
-; O
+  O
 c' O
 é- O
 |
@@ -39975,7 +39975,7 @@ projet O
 | O
 « O
 favori O
-; O
+  O
 j' O
 époussi O
 ma O
@@ -40023,7 +40023,7 @@ je O
 ne O
 pouvais O
 aimer O
-; O
+  O
 c' O
 était O
 |
@@ -40055,7 +40055,7 @@ Vous O
 m' O
 aviez O
 oublié O
-; O
+  O
 je O
 ne O
 vous O
@@ -40172,7 +40172,7 @@ ma O
 | O
 « O
 rage O
-; O
+  O
 il O
 fallait O
 me O
@@ -40700,7 +40700,7 @@ la O
 | O
 “ O
 brave O
-; O
+  O
 leurs O
 persécutions O
 ? O
@@ -40912,7 +40912,7 @@ ses O
 |
 | O
 gens O
-; O
+  O
 puis O
 monsieur O
 le O
@@ -41057,7 +41057,7 @@ promenant O
 par O
 la O
 chambre O
-; O
+  O
 s’ O
 ils O
 me O
@@ -41711,7 +41711,7 @@ au O
 |
 | O
 dâtés O
-; O
+  O
 lé B-MISC
 ne O
 Chäre B-MISC
@@ -41760,7 +41760,7 @@ lüi B-LOC
 rendrai O
 , O
 mOi O
-; O
+  O
 ençore O
 |
 
@@ -42148,7 +42148,7 @@ les O
 bras O
 vers O
 lui O
-; O
+  O
 en O
 un O
 clin O
@@ -42473,11 +42473,11 @@ encore O
 | O
 — O
 Oui O
-; O
+  O
 je O
 vos O
 aimé O
-; O
+  O
 ét O
 # O
 mon O
@@ -42499,7 +42499,7 @@ est O
 |
 | O
 odieux O
-; O
+  O
 jé B-PER
 hé I-PER
 cräandräi I-PER
@@ -42526,7 +42526,7 @@ BINON O
 187 O
 |
 | O
-; O
+  O
 4 O
 Et O
 moi O
@@ -43249,7 +43249,7 @@ Nomme O
 |
 
 | O
-; O
+  O
 |
 
 | O
@@ -43317,7 +43317,7 @@ d' O
 hier O
 dure O
 encore O
-; O
+  O
 n' O
 en O
 parlons O
@@ -43485,7 +43485,7 @@ Non O
 j' O
 ai O
 réfléchi O
-; O
+  O
 je O
 ne O
 ferai O
@@ -44268,7 +44268,7 @@ trop O
 éloignée O
 de O
 nous O
-; O
+  O
 à O
 pré- O
 |
@@ -44329,7 +44329,7 @@ oncle O
 madame B-PER
 la I-PER
 comtesse I-PER
-; O
+  O
 un O
 peu O
 plus O
@@ -45705,7 +45705,7 @@ travaux O
 , O
 disait O
 -elle O
-; O
+  O
 on O
 peut O
 regard- O
@@ -45993,7 +45993,7 @@ Je O
 m' O
 en O
 doutais O
-; O
+  O
 mais O
 comment O
 le O
@@ -46039,7 +46039,7 @@ un O
 rôle O
 très O
 éveillé O
-; O
+  O
 |
 | O
 nous O
@@ -46138,7 +46138,7 @@ fâchée O
 pour O
 M. B-PER
 Jouet I-PER
-; O
+  O
 |
 | O
 mais O
@@ -46369,7 +46369,7 @@ _ O
 À O
 la O
 cour O
-; O
+  O
 il O
 n' O
 ira O
@@ -46609,7 +46609,7 @@ hou O
 |
 | O
 reux O
-; O
+  O
 il O
 remercier O
 sa O
@@ -47265,7 +47265,7 @@ serons O
 unis O
 à O
 présent O
-; O
+  O
 par O
 ce O
 n’ O
@@ -47894,7 +47894,7 @@ prince O
 Oui O
 , O
 Madame B-PER
-; O
+  O
 il O
 gère O
 les O
@@ -48079,7 +48079,7 @@ console O
 de O
 l' O
 attente O
-; O
+  O
 mais O
 quand O
 la O
@@ -48100,7 +48100,7 @@ sauve- O
 |
 | O
 noirs O
-; O
+  O
 quand O
 le O
 soir O
@@ -48241,7 +48241,7 @@ cette O
 fenêtre O
 , O
 Louison B-PER
-; O
+  O
 si O
 je O
 puis O
@@ -48423,7 +48423,7 @@ me O
 l' O
 a O
 raconté O
-; O
+  O
 un O
 procès O
 ... O
@@ -48437,7 +48437,7 @@ crois O
 Non O
 , O
 non O
-; O
+  O
 j' O
 ai O
 découvert.cela O
@@ -48499,7 +48499,7 @@ justement O
 cela O
 , O
 Madame B-PER
-; O
+  O
 elle O
 a O
 connu O
@@ -48796,7 +48796,7 @@ pos- O
 | O
 |||| O
 cible O
-; O
+  O
 les O
 hommes O
 ont O
@@ -48902,7 +48902,7 @@ l' O
 heure O
 du O
 souper O
-; O
+  O
 Madame B-PER
 ne O
 va- O
@@ -48917,7 +48917,7 @@ descendre O
 | O
 |||| O
 Oui O
-; O
+  O
 je O
 voudrais O
 que O
@@ -49140,7 +49140,7 @@ air O
 dans O
 le O
 pavillon O
-; O
+  O
 cela O
 vous O
 fera O
@@ -49289,7 +49289,7 @@ discrète O
 |
 | O
 confidente O
-; O
+  O
 ils O
 se O
 trouvèrent O
@@ -49494,7 +49494,7 @@ n' O
 en O
 sais O
 rien O
-; O
+  O
 je O
 vous O
 aime O
@@ -50177,7 +50177,7 @@ toutes O
 ses O
 facultés O
 réunies O
-; O
+  O
 malgré O
 ses O
 vingt-cinq O
@@ -51693,7 +51693,7 @@ parait O
 belle O
 et O
 enviable O
-; O
+  O
 gloire O
 , O
 |
@@ -51869,7 +51869,7 @@ bon- O
 |
 | O
 heur O
-; O
+  O
 . O
 madame B-PER
 de I-PER
@@ -52175,7 +52175,7 @@ plai- O
 |
 | O
 sir O
-; O
+  O
 mais O
 je O
 suis O
@@ -52786,7 +52786,7 @@ conduire I-MISC
 à I-MISC
 la I-MISC
 cour I-MISC
-; O
+  O
 mon O
 mari O
 ne O
@@ -53302,7 +53302,7 @@ a O
 confié O
 en O
 partant O
-; O
+  O
 et O
 |
 | O
@@ -53496,7 +53496,7 @@ des O
 mensonges O
 , O
 Louison B-PER
-; O
+  O
 quelle O
 |
 | O
@@ -53526,7 +53526,7 @@ irons O
 à O
 la O
 cour O
-; O
+  O
 tu O
 verras O
 . O
@@ -54423,7 +54423,7 @@ un O
 assaut O
 à O
 soutenir O
-; O
+  O
 elle O
 |
 | O
@@ -54571,7 +54571,7 @@ se O
 promenaient O
 en O
 silence O
-; O
+  O
 ils O
 étaient O
 visible- O
@@ -54790,7 +54790,7 @@ farouches O
 sur O
 sa O
 belle-fille' O
-; O
+  O
 il O
 se O
 conte- O
@@ -55631,7 +55631,7 @@ devez O
 vous O
 - O
 même O
-; O
+  O
 je O
 vous O
 le O
@@ -55988,7 +55988,7 @@ Albret I-PER
 à O
 la O
 cour O
-; O
+  O
 c' O
 est O
 encore O
@@ -56016,7 +56016,7 @@ il O
 n' O
 existait O
 plus O
-; O
+  O
 cette O
 même O
 vanité O
@@ -56163,7 +56163,7 @@ menti O
 à O
 votre O
 colère O
-; O
+  O
 la O
 voilà O
 |
@@ -56896,7 +56896,7 @@ vous O
 l' O
 ai O
 déjà O
-; O
+  O
 dit O
 , O
 |
@@ -57381,7 +57381,7 @@ cet O
 — O
 Fort O
 bien O
-; O
+  O
 on O
 renouvelle O
 les O
@@ -57643,7 +57643,7 @@ appartement O
 elle O
 y O
 restera O
-; O
+  O
 il O
 faudra O
 |
@@ -57735,7 +57735,7 @@ mais O
 |||| O
 sele O
 verrai O
-; O
+  O
 car O
 , O
 je O
@@ -57809,7 +57809,7 @@ serrant O
 | O
 les O
 meurtri O
-; O
+  O
 elle O
 né O
 sourcilla O
@@ -58602,7 +58602,7 @@ véfait O
 de O
 se O
 passer O
-; O
+  O
 et O
 toutes O
 deux O
@@ -58644,7 +58644,7 @@ a O
 vue O
 ni O
 ici O
-; O
+  O
 ni O
 à O
 Corey B-LOC
@@ -58657,7 +58657,7 @@ Et O
 madame B-PER
 de I-PER
 Corey I-PER
-; O
+  O
 dont O
 ils O
 ignorent O
@@ -58718,7 +58718,7 @@ est O
 impossible O
 , O
 Mädainé B-PER
-; O
+  O
 madame B-PER
 de I-PER
 |
@@ -59067,7 +59067,7 @@ du O
 |
 
 | O
-; O
+  O
 |
 
 | O
@@ -59524,7 +59524,7 @@ Louison B-PER
 Dien B-LOC
 les O
 fêtes O
-; O
+  O
 les O
 hommages O
 , O
@@ -61266,7 +61266,7 @@ très O
 |
 | O
 le O
-; O
+  O
 d O
 ' O
 ‘ O
@@ -61885,7 +61885,7 @@ Son O
 air O
 était O
 grave O
-; O
+  O
 elle O
 prit O
 plus O
@@ -61910,7 +61910,7 @@ garde O
 , O
 dit O
 elle O
-; O
+  O
 nous O
 sommes O
 sur- O
@@ -62204,7 +62204,7 @@ lettre O
 je O
 le O
 crains O
-; O
+  O
 ils O
 sâvéet O
 |
@@ -62441,7 +62441,7 @@ ma O
 pudeur O
 de O
 femme O
-; O
+  O
 mais O
 puisqu' O
 on O
@@ -62852,7 +62852,7 @@ J' O
 y O
 consent O
 volontiers O
-; O
+  O
 aussi O
 bien O
 l' O
@@ -62864,7 +62864,7 @@ cette O
 chambre O
 m' O
 étouffe O
-; O
+  O
 j O
 ai O
 besoin O
@@ -62996,7 +62996,7 @@ tion O
 Non O
 , O
 Madame B-PER
-; O
+  O
 cela O
 ne O
 m' O
@@ -63175,7 +63175,7 @@ la O
 comtesse O
 avec O
 hauteur O
-; O
+  O
 je O
 suis O
 à O
@@ -63418,7 +63418,7 @@ donc O
 avec O
 le O
 comte O
-; O
+  O
 mais O
 astucieuse O
 dans O
@@ -63949,7 +63949,7 @@ desseins O
 Je O
 vous O
 déteste O
-; O
+  O
 à O
 |
 
@@ -64088,7 +64088,7 @@ la O
 | O
 risée O
 publique O
-; O
+  O
 je O
 vous O
 montrera O
@@ -64722,7 +64722,7 @@ la O
 Croix B-LOC
 - I-LOC
 Blanche I-LOC
-; O
+  O
 , O
 avec O
 son O
@@ -65442,7 +65442,7 @@ transports O
 de O
 joie O
 infinis O
-; O
+  O
 ce O
 fut O
 après O
@@ -66195,7 +66195,7 @@ madame B-PER
 | I-PER
 de I-PER
 Lameth I-PER
-; O
+  O
 nous O
 ne O
 laisserons O
@@ -66503,7 +66503,7 @@ donner O
 que O
 cette O
 soirée O
-; O
+  O
 |
 
 | O
@@ -66897,7 +66897,7 @@ madame B-PER
 | I-PER
 de I-PER
 Lameth I-PER
-; O
+  O
 c' O
 était O
 un O
@@ -66947,7 +66947,7 @@ SINON O
 rie O
 , O
 Monsieur B-PER
-; O
+  O
 un O
 homme O
 assez O
@@ -67024,7 +67024,7 @@ votre O
 mari O
 , O
 Madame B-PER
-; O
+  O
 cela O
 n’ O
 est O
@@ -67604,7 +67604,7 @@ point O
 songé O
 à O
 cela O
-; O
+  O
 dans O
 tous O
 les O
@@ -67722,7 +67722,7 @@ jeté O
 sur O
 un O
 lit O
-; O
+  O
 |
 | O
 son O
@@ -68110,7 +68110,7 @@ l' O
 argent O
 et O
 sortit O
-; O
+  O
 quel- O
 |
 
@@ -69314,7 +69314,7 @@ habi- O
 |
 | O
 tude O
-; O
+  O
 c' O
 est O
 devenu O
@@ -69373,7 +69373,7 @@ sa O
 maison O
 , O
 Madame B-PER
-; O
+  O
 nous O
 |
 | O
@@ -70804,7 +70804,7 @@ passe O
 et O
 il O
 pèse O
-; O
+  O
 je O
 souffre O
 , O
@@ -70840,7 +70840,7 @@ Inconséquence B-MISC
 funeste I-MISC
 des I-MISC
 passions I-MISC
-; O
+  O
 c' O
 est O
 |
@@ -70876,7 +70876,7 @@ brise O
 quelquefois O
 notre O
 avenir O
-; O
+  O
 |
 
 | O
@@ -71100,7 +71100,7 @@ espace O
 et O
 les O
 minutes O
-; O
+  O
 elle O
 vécut O
 |
@@ -71332,7 +71332,7 @@ peut O
 revenir O
 cette O
 nuit O
-; O
+  O
 mon- O
 |
 | O
@@ -71363,7 +71363,7 @@ non O
 Dieu B-MISC
 nous O
 protège O
-; O
+  O
 notre O
 cause O
 |
@@ -71414,7 +71414,7 @@ chevaux O
 — O
 Sans O
 doute O
-; O
+  O
 comme O
 nous O
 en O
@@ -71491,7 +71491,7 @@ la O
 route O
 d' O
 Anizy B-LOC
-; O
+  O
 déjà O
 le O
 |
@@ -71713,7 +71713,7 @@ entendit O
 de O
 sa O
 croisée O
-; O
+  O
 elle O
 mit O
 la O
@@ -71791,7 +71791,7 @@ qui O
 brûle O
 le O
 sang O
-; O
+  O
 le O
 |
 | O
@@ -71850,7 +71850,7 @@ château O
 Lambert B-PER
 siffia I-PER
 doucement O
-; O
+  O
 il O
 était O
 |
@@ -71922,7 +71922,7 @@ sont O
 | O
 pas O
 couchés O
-; O
+  O
 s' O
 ils O
 nous O
@@ -72154,7 +72154,7 @@ qui O
 longe O
 la O
 voûte O
-; O
+  O
 de O
 là O
 , O
@@ -72165,7 +72165,7 @@ serez O
 dans O
 la O
 cour O
-; O
+  O
 vous O
 connaissez O
 le O
@@ -72272,7 +72272,7 @@ danger O
 le O
 plus O
 pressant O
-; O
+  O
 une O
 fois O
 sous O
@@ -72670,7 +72670,7 @@ toujours O
 sans O
 se O
 retourner O
-; O
+  O
 à O
 quelque O
 |
@@ -72762,7 +72762,7 @@ trouvèrent O
 autour O
 de O
 lui O
-; O
+  O
 on O
 tira O
 un O
@@ -72976,7 +72976,7 @@ assez O
 tranquillement O
 quelques O
 minutes O
-; O
+  O
 lorsqu' O
 elles O
 |
@@ -73417,7 +73417,7 @@ cordes- O
 |
 | O
 pendance O
-; O
+  O
 c' O
 est O
 résolu O
@@ -73466,7 +73466,7 @@ son O
 | O
 aspect O
 ordinaire O
-; O
+  O
 seulement O
 , O
 elle O
@@ -73955,7 +73955,7 @@ le O
 |
 | O
 voir O
-; O
+  O
 |
 
 | O

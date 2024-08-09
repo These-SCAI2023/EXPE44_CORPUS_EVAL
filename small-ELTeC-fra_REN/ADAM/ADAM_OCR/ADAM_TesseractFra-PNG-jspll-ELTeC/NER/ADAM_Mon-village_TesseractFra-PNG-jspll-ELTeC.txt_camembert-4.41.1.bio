@@ -168,7 +168,7 @@ Médor B-PER
 Carrière—Fondue B-LOC
 VILLAGE B-MISC
 une B-DATE
-heure; I-DATE
+heure  I-DATE
 deux I-DATE
 heures I-DATE
 finot B-PER
@@ -276,7 +276,7 @@ vmmcn._ I-LOC
 J B-PER
 LA,ROSE B-LOC
 Base B-LOC
-A;rtaban B-LOC
+A rtaban B-LOC
 Norine B-PER
 Plai— B-PER
 saint I-PER
@@ -617,7 +617,7 @@ M“° B-PER
 Doro I-PER
 J B-PER
 ‘AH B-PER
-J.;-Je I-PER
+J. -Je I-PER
 Jean—Claude B-PER
 , B-DATE
 139112 I-DATE
@@ -1199,7 +1199,7 @@ Gaspard B-PER
 Jacäüélifi B-PER
 Gaspard B-PER
 Jacqueline B-PER
-Bou; B-PER
+Bou  B-PER
 dimanche B-DATE
 dimanche B-DATE
 Clarisse B-PER

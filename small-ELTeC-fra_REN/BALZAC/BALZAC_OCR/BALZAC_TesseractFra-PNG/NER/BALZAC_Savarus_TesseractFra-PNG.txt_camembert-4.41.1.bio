@@ -1491,7 +1491,7 @@ Fran B-PER
 l B-PER
 'Ombre B-MISC
 Francesca B-PER
-Cettc;Qrondfinr B-MISC
+Cettc Qrondfinr B-MISC
 Rodolphe B-PER
 Française B-LOC
 Rodolpheles B-PER
@@ -4630,7 +4630,7 @@ de I-PER
 Vandenesse I-PER
 320 I-PER
 DE I-PER
-BALZAC; I-PER
+BALZAC  I-PER
 1111 B-DATE
 madame B-PER
 de I-PER
@@ -6190,7 +6190,7 @@ jours I-DATE
 après I-DATE
 jours B-DATE
 après I-DATE
-; B-DATE
+  B-DATE
 mars I-DATE
 Tn— B-LOC
 bunal I-LOC
@@ -6659,8 +6659,8 @@ Du B-PER
 Tillet I-PER
 du B-PER
 Tillet I-PER
-;Gigonnet B-PER
-;Gigonnet B-PER
+ Gigonnet B-PER
+ Gigonnet B-PER
 du B-PER
 Tillet I-PER
 Madame B-PER

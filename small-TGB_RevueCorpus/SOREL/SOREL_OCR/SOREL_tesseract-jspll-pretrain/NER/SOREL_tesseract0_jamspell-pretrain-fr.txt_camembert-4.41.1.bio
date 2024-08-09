@@ -446,7 +446,7 @@ le B-DATE
 20 I-DATE
 juin I-DATE
 Tuileries B-LOC
-; B-DATE
+  B-DATE
 le I-DATE
 40 I-DATE
 août I-DATE
@@ -553,7 +553,7 @@ Compiègne B-LOC
 Quatre B-DATE
 jours I-DATE
 après I-DATE
-; B-DATE
+  B-DATE
 l'an I-DATE
 II I-DATE
 Republique B-LOC

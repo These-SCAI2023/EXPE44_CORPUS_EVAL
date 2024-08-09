@@ -61,7 +61,7 @@ Premières B-LOC
 ul I-DATE
 L'ÉDUCATION B-MISC
 SENTIMENTALE I-MISC
-; B-DATE
+  B-DATE
 un I-DATE
 jour I-DATE
 Frédéric B-PER
@@ -1518,7 +1518,7 @@ AH I-MISC
 J I-MISC
 l'année B-DATE
 dernière I-DATE
-; B-DATE
+  B-DATE
 maintenant I-DATE
 Hussonnet B-PER
 Dussardier B-PER
@@ -6201,7 +6201,7 @@ M. B-PER
 des I-PER
 Aulnays I-PER
 Joseph B-PER
-; I-PER
+  I-PER
 le B-PER
 Précepteur I-PER
 Forchambeaux B-PER
@@ -6243,7 +6243,7 @@ Frédéric B-PER
 Baron B-PER
 M. B-PER
 Joseph I-PER
-Regimbart;». B-PER
+Regimbart ». B-PER
 d'Arnoux B-PER
 Frédéric B-PER
 Vicomte B-PER

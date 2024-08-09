@@ -175,7 +175,7 @@ Médor B-PER
 Carrière—Fondue B-LOC
 VILLAGE B-MISC
 une B-DATE
-heure; I-DATE
+heure  I-DATE
 deux I-DATE
 heures I-DATE
 père B-PER
@@ -258,7 +258,7 @@ emmen._ I-LOC
 { B-LOC
 LA,ROSE I-LOC
 Base B-LOC
-A;rtaban B-LOC
+A rtaban B-LOC
 Norine B-PER
 monsieur B-PER
 Plai I-PER
@@ -494,7 +494,7 @@ Céran I-PER
 M B-PER
 Céran B-PER
 Le B-LOC
-*—;JÆr—V"'Wfiw—Wær B-PER
+*— JÆr—V"'Wfiw—Wær B-PER
 ILL B-LOC
 M. B-PER
 Céran I-PER
@@ -519,7 +519,7 @@ Toinen B-PER
 Vaise B-PER
 Maé B-PER
 Maé B-PER
-“B; B-PER
+“B  B-PER
 la. I-PER
 Rose I-PER
 . B-PER
@@ -1093,7 +1093,7 @@ Gaspard B-PER
 Jacäüélifiê‘j B-PER
 Gaspard B-PER
 Jacqueline B-PER
-Ou; B-PER
+Ou  B-PER
 dimanche B-DATE
 Clarisse B-PER
 Manet I-PER

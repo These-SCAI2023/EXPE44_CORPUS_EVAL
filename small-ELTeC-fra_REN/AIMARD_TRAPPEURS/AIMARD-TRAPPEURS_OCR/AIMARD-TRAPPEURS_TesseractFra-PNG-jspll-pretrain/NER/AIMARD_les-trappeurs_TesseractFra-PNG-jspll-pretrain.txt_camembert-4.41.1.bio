@@ -4501,7 +4501,7 @@ jours I-DATE
 Gymnase B-LOC
 Tête B-LOC
 d’Aigle I-LOC
-l‘A; B-LOC
+l‘A  B-LOC
 un B-DATE
 jour I-DATE
 aujourd’hui B-DATE
@@ -4519,7 +4519,7 @@ ANDBBSBN B-PER
 la B-MISC
 Vie I-MISC
 en I-MISC
-Italie; I-MISC
+Italie  I-MISC
 tradition I-MISC
 Danois I-MISC
 nn B-PER
@@ -4608,7 +4608,7 @@ Le B-PER
 M I-PER
 réchal I-PER
 de I-PER
-B;che I-PER
+B che I-PER
 Louis B-PER
 XVI I-PER
 l’Eglise B-MISC

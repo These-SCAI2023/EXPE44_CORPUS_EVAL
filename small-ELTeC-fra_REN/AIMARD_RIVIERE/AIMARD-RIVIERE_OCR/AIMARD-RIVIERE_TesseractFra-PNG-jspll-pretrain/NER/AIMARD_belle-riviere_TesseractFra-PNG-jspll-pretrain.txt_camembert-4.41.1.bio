@@ -2980,7 +2980,7 @@ comte B-PER
 de I-PER
 Commerce I-PER
 Paris B-LOC
-; B-DATE
+  B-DATE
 un I-DATE
 mois I-DATE
 après I-DATE
@@ -4936,7 +4936,7 @@ madame B-PER
 de I-PER
 Malleval I-PER
 Peaux- B-MISC
-; I-MISC
+  I-MISC
 Rouges I-MISC
 Léona B-PER
 Français B-MISC
@@ -5390,7 +5390,7 @@ L‘Angle—Volant B-PER
 Opossum B-PER
 Gel1—m B-PER
 l’Aigle—Volant B-PER
-;Wfiwüçwwwflmî B-PER
+ Wfiwüçwwwflmî B-PER
 M B-PER
 —..._Vu B-LOC
 LA B-LOC

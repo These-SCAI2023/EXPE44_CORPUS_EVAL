@@ -421,7 +421,7 @@ Pierre B-PER
 AIr0m B-PER
 N0UYELLE B-LOC
 ESPEnRANCE I-LOC
-Jer0m; B-PER
+Jer0m  B-PER
 Henri I-PER
 Pierre B-PER
 Pierre B-PER
@@ -518,7 +518,7 @@ Comite B-ORG
 d'une I-ORG
 Societe I-ORG
 scienti I-ORG
-J; B-PER
+J  B-PER
 Philippe I-PER
 Forbier I-PER
 Sabine B-PER
@@ -3364,7 +3364,7 @@ de I-PER
 Rozee I-PER
 un B-DATE
 jour I-DATE
-G:;auan B-PER
+G: auan B-PER
 LA B-MISC
 NOUvELLE I-MISC
 ESPiRANCE I-MISC

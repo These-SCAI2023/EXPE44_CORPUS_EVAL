@@ -1520,7 +1520,7 @@ Rodolphe B-PER
 Fran B-PER
 l'Ombre B-MISC
 Francesca B-PER
-Cettc;Froidfinr B-PER
+Cettc Froidfinr B-PER
 _ I-PER
 mp B-PER
 Rodolphe B-PER
@@ -2705,7 +2705,7 @@ un B-DATE
 jour I-DATE
 à I-DATE
 pLus B-MISC
-tArd;possible I-MISC
+tArd possible I-MISC
 Je B-MISC
 L?espère I-MISC
 Rooney B-PER
@@ -4676,7 +4676,7 @@ de I-PER
 Vandenesse I-PER
 320 I-PER
 DE I-PER
-BALZAC; I-PER
+BALZAC  I-PER
 1111 B-DATE
 madame B-PER
 de I-PER
@@ -4981,7 +4981,7 @@ Blondel I-PER
 Lady B-PER
 Dudley I-PER
 Raoul B-PER
-Blondel; B-PER
+Blondel  B-PER
 Rastignac B-PER
 étaire B-ORG
 d I-ORG
@@ -6759,7 +6759,7 @@ Du B-PER
 Tillet I-PER
 du B-PER
 Tillet I-PER
-;Gigonnet B-PER
+ Gigonnet B-PER
 du B-PER
 Tillet I-PER
 Madame B-PER

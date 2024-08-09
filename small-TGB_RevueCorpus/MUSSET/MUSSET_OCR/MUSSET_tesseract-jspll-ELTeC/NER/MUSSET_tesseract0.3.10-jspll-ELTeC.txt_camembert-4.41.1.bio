@@ -1035,7 +1035,7 @@ ENFANT I-MISC
 SI B-MISC
 CLE B-MISC
 un B-DATE
-an; I-DATE
+an  I-DATE
 V B-PER
 J I-PER
 À I-PER
@@ -4381,7 +4381,7 @@ dit I-MISC
 rién I-MISC
 à I-MISC
 madame I-MISC
-; B-PER
+  B-PER
 Personne. I-PER
 Smith I-PER
 Bob B-PER

@@ -85,7 +85,7 @@ entant O
 118651 O
 Alphonse B-PER
 Daudet I-PER
-; O
+  O
 iluistrations O
 de O
 Adrien B-PER
@@ -1033,7 +1033,7 @@ de O
 quarante O
 mille O
 francs O
-; O
+  O
 si O
 bien O
 que O
@@ -1220,7 +1220,7 @@ que O
 d' O
 une O
 dile O
-; O
+  O
 |
 | O
 petit O
@@ -2124,7 +2124,7 @@ Wl B-LOC
 . O
 Fyssette O
 malhcureux O
-; O
+  O
 l' O
 abbé B-ORG
 et O
@@ -2670,7 +2670,7 @@ appelais O
 pas O
 Daniel B-PER
 fyssette I-PER
-; O
+  O
 |
 | O
 J' B-MISC
@@ -3249,7 +3249,7 @@ plus O
 jouer O
 avec O
 Rouget B-PER
-; O
+  O
 je O
 savais O
 mainte- O
@@ -3430,7 +3430,7 @@ du O
 coté O
 des O
 ateliers O
-; O
+  O
 il O
 sc O
 tenait O
@@ -3619,7 +3619,7 @@ ma O
 résidence O
 d' O
 hiver O
-; O
+  O
 et O
 |
 | O
@@ -4437,7 +4437,7 @@ Eyssette B-LOC
 avait O
 tout O
 vendu O
-; O
+  O
 |
 | O
 il O
@@ -4529,7 +4529,7 @@ Come B-MISC
 d O
 des O
 personnes O
-; O
+  O
 je O
 disais O
 aun O
@@ -5316,7 +5316,7 @@ disdis O
 -je O
 dans O
 moimeine O
-; O
+  O
 et O
 |
 | O
@@ -5352,7 +5352,7 @@ s' O
 était O
 assombri O
 subitement O
-; O
+  O
 un O
 brouillard O
 épais O
@@ -5510,7 +5510,7 @@ cherchaient O
 | O
 leurs O
 malles O
-; O
+  O
 les O
 matelots O
 jursient O
@@ -5782,7 +5782,7 @@ mon O
 Dicus O
 m' O
 écridije O
-; O
+  O
 et O
 j' O
 essayai O
@@ -5797,7 +5797,7 @@ celle O
 de O
 mon O
 père B-PER
-; O
+  O
 lui O
 croyant O
 que O
@@ -6173,7 +6173,7 @@ de O
 ces O
 vilaines O
 bé̂tes O
-; O
+  O
 il O
 y O
 en O
@@ -6330,7 +6330,7 @@ prendre O
 des O
 habitudes O
 nouvclles O
-; O
+  O
 les O
 |
 | O
@@ -6515,7 +6515,7 @@ mc B-PER
 tendis O
 toujours O
 derrière O
-; O
+  O
 je O
 ne O
 sais O
@@ -7129,7 +7129,7 @@ dinx O
 minutcs O
 se O
 passent O
-; O
+  O
 Jacques B-PER
 ne O
 revient O
@@ -8692,7 +8692,7 @@ de O
 |
 | O
 blouses O
-; O
+  O
 il O
 n' O
 y O
@@ -9300,7 +9300,7 @@ chambre O
 s' O
 ouvrait O
 doucemnent O
-; O
+  O
 |
 | O
 Cc' B-LOC
@@ -9707,7 +9707,7 @@ Baint- B-ORG
 Pivier B-LOC
 a O
 diner O
-; O
+  O
 je O
 savais O
 par O
@@ -9877,7 +9877,7 @@ abbé B-ORG
 était O
 au O
 lit O
-; O
+  O
 tu O
 connais O
 ta O
@@ -10680,7 +10680,7 @@ lampes O
 de O
 l' O
 escalier O
-; O
+  O
 ensuite O
 il O
 ferma O
@@ -12219,7 +12219,7 @@ dans O
 la O
 muaison B-PER
 Fyssette I-PER
-; O
+  O
 ce O
 fut O
 un O
@@ -13081,7 +13081,7 @@ reste O
 n' O
 est O
 rien O
-; O
+  O
 ce O
 n' O
 est O
@@ -13135,7 +13135,7 @@ ont O
 | O
 leurs O
 destinées O
-; O
+  O
 il O
 parait O
 que O
@@ -13952,7 +13952,7 @@ reconstruire O
 | O
 notre O
 fortune O
-; O
+  O
 mais O
 le O
 démon O
@@ -15256,7 +15256,7 @@ Chose B-PER
 était O
 ridiculement O
 petit O
-; O
+  O
 et O
 puis O
 l' O
@@ -16786,7 +16786,7 @@ Md B-LOC
 
 | O
 1.a O
-; O
+  O
 |
 | O
 D O
@@ -21120,7 +21120,7 @@ court O
 a O
 S2 B-MISC
 cuisine O
-; O
+  O
 Jean B-PER
 leyrol I-PER
 se O
@@ -21452,7 +21452,7 @@ mange O
 il O
 s' O
 anime O
-; O
+  O
 ses O
 yeux O
 brillent O
@@ -21617,7 +21617,7 @@ petit O
 Chose B-PER
 s' O
 excuse O
-; O
+  O
 il O
 a O
 quelquun O
@@ -21998,7 +21998,7 @@ dépèche O
 , O
 se O
 dépé̀che O
-; O
+  O
 mais O
 , O
 arrivé O
@@ -22171,7 +22171,7 @@ iage I-PER
 depuis O
 le O
 matin O
-; O
+  O
 |
 | O
 et O
@@ -23216,7 +23216,7 @@ cut O
 unc O
 peur O
 terrible O
-; O
+  O
 il O
 se O
 voyait O
@@ -23764,7 +23764,7 @@ volontiers O
 de O
 ses O
 conseils O
-; O
+  O
 mais O
 |
 | O
@@ -23873,7 +23873,7 @@ Jusqu' O
 a O
 la O
 porte O
-; O
+  O
 mais O
 , O
 avant O
@@ -24121,7 +24121,7 @@ l2 O
 moitie O
 du O
 visage O
-; O
+  O
 l' O
 autre O
 , O
@@ -24556,7 +24556,7 @@ l' O
 épouvantait O
 a O
 présent O
-; O
+  O
 , O
 il O
 se O
@@ -24786,7 +24786,7 @@ étude O
 envers O
 ses O
 supérieurs O
-; O
+  O
 |
 | O
 20 B-MISC
@@ -24839,7 +24839,7 @@ temmps I-PER
 a O
 l' O
 étude O
-; O
+  O
 tous O
 les O
 détails O
@@ -24902,7 +24902,7 @@ utilite O
 du O
 reglement O
 luimeme O
-; O
+  O
 mais O
 , O
 malgré O
@@ -25010,7 +25010,7 @@ me O
 réveillait O
 en O
 sursaut O
-; O
+  O
 d' O
 autres O
 |
@@ -25712,7 +25712,7 @@ adieu O
 au O
 calé O
 Barbette B-PER
-; O
+  O
 je O
 veux O
 que O
@@ -26690,7 +26690,7 @@ éleves O
 a O
 l' O
 étude O
-; O
+  O
 des O
 qu' O
 ils O
@@ -26882,7 +26882,7 @@ de O
 derrière O
 les O
 pupitres O
-; O
+  O
 toutes O
 les O
 barbes O
@@ -29326,7 +29326,7 @@ Aor3 B-MISC
 S I-MISC
 & I-MISC
 amp I-MISC
-; O
+  O
 M B-PER
 e O
 | | O
@@ -32120,7 +32120,7 @@ n' O
 étaient O
 pas O
 méchants O
-; O
+  O
 cétaient O
 les O
 autres O
@@ -33252,7 +33252,7 @@ ćtage O
 sous O
 les O
 combles O
-; O
+  O
 c' O
 est O
 la O
@@ -36052,7 +36052,7 @@ partie O
 d' O
 aucune O
 classe O
-; O
+  O
 en O
 général O
 , O
@@ -36753,7 +36753,7 @@ ennemi O
 , O
 le B-MISC
 Pion I-MISC
-; O
+  O
 et O
 du O
 jour O
@@ -37435,7 +37435,7 @@ sur O
 une O
 Couture B-LOC
 interminable O
-; O
+  O
 |
 | O
 car O
@@ -38328,7 +38328,7 @@ qu' O
 on O
 le O
 lise O
-; O
+  O
 c' O
 est O
 un O
@@ -40979,7 +40979,7 @@ moineauy B-PER
 cst I-PER
 en O
 féte B-PER
-; O
+  O
 |
 | O
 Ces O
@@ -41314,7 +41314,7 @@ fait O
 un O
 rève O
 singulier O
-; O
+  O
 il O
 lui O
 semble O
@@ -42775,7 +42775,7 @@ le O
 soleil O
 fait O
 reluire O
-; O
+  O
 le O
 soir O
 , O
@@ -43165,7 +43165,7 @@ dont O
 il O
 s' O
 agit O
-; O
+  O
 ils O
 sont O
 si O
@@ -43419,7 +43419,7 @@ main O
 Son O
 caeur O
 bat O
-; O
+  O
 |
 | O
 GI B-ORG
@@ -44039,7 +44039,7 @@ sent O
 l' O
 amne O
 triste O
-; O
+  O
 l' O
 orque O
 lui O
@@ -44907,7 +44907,7 @@ ou O
 Reurit B-MISC
 le O
 teglement O
-; O
+  O
 l' O
 élève B-MISC
 Dorilas I-MISC
@@ -45597,7 +45597,7 @@ CHOSE I-PER
 j' I-PER
 etais I-PER
 aigri O
-; O
+  O
 la O
 maladie O
 m' O
@@ -45606,7 +45606,7 @@ rendu O
 nerveus B-PER
 et O
 irritable O
-; O
+  O
 je O
 ne O
 |
@@ -46701,7 +46701,7 @@ autre O
 sur O
 le O
 marquis O
-; O
+  O
 ct O
 alors O
 , O
@@ -46771,7 +46771,7 @@ affaire O
 d' O
 une O
 seconde O
-; O
+  O
 je O
 ne O
 mne O
@@ -47882,7 +47882,7 @@ eté O
 chassé B-MISC
 du O
 college O
-; O
+  O
 et O
 alors O
 oit O
@@ -48170,7 +48170,7 @@ fremis- O
 |
 | O
 saient O
-; O
+  O
 , O
 les O
 vicilles O
@@ -48225,7 +48225,7 @@ le O
 principal O
 était O
 furicun B-PER
-; O
+  O
 ct O
 , O
 s' O
@@ -48618,7 +48618,7 @@ et O
 de O
 le O
 provoquer O
-; O
+  O
 |
 | O
 mais O
@@ -48736,7 +48736,7 @@ quand O
 j' O
 eus O
 hni O
-; O
+  O
 |
 | O
 il O
@@ -50330,7 +50330,7 @@ en O
 parle O
 en O
 riant O
-; O
+  O
 , O
 mais O
 a O
@@ -50481,7 +50481,7 @@ pour O
 mon O
 propre O
 compte O
-; O
+  O
 je O
 templissais O
 mes O
@@ -52003,7 +52003,7 @@ pas O
 toujours O
 du O
 brouillard O
-; O
+  O
 il O
 pleut O
 bien O
@@ -52522,7 +52522,7 @@ tiendrons O
 deux O
 au O
 besoin O
-; O
+  O
 ct O
 puis O
 , O
@@ -53139,7 +53139,7 @@ instant O
 pour O
 reprendre O
 haleine O
-; O
+  O
 je O
 rajustai O
 mnd O
@@ -53518,7 +53518,7 @@ cessait O
 pas O
 de O
 sourire O
-; O
+  O
 il O
 prit O
 sur O
@@ -54216,7 +54216,7 @@ mouchoir O
 Roger B-PER
 m' O
 attendait O
-; O
+  O
 il O
 avait O
 l' O
@@ -54429,7 +54429,7 @@ une O
 |
 | O
 woiture O
-; O
+  O
 c' O
 était O
 le O
@@ -54598,7 +54598,7 @@ pas O
 scul O
 au O
 monde O
-; O
+  O
 il O
 a O
 quelque O
@@ -54798,7 +54798,7 @@ dire O
 |
 | O
 dégradé B-LOC
-; O
+  O
 une O
 heure O
 apres O
@@ -55477,7 +55477,7 @@ mangedi O
 vite O
 et O
 bien O
-; O
+  O
 dans O
 la O
 cour O
@@ -56540,7 +56540,7 @@ etre O
 méchants O
 et O
 laches O
-; O
+  O
 |
 | O
 cc' O
@@ -57221,7 +57221,7 @@ nuit O
 tombait O
 , O
 silencicuse O
-; O
+  O
 et O
 cet O
 immense O
@@ -57258,7 +57258,7 @@ comme O
 un O
 cabri O
 blessé O
-; O
+  O
 et O
 si O
 les O
@@ -57766,7 +57766,7 @@ de O
 l' O
 étude O
 redouble O
-; O
+  O
 le O
 petit O
 Chose B-PER
@@ -58905,7 +58905,7 @@ le O
 suicidé O
 par O
 terre O
-; O
+  O
 de O
 l' O
 autre O
@@ -60625,7 +60625,7 @@ autour O
 de O
 sd B-MISC
 chambre O
-; O
+  O
 |
 | O
 je O
@@ -61487,7 +61487,7 @@ était O
 plein O
 de O
 monde O
-; O
+  O
 c' O
 était O
 jour O
@@ -62271,7 +62271,7 @@ sorte O
 de O
 terreur O
 religieuse O
-; O
+  O
 |
 | O
 puis O
@@ -63342,7 +63342,7 @@ avait O
 l' O
 air O
 génée O
-; O
+  O
 elle O
 parlait O
 |
@@ -63421,7 +63421,7 @@ oui O
 La O
 tante O
 respird O
-; O
+  O
 clle O
 avait O
 tremblé B-MISC
@@ -73216,7 +73216,7 @@ voyage O
 fut O
 donc O
 décidé B-LOC
-; O
+  O
 sculement O
 je O
 |
@@ -73512,7 +73512,7 @@ Mloi B-MISC
 , O
 je O
 lignordis O
-; O
+  O
 et O
 j' O
 étais O
@@ -75353,7 +75353,7 @@ matin O
 d O
 huit O
 heures O
-; O
+  O
 il O
 apporte O
 son O
@@ -75818,7 +75818,7 @@ j' O
 apporte O
 mon O
 déjeuner O
-; O
+  O
 et O
 t O
 |
@@ -82141,7 +82141,7 @@ braquait O
 sur O
 moi O
 curicuscment O
-; O
+  O
 et O
 , O
 quand O
@@ -83277,7 +83277,7 @@ Cette I-MISC
 menace I-MISC
 me O
 décide O
-; O
+  O
 je O
 commence O
 ma O
@@ -83444,7 +83444,7 @@ étire O
 en O
 nous O
 regardant O
-; O
+  O
 il O
 a O
 l' O
@@ -83742,7 +83742,7 @@ essaye O
 encore O
 quelques O
 objections O
-; O
+  O
 mais O
 Jacques B-PER
 a O
@@ -84541,7 +84541,7 @@ remonter O
 dans O
 le O
 clocher O
-; O
+  O
 et O
 tandis O
 que O
@@ -85038,7 +85038,7 @@ gambader O
 dans O
 la O
 chambre O
-; O
+  O
 |
 | O
 puis O
@@ -85220,7 +85220,7 @@ s O
 francs O
 de O
 bougie O
-; O
+  O
 |
 | O
 et O
@@ -85462,7 +85462,7 @@ Wlaintenant B-PER
 il O
 est O
 tard O
-; O
+  O
 allons O
 nous O
 |
@@ -95366,7 +95366,7 @@ parler O
 de O
 nos O
 montagnards O
-; O
+  O
 |
 | O
 puis O
@@ -95770,7 +95770,7 @@ accepter O
 de O
 pareilles O
 conditions O
-; O
+  O
 mais O
 bahl B-PER
 l I-PER
@@ -96250,7 +96250,7 @@ Allons B-MISC
 viens I-MISC
 , O
 Anastagille B-LOC
-; O
+  O
 allons O
 ! O
 viens O
@@ -96626,7 +96626,7 @@ écriture O
 et O
 de O
 lecture O
-; O
+  O
 il O
 savait O
 deja O
@@ -97906,7 +97906,7 @@ yeun I-PER
 pleins O
 de O
 larmcs B-PER
-; O
+  O
 il O
 se O
 mit O
@@ -99478,7 +99478,7 @@ d' O
 assommer O
 un O
 bullle O
-; O
+  O
 mais O
 il O
 dut O
@@ -99815,7 +99815,7 @@ une O
 Reche O
 de O
 caraibe O
-; O
+  O
 mais O
 l' O
 autre O
@@ -100007,7 +100007,7 @@ noirs O
 avaient O
 été O
 la O
-; O
+  O
 mais O
 nonl B-PER
 depuis O
@@ -100291,7 +100291,7 @@ maison O
 |
 | O
 lalouette O
-; O
+  O
 ct O
 puis O
 , O
@@ -100717,7 +100717,7 @@ sn B-PER
 hille I-PER
 l' O
 écoutait O
-; O
+  O
 |
 | O
 mdis O
@@ -106909,7 +106909,7 @@ Chagrin B-PER
 | O
 d' O
 amour O
-; O
+  O
 mais O
 comme O
 Jacques B-PER
@@ -107142,7 +107142,7 @@ n' O
 a O
 pas O
 parlé O
-; O
+  O
 il O
 n' O
 a O
@@ -110521,7 +110521,7 @@ un O
 peu O
 notre O
 surveillante O
-; O
+  O
 mais O
 c' O
 est O
@@ -113362,7 +113362,7 @@ que O
 je O
 rentre O
 : O
-; O
+  O
 |
 | O
 LE B-MISC
@@ -113400,7 +113400,7 @@ ennuie O
 d O
 ma O
 mdison O
-; O
+  O
 et O
 toii O
 |
@@ -113554,7 +113554,7 @@ Hlel B-PER
 roule.-toi I-PER
 dans O
 lherbe B-LOC
-; O
+  O
 elle O
 est O
 a O
@@ -113811,7 +113811,7 @@ vous O
 aver O
 des O
 diles B-LOC
-; O
+  O
 |
 | O
 C' O
@@ -113966,7 +113966,7 @@ moi I-MISC
 , O
 bien O
 entendu O
-; O
+  O
 |
 | O
 Car O
@@ -114511,7 +114511,7 @@ n' O
 est O
 prs O
 tard O
-; O
+  O
 écoute O
 la O
 cigale O
@@ -116568,7 +116568,7 @@ d' O
 un O
 air O
 feroce O
-; O
+  O
 je O
 ne O
 les O
@@ -116721,7 +116721,7 @@ lui O
 ne O
 disait O
 rien O
-; O
+  O
 il O
 |
 | O
@@ -118178,7 +118178,7 @@ même O
 celui O
 de O
 répondre O
-; O
+  O
 |
 | O
 J' O
@@ -119140,7 +119140,7 @@ pas O
 lui O
 en O
 vouloir O
-; O
+  O
 il O
 |
 | O
@@ -119496,7 +119496,7 @@ nous O
 tirons O
 mille O
 exemplires O
-; O
+  O
 |
 | O
 C' O
@@ -122758,7 +122758,7 @@ fois O
 depuis O
 la O
 veille O
-; O
+  O
 clle O
 en O
 savait O
@@ -131338,7 +131338,7 @@ fait O
 poser O
 pour O
 pilleraro O
-; O
+  O
 |
 | O
 n O
@@ -131492,7 +131492,7 @@ en O
 Ttalien B-LOC
 , O
 Danielo B-PER
-; O
+  O
 |
 | O
 Jamnais B-LOC
@@ -131665,7 +131665,7 @@ qui O
 me O
 1'a O
 gatée O
-; O
+  O
 |
 | O
 clle O
@@ -131860,7 +131860,7 @@ letires O
 de O
 votre O
 mère B-PER
-; O
+  O
 mndis O
 celles-ci O
 m' O
@@ -133809,7 +133809,7 @@ de O
 huit O
 a O
 dix O
-; O
+  O
 |
 | O
 Car O
@@ -133882,7 +133882,7 @@ somme O
 tout O
 allait O
 bien O
-; O
+  O
 l' O
 atelier O
 était O
@@ -135073,7 +135073,7 @@ de O
 la O
 banlicue O
 parisienne O
-; O
+  O
 clle O
 , O
 a O
@@ -136519,7 +136519,7 @@ elle O
 Flle O
 vient O
 ici O
-; O
+  O
 j' O
 ai O
 reconnu O
@@ -136983,7 +136983,7 @@ de O
 | O
 leur O
 théatre O
-; O
+  O
 et O
 puis O
 , O
@@ -138461,7 +138461,7 @@ Lemalheureux B-PER
 avait O
 du O
 succes O
-; O
+  O
 il O
 faisait O
 rire O
@@ -140366,7 +140366,7 @@ lieu O
 de O
 la O
 sienne O
-; O
+  O
 entre O
 les O
 lignes O
@@ -144574,7 +144574,7 @@ les O
 | O
 witres O
 humides O
-; O
+  O
 et O
 ce O
 que O
@@ -144956,7 +144956,7 @@ est O
 crid O
 -t O
 -il O
-; O
+  O
 ct O
 , O
 mettant O
@@ -146001,7 +146001,7 @@ dans O
 l2 B-MISC
 mnême O
 pièce O
-; O
+  O
 |
 | O
 je O
@@ -153052,7 +153052,7 @@ piemon O
 |
 | O
 tais O
-; O
+  O
 il O
 ne O
 me O
@@ -153314,7 +153314,7 @@ reconduire O
 jusqu' O
 a O
 lhôtel B-PER
-; O
+  O
 |
 | O
 mdis O
@@ -155497,7 +155497,7 @@ cher O
 l' O
 oncle O
 Baptiste B-PER
-; O
+  O
 MI B-LOC
 . O
 Fyssetie B-PER
@@ -165446,7 +165446,7 @@ N O
 | O
 I.To B-MISC
 d' O
-iss;.fnes O
+iss .fnes O
 |
 | O
 D. O
@@ -170013,7 +170013,7 @@ REVE I-MISC
 cherche O
 ses O
 lerres O
-; O
+  O
 - O
 c' O
 est O
@@ -171820,7 +171820,7 @@ lit O
 avec O
 son O
 tricor B-LOC
-; O
+  O
 la O
 |
 | O
@@ -172655,7 +172655,7 @@ s' O
 approche O
 du O
 lit O
-; O
+  O
 et O
 alors O
 le O

@@ -140,7 +140,7 @@ Médor B-PER
 Carrière-Fondue B-LOC
 une B-DATE
 heure I-DATE
-; I-DATE
+  I-DATE
 deux I-DATE
 heure I-DATE
 une B-DATE

@@ -1294,7 +1294,7 @@ Ceur I-MISC
 feul I-MISC
 a O
 dite O
-; O
+  O
 c' O
 el O
 - O
@@ -1386,7 +1386,7 @@ Ceur I-MISC
 tendre I-MISC
 | | I-MISC
 fidele I-MISC
-; O
+  O
 |
 | O
 Ou O
@@ -1432,7 +1432,7 @@ AL O
 . O
 |
 | O
-S;:,;:- B-LOC
+S :, :- B-LOC
 |
 | O
 n O
@@ -1773,7 +1773,7 @@ marquer I-MISC
 une O
 tendrefle O
 extreme O
-; O
+  O
 |
 | O
 Tous O
@@ -2097,7 +2097,7 @@ pour I-PER
 precher I-PER
 les O
 Fideles B-LOC
-; O
+  O
 |
 | O
 Mais O

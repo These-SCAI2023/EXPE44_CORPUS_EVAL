@@ -710,7 +710,7 @@ valeur I-LOC
 de I-LOC
 la I-LOC
 Colouua B-LOC
-Colonna; B-MISC
+Colonna  B-MISC
 mais I-MISC
 la I-MISC
 mart I-MISC
@@ -2061,7 +2061,7 @@ du I-MISC
 bois I-MISC
 de I-MISC
 Boulogne I-MISC
-; I-MISC
+  I-MISC
 elle I-MISC
 avait I-MISC
 A I-MISC

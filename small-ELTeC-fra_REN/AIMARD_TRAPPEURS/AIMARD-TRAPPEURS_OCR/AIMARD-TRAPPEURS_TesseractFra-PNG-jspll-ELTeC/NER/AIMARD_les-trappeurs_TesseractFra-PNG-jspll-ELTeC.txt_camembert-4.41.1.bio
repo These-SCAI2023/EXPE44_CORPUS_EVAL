@@ -516,7 +516,7 @@ dix B-DATE
 heures I-DATE
 On B-PER
 ñamon I-PER
-; B-DATE
+  B-DATE
 un I-DATE
 jour I-DATE
 Don B-PER
@@ -4824,7 +4824,7 @@ Le B-PER
 M I-PER
 réchal I-PER
 de I-PER
-B;ce I-PER
+B ce I-PER
 qU I-PER
 Louis B-PER
 XVI I-PER

@@ -27,7 +27,7 @@ Fugene B-PER
 | I-PER
 lam I-PER
 ... O
-; O
+  O
 Ctunecauforte B-PER
 de O
 |
@@ -78,7 +78,7 @@ siècle I-MISC
 Attred B-PER
 de I-PER
 Musset I-PER
-; O
+  O
 avec O
 un O
 portrait O
@@ -89,7 +89,7 @@ pat O
 Eugene B-PER
 ldmI I-PER
 ... O
-; O
+  O
 et O
 une O
 eau O
@@ -98,7 +98,7 @@ forte O
 de O
 M. B-PER
 laldure I-PER
-; O
+  O
 d' O
 apres O
 Bidd B-LOC
@@ -9489,7 +9489,7 @@ pifa1sa O
 | O
 f83i O
 amp O
-; O
+  O
 |
 
 
@@ -16894,7 +16894,7 @@ A B-LOC
 | O
 s O
 a O
-; O
+  O
 |
 | O
 i B-LOC
@@ -18558,7 +18558,7 @@ croyait O
 plus O
 a O
 12 O
-; O
+  O
 |
 | O
 Vicillesse B-PER
@@ -21608,7 +21608,7 @@ jugele O
 |
 | O
 Passl B-ORG
-; O
+  O
 l' O
 autre O
 d O
@@ -22238,7 +22238,7 @@ Reur O
 . O
 Cest O
 la O
-; O
+  O
 |
 | O
 1 O
@@ -26402,7 +26402,7 @@ beauté O
 | O
 dde O
 joie O
-; O
+  O
 a O
 droite O
 et O
@@ -42459,7 +42459,7 @@ lui O
 contais O
 les O
 miennes O
-; O
+  O
 et O
 |
 | O
@@ -48418,7 +48418,7 @@ ce O
 livresse O
 qui O
 me O
-trompd;s O
+trompd s O
 |
 | O
 me O
@@ -56669,7 +56669,7 @@ banquette O
 | O
 siture O
 découverte O
-; O
+  O
 de O
 temps O
 en O
@@ -63626,7 +63626,7 @@ et O
 d' O
 unjeune B-ORG
 gargon I-ORG
-; O
+  O
 |
 | O
 lcis B-MISC
@@ -68617,7 +68617,7 @@ ntaitld O
 Wladeleine B-LOC
 au O
 désert O
-; O
+  O
 je O
 joignis O
 |
@@ -70324,7 +70324,7 @@ tout O
 ce O
 qui O
 respire O
-; O
+  O
 il O
 |
 | O
@@ -70368,7 +70368,7 @@ épuises O
 sur O
 des O
 Lantomnes B-MISC
-; O
+  O
 1d O
 |
 | O
@@ -70547,7 +70547,7 @@ ETC B-ORG
 |
 | O
 jointes O
-; O
+  O
 il O
 Ctait B-MISC
 pille O
@@ -83653,7 +83653,7 @@ y O
 a O
 dcux O
 mois O
-; O
+  O
 jai B-PER
 |
  | I-PER
@@ -88471,7 +88471,7 @@ moi O
 ses O
 yeur O
 humides O
-; O
+  O
 j' O
 y O
 vis O
@@ -88641,7 +88641,7 @@ femme O
 qui O
 les O
 aime O
-; O
+  O
 Ct B-MISC
 |
 | O
@@ -96480,7 +96480,7 @@ j' O
 y O
 allais O
 , O
-; O
+  O
 |
 | O
 MCEUTS B-MISC
@@ -106852,7 +106852,7 @@ lui O
 avait O
 fait O
 Connditre B-LOC
-; O
+  O
 |
 | O
 nous O
@@ -108920,7 +108920,7 @@ et O
 tu O
 frappes O
 doucement O
-; O
+  O
 |
 | O
 u O
@@ -115862,7 +115862,7 @@ nétaisp O
 |
 | O
 aricn B-PER
-; O
+  O
 Ct B-MISC
 , O
 tout O
@@ -122457,7 +122457,7 @@ dans O
 | O
 ette O
 négociation O
-; O
+  O
 ct O
 je O
 ne O
@@ -123802,7 +123802,7 @@ ler I-MISC
 faisais I-MISC
 des I-MISC
 questions I-MISC
-; O
+  O
 je O
 parlais O
 a O
@@ -127339,7 +127339,7 @@ punit O
 ceux O
 quiont O
 failli O
-; O
+  O
 ils O
 Vou B-PER
 |
@@ -128456,7 +128456,7 @@ Mains O
 Soigncuses O
 ct O
 délicates O
-; O
+  O
 j' O
 ecoutais O
 p2s- O
@@ -136731,7 +136731,7 @@ silence O
 Vous O
 vous O
 tromper O
-; O
+  O
 lamant O
 qui O
 la O
@@ -145916,7 +145916,7 @@ Comme O
 d' O
 un O
 cmpoisonnement O
-; O
+  O
 et O
 |
 | O
@@ -146009,7 +146009,7 @@ lo O
 , O
 lui O
 persuadcrait O
-; O
+  O
 et O
 le O
 jour O
@@ -146215,7 +146215,7 @@ Ecouterde B-ORG
 |
 | O
 inlidele O
-; O
+  O
 tu O
 te O
 peucherds O
@@ -150526,7 +150526,7 @@ faiblesse O
 , O
 de O
 joi B-ORG
-; O
+  O
 |
 | O
 ct O
@@ -151937,7 +151937,7 @@ homey O
 | O
 Etait O
 scul O
-; O
+  O
 il O
 regardd O
 une O
@@ -166575,7 +166575,7 @@ t I-PER
 Sie B-ORG
 & I-ORG
 amp I-ORG
-; O
+  O
 |
    
 | O

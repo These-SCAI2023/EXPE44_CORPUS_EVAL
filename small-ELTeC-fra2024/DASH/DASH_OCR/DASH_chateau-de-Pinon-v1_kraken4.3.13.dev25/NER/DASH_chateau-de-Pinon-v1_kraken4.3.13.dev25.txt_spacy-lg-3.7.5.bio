@@ -922,7 +922,7 @@ quon I-PER
 les O
 laissd O
 seules O
-; O
+  O
 |
  | O
 Fh B-PER
@@ -1558,7 +1558,7 @@ position O
 de O
 la O
 province O
-; O
+  O
 ala B-LOC
 Cour I-LOC
 , O
@@ -6011,7 +6011,7 @@ frere O
 de O
 Louis B-PER
 KlV I-PER
-; O
+  O
 etait O
 une O
 princesse O
@@ -6831,7 +6831,7 @@ la O
 Convent B-MISC
 du I-MISC
 regard I-MISC
-; O
+  O
 |
 | O
 Comtie B-PER
@@ -8427,7 +8427,7 @@ houneur O
 | O
 Continud B-LOC
 Madame B-PER
-; O
+  O
 je O
 saurdi B-PER
 biell I-PER
@@ -8786,7 +8786,7 @@ leur I-MISC
 répondit O
 CuCore B-LOC
 moins O
-; O
+  O
 clle O
 |
 | O
@@ -14765,7 +14765,7 @@ Cette B-MISC
 Cour I-MISC
 maudite I-MISC
 pour O
-; O
+  O
 |
 | O
 NOLTG O
@@ -15325,7 +15325,7 @@ Moi O
 |
 | O
 méme O
-; O
+  O
 ch O
 bien O
 ! O
@@ -15456,7 +15456,7 @@ vous O
 |
 | O
 désobtir O
-; O
+  O
 mais O
 je O
 n' O
@@ -15593,7 +15593,7 @@ Bussy I-PER
 haussd O
 les O
 epaules O
-; O
+  O
 leva O
 les O
 veur O
@@ -15692,7 +15692,7 @@ homme O
 , O
 prenery B-PER
 garde O
-; O
+  O
 |
 | O
 Yous B-PER
@@ -16709,7 +16709,7 @@ de O
 tous O
 ces O
 evenements O
-; O
+  O
 Les B-MISC
 Scigncurs I-MISC
 de O
@@ -18756,7 +18756,7 @@ Non O
 , O
 pas O
 Celuila B-PER
-; O
+  O
 ce O
 Nicolle B-PER
 qui O
@@ -20964,7 +20964,7 @@ des I-LOC
 Trsulines I-LOC
 . O
 Ciest O
-; O
+  O
 |
 | O
 la O
@@ -22031,7 +22031,7 @@ au O
 loin O
 surles O
 plaines O
-; O
+  O
 |
 | O
 Vertes B-ORG
@@ -27634,7 +27634,7 @@ Ce O
 serdit O
 la O
 beaute O
-; O
+  O
 car O
 avec O
 la O
@@ -27722,7 +27722,7 @@ Comtesse I-PER
 Re O
 put O
 dormir O
-; O
+  O
 Clle B-PER
 appela O
 Louison B-PER
@@ -28560,7 +28560,7 @@ le O
 verrou O
 ducoté O
 de O
-; O
+  O
 |
 | O
 W. B-PER
@@ -28674,7 +28674,7 @@ nuit O
 Il O
 linterroged O
 avecanxietésur O
-; O
+  O
 |
 | O
 Cequelle B-LOC
@@ -29843,7 +29843,7 @@ de I-PER
 cette I-PER
 extri I-PER
 . O
-; O
+  O
 |
 | O
 Tagance B-LOC
@@ -30632,7 +30632,7 @@ me O
 tourndit O
 le O
 dos O
-; O
+  O
 , O
 Et B-MISC
 j' I-MISC
@@ -31816,7 +31816,7 @@ la O
 conduite O
 de O
 son O
-; O
+  O
 |
 | O
 Mari B-PER
@@ -33225,7 +33225,7 @@ il O
 n' O
 existait O
 plus O
-; O
+  O
 de O
 la O
 la O
@@ -33311,7 +33311,7 @@ garde O
 |
 | O
 eicenire O
-; O
+  O
 clle B-PER
 . O
 ne O
@@ -33371,7 +33371,7 @@ Dis B-MISC
 |
 | I-MISC
 SOnl I-MISC
-; O
+  O
 Chque B-MISC
 . O
 Vous O
@@ -33491,7 +33491,7 @@ sans O
 Cela B-MISC
 vous I-MISC
 serierd I-MISC
-; O
+  O
 |
 | O
 l' O
@@ -40256,7 +40256,7 @@ point B-LOC
 quils I-LOC
 la I-LOC
 viront I-LOC
-; O
+  O
 |
 | O
 LE O
@@ -40614,7 +40614,7 @@ peut O
 s' O
 en O
 Egarer B-MISC
-; O
+  O
 |
 | O
 Soyons B-LOC
@@ -45747,7 +45747,7 @@ pardit O
 belle O
 et O
 enriable O
-; O
+  O
 gloire O
 , O
 |
@@ -47134,7 +47134,7 @@ airiver I-PER
 Madame B-PER
 , O
 Sitil B-PER
-; O
+  O
 |
 | O
 YOiCi B-MISC
@@ -47620,7 +47620,7 @@ ses O
 stductions O
 a O
 son O
-; O
+  O
 |
 | O
 EGard B-ORG
@@ -52429,7 +52429,7 @@ Jarnais B-MISC
 dans O
 md B-ORG
 Chambre I-ORG
-; O
+  O
 ct O
 ils O
 ne O
@@ -54315,7 +54315,7 @@ tres O
 |
 | O
 Racile B-LOC
-; O
+  O
 d' B-PER
 ailleuirs I-PER
 , O
@@ -57581,7 +57581,7 @@ lettres O
 signilidient O
 : O
 Charles B-PER
-; O
+  O
 Amd B-PER
 |
 | I-PER
@@ -59139,7 +59139,7 @@ Alors O
 , O
 Madamie B-PER
 , O
-; O
+  O
 le O
 prier O
 |
@@ -59314,7 +59314,7 @@ madame B-PER
 | I-PER
 de I-PER
 lameth I-PER
-; O
+  O
 c' O
 etait O
 un O
@@ -60010,7 +60010,7 @@ jeté O
 sur O
 un O
 lit O
-; O
+  O
 |
 | O
 son O
@@ -63098,7 +63098,7 @@ CHistenCe B-MISC
 |
 | O
 Cépendant B-LOC
-; O
+  O
 le O
 marquis O
 avdit B-PER
@@ -63426,7 +63426,7 @@ la O
 route O
 d' O
 Aniry B-LOC
-; O
+  O
 dejd O
 le O
 |
@@ -64766,7 +64766,7 @@ AsSCE B-PER
 tranguillement O
 quelques O
 minutes O
-; O
+  O
 lorsqui B-PER
 clles I-PER
 |
@@ -65009,7 +65009,7 @@ lancérent O
 dos O
 Mammes B-MISC
 , O
-; O
+  O
 |
 | O
 Cllese B-PER

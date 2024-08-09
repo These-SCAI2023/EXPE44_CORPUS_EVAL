@@ -1782,10 +1782,10 @@ Iut B-PER
 n B-DATE
 16s I-DATE
 GiGGiiiridf] B-PER
-Et.e;Agit I-PER
+Et.e Agit I-PER
 GiGGiiiridf B-PER
 ] B-MISC
-Et.e;Agit I-MISC
+Et.e Agit I-MISC
 ans B-DATE
 Desancon B-LOC
 Reue B-LOC
@@ -4656,7 +4656,7 @@ Vande- I-PER
 Celebrite B-MISC
 Noblesse B-MISC
 bIen B-PER
-qU;-Me I-PER
+qU -Me I-PER
 Nathan B-PER
 Felix B-PER
 de I-PER

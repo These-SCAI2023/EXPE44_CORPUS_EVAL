@@ -7568,7 +7568,7 @@ Vatnaz I-PER
 Frédéric B-PER
 deux B-DATE
 semaines I-DATE
-; B-DATE
+  B-DATE
 un I-DATE
 jour I-DATE
 Vatnaz B-PER

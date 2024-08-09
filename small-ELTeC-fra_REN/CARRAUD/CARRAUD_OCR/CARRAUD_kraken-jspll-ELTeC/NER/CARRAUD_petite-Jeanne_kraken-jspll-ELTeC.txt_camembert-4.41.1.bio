@@ -492,7 +492,7 @@ JkANNR B-MISC
 leanne B-PER
 Ates B-LOC
 Jeanne B-PER
-; B-PER
+  B-PER
 Sauvez I-PER
 leanne B-PER
 me B-PER
@@ -3231,7 +3231,7 @@ Solngo B-PER
 Nannett B-PER
 Is B-PER
 lMnnaips B-LOC
-Est;; B-LOC
+Est   B-LOC
 iGiieie I-LOC
 MN B-MISC
 Nannetto B-PER

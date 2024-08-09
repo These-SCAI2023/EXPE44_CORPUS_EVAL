@@ -590,7 +590,7 @@ miDi B-DATE
 Jacques B-PER
 Jacques B-PER
 Jacques B-PER
-; B-DATE
+  B-DATE
 maintenant I-DATE
 Me B-PER
 Cassette I-PER
@@ -2235,11 +2235,11 @@ Roger B-PER
 Dans B-DATE
 cinq I-DATE
 minutes I-DATE
-; B-DATE
+  B-DATE
 une I-DATE
 heure I-DATE
 apres I-DATE
-; B-DATE
+  B-DATE
 une I-DATE
 heure I-DATE
 apres I-DATE
@@ -2727,7 +2727,7 @@ jacques B-PER
 plus B-DATE
 d'un I-DATE
 an I-DATE
-;II4 B-MISC
+ II4 B-MISC
 LE I-MISC
 PETIT I-MISC
 CHOSE I-MISC
