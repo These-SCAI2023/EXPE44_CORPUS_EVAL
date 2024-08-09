@@ -7579,7 +7579,7 @@ LÉ B-PER
 Les B-MISC
 Requins I-MISC
 de I-MISC
-l'Atlantique  I-MISC
+l'Atlantique; I-MISC
 Le I-MISC
 5 B-DATE
 ‘8 I-DATE
@@ -7587,7 +7587,7 @@ Le B-MISC
 Le B-PER
 Croupier I-PER
 Méry B-MISC
-en Scènes I-MISC
+en;Scènes I-MISC
 de I-MISC
 La I-MISC
 vie I-MISC

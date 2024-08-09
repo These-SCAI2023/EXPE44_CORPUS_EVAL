@@ -620,7 +620,7 @@ Consuelo B-PER
 CA B-PER
 COMTESSE I-PER
 Dieu B-MISC
-Femme Artist B-MISC
+Femme;Artist B-MISC
 Consuelo B-PER
 Jumières B-MISC
 DE B-PER
@@ -4611,7 +4611,7 @@ le I-PER
 Grand I-PER
 Trenck B-PER
 L B-MISC
-on.sait  B-MISC
+on.sait; B-MISC
 Marie-Thérèse B-PER
 Marie-Thérèse B-PER
 Sa B-PER

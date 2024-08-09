@@ -990,7 +990,7 @@ deux I-DATE
 mois I-DATE
 une B-DATE
 année I-DATE
-  I-DATE
+; I-DATE
 et I-DATE
 à I-DATE
 une B-DATE
@@ -1080,7 +1080,7 @@ semaines I-DATE
 dans B-DATE
 trois I-DATE
 semaines I-DATE
-  I-DATE
+; I-DATE
 un I-DATE
 mois I-DATE
 après I-DATE
@@ -1348,7 +1348,7 @@ Ml I-LOC
 N I-LOC
 A I-LOC
 Al- B-PER
-  I-PER
+; I-PER
 bino I-PER
 Malvina B-PER
 WILMINA B-PER

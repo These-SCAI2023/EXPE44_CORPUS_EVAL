@@ -1233,7 +1233,7 @@ en O
 J B-MISC
 volumes I-MISC
 inS I-MISC
-  I-MISC
+; I-MISC
 - B-MISC
 Prix I-MISC
 . O
@@ -1520,7 +1520,7 @@ AVonS I-MISC
 Suivi I-MISC
 pas O
 d O
-  O
+; O
 |
 | O
 pas O
@@ -6118,7 +6118,7 @@ Semblait O
 ihurmurer O
 ces O
 mots O
-  O
+; O
 .. O
 |
 | O
@@ -7505,7 +7505,7 @@ pas O
 de O
 la O
 colere O
-  O
+; O
 c' O
 était.pln O
 |
@@ -7552,7 +7552,7 @@ nul O
 ne O
 pouvait O
 l' O
-entendre ile B-MISC
+entendre;ile B-MISC
 |
 | I-MISC
 Sang I-MISC
@@ -8857,7 +8857,7 @@ dun O
 | O
 pas O
 ordinaire O
-  O
+; O
 -- O
 C' O
 est O
@@ -10639,7 +10639,7 @@ triste O
 a O
 la O
 lois O
-  O
+; O
 douce O
 , O
 |
@@ -11838,7 +11838,7 @@ qui O
 plusieurs O
 . O
 ducale O
-  O
+; O
 je O
 nemne O
 suisjardis O
@@ -12597,7 +12597,7 @@ hésita B-PER
 il O
 . O
 semblait O
-  O
+; O
 que O
 .. O
 |
@@ -12612,7 +12612,7 @@ point O
 Sur O
 Ses O
 livres O
-  O
+; O
 |
 | O
 quil O
@@ -13353,7 +13353,7 @@ ne O
 décalait O
 l' O
 inquietude O
-  O
+; O
 - O
 |
 | O
@@ -14911,7 +14911,7 @@ mOR I-MISC
 Grand I-MISC
 - I-MISC
 p̀re I-MISC
-  O
+; O
 le O
 ǵńral O
 d' O
@@ -15201,7 +15201,7 @@ ivégali- B-MISC
 tés O
 de O
 terrain O
-  O
+; O
 de O
 l' O
 autre O
@@ -22168,7 +22168,7 @@ Coup B-LOC
 . O
 de O
 malte B-LOC
-  O
+; O
 il O
 ne O
 s' O
@@ -23630,7 +23630,7 @@ le O
 corps O
 tremblait O
 : O
-  O
+; O
 |
 | O
 que O
@@ -25018,7 +25018,7 @@ Voyait B-LOC
 de O
 larges O
 rides O
-  O
+; O
 - O
 la O
 simplicit́ B-MISC
@@ -28309,7 +28309,7 @@ par O
 d' O
 horribles O
 blésbires O
-  O
+; O
 iétait- O
 |
 | O
@@ -28323,7 +28323,7 @@ s O
 |
 | O
 Bassins B-LOC
-  O
+; O
 ' O
 Alf B-LOC
 moignent O
@@ -32717,7 +32717,7 @@ avoir O
 . O
 de O
 belles O
-  O
+; O
 |
 | O
 Couleurs B-LOC
@@ -32781,7 +32781,7 @@ quil O
 | O
 faut.pour O
 cela O
-  O
+; O
 . O
 de O
 l' O
@@ -44265,7 +44265,7 @@ Wild B-PER
 , O
 de O
 Voyant B-LOC
-  O
+; O
 et O
 au O
 . O
@@ -58761,7 +58761,7 @@ ont O
 plus O
 meme O
 , O
-  O
+; O
 ce O
 que O
 jai O

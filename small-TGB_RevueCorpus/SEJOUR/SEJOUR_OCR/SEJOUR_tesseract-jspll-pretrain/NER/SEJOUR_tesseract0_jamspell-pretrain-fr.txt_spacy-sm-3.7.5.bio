@@ -792,7 +792,7 @@ Sat B-MISC
 : I-MISC
 Ds O
 Ë O
-  O
+; O
 ET O
 , O
 NE B-ORG
@@ -1372,7 +1372,7 @@ est O
 triste O
 et O
 péres O
-  O
+; O
 elle O
 est O
 asus O
@@ -1836,7 +1836,7 @@ JEAN I-MISC
 
 | O
 Non O
-  O
+; O
 malgréss O
 tendresse O
 et O
@@ -2894,7 +2894,7 @@ frisbee B-MISC
 Le O
 jour O
 grandit O
-  O
+; O
 adieu O
 ! O
 — O
@@ -6108,7 +6108,7 @@ que O
 a O
 chasse O
 réclame O
-  O
+; O
 |
 | O
 Or O
@@ -6435,7 +6435,7 @@ vous O
 de O
 sinistres O
 preÿcis O
-  O
+; O
 |
 | O
 Que O
@@ -6481,7 +6481,7 @@ audace O
 41 O
 leur O
 loyauté O
-  O
+; O
 |
 | O
 Alors O
@@ -6661,7 +6661,7 @@ doute O
 et O
 l' O
 effroi O
-  O
+; O
 |
 | O
 d' O
@@ -6684,7 +6684,7 @@ Sans O
 pouvoir O
 le O
 sortir O
-  O
+; O
 et O
 de O
 m' O
@@ -6754,7 +6754,7 @@ suivie O
 C' O
 est O
 bleu O
-  O
+; O
 suis O
 désormais O
 lmplacatie O
@@ -8298,7 +8298,7 @@ perdre O
 se O
 montrer O
 ciment O
-  O
+; O
 |
 | O
 Ainsi O
@@ -9764,7 +9764,7 @@ puissant O
 3e O
 lus O
 honoré O
-  O
+; O
 ais O
 en O
 vain O
@@ -10958,7 +10958,7 @@ MÉCANIS B-MISC
 | O
 C' O
 estdit O
-  O
+; O
 va.— O
 Que B-MISC
 fais I-MISC
@@ -11027,7 +11027,7 @@ bite I-LOC
 ( O
 A B-MISC
 pan I-MISC
-  O
+; O
 |
 | O
 Si O
@@ -11049,7 +11049,7 @@ d' O
 agir O
 comme O
 cela O
-  O
+; O
 |
 | O
 C' O
@@ -11666,7 +11666,7 @@ Je O
 te O
 remis O
 grace O
-  O
+; O
 |
 | O
 Je B-MISC
@@ -13073,7 +13073,7 @@ som O
 pleines O
 d' O
 american O
-  O
+; O
 |
 | O
 Obtenir B-LOC
@@ -14110,7 +14110,7 @@ adarr O
 , O
 d' O
 violence O
-  O
+; O
 |
 | O
 Non O
@@ -14509,7 +14509,7 @@ Tonnes B-PER
 que O
 vous O
 mentie O
-  O
+; O
 Landis B-PER
 qu' O
 en O
@@ -14536,7 +14536,7 @@ renom O
 |||| O
 ( O
 me O
-  O
+; O
 |
 | O
 Cache B-LOC
@@ -14693,7 +14693,7 @@ Vous B-MISC
 Lont I-MISC
 - I-MISC
 primant I-MISC
-  O
+; O
 d' O
 un O
 mouvement O
@@ -14734,7 +14734,7 @@ vaux O
 de O
 somptueux O
 palais O
-  O
+; O
 |
 | O
 C' O
@@ -14850,7 +14850,7 @@ je O
 ne O
 suis O
 rien O
-  O
+; O
 |
 | O
 Vos B-PER
@@ -15599,7 +15599,7 @@ en O
 |
 | O
 PIÉCARITAS B-MISC
-  O
+; O
 we O
 comte O
 nant O
@@ -16461,7 +16461,7 @@ se O
 suivent O
 sons O
 mélonge O
-  O
+; O
 |
 | O
 Je O
@@ -16587,7 +16587,7 @@ mne O
 heure O
 encor O
 petit-Are B-MISC
-  O
+; O
 |
 
 | O
@@ -16709,7 +16709,7 @@ moins O
 |
 | O
 Astre B-LOC
-  O
+; O
 |
 
 | O
@@ -17354,7 +17354,7 @@ de O
 rester O
 en O
 chemin O
-  O
+; O
 |
 | O
 Nous O
@@ -18422,7 +18422,7 @@ de O
 véderni.— O
 N' O
 importe O
-  O
+; O
 |
 | O
 Ab B-PER
@@ -18974,7 +18974,7 @@ mème I-MISC
 | O
 BON B-ORG
 DIAS O
-  O
+; O
 |
 | O
 Dies B-MISC
@@ -19608,7 +19608,7 @@ jour O
 Éstiguer B-MISC
 ma I-MISC
 thémence I-MISC
-  O
+; O
 |
 | O
 Vous O
@@ -19681,7 +19681,7 @@ honneur O
 de O
 la O
 maison O
-  O
+; O
 |
 | O
 L' O
@@ -19801,7 +19801,7 @@ Situent B-MISC
 de I-MISC
 Démia I-MISC
 : O
-  O
+; O
 |
 | O
 po O
@@ -21252,7 +21252,7 @@ ce O
 que O
 m O
 doës O
-  O
+; O
 buis B-LOC
 , O
 |
@@ -21579,7 +21579,7 @@ Tail I-PER
 grand I-PER
 d' I-PER
 Espagne I-PER
-  O
+; O
 |
 
 | O
@@ -21593,7 +21593,7 @@ fiefs O
 dans O
 la O
 campagne O
-  O
+; O
 |
 
 | O
@@ -21863,7 +21863,7 @@ ais O
 en O
 en O
 stone O
-  O
+; O
 elle O
 est O
 prolongement O
@@ -21874,7 +21874,7 @@ saisonét O
 Perès B-PER
 mesure I-PER
 . O
-  O
+; O
 |
 
 | O
@@ -22174,7 +22174,7 @@ sévère O
 | O
 haut O
 . O
-  O
+; O
 { O
 pére O
 , O
@@ -22782,7 +22782,7 @@ force I-MISC
 et O
 de O
 symbian O
-  O
+; O
 |
 
 | O
@@ -22807,7 +22807,7 @@ Regarder O
 sel O
 , O
 seigneur O
-  O
+; O
 side O
 à O
 protection O
@@ -23283,7 +23283,7 @@ père O
 |
 | O
 DIRGARIAS B-PER
-  O
+; O
 rctomhent O
 dons O
 Se O
@@ -23341,7 +23341,7 @@ ambition O
 | O
 Bons B-MISC
 artsle I-MISC
-  O
+; O
 en O
 proie O
 aux O
@@ -24099,7 +24099,7 @@ des I-MISC
 hommes I-MISC
 masqués I-MISC
 entrem I-MISC
-  O
+; O
 L' B-MISC
 or I-MISC
 |
@@ -24487,7 +24487,7 @@ armée I-MISC
 en I-MISC
 prés I-MISC
 indomptables I-MISC
-  O
+; O
 |
 | O
 L' O
@@ -24500,7 +24500,7 @@ archevéque O
 nûen O
 Le B-MISC
 connétable I-MISC
-  O
+; O
 |
 | O
 Bis B-PER
@@ -24630,7 +24630,7 @@ point I-MISC
 tomber I-MISC
 les O
 couleurs O
-  O
+; O
 |
 | O
 Maïs B-PER
@@ -24970,7 +24970,7 @@ disposer O
 d' O
 une O
 bonne O
-  O
+; O
 |
 | O
 C' O
@@ -26849,7 +26849,7 @@ enù O
 un O
 lèche O
 : O
-  O
+; O
 0 O
 5osi O
 fai O
@@ -27170,7 +27170,7 @@ d' O
 ou O
 l' O
 oubli O
-  O
+; O
 demeures O
 . O
 — O
@@ -27216,7 +27216,7 @@ maturit O
 Sur O
 sen O
 sent O
-  O
+; O
 au O
 |proler.||| O
 |
@@ -27498,7 +27498,7 @@ apres O
 SUNT O
 CODE O
 ! O
-  O
+; O
 |
 | O
 J' O
@@ -28278,7 +28278,7 @@ roclite O
 à O
 ms O
 ui O
-  O
+; O
 |
 | O
 parlent O
@@ -28317,7 +28317,7 @@ J' O
 ai O
 jedi O
 3e O
-  O
+; O
 |
 | O
 Larson B-PER
@@ -28678,7 +28678,7 @@ Ka B-MISC
 ie I-MISC
 pour I-MISC
 émnséinn I-MISC
-  O
+; O
 Pers B-MISC
 S' I-MISC
 miracle I-MISC
@@ -28944,7 +28944,7 @@ instant O
 Dies B-MISC
 ke I-MISC
 prisonnier I-MISC
-  O
+; O
 |
 | O
 Voici O
@@ -28952,7 +28952,7 @@ l' O
 ordre O
 du O
 roi O
-  O
+; O
 Dôh B-MISC
 : I-MISC
 - O
@@ -29977,7 +29977,7 @@ fepce O
 dons O
 de O
 de O
-  O
+; O
 |
 | O
 Bi B-PER
@@ -30161,7 +30161,7 @@ s O
 |
 | O
 aube O
-  O
+; O
 pen O
 males O
 Dimées O
@@ -30187,7 +30187,7 @@ ont O
 . O
 “ O
 she O
-  O
+; O
 arme O
 : O
 : O
@@ -30393,7 +30393,7 @@ l' I-MISC
 épons I-MISC
 queue O
 ne' O
-a ab O
+a;ab O
 onn O
 ? O
 — O
@@ -30445,7 +30445,7 @@ eus O
 brer O
 088 O
 manne O
-  O
+; O
 |
 | O
 |||| O
