@@ -100,7 +100,7 @@ Verte I-MISC
 du I-MISC
 nouveau I-MISC
 monde I-MISC
-  O
+; O
 cet O
 or O
 une O
@@ -430,7 +430,7 @@ monde O
 |
 | O
 entier O
-  O
+; O
 le O
 temps O
 a O
@@ -620,7 +620,7 @@ en O
 étendre O
 les O
 bornes O
-  O
+; O
 son O
 hé— O
 |
@@ -788,7 +788,7 @@ septentrionale O
 de O
 cet O
 État B-LOC
-  O
+; O
 de O
 l’ O
 est O
@@ -933,7 +933,7 @@ riant O
 tempéré O
 , O
 salubre O
-  O
+; O
 l’ O
 or O
 , O
@@ -961,7 +961,7 @@ herbes O
 médicinales O
 y O
 abondent O
-  O
+; O
 on O
 y O
 trouve O
@@ -1767,7 +1767,7 @@ l’ O
 au O
 plus O
 vite O
-  O
+; O
 le O
 hardi O
 garçon O
@@ -3522,7 +3522,7 @@ l‘attendaient O
 à O
 la O
 porte O
-  O
+; O
 un O
 |
 | O
@@ -4010,7 +4010,7 @@ attachées O
 par O
 des O
 lanières O
-  O
+; O
 mais O
 |
 | O
@@ -4044,7 +4044,7 @@ immondes O
 prennent O
 leurs O
 ébats O
-  O
+; O
 des O
 |
 | O
@@ -4289,7 +4289,7 @@ dans O
 l‘intérieur O
 des O
 volets O
-  O
+; O
 elles O
 étaient O
 vitrées O
@@ -4305,7 +4305,7 @@ pays O
 . O
 cette O
 époque O
-  O
+; O
 sur O
 chaque O
 côté O
@@ -4384,7 +4384,7 @@ et O
 de O
 quelques O
 tabourets O
-  O
+; O
 sur O
 les O
 |
@@ -4413,7 +4413,7 @@ membres O
 de O
 la O
 famille O
-  O
+; O
 les O
 charpentes O
 |
@@ -4457,7 +4457,7 @@ sa— O
 |
 | O
 lon O
-  O
+; O
 le O
 côté O
 qui O
@@ -4513,7 +4513,7 @@ pour O
 mettre O
 les O
 pieds O
-  O
+; O
 il O
 y O
 |
@@ -4560,7 +4560,7 @@ jambes O
 croisées O
 àla O
 maurèque O
-  O
+; O
 de O
 l’ O
 autre O
@@ -4586,7 +4586,7 @@ tabourets O
 et O
 les O
 coussins O
-  O
+; O
 en O
 |
 | O
@@ -4704,7 +4704,7 @@ et O
 | O
 le O
 corral O
-  O
+; O
 après O
 cette O
 cour O
@@ -5487,7 +5487,7 @@ les O
 rendait O
 comparativement O
 heureux O
-  O
+; O
 nous O
 di— O
 |
@@ -5569,7 +5569,7 @@ ses O
 | O
 femmes O
 indiennes O
-  O
+; O
 de O
 son O
 côté O
@@ -5731,7 +5731,7 @@ et O
 d‘une O
 douceur O
 angélique O
-  O
+; O
 elle O
 semblait O
 avoir O
@@ -5765,7 +5765,7 @@ se O
 |
 | O
 plier O
-  O
+; O
 mais O
 dans O
 les O
@@ -6219,7 +6219,7 @@ que O
 l’ O
 année O
 passée O
-  O
+; O
 nos O
 voisins O
 les O
@@ -6566,7 +6566,7 @@ tenait O
 tout O
 le O
 centre O
-  O
+; O
 autour O
 de O
 cette O
@@ -6725,7 +6725,7 @@ da O
 et O
 de O
 pép‘an B-PER
-  O
+; O
 |
 | O
 de O
@@ -7312,7 +7312,7 @@ pas O
 revenir O
 à O
 lui O
-  O
+; O
 il O
 poussa O
 un O
@@ -7372,7 +7372,7 @@ auparavant O
 son O
 œil O
 étincela O
-  O
+; O
 |
 | O
 dirigeant O
@@ -7602,7 +7602,7 @@ d’ O
 un O
 bleu O
 mat O
-  O
+; O
 les O
 oiseaux O
 gazouillaient O
@@ -8067,7 +8067,7 @@ peu- O
 | O
 rait O
 toujours O
-  O
+; O
 sans O
 prononcer O
 une O
@@ -8573,7 +8573,7 @@ de O
 la O
 pire O
 espèce O
-  O
+; O
 l’ O
 assassin O
 est O
@@ -8688,7 +8688,7 @@ je O
 ne O
 sais O
 où O
-  O
+; O
 |
 | O
 pour O
@@ -8735,7 +8735,7 @@ une O
 masse O
 àvotre O
 perte O
-  O
+; O
 j’ O
 en O
 ai O
@@ -8860,7 +8860,7 @@ bouche O
 & O
 mesloups O
 verviers O
-  O
+; O
 seulement O
 , O
 croyez O
@@ -9568,7 +9568,7 @@ qui O
 | O
 DE O
 L‘ARKANSAS B-PER
-  O
+; O
 33 O
 |
 
@@ -9915,7 +9915,7 @@ n’ O
 ont O
 jamais O
 failli O
-  O
+; O
 l’ O
 hon— O
 |
@@ -10126,7 +10126,7 @@ ac— B-LOC
 |
 | O
 cusé O
-  O
+; O
 les O
 fronts O
 étaient O
@@ -10308,7 +10308,7 @@ Dona B-PER
 Jessica I-PER
 se O
 leva O
-  O
+; O
 toujours O
 elle O
 avait O
@@ -10338,7 +10338,7 @@ res- O
 |
 | O
 pecter O
-  O
+; O
 l’ O
 idée O
 seule O
@@ -10497,7 +10497,7 @@ j’ O
 implore O
 votre O
 pitié O
-  O
+; O
 grâce O
 , O
 monsieur O
@@ -10633,7 +10633,7 @@ me O
 | O
 regarde O
 seul O
-  O
+; O
 qu’ O
 il O
 vous O
@@ -10832,7 +10832,7 @@ repoussant O
 brusquement O
 en O
 arrière O
-  O
+; O
 |
 | O
 votre O
@@ -10920,7 +10920,7 @@ vos O
 crimes O
 ont O
 épouvantée O
-  O
+; O
 c’ O
 est O
 |
@@ -11020,7 +11020,7 @@ contenir O
 | O
 plus O
 longtemps O
-  O
+; O
 il O
 s’ O
 élança O
@@ -11150,7 +11150,7 @@ avait O
 |
 | O
 piqué O
-  O
+; O
 il O
 lança O
 a O
@@ -11646,7 +11646,7 @@ longtemps O
 dans O
 le O
 désert O
-  O
+; O
 elle O
 |
 | O
@@ -11766,7 +11766,7 @@ père O
 et O
 le O
 ﬁl O
-  O
+; O
 le O
 soleil O
 commençait O
@@ -11818,7 +11818,7 @@ triste O
 et O
 plus O
 sauvage O
-  O
+; O
 toute O
 trace O
 de O
@@ -11828,7 +11828,7 @@ vé— O
 gétation O
 avait O
 disparu O
-  O
+; O
 seulement O
 çà O
 . O
@@ -11923,7 +11923,7 @@ crépuscule O
 n’ O
 existe O
 pas O
-  O
+; O
 dès O
 |
 | O
@@ -12035,7 +12035,7 @@ regard O
 autour O
 de O
 lui O
-  O
+; O
 un O
 sou- O
 |
@@ -12066,7 +12066,7 @@ ses O
 plaines O
 de O
 sable O
-  O
+; O
 d’ O
 un O
 seul O
@@ -12144,7 +12144,7 @@ qu’ O
 il O
 lui O
 donna O
-  O
+; O
 puis O
 lorsqu’ O
 il O
@@ -12254,7 +12254,7 @@ sous O
 peine O
 de O
 mort O
-  O
+; O
 à O
 compter O
 de O
@@ -12281,7 +12281,7 @@ mère O
 , O
 ni O
 famille O
-  O
+; O
 puisque O
 vous O
 êtes O
@@ -12301,7 +12301,7 @@ avec O
 les O
 bêtes O
 fauves O
-  O
+; O
 la O
 |
 | O
@@ -12343,7 +12343,7 @@ une O
 | O
 voix O
 sourde O
-  O
+; O
 on O
 ne O
 paie O
@@ -12357,7 +12357,7 @@ bourreau O
 Don B-PER
 Ramon I-PER
 tressaillit O
-  O
+; O
 il O
 ﬁt O
 quelques O
@@ -12372,7 +12372,7 @@ avec O
 une O
 agitation O
 fébrile O
-  O
+; O
 mais O
 se O
 remet— O
@@ -12405,7 +12405,7 @@ vivres O
 pour O
 deux O
 jours O
-  O
+; O
 |
 | O
 je O
@@ -12426,7 +12426,7 @@ jamais O
 manqué O
 le O
 but O
-  O
+; O
 je O
 vous O
 donne O
@@ -12458,7 +12458,7 @@ ces O
 cornes O
 de O
 bulldogs O
-  O
+; O
 |
 | O
 vous O
@@ -12483,7 +12483,7 @@ pour O
 faire O
 du O
 feu O
-  O
+; O
 j’ O
 y O
 ai O
@@ -12514,20 +12514,20 @@ devez O
 | O
 plus O
 rentrer O
-  O
+; O
 le O
 désert O
 est O
 devant O
 vous O
-  O
+; O
 il O
 vous O
 ap- O
 |
 | O
 partent O
-  O
+; O
 pour O
 moi O
 , O
@@ -12557,7 +12557,7 @@ nous O
 sur O
 la O
 terre O
-  O
+; O
 vous O
 restez O
 seul O
@@ -12601,7 +12601,7 @@ en O
 |
 | O
 elle O
-  O
+; O
 seule O
 , O
 désormais O
@@ -12734,7 +12734,7 @@ rayons O
 de O
 la O
 lune O
-  O
+; O
 puis O
 , O
 lorsque O
@@ -12932,7 +12932,7 @@ revenir O
 sur O
 ses O
 pas O
-  O
+; O
 mais O
 toujours O
 l’ O
@@ -13056,7 +13056,7 @@ serrer O
 | O
 le O
 cœur O
-  O
+; O
 il O
 voulut O
 passer O
@@ -13117,7 +13117,7 @@ henderson I-MISC
 ne O
 répondit O
 pas O
-  O
+; O
 en O
 voyant O
 la O
@@ -13178,7 +13178,7 @@ Ramon I-PER
 regardait O
 sa O
 femme O
-  O
+; O
 il O
 avait O
 peur O
@@ -13221,7 +13221,7 @@ noble O
 femme O
 était O
 vide O
-  O
+; O
 ses O
 traits O
 tirés O
@@ -13231,7 +13231,7 @@ avaient O
 une O
 rigidité O
 inouïe O
-  O
+; O
 ses O
 yeux O
 brûlés O
@@ -13256,7 +13256,7 @@ rendaient O
 caves O
 et O
 hagards O
-  O
+; O
 une O
 large O
 tache O
@@ -13277,7 +13277,7 @@ source O
 |
 | O
 tarie O
-  O
+; O
 elle O
 ne O
 pouvait O
@@ -13569,7 +13569,7 @@ votre O
 | O
 ﬁls O
 existe O
-  O
+; O
 je O
 n’ O
 ai O
@@ -13611,7 +13611,7 @@ dit O
 après O
 un O
 instant O
-  O
+; O
 qu’ O
 est— O
 |
@@ -13719,7 +13719,7 @@ avec O
 une O
 ironie O
 amère O
-  O
+; O
 vous O
 avez O
 été O
@@ -13844,7 +13844,7 @@ lait O
 | O
 avec O
 énergie O
-  O
+; O
 très O
 — O
 bien O
@@ -13964,7 +13964,7 @@ tête O
 sous O
 cet O
 anathème O
-  O
+; O
 le O
 |
 
@@ -14123,7 +14123,7 @@ incarnait O
 colorant O
 ses O
 joues O
-  O
+; O
 ses O
 yeux O
 noirs O
@@ -14162,7 +14162,7 @@ sui- O
 vre O
 les O
 pistes O
-  O
+; O
 il O
 leur O
 ﬁt O
@@ -14175,7 +14175,7 @@ apporte— O
 nant O
 a O
 Rafaël B-PER
-  O
+; O
 les O
 limiers O
 s’ O
@@ -14190,7 +14190,7 @@ poussant O
 de O
 grands O
 cris O
-  O
+; O
 Nô B-MISC
 Eusébio I-MISC
 et O
@@ -14237,7 +14237,7 @@ et O
 sans O
 hésitation O
 aucune O
-  O
+; O
 aussi O
 ne O
 |
@@ -14501,7 +14501,7 @@ satisfaisant O
 Au O
 point O
 du O
-jour le O
+jour;le O
 cheval O
 de O
 done O
@@ -15111,7 +15111,7 @@ sont O
 de O
 toutes O
 espèces O
-  O
+; O
 sans O
 |
 | O
@@ -15273,7 +15273,7 @@ forêts O
 ces O
 larges O
 rivières O
-  O
+; O
 le O
 murmure O
 |
@@ -15618,7 +15618,7 @@ l‘éclat O
 et O
 la O
 Vivaéeté B-LOC
-  O
+; O
 le O
 bas O
 de O
@@ -15667,7 +15667,7 @@ pro— O
 |
 | O
 portionéde O
-  O
+; O
 ses O
 membres O
 nerveux O
@@ -15824,7 +15824,7 @@ jambes O
 . O
 Cette O
 blouse O
-  O
+; O
 ouverte O
 par O
 |
@@ -15889,7 +15889,7 @@ ge— O
 |
 | O
 ou O
-  O
+; O
 enﬁd B-LOC
 un O
 bonnet O
@@ -16573,7 +16573,7 @@ remit O
 surveiller O
 le O
 souper O
-  O
+; O
 pres— O
 |
 | O
@@ -16876,7 +16876,7 @@ veillait O
 peu O
 à O
 peu O
-  O
+; O
 les O
 hurlements O
 des O
@@ -17072,7 +17072,7 @@ sûr O
 reprit O
 le O
 premier O
-  O
+; O
 voyez O
 —vous O
 , O
@@ -17200,7 +17200,7 @@ pipe O
 de O
 sa O
 bouche O
-  O
+; O
 et O
 quels O
 sont O
@@ -17390,7 +17390,7 @@ ce O
 qu’ O
 ils O
 méritent O
-  O
+; O
 je O
 m’ O
 en O
@@ -17410,7 +17410,7 @@ punir O
 de O
 leur O
 incartade O
-  O
+; O
 |
 | O
 mais O
@@ -18211,7 +18211,7 @@ il O
 |
 | O
 venait O
-  O
+; O
 le O
 plus O
 grand O
@@ -18291,7 +18291,7 @@ demeurées O
 | O
 sans O
 réponse O
-  O
+; O
 les O
 chasseurs O
 , O
@@ -18812,7 +18812,7 @@ Indiens B-LOC
 étaient O
 des O
 Comanches B-LOC
-  O
+; O
 étourdis O
 par O
 |
@@ -19024,7 +19024,7 @@ connaissait O
 pas O
 le O
 chasseur O
-  O
+; O
 c’ O
 était O
 la O
@@ -19114,7 +19114,7 @@ contre O
 le O
 Cœur B-MISC
 Loyal I-MISC
-  O
+; O
 |
 | O
 mais O
@@ -19237,7 +19237,7 @@ les O
 épaules O
 avec O
 dédain O
-  O
+; O
 |
 | O
 heureux O
@@ -19324,7 +19324,7 @@ mains O
 | O
 des O
 Comanches B-PER
-  O
+; O
 après O
 une O
 résistance O
@@ -19347,7 +19347,7 @@ suc— O
 |
 | O
 tomber O
-  O
+; O
 les O
 Indiens B-LOC
 fâchés O
@@ -19582,7 +19582,7 @@ leurs O
 |
 | O
 richesses O
-  O
+; O
 il O
 en O
 avait O
@@ -19655,7 +19655,7 @@ avait O
 regardé O
 sans O
 répondre O
-  O
+; O
 évide— B-PER
 |
 | O
@@ -19747,7 +19747,7 @@ vous O
 ne O
 me O
 chassiez O
-  O
+; O
 je O
 suis O
 seul O
@@ -19823,7 +19823,7 @@ recon— O
 |
 | O
 naissance O
-  O
+; O
 reprenez O
 vos O
 dons O
@@ -19901,7 +19901,7 @@ Cœur B-MISC
 Loyal I-MISC
 fut O
 ému O
-  O
+; O
 ce O
 jeune O
 homme O
@@ -19970,7 +19970,7 @@ avec O
 moi O
 sera O
 triste O
-  O
+; O
 un O
 grand O
 |
@@ -20015,7 +20015,7 @@ si O
 cela O
 est O
 possible O
-  O
+; O
 |
 | O
 l’ O
@@ -20405,7 +20405,7 @@ pensées O
 les O
 plus O
 cachées O
-  O
+; O
 ces O
 deux O
 |
@@ -21140,7 +21140,7 @@ ce O
 |
 | O
 stratagème O
-  O
+; O
 se O
 trouvant O
 assez O
@@ -23359,7 +23359,7 @@ la O
 |
 | O
 prairie O
-  O
+; O
 cette O
 galerie O
 qui O
@@ -23609,7 +23609,7 @@ imper— O
 |
 | O
 reptiles O
-  O
+; O
 puis O
 lorsqu’ O
 ils O
@@ -23709,7 +23709,7 @@ le O
 Vert B-LOC
 de I-LOC
 gris I-LOC
-  O
+; O
 seulement O
 |
 | O
@@ -24391,7 +24391,7 @@ secourir O
 si O
 besoin O
 était O
-  O
+; O
 lorsque O
 I’ O
 indien O
@@ -25666,7 +25666,7 @@ avec O
 un O
 raillement O
 étouffé O
-  O
+; O
 depuis O
 près O
 d’ O
@@ -27090,7 +27090,7 @@ haute O
 carrée O
 et O
 musculeuse O
-  O
+; O
 sa O
 |
 | O
@@ -27962,7 +27962,7 @@ moin- O
 | O
 des O
 mouvements O
-  O
+; O
 accroupis O
 ou O
 couchés O
@@ -28899,7 +28899,7 @@ s’ O
 dans O
 le O
 lointain O
-  O
+; O
 |
 | O
 ils O
@@ -29006,7 +29006,7 @@ découvrir O
 | O
 un O
 peu O
-  O
+; O
 le O
 Cœur B-MISC
 Loyal I-MISC
@@ -29882,7 +29882,7 @@ ainsi O
 depuis O
 assez O
 longtemps O
-  O
+; O
 |
 | O
 déjà O
@@ -30421,7 +30421,7 @@ ciel O
 | O
 et O
 terre O
-  O
+; O
 manière O
 de O
 voyager O
@@ -32311,7 +32311,7 @@ l’ O
 étreinte O
 du O
 feu O
-  O
+; O
 |
 | O
 la O
@@ -32483,7 +32483,7 @@ plus O
 | O
 grand O
 désordre O
-  O
+; O
 c’ O
 était O
 un O
@@ -33130,7 +33130,7 @@ nous O
 hors O
 de O
 danger O
-  O
+; O
 pour O
 vous O
 secourir O
@@ -33640,7 +33640,7 @@ rc— O
 |
 | O
 gards O
-  O
+; O
 elle O
 se O
 sentait O
@@ -33753,7 +33753,7 @@ SAS I-ORG
 
 | O
 faire O
-  O
+; O
 pour O
 vous O
 , O
@@ -38241,7 +38241,7 @@ capitaine O
 un O
 brave O
 soldat O
-  O
+; O
 certain O
 de O
 |
@@ -38661,7 +38661,7 @@ _ O
 que O
 et O
 inattendu O
-  O
+; O
 puis O
 il O
 ﬁd O
@@ -38883,7 +38883,7 @@ uns O
 après O
 les O
 autres O
-  O
+; O
 bientôt O
 tout O
 serait O
@@ -38931,7 +38931,7 @@ volet O
 sur O
 le O
 chasseur O
-  O
+; O
 celui-ci O
 avait O
 laissé O
@@ -40229,7 +40229,7 @@ ses O
 traits O
 demeuraient O
 immobiles O
-  O
+; O
 |
 | O
 ] O
@@ -40861,7 +40861,7 @@ la O
 place O
 du O
 village O
-  O
+; O
 de O
 mât O
 auquel O
@@ -41775,7 +41775,7 @@ un O
 coude O
 assez O
 brusque O
-  O
+; O
 ses O
 rives O
 pro— O
@@ -42447,7 +42447,7 @@ douleur O
 de O
 son O
 ami O
-  O
+; O
 quelle O
 |
 | O
@@ -42479,7 +42479,7 @@ temps O
 de O
 se O
 calmer O
-  O
+; O
 certain O
 que O
 |
@@ -42606,7 +42606,7 @@ s’ O
 avan O
 ça O
 précipitamment O
-  O
+; O
 un O
 limier O
 semblable O
@@ -43077,7 +43077,7 @@ a O
 à O
 la O
 mort O
-  O
+; O
 par O
 lui O
 nous O
@@ -43802,7 +43802,7 @@ moi O
 qui O
 coinmandais O
 ici O
-  O
+; O
 les O
 Indiens B-LOC
 , O
@@ -44190,7 +44190,7 @@ le O
 manque O
 d' O
 air O
-  O
+; O
 une O
 espèce O
 de O
@@ -45052,7 +45052,7 @@ grande O
 adorait O
 sa O
 nièce O
-  O
+; O
 |
 | O
 c’ O
@@ -45087,7 +45087,7 @@ regret O
 et O
 sans O
 hésitation O
-  O
+; O
 mais O
 , O
 d’ O
@@ -45231,7 +45231,7 @@ ma O
 répondit O
 le O
 général O
-  O
+; O
 — O
 il O
 |
@@ -47006,7 +47006,7 @@ s’ O
 emparée O
 des O
 voyageurs O
-  O
+; O
 ils O
 marchaient O
 auprès O
@@ -47335,7 +47335,7 @@ atta— O
 | O
 que O
 indienne O
-  O
+; O
 nous O
 ne O
 le O
@@ -47618,7 +47618,7 @@ pas O
 perdre O
 une O
 minute O
-  O
+; O
 aidé O
 par O
 le O
@@ -47844,7 +47844,7 @@ ils O
 rendus O
 de O
 fatigue O
-  O
+; O
 aussi O
 malgré O
 tout O
@@ -48004,7 +48004,7 @@ travers O
 les O
 hautes O
 herbes O
-  O
+; O
 |
 | O
 vers O
@@ -50902,7 +50902,7 @@ qui O
 s’ O
 y O
 trouve O
-  O
+; O
 |
 | O
 surveillez O
@@ -50970,7 +50970,7 @@ totalement O
 |
 | O
 vous O
-  O
+; O
 surveillez O
 aussi O
 le O
@@ -51495,7 +51495,7 @@ et O
 un O
 respect O
 extrêmes O
-  O
+; O
 il O
 veillait O
 avec O
@@ -52583,7 +52583,7 @@ palais O
 qu’ O
 elles O
 habitaient O
-  O
+; O
 elles O
 n’ O
 avaient O
@@ -53946,7 +53946,7 @@ le O
 savait O
 pas O
 elle-même O
-  O
+; O
 pour O
 le O
 Voir O
@@ -54415,7 +54415,7 @@ monter O
 |
 | O
 cheval O
-  O
+; O
 vous O
 ne O
 me O
@@ -54676,7 +54676,7 @@ Lu— B-MISC
 |
 | O
 cita O
-  O
+; O
 vous O
 savez O
 bien O
@@ -54703,7 +54703,7 @@ vrai O
 , O
 mon O
 oncle O
-  O
+; O
 mais O
 cette O
 fois O
@@ -54751,7 +54751,7 @@ contraire O
 , O
 mon O
 oncle O
-  O
+; O
 cependant O
 je O
 Vous B-MISC
@@ -54803,7 +54803,7 @@ d’ O
 parle O
 sans O
 crainte O
-  O
+; O
 lorsque O
 |
 | O
@@ -54960,7 +54960,7 @@ dis O
 est O
 fort O
 aimable O
-  O
+; O
 mais O
 tu O
 |
@@ -55336,7 +55336,7 @@ peut-être O
 | O
 mieux O
 ainsi O
-  O
+; O
 et O
 ﬁtant O
 un O
@@ -55390,7 +55390,7 @@ tm B-MISC
 , O
 chère O
 enfant O
-  O
+; O
 désormais O
 |
 | O
@@ -55764,7 +55764,7 @@ Rien O
 de O
 plus O
 simple O
-  O
+; O
 les O
 abeilles O
 sont O
@@ -56228,7 +56228,7 @@ d’ O
 un O
 ébénier O
 mort O
-  O
+; O
 |
 
 | O
@@ -56462,7 +56462,7 @@ elles O
 n’ O
 attaquèrent O
 personne O
-  O
+; O
 elles O
 ne O
 cher— O
@@ -56726,7 +56726,7 @@ arrivaient O
 avec O
 leur O
 cargaison O
-  O
+; O
 |
 | O
 elles O
@@ -57212,7 +57212,7 @@ ne O
 | O
 pouvait O
 vaincre O
-  O
+; O
 ces O
 pauvres O
 petits O
@@ -57346,7 +57346,7 @@ peu O
 folle O
 et O
 fantasqueé B-PER
-  O
+; O
 cette O
 chasse O
 dont O
@@ -58152,7 +58152,7 @@ grelots O
 entouraient O
 ses O
 jambes O
-  O
+; O
 sa O
 caus— O
 |
@@ -59517,7 +59517,7 @@ le O
 |
 | O
 trappeur O
-  O
+; O
 malgré O
 son O
 singulier O
@@ -59754,7 +59754,7 @@ nous O
 sommes O
 bons O
 amis O
-  O
+; O
 au O
 moyen O
 d’ O
@@ -59960,7 +59960,7 @@ face O
 face O
 avec O
 lui O
-  O
+; O
 |
 | O
 je O
@@ -59999,7 +59999,7 @@ prairies O
 de O
 l’ O
 ouest O
-  O
+; O
 je O
 me O
 |
@@ -60149,7 +60149,7 @@ tout O
 de O
 sa O
 part O
-  O
+; O
 croyez B-LOC
 -moi O
 , O
@@ -60383,7 +60383,7 @@ ce O
 que O
 vous O
 ferez O
-  O
+; O
 dès O
 que O
 |
@@ -60463,7 +60463,7 @@ ceci O
 l’ O
 Elan B-MISC
 noir I-MISC
-  O
+; O
 l’ O
 Élan B-MISC
 noir I-MISC
@@ -60774,7 +60774,7 @@ trappeurs O
 blancs O
 des O
 prairies O
-  O
+; O
 sachant O
 que O
 |
@@ -60834,7 +60834,7 @@ anxieuse O
 Le B-MISC
 Cœur I-MISC
 Loyal I-MISC
-  O
+; O
 aurez O
 —vous O
 conﬁance O
@@ -60955,7 +60955,7 @@ pour O
 vous O
 notre O
 conversation O
-  O
+; O
 surtout O
 , O
 n’ O
@@ -60983,7 +60983,7 @@ est O
 comme O
 un O
 castor O
-  O
+; O
 s’ O
 il O
 se O
@@ -61105,7 +61105,7 @@ pour O
 le O
 mieux O
 alors O
-  O
+; O
 puis O
 il O
 ajouta O
@@ -61297,7 +61297,7 @@ elle O
 
 | O
 — O
-Regardez lui O
+Regardez;lui O
 dit O
 —il O
 . O
@@ -61404,7 +61404,7 @@ la O
 | O
 principale O
 écluse O
-  O
+; O
 mais O
 bientôt O
 cinq O
@@ -61529,7 +61529,7 @@ brous— O
 |
 | O
 sailles B-LOC
-  O
+; O
 ils O
 revinrent O
 de O
@@ -61543,7 +61543,7 @@ de O
 | O
 la O
 vase O
-  O
+; O
 bref O
 , O
 cette O
@@ -61708,7 +61708,7 @@ y O
 |
 | O
 joindre O
-  O
+; O
 puis O
 gravissant O
 la O
@@ -61787,7 +61787,7 @@ tout O
 en O
 restant O
 assis O
-  O
+; O
 ils O
 le O
 grigno— O
@@ -61863,7 +61863,7 @@ où O
 ils O
 l’ O
 attaquaient O
-  O
+; O
 il O
 était O
 droit O
@@ -61966,7 +61966,7 @@ sur O
 sa O
 longue O
 absence O
-  O
+; O
 mais O
 la O
 jeune O
@@ -62216,7 +62216,7 @@ et O
 ils O
 ont O
 raison O
-  O
+; O
 il O
 est O
 sage O
@@ -62254,7 +62254,7 @@ les O
 prodi— O
 |
 | O
-sions .jeunes O
+sions;.jeunes O
 comme O
 vieux O
 , O
@@ -62315,7 +62315,7 @@ plus O
 de O
 leur O
 goût O
-  O
+; O
 ils O
 les O
 con— O
@@ -62360,7 +62360,7 @@ sont O
 propres O
 et O
 commodes O
-  O
+; O
 ils O
 ont O
 soin O
@@ -62770,7 +62770,7 @@ que O
 ceux O
 — O
 ci O
-  O
+; O
 il O
 y O
 en O
@@ -62954,7 +62954,7 @@ que O
 | O
 nous O
 employons O
-  O
+; O
 cette O
 tige O
 est O
@@ -63055,12 +63055,12 @@ prend O
 dans O
 la O
 trappe O
-  O
+; O
 effrayé O
 , O
 il O
 plonge O
-  O
+; O
 |
 | O
 la O
@@ -63074,7 +63074,7 @@ résiste O
 tous O
 ses O
 efforts O
-  O
+; O
 |
 | O
 il O
@@ -63523,7 +63523,7 @@ que— O
 | O
 rante O
 ans O
-  O
+; O
 mais O
 la O
 fatigue O
@@ -63673,7 +63673,7 @@ gracieusement O
 l’ O
 Élan B-MISC
 noir I-MISC
-  O
+; O
 mon O
 foyer O
 si O
@@ -64116,7 +64116,7 @@ de O
 |
 | O
 vous O
-  O
+; O
 depuis O
 combien O
 de O
@@ -64996,7 +64996,7 @@ de- O
 commander O
 le O
 silence O
-  O
+; O
 le O
 général O
 se O
@@ -65112,7 +65112,7 @@ lui O
 avait O
 été O
 donné O
-  O
+; O
 le O
 guide O
 in— O
@@ -65565,7 +65565,7 @@ l’ O
 on O
 puisse O
 avoir O
-  O
+; O
 le O
 |
 | O
@@ -65725,7 +65725,7 @@ assis O
 sur O
 un O
 ballet O
-  O
+; O
 les O
 bras O
 croisés O
@@ -66816,7 +66816,7 @@ niais O
 C’ O
 est O
 possible O
-  O
+; O
 mais O
 je O
 ne O
@@ -66853,7 +66853,7 @@ retra- O
 |
 | O
 chements O
-  O
+; O
 mais O
 comme O
 ils O
@@ -66944,7 +66944,7 @@ terez O
 % O
 . O
 cheval O
-  O
+; O
 arrivés O
 au O
 bas O
@@ -66961,7 +66961,7 @@ hardis O
 viendront O
 me O
 rejoindre O
-  O
+; O
 avec O
 leur O
 aide O
@@ -67208,7 +67208,7 @@ soi O
 -— O
 Parfaitement O
 raisonné O
-  O
+; O
 du O
 reste O
 , O
@@ -67235,7 +67235,7 @@ met— O
 tre O
 à O
 exécution O
-  O
+; O
 mais O
 d’ O
 abord O
@@ -67463,7 +67463,7 @@ lequel O
 je O
 dois O
 sortir O
-  O
+; O
 11 O
 fait O
 si O
@@ -67554,7 +67554,7 @@ l’ O
 missaire O
 du O
 capitaine O
-  O
+; O
 mais O
 , O
 au O
@@ -67662,7 +67662,7 @@ poussèrent O
 un O
 grand O
 cri O
-  O
+; O
 l’ O
 un O
 |
@@ -67730,7 +67730,7 @@ sursaut O
 dans O
 le O
 camp O
-  O
+; O
 chacun O
 se O
 précipite O
@@ -67743,7 +67743,7 @@ barricades O
 |
 
 | O
-  O
+; O
 |
 
 | O
@@ -68156,7 +68156,7 @@ aurait O
 réussi O
 à O
 l‘atteindre B-MISC
-  O
+; O
 mais O
 , O
 au O
@@ -68278,7 +68278,7 @@ agit O
 tout O
 son O
 corps O
-  O
+; O
 elle O
 s‘affaissa O
 sur O
@@ -70048,7 +70048,7 @@ mustang O
 fougueux O
 et O
 indompté O
-  O
+; O
 mes O
 |
 | O
@@ -70161,7 +70161,7 @@ votre O
 | O
 pﬁ‘re O
 bienveillante O
-  O
+; O
 je O
 serais O
 heureux O
@@ -70290,7 +70290,7 @@ reti— O
 |
 | O
 rer O
-  O
+; O
 d’ O
 un O
 geste O
@@ -70884,7 +70884,7 @@ trouver O
 dans O
 la O
 prairie O
-  O
+; O
 |
 | O
 peut O
@@ -70916,7 +70916,7 @@ possible O
 de O
 le O
 rencontrer O
-  O
+; O
 avec O
 sa O
 protection O
@@ -71122,7 +71122,7 @@ chat O
 avec O
 une O
 souris O
-  O
+; O
 mais O
 ne O
 faisant O
@@ -71278,7 +71278,7 @@ ESpagnol B-MISC
 souffrait O
 le O
 martyre O
-  O
+; O
 tenu O
 en O
 respect O
@@ -71471,7 +71471,7 @@ de O
 lui O
 être O
 rappelé O
-  O
+; O
 si O
 mon O
 frère O
@@ -71773,7 +71773,7 @@ sa O
 sagesse O
 est O
 immense O
-  O
+; O
 je O
 |
 | O
@@ -71838,7 +71838,7 @@ niste O
 je O
 le O
 savais O
-  O
+; O
 pourquoi O
 les O
 Visages B-MISC
@@ -72122,7 +72122,7 @@ mère O
 |
 | O
 périra O
-  O
+; O
 mes O
 jeunes O
 hommes O
@@ -72448,7 +72448,7 @@ dans O
 ces O
 vastes O
 solitudes O
-  O
+; O
 mais O
 pour O
 des O
@@ -72682,7 +72682,7 @@ que O
 le O
 vieil O
 Espagnol B-MISC
-  O
+; O
 il O
 le O
 |
@@ -72868,7 +72868,7 @@ que O
 de O
 quelques O
 lieues O
-  O
+; O
 ils O
 auraient O
 été O
@@ -73143,7 +73143,7 @@ Belhumeur B-PER
 ils O
 sont O
 beaucoup O
-  O
+; O
 après O
 cela O
 , O
@@ -73298,7 +73298,7 @@ de— O
 puis O
 quelques O
 jours O
-  O
+; O
 voyez O
 —vous O
 , O
@@ -73444,7 +73444,7 @@ rançon O
 de O
 la O
 mère O
-  O
+; O
 |
 | O
 s’ O
@@ -73530,7 +73530,7 @@ grotte O
 de O
 la O
 rivière O
-  O
+; O
 en O
 le O
 |
@@ -73986,7 +73986,7 @@ Roman— B-LOC
 |
 | O
 ches O
-  O
+; O
 par O
 une O
 fatalité O
@@ -74134,7 +74134,7 @@ ne O
 vous O
 pardonnera O
 jamais O
-  O
+; O
 |
 | O
 du O
@@ -74465,7 +74465,7 @@ mieux O
 surveillons O
 les O
 Indiens B-LOC
-  O
+; O
 % O
 : O
 |
@@ -74497,7 +74497,7 @@ nous O
 délivreront O
 votre O
 mère O
-  O
+; O
 voilà O
 , O
 |
@@ -75019,7 +75019,7 @@ Loyal I-MISC
 c‘est O
 n O
 Eusébio B-PER
-  O
+; O
 que O
 |
 | O
@@ -75907,7 +75907,7 @@ prison— O
 |
 | O
 niers O
-  O
+; O
 loin O
 de O
 leur O
@@ -76044,7 +76044,7 @@ et O
 des O
 plus O
 déchirantes O
-  O
+; O
 le O
 vieux O
 serviteur O
@@ -76190,7 +76190,7 @@ pieux O
 plantés O
 en O
 croix O
-  O
+; O
 ces O
 tentes O
 dont O
@@ -76243,7 +76243,7 @@ un O
 coup—d’œil B-MISC
 des O
 plus O
-animés les O
+animés;les O
 |
 | O
 femmes O
@@ -76274,7 +76274,7 @@ renfermant O
 toute O
 leurs O
 richesses O
-  O
+; O
 les O
 guer— O
 |
@@ -76565,7 +76565,7 @@ tenant O
 le O
 |
 | O
-  O
+; O
 calumet O
 tout O
 allumé O
@@ -76720,7 +76720,7 @@ retira O
 | O
 25 O
 [ O
-  O
+; O
 LES O
 TRAPPEURS B-ORG
 |
@@ -76977,7 +76977,7 @@ comme O
 les O
 daims O
 timides O
-  O
+; O
 beaucoup O
 d’ O
 en- B-LOC
@@ -77307,7 +77307,7 @@ en— O
 |
 | O
 core O
-  O
+; O
 cet O
 homme O
 enﬁn B-PER
@@ -77478,7 +77478,7 @@ perte O
 de O
 la O
 nation O
-  O
+; O
 alors O
 quel- O
 |
@@ -77677,7 +77677,7 @@ re- O
 |
 | O
 cherche O
-  O
+; O
 mais O
 cet O
 homme O
@@ -77938,11 +77938,11 @@ a O
 dit O
 est O
 juste O
-  O
+; O
 les O
 blancs O
 , O
-  O
+; O
 |
 | O
 nos O
@@ -78030,7 +78030,7 @@ celle O
 d’ O
 une O
 vengeance O
-  O
+; O
 il O
 faut O
 que O
@@ -78305,7 +78305,7 @@ mêlée O
 d’ O
 ocre O
 rouge O
-  O
+; O
 a O
 sa O
 . O
@@ -78421,7 +78421,7 @@ sacrﬁe O
 de O
 sa O
 vie O
-  O
+; O
 rien O
 de O
 |
@@ -78541,7 +78541,7 @@ inﬂiger O
 n’ O
 était O
 rien O
-  O
+; O
 elle O
 trem— O
 |
@@ -79232,7 +79232,7 @@ cieux O
 en O
 cérémonies O
 inutiles O
-  O
+; O
 si O
 elle O
 en O
@@ -79363,7 +79363,7 @@ crime O
 qu’ O
 il O
 commettait O
-  O
+; O
 loin O
 de O
 hâter O
@@ -79997,7 +79997,7 @@ mère O
 que O
 j’ O
 aime O
-  O
+; O
 si O
 tu O
 le O
@@ -80223,7 +80223,7 @@ exercice O
 du O
 couteau O
 commença O
-  O
+; O
 voici O
 en O
 |
@@ -80919,7 +80919,7 @@ détache O
 la O
 pauvre O
 femme O
-  O
+; O
 pen- O
 |
 | O
@@ -81096,7 +81096,7 @@ que O
 d’ O
 agir O
 ainsi O
-  O
+; O
 les O
 guerriers O
 ne O
@@ -81399,7 +81399,7 @@ attachée O
 une O
 seconde O
 fois O
-  O
+; O
 devant O
 elle O
 on O
@@ -81459,7 +81459,7 @@ du— O
 | O
 mée O
 épaisse O
-  O
+; O
 enﬁn B-MISC
 après O
 quelques O
@@ -81524,7 +81524,7 @@ au O
 milieu O
 du O
 camp O
-  O
+; O
 d’ O
 un O
 bond O
@@ -81933,7 +81933,7 @@ ani- O
 |
 | O
 mation O
-  O
+; O
 l’ O
 heure O
 à O
@@ -82294,7 +82294,7 @@ qu’ O
 il O
 put O
 l‘apercevoir B-MISC
-  O
+; O
 puis O
 lorsqu’ O
 elle O
@@ -82689,7 +82689,7 @@ j’ O
 ai O
 faits O
 prisonniers O
-  O
+; O
 ah O
 ! O
 ah O
@@ -83024,7 +83024,7 @@ d— B-MISC
 rigées I-MISC
 contre O
 lui O
-  O
+; O
 mais O
 , O
 sur O
@@ -83444,7 +83444,7 @@ leurs O
 cheveux O
 soient O
 noirs O
-  O
+; O
 ils O
 con- O
 |
@@ -83558,7 +83558,7 @@ s’ O
 explique O
 sans O
 crainte O
-  O
+; O
 il O
 est O
 demandes O
@@ -83614,7 +83614,7 @@ timents O
 à O
 notre O
 égard O
-  O
+; O
 croit O
 —il O
 pouvoir O
@@ -83645,7 +83645,7 @@ fauve O
 de O
 l’ O
 Indien B-LOC
-  O
+; O
 mais O
 , O
 par O
@@ -83802,7 +83802,7 @@ pas O
 changé O
 de O
 position O
-  O
+; O
 il O
 |
 | O
@@ -83845,7 +83845,7 @@ vieux O
 chef O
 se O
 recueillit O
-  O
+; O
 puis O
 , O
 |
@@ -84248,7 +84248,7 @@ ami O
 et O
 des O
 miens O
-  O
+; O
 jamais O
 dans O
 la O
@@ -84307,7 +84307,7 @@ répugne O
 le O
 sang O
 indien O
-  O
+; O
 car O
 , O
 je O
@@ -84358,7 +84358,7 @@ frère O
 | O
 parle O
 bien O
-  O
+; O
 mais O
 la O
 blessure O
@@ -84386,7 +84386,7 @@ fou I-MISC
 répondit O
 le O
 chasseur O
-  O
+; O
 me O
 |
 | O
@@ -84459,7 +84459,7 @@ kitchee I-PER
 morrissey O
 an O
 nîshinuorbay O
-  O
+; O
 aig O
 |
 | O
@@ -84608,7 +84608,7 @@ in— O
 |
 | O
 déﬁnissable O
-  O
+; O
 puis O
 , O
 haussant O
@@ -84692,7 +84692,7 @@ inter- O
 |
 | O
 voqué O
-  O
+; O
 ce O
 serait O
 votre O
@@ -84896,7 +84896,7 @@ aujourd’hui O
 que O
 plus O
 tard O
-  O
+; O
 je O
 ne O
 retrouverai O
@@ -84976,7 +84976,7 @@ avec O
 |
 | O
 stupeur O
-  O
+; O
 la O
 stoïque O
 abnégation O
@@ -85253,7 +85253,7 @@ vérité O
 ouvre O
 vos O
 lèvres O
-  O
+; O
 il O
 |
 | O
@@ -85292,7 +85292,7 @@ vouloir O
 des O
 actions O
 répréhensibles O
-  O
+; O
 |
 | O
 mais O
@@ -85413,7 +85413,7 @@ dénoû— O
 |
 | O
 ment O
-  O
+; O
 désormais O
 j’ O
 aurai O
@@ -86598,7 +86598,7 @@ qui O
 se O
 puisse O
 imaginer O
-  O
+; O
 hom— B-MISC
 |
 | O
@@ -86650,7 +86650,7 @@ prairies O
 de O
 l’ O
 ouest O
-  O
+; O
 dans O
 ces O
 déserts O
@@ -87075,7 +87075,7 @@ inquiétude O
 |
 | O
 extrême O
-  O
+; O
 il O
 marchait O
 à O
@@ -87228,7 +87228,7 @@ capi— B-LOC
 taine O
 avec O
 colère O
-  O
+; O
 des O
 rôles O
 se O
@@ -87276,7 +87276,7 @@ entendre O
 |
 
 | O
-  O
+; O
 Les B-MISC
 ténèbres I-MISC
 étaient O
@@ -87494,7 +87494,7 @@ calme O
 autour O
 de O
 lui O
-  O
+; O
 on O
 était O
 arrivé O
@@ -87859,7 +87859,7 @@ capi— B-LOC
 taine O
 avec O
 dépit O
-  O
+; O
 comment O
 l’ O
 interroger O
@@ -88182,7 +88182,7 @@ long O
 sans O
 pouvoir O
 parler O
-  O
+; O
 mais O
 cepen- O
 |
@@ -88770,7 +88770,7 @@ avidement O
 pendant O
 assez O
 longtemps O
-  O
+; O
 |
 | O
 une O
@@ -88823,7 +88823,7 @@ haute O
 ne O
 m‘interrompez O
 pas O
-  O
+; O
 dès O
 que O
 vous O
@@ -88889,7 +88889,7 @@ tes O
 qui O
 lui O
 prenaient O
-  O
+; O
 lorsqu’ O
 il O
 fut O
@@ -88932,7 +88932,7 @@ Ken— B-MISC
 ney O
 et O
 moi O
-  O
+; O
 renoncer O
 à O
 sa O
@@ -89130,7 +89130,7 @@ elle O
 |
 | O
 mit O
-  O
+; O
 puis O
 cette O
 opération O
@@ -89751,7 +89751,7 @@ de O
 la O
 jeune O
 ﬁlle O
-  O
+; O
 bref O
 , O
 il O
@@ -90224,7 +90224,7 @@ pour O
 ainsi O
 dire O
 organisée O
-  O
+; O
 de O
 façon O
 |
@@ -90892,7 +90892,7 @@ soutien O
 et O
 sans O
 protecteur O
-  O
+; O
 qu’ O
 importe O
 ma O
@@ -90992,7 +90992,7 @@ jouer O
 ce O
 noble O
 rôle O
-  O
+; O
 al— O
 |
 | O
@@ -91486,7 +91486,7 @@ ennemi O
 | O
 s’ O
 approchât O
-  O
+; O
 après O
 un O
 temps O
@@ -91902,7 +91902,7 @@ troupe O
 du O
 capitaine B-MISC
 Ouaktehno I-MISC
-  O
+; O
 lui-même O
 se O
 |
@@ -92148,7 +92148,7 @@ un O
 regard O
 en O
 arrière O
-  O
+; O
 proﬁtant O
 du O
 |
@@ -92768,7 +92768,7 @@ loi- O
 |
 | O
 trine O
-  O
+; O
 quel O
 rude O
 homme O
@@ -92822,7 +92822,7 @@ fusiller O
 comme O
 des O
 pigeons O
-  O
+; O
 à O
 l’ O
 assaut O
@@ -93139,7 +93139,7 @@ sont O
 inconnues O
 du O
 vulgaire O
-  O
+; O
 probablement O
 il O
 se O
@@ -93565,7 +93565,7 @@ classer O
 dans O
 mon O
 herbier O
-  O
+; O
 la O
 ﬂre O
 de O
@@ -93793,7 +93793,7 @@ un O
 | O
 pas O
 immense O
-  O
+; O
 |
 
 | O
@@ -93850,7 +93850,7 @@ d’ O
 un O
 phénomène O
 inexplicable O
-  O
+; O
 le O
 |
 | O
@@ -94267,7 +94267,7 @@ sa— O
 |
 | O
 vant O
-  O
+; O
 heureusement O
 que O
 le O
@@ -94497,7 +94497,7 @@ après O
 ainsi O
 de O
 suite O
-  O
+; O
 bref O
 , O
 |
@@ -94639,7 +94639,7 @@ près O
 , O
 dit O
 —il O
-  O
+; O
 mais O
 cela O
 il- O
@@ -94652,7 +94652,7 @@ je O
 vous O
 le O
 répète O
-  O
+; O
 puisque O
 vous O
 voilà O
@@ -94731,7 +94731,7 @@ Bientôt O
 vous O
 le O
 saurez O
-  O
+; O
 j’ O
 espère O
 que O
@@ -94835,7 +94835,7 @@ l’ O
 ai O
 supposé O
 d‘abord O
-  O
+; O
 voici O
 l' O
 affaire O
@@ -94912,7 +94912,7 @@ des O
 Indiens B-LOC
 , O
 probablement O
-  O
+; O
 done O
 Lui O
 a O
@@ -94990,7 +94990,7 @@ tués O
 — O
 Malheureusement O
 non O
-  O
+; O
 l’ O
 un O
 , O
@@ -95123,7 +95123,7 @@ la— O
 |
 | O
 que O
-  O
+; O
 je O
 vous O
 avoue O
@@ -96940,7 +96940,7 @@ des O
 |
 | O
 tigres O
-  O
+; O
 plus O
 nous O
 serons O
@@ -97029,7 +97029,7 @@ n’ O
 y O
 songeais O
 pas O
-  O
+; O
 |
 | O
 les O
@@ -97203,7 +97203,7 @@ répondit O
 | O
 le O
 vieillard O
-  O
+; O
 votre O
 mère O
 est O
@@ -97283,7 +97283,7 @@ dans O
 ces O
 tranges O
 mortelles O
-  O
+; O
 où O
 est O
 |
@@ -97373,7 +97373,7 @@ cher O
 du O
 bison O
 mort O
-  O
+; O
 du O
 reste O
 , O
@@ -97797,7 +97797,7 @@ notre O
 bouche O
 sont O
 sincères O
-  O
+; O
 |
 | O
 les O
@@ -98086,7 +98086,7 @@ approbation O
 |
 | O
 générale O
-  O
+; O
 quatre-vingt-dix O
 guerriers O
 d’ O
@@ -98825,7 +98825,7 @@ trois O
 milles O
 au O
 plus O
-  O
+; O
 mais O
 avant O
 de O
@@ -98848,7 +98848,7 @@ route O
 |
 | O
 libre O
-  O
+; O
 au O
 cas O
 où O
@@ -99236,7 +99236,7 @@ assiégeants O
 et O
 les O
 assiégés O
-  O
+; O
 mais O
 , O
 grâce O
@@ -99318,7 +99318,7 @@ franc O
 et O
 à O
 découvert O
-  O
+; O
 aussi O
 , O
 avait O
@@ -101047,7 +101047,7 @@ bless— O
 |
 | O
 es O
-  O
+; O
 mais O
 par O
 un O
@@ -101546,7 +101546,7 @@ n’ O
 |
 | O
 plus O
-  O
+; O
 cette O
 prière O
 suprême O
@@ -101665,7 +101665,7 @@ enveloppé O
 dans O
 son O
 manteau O
-  O
+; O
 ses O
 ar- O
 |
@@ -102344,7 +102344,7 @@ longtemps O
 
 | O
 ainsi O
-  O
+; O
 tous O
 les O
 lancers O
@@ -103960,7 +103960,7 @@ pas O
 prier O
 pour O
 habiller O
-  O
+; O
 en O
 |
 | O
@@ -104180,7 +104180,7 @@ d’ O
 un O
 air O
 pensif O
-  O
+; O
 puis O
 , O
 au O
@@ -104483,7 +104483,7 @@ cette O
 |
 | O
 entreprise O
-  O
+; O
 vous O
 savez O
 , O
@@ -104954,7 +104954,7 @@ tarder O
 |
 | O
 paraître O
-  O
+; O
 lorsque O
 vous O
 aurez O
@@ -104981,7 +104981,7 @@ est O
 une O
 sainte O
 femme O
-  O
+; O
 quand O
 elle O
 vous O
@@ -106313,7 +106313,7 @@ bavarois O
 , O
 nous O
 bavarois O
-  O
+; O
 et O
 nous O
 |
@@ -106809,7 +106809,7 @@ opère O
 dans O
 la O
 grotte O
-  O
+; O
 |
 | O
 plusieurs O
@@ -107064,7 +107064,7 @@ long O
 dans O
 cette O
 grotte O
-  O
+; O
 pardonnez O
 —moi O
 de O
@@ -107236,7 +107236,7 @@ les O
 deux O
 jeunes O
 gens O
-  O
+; O
 qu’ O
 avez O
 —vous O
@@ -107417,7 +107417,7 @@ chasse O
 en O
 elle O
 ! O
-  O
+; O
 nous O
 n‘avons O
 pas O
@@ -107705,7 +107705,7 @@ parlerai O
 |
 | O
 plus O
-  O
+; O
 maintenant O
 je O
 vous O
@@ -107941,7 +107941,7 @@ pas O
 de O
 l' O
 œil O
-  O
+; O
 mais O
 cet O
 individu O
@@ -108761,7 +108761,7 @@ il O
 commença O
 son O
 récit O
-  O
+; O
 lorsqu’ O
 il O
 fut O
@@ -108825,7 +108825,7 @@ pareille O
 |
 | O
 matière O
-  O
+; O
 mais O
 il O
 est O
@@ -108925,7 +108925,7 @@ ancien O
 aﬂidé O
 à O
 moi O
-  O
+; O
 abandonnant O
 à O
 mes O
@@ -109095,7 +109095,7 @@ plus O
 ignorés O
 , O
 capitaine O
-  O
+; O
 ceci O
 est O
 une O
@@ -109153,7 +109153,7 @@ me O
 le O
 faire O
 croire O
-  O
+; O
 vous O
 savez O
 que O
@@ -109273,7 +109273,7 @@ de O
 tentative O
 de O
 rapt O
-  O
+; O
 cette O
 loi O
 nous O
@@ -109339,7 +109339,7 @@ avais O
 à O
 vous O
 dire O
-  O
+; O
 |
 | O
 soyez O
@@ -109410,7 +109410,7 @@ elle O
 de O
 Dieu B-MISC
 lui-même O
-  O
+; O
 c’ O
 est O
 un O
@@ -109477,7 +109477,7 @@ m’ O
 en O
 formaliser O
 pas O
-  O
+; O
 voulez O
 -vous O
 |
@@ -109553,7 +109553,7 @@ ma— O
 | O
 nière O
 étroite O
-  O
+; O
 moi O
 , O
 mon O
@@ -109810,7 +109810,7 @@ Pourquoipas B-PER
 reprit O
 l’ O
 autre O
-  O
+; O
 du O
 reste O
 , O
@@ -110285,7 +110285,7 @@ péril O
 qu’ O
 il O
 courait O
-  O
+; O
 |
 | O
 dès O
@@ -110483,7 +110483,7 @@ la O
 . O
 jeune O
 ﬁle O
-  O
+; O
 si O
 je O
 ne O
@@ -110610,7 +110610,7 @@ en O
 de O
 la O
 mienne O
-  O
+; O
 |
 | O
 mais O
@@ -110648,7 +110648,7 @@ existence O
 de O
 son O
 oncle O
-  O
+; O
 soyez O
 donc O
 |
@@ -111032,7 +111032,7 @@ lieu O
 de O
 les O
 diminuer O
-  O
+; O
 veuillez O
 donc O
 sans O
@@ -111120,7 +111120,7 @@ se O
 redressant O
 avec O
 hauteur O
-  O
+; O
 que O
 peut— B-LOC
 |
@@ -111260,7 +111260,7 @@ que O
 je O
 me O
 retire O
-  O
+; O
 une O
 |
 | O
@@ -111590,7 +111590,7 @@ le O
 temps O
 de O
 réﬂéchir O
-  O
+; O
 si O
 alors O
 vous O
@@ -111715,7 +111715,7 @@ pouvait O
 plus O
 l’ O
 entendre O
-  O
+; O
 vain- O
 |
 | O
@@ -113675,7 +113675,7 @@ il O
 fit O
 pour O
 oublier O
-  O
+; O
 |
 | O
 dans O
@@ -113934,7 +113934,7 @@ rencontrer O
 | O
 avec O
 elle O
-  O
+; O
 lorsque O
 le O
 hasard O
@@ -114523,7 +114523,7 @@ m— O
 | O
 patience O
 fébrile O
-  O
+; O
 oh O
 I O
 cet O
@@ -115207,7 +115207,7 @@ cet O
 homme O
 se O
 présentera O
-  O
+; O
 mais O
 d’ O
 abord O
@@ -115870,7 +115870,7 @@ chance O
 dit O
 le O
 capitaine O
-  O
+; O
 allons O
 , O
 en- O
@@ -115898,7 +115898,7 @@ présent O
 rien O
 à O
 craindre O
-  O
+; O
 pla— O
 |
 | O
@@ -116269,7 +116269,7 @@ peu O
 où O
 nous O
 sommes O
-  O
+; O
 restez O
 la O
 , O
@@ -116330,7 +116330,7 @@ cente O
 en O
 pente O
 douce O
-  O
+; O
 partout O
 les O
 parois O
@@ -116565,7 +116565,7 @@ bandit O
 que O
 le O
 capitaine O
-  O
+; O
 si O
 le O
 plan O
@@ -117027,7 +117027,7 @@ un O
 soupir O
 de O
 satisfaction O
-  O
+; O
 quand O
 il O
 |
@@ -117391,7 +117391,7 @@ nous O
 procuriez O
 des O
 vivres O
-  O
+; O
 allez O
 tous O
 deux O
@@ -117479,7 +117479,7 @@ pour O
 faire O
 des O
 lits O
-  O
+; O
 allons O
 , O
 à O
@@ -118062,7 +118062,7 @@ ferais O
 un O
 faux O
 serment O
-  O
+; O
 |
 | O
 je O
@@ -118107,7 +118107,7 @@ je O
 répondrais O
 de O
 même O
-  O
+; O
 seulement O
 , O
 je O
@@ -118133,7 +118133,7 @@ de O
 faire O
 un O
 pas O
-  O
+; O
 aussi O
 , O
 mal- O
@@ -118385,7 +118385,7 @@ le O
 panse O
 avec O
 soin O
-  O
+; O
 |
 | O
 puis O
@@ -118514,7 +118514,7 @@ entamer O
 une O
 seconde O
 partie O
-  O
+; O
 cette O
 |
 | O
@@ -118531,7 +118531,7 @@ j’ O
 aurai O
 du O
 malheur O
-  O
+; O
 pen- O
 |
 | O
@@ -118606,7 +118606,7 @@ ré— B-PER
 |
 | O
 mission O
-  O
+; O
 vous O
 m’ O
 avez O
@@ -119343,7 +119343,7 @@ un O
 éclat O
 de O
 rire O
-  O
+; O
 mais O
 , O
 ajouta O
@@ -119537,7 +119537,7 @@ vous O
 brûle O
 la O
 cervelle O
-  O
+; O
 du O
 reste O
 , O
@@ -120311,7 +120311,7 @@ cer- O
 |
 | O
 velle O
-  O
+; O
 vous O
 êtes O
 averti O
@@ -120385,7 +120385,7 @@ glisse O
 sur O
 ses O
 lèvres O
-  O
+; O
 heureusement O
 il O
 ne O
@@ -120576,7 +120576,7 @@ crois O
 rit O
 -il O
 étonné O
-  O
+; O
 dans O
 tous O
 les O
@@ -121158,7 +121158,7 @@ arran— O
 |
 | O
 gera O
-  O
+; O
 du O
 reste O
 , O
@@ -121255,7 +121255,7 @@ impa- O
 |
 | O
 rience O
-  O
+; O
 malgré O
 eux O
 la O
@@ -121453,7 +121453,7 @@ vous O
 ne O
 devinerez O
 jamais O
-  O
+; O
 tous O
 nos O
 bandits O
@@ -121625,7 +121625,7 @@ le O
 docteur O
 avec O
 modestie O
-  O
+; O
 |
 | O
 dame O
@@ -122711,7 +122711,7 @@ pondait O
 de O
 la O
 sienne O
-  O
+; O
 on O
 savait O
 qu’ O
@@ -122940,7 +122940,7 @@ j O
 e O
 le O
 saurais O
-  O
+; O
 lorsque O
 je O
 l’ O
@@ -123039,7 +123039,7 @@ mon O
 ﬁs O
 le O
 lendemain O
-  O
+; O
 |
 | O
 mon O
@@ -123106,7 +123106,7 @@ sauver O
 mon O
 pauvre O
 oncle O
-  O
+; O
 mon O
 |
 | O
@@ -124101,7 +124101,7 @@ ca— O
 |
 | O
 pitaine O
-  O
+; O
 bien O
 que O
 ses O
@@ -124331,7 +124331,7 @@ d’ O
 |
 | O
 venu O
-  O
+; O
 mais O
 surmontant O
 cette O
@@ -124344,7 +124344,7 @@ il O
 sourit O
 avec O
 dédain O
-  O
+; O
 il O
 se O
 croyait O
@@ -124530,7 +124530,7 @@ qu’ O
 il O
 s’ O
 agit O
-  O
+; O
 comment O
 avez O
 —vous O
@@ -124581,7 +124581,7 @@ une O
 de O
 non O
 recevoir O
-  O
+; O
 |
 | O
 quant O
@@ -124885,7 +124885,7 @@ un O
 peu O
 d’ O
 or O
-  O
+; O
 il O
 y O
 a O
@@ -125157,7 +125157,7 @@ d' O
 un O
 danger O
 terrible O
-  O
+; O
 mais O
 après O
 |
@@ -125638,7 +125638,7 @@ s’ O
 dâté O
 de O
 venir O
-  O
+; O
 tous O
 de O
 concert O
@@ -125790,7 +125790,7 @@ emme— O
 |
 | O
 nés O
-  O
+; O
 puis O
 après O
 avoir O
@@ -127175,7 +127175,7 @@ les O
 chefs O
 étaient O
 assemblés O
-  O
+; O
 parmi O
 eux O
 se O
@@ -127213,7 +127213,7 @@ par O
 | O
 le O
 porte-pipe O
-  O
+; O
 il O
 s’ O
 incline O
@@ -127558,7 +127558,7 @@ route O
 nous O
 les O
 tuons O
-  O
+; O
 ces O
 hommes O
 |
@@ -128459,7 +128459,7 @@ plus O
 | O
 atroces O
 tortures O
-  O
+; O
 vous O
 ne O
 nous O
@@ -128820,7 +128820,7 @@ l’ O
 on O
 vous O
 donne O
-  O
+; O
 voici O
 mon O
 poignard O
@@ -129669,7 +129669,7 @@ cieusement O
 dans O
 leurs O
 huttes O
-  O
+; O
 pour O
 eux O
 ce O
@@ -129955,7 +129955,7 @@ une O
 | O
 douce O
 causerie O
-  O
+; O
 le O
 général O
 s’ O
@@ -130404,7 +130404,7 @@ de O
 mes O
 vieux O
 jours O
-  O
+; O
 |
 | O
 mais O
@@ -130498,7 +130498,7 @@ sois O
 seul O
 a O
 souTEnir O
-  O
+; O
 je O
 suis O
 vieux O
@@ -130701,7 +130701,7 @@ avoir O
 un O
 tel O
 enfant O
-  O
+; O
 hélas O
 ! O
 cette O
@@ -131208,7 +131208,7 @@ m- O
 |
 | O
 praticable O
-  O
+; O
 je O
 serais O
 heureux O
@@ -131341,7 +131341,7 @@ il O
 refuserait O
 , O
 lui O
-  O
+; O
 |
 | O
 crois O
@@ -131447,7 +131447,7 @@ il O
 dans O
 nos O
 villes O
-  O
+; O
 à O
 une O
 orga- O
@@ -131898,7 +131898,7 @@ parfaite— O
 ment O
 les O
 objets O
-  O
+; O
 par O
 un O
 caprice O
@@ -132176,7 +132176,7 @@ mon O
 prochain O
 sans O
 secours O
-  O
+; O
 |
 | O
 croyez O
@@ -132446,7 +132446,7 @@ mourir O
 tous O
 les O
 enfants O
-  O
+; O
 un O
 seul O
 me O
@@ -132476,7 +132476,7 @@ chassé O
 de O
 la O
 présence O
-  O
+; O
 aujourd’hui O
 |
 | O
@@ -132960,7 +132960,7 @@ d’ O
 une O
 voix O
 douce O
-  O
+; O
 il O
 y O
 longtemps O
@@ -133445,7 +133445,7 @@ améri- O
 |
 | O
 cain O
-  O
+; O
 c’ O
 est O
 - O
@@ -133827,7 +133827,7 @@ m’ O
 dans O
 les O
 ténèbres O
-  O
+; O
 en O
 |
 | O
@@ -134001,7 +134001,7 @@ et O
 d’ O
 un O
 abri O
-  O
+; O
 |
 | O
 comme O
@@ -134120,7 +134120,7 @@ sable O
 comme O
 dela O
 poussière O
-  O
+; O
 cependant O
 après O
 de O
@@ -134406,7 +134406,7 @@ crois O
 m’ O
 être O
 égaré O
-  O
+; O
 dans O
 |
 | O
@@ -134462,7 +134462,7 @@ je O
 m’ O
 en O
 contenterai O
-  O
+; O
 je O
 meurs O
 de O
@@ -134745,7 +134745,7 @@ et O
 aux O
 traits O
 intelligents O
-  O
+; O
 il O
 portait O
 le O
@@ -134934,7 +134934,7 @@ d’ O
 une O
 importante O
 habitation O
-  O
+; O
 c‘é- O
 |
 | O
@@ -135459,7 +135459,7 @@ caracté- O
 |
 | O
 risée O
-  O
+; O
 autour O
 d’ O
 eux O
@@ -135720,7 +135720,7 @@ salle O
 |
 | O
 manger O
-  O
+; O
 nous O
 étions O
 sur O
@@ -135949,7 +135949,7 @@ séduisait O
 dans O
 cette O
 demeure O
-  O
+; O
 elle O
 avait O
 un O
@@ -136185,7 +136185,7 @@ de O
 ces O
 Voisins B-LOC
 dangereux O
-  O
+; O
 n’ O
 êtes O
 —vous O
@@ -136304,7 +136304,7 @@ des O
 cris O
 de O
 joie O
-  O
+; O
 don O
 La— B-MISC
 |
@@ -136354,7 +136354,7 @@ bravo O
 , O
 ou O
 indépendant O
-  O
+; O
 il O
 portait O
 le O
@@ -136646,7 +136646,7 @@ Rafaël B-PER
 — O
 Mon O
 frère O
-vers a B-PER
+vers;a B-PER
 les O
 peaux O
 sont O
@@ -136718,7 +136718,7 @@ la I-PER
 vie I-PER
 le O
 conseille O
-  O
+; O
 la O
 famille O
 de O
@@ -136796,7 +136796,7 @@ jamais O
 me O
 laisser O
 partir O
-  O
+; O
 je O
 dois O
 avouer O
@@ -137146,7 +137146,7 @@ plus O
 |
 | O
 ger O
-  O
+; O
 ils O
 m’ O
 avaient O
@@ -137169,7 +137169,7 @@ question O
 sur O
 les O
 lèvres O
-  O
+; O
 jamais O
 je O
 n’ O
@@ -137429,7 +137429,7 @@ ce O
 qui O
 vous O
 préoccupe O
-  O
+; O
 depuis O
 quelques O
 jours O
@@ -137455,7 +137455,7 @@ ajoute O
 —il O
 en O
 souriant O
-  O
+; O
 ma O
 foi O
 , O
@@ -137518,7 +137518,7 @@ je O
 vous O
 le O
 dirai O
-  O
+; O
 seulement O
 , O
 veuillez O
@@ -138123,7 +138123,7 @@ arrivera O
 pas O
 a O
 vous O
-  O
+; O
 |
 | O
 elles O
@@ -138205,7 +138205,7 @@ pour O
 une O
 excursion O
 dans O
-l‘A — O
+l‘A;— O
 |
 | O
 pas O
@@ -138278,7 +138278,7 @@ ARKANSAS B-MISC
 ! O
 i O
 — O
-f —-— O
+f;—-— O
 _ O
 _ O
 _ O
@@ -138291,10 +138291,10 @@ Coulon B-PER
 .—ÆÈÊ O
 — O
 icæœ O
-  O
+; O
 1 O
 . O
-mouss x O
+mouss;x O
 , O
 |
 | O
@@ -138338,7 +138338,7 @@ la O
 Vie B-MISC
 en I-MISC
 Italie I-MISC
-  O
+; O
 |
 | O
 tradition O
@@ -138651,7 +138651,7 @@ Les O
 la' O
 pl O
 males O
-euro éens O
+euro;éens O
 . O
 ft_8'orl O
 . O
@@ -138819,7 +138819,7 @@ Le B-PER
 M I-PER
 réchal I-PER
 de I-PER
-B che B-PER
+B;che B-PER
 u. I-PER
 In O
 12 O
@@ -139460,7 +139460,7 @@ ill-8 O
 3 O
 % O
 ] O
-  O
+; O
 |
 | O
 GARDEN B-MISC
