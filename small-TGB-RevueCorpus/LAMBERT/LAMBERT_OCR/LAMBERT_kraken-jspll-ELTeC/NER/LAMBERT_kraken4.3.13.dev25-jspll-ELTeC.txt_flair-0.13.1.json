@@ -1,0 +1,714 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Caltica Lestourmis du parede Versdilles rdisonnan Cemute",
+    "jalons": [
+      4,
+      60
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Charles",
+    "jalons": [
+      142,
+      149
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Parc de Versdilles",
+    "jalons": [
+      196,
+      214
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Comercidle de ces Contenus ou dans le Cadre",
+    "jalons": [
+      631,
+      674
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la legislation en viqueur et notamment du maintien de la mention de",
+    "jalons": [
+      725,
+      829
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Ciapres",
+    "jalons": [
+      867,
+      874
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      928,
+      934
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Pourobtenir un document de Callica en haute de",
+    "jalons": [
+      2964,
+      3010
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Conunerciale Cobutft",
+    "jalons": [
+      3044,
+      3064
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "SEHIHIE",
+    "jalons": [
+      3072,
+      3079
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Amis",
+    "jalons": [
+      3133,
+      3137
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "IIILEI RUE  D C MARE  L N.",
+    "jalons": [
+      3584,
+      3610
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "EA GHICE",
+    "jalons": [
+      3621,
+      3629
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "Ah  Alors",
+    "jalons": [
+      3637,
+      3646
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "AH",
+    "jalons": [
+      3649,
+      3651
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Lonirre Ciesf",
+    "jalons": [
+      4072,
+      4085
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "VAS AI",
+    "jalons": [
+      4284,
+      4290
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Elle M. V7",
+    "jalons": [
+      4417,
+      4427
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Btit de Cili",
+    "jalons": [
+      4641,
+      4653
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Tradnite de l'Anglais",
+    "jalons": [
+      5478,
+      5499
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Vorr",
+    "jalons": [
+      5580,
+      5584
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Coldlen.Square",
+    "jalons": [
+      5586,
+      5600
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      5617,
+      5622
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Wlarchands de Houreaute",
+    "jalons": [
+      5633,
+      5656
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "le  Iii",
+    "jalons": [
+      7602,
+      7609
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "OpérA M. Ce",
+    "jalons": [
+      7634,
+      7645
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "B. aH",
+    "jalons": [
+      8248,
+      8253
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Nourrice",
+    "jalons": [
+      13982,
+      13990
+    ]
+  },
+  "entite_28": {
+    "label": "ORG",
+    "text": "LES EOURMIS DU PARC DE PERSAILLES",
+    "jalons": [
+      14198,
+      14231
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "D'eanetles Cascades",
+    "jalons": [
+      15333,
+      15352
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Ces Dieux toujours",
+    "jalons": [
+      16845,
+      16863
+    ]
+  },
+  "entite_31": {
+    "label": "ORG",
+    "text": "Les",
+    "jalons": [
+      16893,
+      16896
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Fourmi",
+    "jalons": [
+      21776,
+      21782
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Connus SouS lenom de Mlarly",
+    "jalons": [
+      24943,
+      24970
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "S.CLoud",
+    "jalons": [
+      24972,
+      24979
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Weldon",
+    "jalons": [
+      24981,
+      24987
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Bellevue",
+    "jalons": [
+      24989,
+      24997
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      24999,
+      25007
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Germain",
+    "jalons": [
+      25015,
+      25022
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Cesincreulules",
+    "jalons": [
+      25267,
+      25281
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Aans",
+    "jalons": [
+      28664,
+      28668
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Viennen",
+    "jalons": [
+      30941,
+      30948
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Gueilleux",
+    "jalons": [
+      33269,
+      33278
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Alatiere",
+    "jalons": [
+      37406,
+      37414
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Avance",
+    "jalons": [
+      37529,
+      37535
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Auss",
+    "jalons": [
+      38396,
+      38400
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "de la Fourmipendue",
+    "jalons": [
+      39457,
+      39475
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Honneur",
+    "jalons": [
+      40054,
+      40061
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "Fspegnol ou Portugais qui ferd le tour du monde",
+    "jalons": [
+      42034,
+      42081
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Note du Praducteur",
+    "jalons": [
+      42618,
+      42636
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Angletetre",
+    "jalons": [
+      42667,
+      42677
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Commeen France",
+    "jalons": [
+      42679,
+      42693
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Sion",
+    "jalons": [
+      43306,
+      43310
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Tont dans la classe des Mille et Une Wuils",
+    "jalons": [
+      44854,
+      44896
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "Sa Cellule",
+    "jalons": [
+      45302,
+      45312
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Montesquieu",
+    "jalons": [
+      45790,
+      45801
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Lois",
+    "jalons": [
+      46318,
+      46322
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Antonin",
+    "jalons": [
+      47515,
+      47522
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Vu des Charl",
+    "jalons": [
+      47604,
+      47616
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "es  des Kenri",
+    "jalons": [
+      47616,
+      47629
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "Philippe 2I",
+    "jalons": [
+      47639,
+      47650
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "MassacreS",
+    "jalons": [
+      47703,
+      47712
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Pensa Newton",
+    "jalons": [
+      47894,
+      47906
+    ]
+  },
+  "entite_63": {
+    "label": "MISC",
+    "text": "Vue de justesse",
+    "jalons": [
+      49156,
+      49171
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "de Newton",
+    "jalons": [
+      51697,
+      51706
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Sociniens",
+    "jalons": [
+      52700,
+      52709
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "Unitaires",
+    "jalons": [
+      52711,
+      52720
+    ]
+  },
+  "entite_67": {
+    "label": "MISC",
+    "text": "Fatalistes",
+    "jalons": [
+      53716,
+      53726
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "la Sorbonne et la Basrille",
+    "jalons": [
+      55442,
+      55468
+    ]
+  },
+  "entite_69": {
+    "label": "ORG",
+    "text": "Cessc de vertu",
+    "jalons": [
+      60876,
+      60890
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Ccosite de les Uissimuler",
+    "jalons": [
+      61492,
+      61517
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Ferney",
+    "jalons": [
+      62040,
+      62046
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Ouando",
+    "jalons": [
+      64506,
+      64512
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "Duc de Virtemberg",
+    "jalons": [
+      64787,
+      64804
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Le Duc de Baviere",
+    "jalons": [
+      64867,
+      64884
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Spinessa",
+    "jalons": [
+      65015,
+      65023
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "Mlais Comme V'annonce le Publiciste judicieun de qui nous",
+    "jalons": [
+      65588,
+      65645
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "Diderot",
+    "jalons": [
+      67729,
+      67736
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "Ouvertement un Lanatique et un enthousiaste de",
+    "jalons": [
+      68437,
+      68483
+    ]
+  },
+  "entite_79": {
+    "label": "ORG",
+    "text": "MaLyiy DRI",
+    "jalons": [
+      69121,
+      69131
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Poat",
+    "jalons": [
+      69756,
+      69760
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "C. e  La",
+    "jalons": [
+      70136,
+      70144
+    ]
+  },
+  "entite_82": {
+    "label": "PER",
+    "text": "S. R.",
+    "jalons": [
+      70164,
+      70169
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "Va",
+    "jalons": [
+      70449,
+      70451
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      70476,
+      70479
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Meie",
+    "jalons": [
+      71602,
+      71606
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "M.La Tewifd",
+    "jalons": [
+      71714,
+      71725
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "M. Dit D",
+    "jalons": [
+      72383,
+      72391
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "R. Amak",
+    "jalons": [
+      73956,
+      73963
+    ]
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Caltica Lestourmis",
+    "jalons": [
+      4,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Charles",
+    "jalons": [
+      140,
+      147
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Parc de Versailles",
+    "jalons": [
+      194,
+      212
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "des Collecti",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Commercial de ces Contenus ou dans le Cadre",
+    "jalons": [
+      625,
+      668
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la legislation en vigueur et notamment du maintien de la mention de",
+    "jalons": [
+      718,
+      822
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Charles",
+    "jalons": [
+      860,
+      867
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Bibliothque nationale de France",
+    "jalons": [
+      895,
+      926
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Ceuxcisont",
+    "jalons": [
+      2030,
+      2040
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Gallica Constitue une base de donnes",
+    "jalons": [
+      2245,
+      2281
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Pourobtenir un document de Gallica en haute de",
+    "jalons": [
+      2935,
+      2981
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "Conunerciale Coutant",
+    "jalons": [
+      3015,
+      3035
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "TE",
+    "jalons": [
+      3584,
+      3586
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "Ad  Arlit",
+    "jalons": [
+      3619,
+      3628
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Laieea",
+    "jalons": [
+      3878,
+      3884
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Londres Ciesf",
+    "jalons": [
+      4064,
+      4077
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "VANS RAI",
+    "jalons": [
+      4274,
+      4282
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Bit de Cili",
+    "jalons": [
+      4644,
+      4655
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Traduite de l'Anglais par le Ch",
+    "jalons": [
+      5488,
+      5519
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Coldlen.Square",
+    "jalons": [
+      5595,
+      5609
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      5626,
+      5631
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "cher les Marchands de Houreaute",
+    "jalons": [
+      5633,
+      5664
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Pda  M. Ce",
+    "jalons": [
+      7685,
+      7695
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Dier di  de",
+    "jalons": [
+      9053,
+      9064
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Aai.",
+    "jalons": [
+      9225,
+      9229
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "LES FOURMIS DU PARC DE VERSAILLES",
+    "jalons": [
+      14274,
+      14307
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "DANS LE",
+    "jalons": [
+      14329,
+      14336
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "tion du chateau et du parc de Versailles",
+    "jalons": [
+      14388,
+      14428
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Santes",
+    "jalons": [
+      15680,
+      15686
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Ces deux",
+    "jalons": [
+      16865,
+      16873
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Caline",
+    "jalons": [
+      18930,
+      18936
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Aux",
+    "jalons": [
+      18938,
+      18941
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Capables de",
+    "jalons": [
+      20340,
+      20351
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Fourmi",
+    "jalons": [
+      21787,
+      21793
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Clair Comme le jour",
+    "jalons": [
+      24361,
+      24380
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Marly",
+    "jalons": [
+      24957,
+      24962
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "St. Cloud",
+    "jalons": [
+      24964,
+      24973
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Meudon",
+    "jalons": [
+      24975,
+      24981
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Bellevue",
+    "jalons": [
+      24983,
+      24991
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      24993,
+      25001
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "Cesincreulules",
+    "jalons": [
+      25257,
+      25271
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "dans la Crainte que le bruit du canon et de la",
+    "jalons": [
+      28177,
+      28223
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Alan lesysteimne",
+    "jalons": [
+      33263,
+      33279
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "nfance de ne pas sucer avec le lait de vos",
+    "jalons": [
+      35328,
+      35370
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Salaire",
+    "jalons": [
+      37295,
+      37302
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "es de la part des vaincus",
+    "jalons": [
+      38375,
+      38400
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Sonner",
+    "jalons": [
+      39919,
+      39925
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Laculte",
+    "jalons": [
+      39927,
+      39934
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Aujourd",
+    "jalons": [
+      40259,
+      40266
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "vaisseau Espagnol ou Portugais qui fera le tour du monde",
+    "jalons": [
+      41872,
+      41928
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      42510,
+      42520
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Commen France",
+    "jalons": [
+      42522,
+      42535
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Sion",
+    "jalons": [
+      43149,
+      43153
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Sont dans la classe des Mille et Une Quils",
+    "jalons": [
+      44689,
+      44731
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Montesquieu",
+    "jalons": [
+      45620,
+      45631
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Journal de Paris",
+    "jalons": [
+      45897,
+      45913
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Montagne",
+    "jalons": [
+      46019,
+      46027
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Illustre auteur de Esprit des Lois",
+    "jalons": [
+      46112,
+      46146
+    ]
+  },
+  "entite_58": {
+    "label": "MISC",
+    "text": "uau temps de Philon et de l'historien Joseph",
+    "jalons": [
+      46592,
+      46636
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "Marc Rurale",
+    "jalons": [
+      47340,
+      47351
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Vu des Charles  des Henri",
+    "jalons": [
+      47416,
+      47441
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Isaac Newton",
+    "jalons": [
+      47703,
+      47715
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "Bayle et",
+    "jalons": [
+      48178,
+      48186
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Montagne",
+    "jalons": [
+      48187,
+      48195
+    ]
+  },
+  "entite_64": {
+    "label": "MISC",
+    "text": "d'Horaire et aRistote, de Newton et de Le",
+    "jalons": [
+      51466,
+      51507
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Sociniens",
+    "jalons": [
+      52489,
+      52498
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "Actrice",
+    "jalons": [
+      54749,
+      54756
+    ]
+  },
+  "entite_67": {
+    "label": "MISC",
+    "text": "l'orne de tous les charmes de la poesie et de l'e",
+    "jalons": [
+      54788,
+      54837
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "la Sorbonne et la Bastille",
+    "jalons": [
+      55211,
+      55237
+    ]
+  },
+  "entite_69": {
+    "label": "MISC",
+    "text": "Instruction et de la persuasion",
+    "jalons": [
+      59488,
+      59519
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "Cesse de vertu",
+    "jalons": [
+      60600,
+      60614
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "celui du roi de Prusse",
+    "jalons": [
+      60929,
+      60951
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "Ferney",
+    "jalons": [
+      61752,
+      61758
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "Duc de Wurtemberg",
+    "jalons": [
+      64468,
+      64485
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Le Duc de Baviere",
+    "jalons": [
+      64547,
+      64564
+    ]
+  },
+  "entite_75": {
+    "label": "MISC",
+    "text": "Coimbra et de Salamanque",
+    "jalons": [
+      65940,
+      65964
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "Diderot",
+    "jalons": [
+      67385,
+      67392
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "MaLi",
+    "jalons": [
+      68773,
+      68777
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "I Fala",
+    "jalons": [
+      69114,
+      69120
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "S. R.",
+    "jalons": [
+      69826,
+      69831
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "R. F",
+    "jalons": [
+      70993,
+      70997
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "M. Sit D",
+    "jalons": [
+      72072,
+      72080
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "aAi",
+    "jalons": [
+      72685,
+      72688
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "R. Amas",
+    "jalons": [
+      73667,
+      73674
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "Aei",
+    "jalons": [
+      73860,
+      73863
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "A. It.de",
+    "jalons": [
+      74342,
+      74350
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "elio Ve",
+    "jalons": [
+      74353,
+      74360
+    ]
+  }
+}

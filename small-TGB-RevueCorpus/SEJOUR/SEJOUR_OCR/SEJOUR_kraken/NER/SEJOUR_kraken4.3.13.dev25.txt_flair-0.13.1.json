@@ -1,0 +1,538 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Caltica Diegarias",
+    "jalons": [
+      4,
+      21
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Victor Sejour",
+    "jalons": [
+      56,
+      69
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "PParis",
+    "jalons": [
+      73,
+      79
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Victor",
+    "jalons": [
+      157,
+      163
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Victor Sejour",
+    "jalons": [
+      242,
+      255
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      259,
+      264
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Comercidle de ces Contenus ou dans le Cadre",
+    "jalons": [
+      584,
+      627
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la legislation en viqueur et notamment du maintien de la mention de",
+    "jalons": [
+      678,
+      782
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      881,
+      887
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "lescontenus de Callica sont la propricté de la Bnf au sens de l'article",
+    "jalons": [
+      1461,
+      1533
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Pourobtenir un document de Callica en haute de",
+    "jalons": [
+      2923,
+      2969
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Du Au",
+    "jalons": [
+      4632,
+      4637
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "A. Aumn F",
+    "jalons": [
+      6600,
+      6609
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "M. P. Ak Da P GAE",
+    "jalons": [
+      6903,
+      6920
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Teel",
+    "jalons": [
+      8700,
+      8704
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "le Ails",
+    "jalons": [
+      8708,
+      8715
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Khal",
+    "jalons": [
+      8848,
+      8852
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "AI JEIEEI DEANYAE",
+    "jalons": [
+      8900,
+      8917
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "SEAEIE Pam",
+    "jalons": [
+      8922,
+      8932
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Arly D  Dni",
+    "jalons": [
+      9420,
+      9431
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Su Mei",
+    "jalons": [
+      9556,
+      9562
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "I Holilgarde",
+    "jalons": [
+      10689,
+      10701
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Satrenhr",
+    "jalons": [
+      10826,
+      10834
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Nur Lwsi",
+    "jalons": [
+      15261,
+      15269
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Gimaley",
+    "jalons": [
+      15272,
+      15279
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Bob REGIYCIAILRIT",
+    "jalons": [
+      15337,
+      15354
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      15356,
+      15359
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "J. Satf",
+    "jalons": [
+      18491,
+      18498
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "len Beryfo",
+    "jalons": [
+      18669,
+      18679
+    ]
+  },
+  "entite_29": {
+    "label": "ORG",
+    "text": "ELOEAEAA",
+    "jalons": [
+      20480,
+      20488
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Jen Ba",
+    "jalons": [
+      20627,
+      20633
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Ies",
+    "jalons": [
+      20636,
+      20639
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "ES",
+    "jalons": [
+      20641,
+      20643
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Dar utau Aall",
+    "jalons": [
+      21517,
+      21530
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Slia",
+    "jalons": [
+      22898,
+      22902
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "M.hsl Awrls alit",
+    "jalons": [
+      22964,
+      22980
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "A Dos",
+    "jalons": [
+      23468,
+      23473
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "NEM RA",
+    "jalons": [
+      23511,
+      23517
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "DA   MAA",
+    "jalons": [
+      23540,
+      23548
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "A MiB",
+    "jalons": [
+      23568,
+      23573
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "D  Ma",
+    "jalons": [
+      23607,
+      23612
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "E Ain",
+    "jalons": [
+      24093,
+      24098
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Ms  A T I",
+    "jalons": [
+      24101,
+      24110
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "AaEa   la   I  Rse",
+    "jalons": [
+      24118,
+      24136
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "I A I de Di",
+    "jalons": [
+      24140,
+      24151
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "D R",
+    "jalons": [
+      24154,
+      24157
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "M   REE",
+    "jalons": [
+      24164,
+      24171
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Au RRE",
+    "jalons": [
+      25170,
+      25176
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "D NAE Mu du",
+    "jalons": [
+      25194,
+      25205
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "N DAE Na A",
+    "jalons": [
+      25208,
+      25218
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "Ni C P pee  A",
+    "jalons": [
+      25221,
+      25234
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "1ati DE N AE D REE",
+    "jalons": [
+      25251,
+      25269
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "MO Mili",
+    "jalons": [
+      25302,
+      25309
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "RUIEA     FEREN",
+    "jalons": [
+      25758,
+      25773
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "DE IRIE",
+    "jalons": [
+      25911,
+      25918
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "DA ER",
+    "jalons": [
+      25947,
+      25952
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "DAMENE",
+    "jalons": [
+      26006,
+      26012
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "EY",
+    "jalons": [
+      26624,
+      26626
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "MyA D",
+    "jalons": [
+      26654,
+      26659
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "Di  N",
+    "jalons": [
+      26662,
+      26667
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "E W.",
+    "jalons": [
+      26786,
+      26790
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "D.",
+    "jalons": [
+      26823,
+      26825
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Lu le Binww Sal",
+    "jalons": [
+      27209,
+      27224
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "EA Mterorg",
+    "jalons": [
+      27812,
+      27822
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "M. M",
+    "jalons": [
+      27974,
+      27978
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Ae  R.M M  A",
+    "jalons": [
+      28705,
+      28717
+    ]
+  },
+  "entite_66": {
+    "label": "ORG",
+    "text": "ES",
+    "jalons": [
+      29184,
+      29186
+    ]
+  }
+}

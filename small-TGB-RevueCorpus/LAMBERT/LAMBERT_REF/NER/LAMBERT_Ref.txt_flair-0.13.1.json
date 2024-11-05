@@ -43,504 +43,504 @@
     "label": "LOC",
     "text": "LES FOURMIS DU PARC DE VERSAILLES",
     "jalons": [
-      464,
-      497
+      4048,
+      4081
     ]
   },
   "entite_6": {
     "label": "ORG",
     "text": "RAISONNANT EN",
     "jalons": [
-      499,
-      512
+      4083,
+      4096
     ]
   },
   "entite_7": {
     "label": "LOC",
     "text": "château et du parc de Versailles",
     "jalons": [
-      71,
-      103
+      4167,
+      4199
     ]
   },
   "entite_8": {
     "label": "LOC",
     "text": "Dieu",
     "jalons": [
-      105,
-      109
+      4201,
+      4205
     ]
   },
   "entite_9": {
     "label": "MISC",
     "text": "Vous avez droit de vie et de mort",
     "jalons": [
-      259,
-      292
+      9475,
+      9508
     ]
   },
   "entite_10": {
     "label": "MISC",
     "text": "afin qu’ayant la conscience du bien et du mal",
     "jalons": [
-      1,
-      46
+      9729,
+      9774
     ]
   },
   "entite_11": {
     "label": "MISC",
     "text": "belles Fourmis dans son palais",
     "jalons": [
-      6,
-      36
+      10758,
+      10788
     ]
   },
   "entite_12": {
     "label": "LOC",
     "text": "Fourmi",
     "jalons": [
-      360,
-      366
+      11624,
+      11630
     ]
   },
   "entite_13": {
     "label": "LOC",
     "text": "le nom de Marly",
     "jalons": [
-      34,
-      49
+      14882,
+      14897
     ]
   },
   "entite_14": {
     "label": "LOC",
     "text": "St. Cloud",
     "jalons": [
-      51,
-      60
+      14899,
+      14908
     ]
   },
   "entite_15": {
     "label": "LOC",
     "text": "Meudon",
     "jalons": [
-      62,
-      68
+      14910,
+      14916
     ]
   },
   "entite_16": {
     "label": "LOC",
     "text": "Bellevue Boulogne",
     "jalons": [
-      70,
-      87
+      14918,
+      14935
     ]
   },
   "entite_17": {
     "label": "LOC",
     "text": "St.",
     "jalons": [
-      91,
-      94
+      14939,
+      14942
     ]
   },
   "entite_18": {
     "label": "LOC",
     "text": "Germain",
     "jalons": [
-      96,
-      103
+      14944,
+      14951
     ]
   },
   "entite_19": {
     "label": "LOC",
     "text": "Trianon",
     "jalons": [
-      194,
-      201
+      15042,
+      15049
     ]
   },
   "entite_20": {
     "label": "LOC",
     "text": "Etre",
     "jalons": [
-      40,
-      44
+      17960,
+      17964
     ]
   },
   "entite_21": {
     "label": "PER",
     "text": "tite Fourmi",
     "jalons": [
-      0,
-      11
+      21504,
+      21515
     ]
   },
   "entite_22": {
     "label": "LOC",
     "text": "Matière",
     "jalons": [
-      199,
-      206
+      27335,
+      27342
     ]
   },
   "entite_23": {
     "label": "MISC",
     "text": "Note du Traducteur",
     "jalons": [
-      264,
-      282
+      32520,
+      32538
     ]
   },
   "entite_24": {
     "label": "LOC",
     "text": "Angleterre",
     "jalons": [
-      316,
-      326
+      32572,
+      32582
     ]
   },
   "entite_25": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      337,
-      343
+      32593,
+      32599
     ]
   },
   "entite_26": {
     "label": "LOC",
     "text": "la classe des",
     "jalons": [
-      461,
-      474
+      34765,
+      34778
     ]
   },
   "entite_27": {
     "label": "MISC",
     "text": "Mille et Une Nuits",
     "jalons": [
-      475,
-      493
+      34779,
+      34797
     ]
   },
   "entite_28": {
     "label": "ORG",
     "text": "Les Philosoph",
     "jalons": [
-      499,
-      512
+      34803,
+      34816
     ]
   },
   "entite_29": {
     "label": "PER",
     "text": "maître de la vie de",
     "jalons": [
-      17,
-      36
+      35857,
+      35876
     ]
   },
   "entite_30": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      121,
-      126
+      35961,
+      35966
     ]
   },
   "entite_31": {
     "label": "MISC",
     "text": "Essais de Montagne",
     "jalons": [
-      224,
-      242
+      36064,
+      36082
     ]
   },
   "entite_32": {
     "label": "LOC",
     "text": "Lois",
     "jalons": [
-      359,
-      363
+      36199,
+      36203
     ]
   },
   "entite_33": {
     "label": "PER",
     "text": "les Antonin",
     "jalons": [
-      6,
-      17
+      37382,
+      37393
     ]
   },
   "entite_34": {
     "label": "PER",
     "text": "les MarcAurèle",
     "jalons": [
-      19,
-      33
+      37395,
+      37409
     ]
   },
   "entite_35": {
     "label": "PER",
     "text": "Henri III",
     "jalons": [
-      123,
-      132
+      37499,
+      37508
     ]
   },
   "entite_36": {
     "label": "PER",
     "text": "Philippe II",
     "jalons": [
-      138,
-      149
+      37514,
+      37525
     ]
   },
   "entite_37": {
     "label": "MISC",
     "text": "Sans le profond respect que j’ai pour la mémoire de",
     "jalons": [
-      298,
-      349
+      37674,
+      37725
     ]
   },
   "entite_38": {
     "label": "PER",
     "text": "Isaac Newton",
     "jalons": [
-      377,
-      389
+      37753,
+      37765
     ]
   },
   "entite_39": {
     "label": "MISC",
     "text": "Bayle et Montagne",
     "jalons": [
-      336,
-      353
+      38224,
+      38241
     ]
   },
   "entite_40": {
     "label": "LOC",
     "text": "Fourmis",
     "jalons": [
-      504,
-      511
+      38904,
+      38911
     ]
   },
   "entite_41": {
     "label": "LOC",
     "text": "du parc de Versailles",
     "jalons": [
-      0,
-      21
+      38912,
+      38933
     ]
   },
   "entite_42": {
     "label": "MISC",
     "text": "Homère et d’Aristote, de Newton et de Léïbnitz",
     "jalons": [
-      25,
-      71
+      41497,
+      41543
     ]
   },
   "entite_43": {
     "label": "MISC",
     "text": "Sociniens",
     "jalons": [
-      33,
-      42
+      42529,
+      42538
     ]
   },
   "entite_44": {
     "label": "MISC",
     "text": "Eclictiques",
     "jalons": [
-      360,
-      371
+      43368,
+      43379
     ]
   },
   "entite_45": {
     "label": "MISC",
     "text": "Quiétistes",
     "jalons": [
-      374,
-      384
+      43382,
+      43392
     ]
   },
   "entite_46": {
     "label": "PER",
     "text": "de Matéri",
     "jalons": [
-      503,
-      512
+      43511,
+      43520
     ]
   },
   "entite_47": {
     "label": "MISC",
     "text": "Athées",
     "jalons": [
-      9,
-      15
+      43529,
+      43535
     ]
   },
   "entite_48": {
     "label": "MISC",
     "text": "Fatalistes",
     "jalons": [
-      17,
-      27
+      43537,
+      43547
     ]
   },
   "entite_49": {
     "label": "LOC",
     "text": "Rome",
     "jalons": [
-      379,
-      383
+      44923,
+      44927
     ]
   },
   "entite_50": {
     "label": "MISC",
     "text": "le bonheur de vivre sous des Tites et des Vespasiens",
     "jalons": [
-      121,
-      173
+      45177,
+      45229
     ]
   },
   "entite_51": {
     "label": "MISC",
     "text": "la Sorbonne et la Bastille",
     "jalons": [
-      206,
-      232
+      45262,
+      45288
     ]
   },
   "entite_52": {
     "label": "PER",
     "text": "que Hobbes",
     "jalons": [
-      302,
-      312
+      45358,
+      45368
     ]
   },
   "entite_53": {
     "label": "PER",
     "text": "Shaftesbury",
     "jalons": [
-      314,
-      325
+      45370,
+      45381
     ]
   },
   "entite_54": {
     "label": "PER",
     "text": "Bolimgbrock",
     "jalons": [
-      328,
-      339
+      45384,
+      45395
     ]
   },
   "entite_55": {
     "label": "PER",
     "text": "Voltaire",
     "jalons": [
-      342,
-      350
+      45398,
+      45406
     ]
   },
   "entite_56": {
     "label": "PER",
     "text": "Montesquieu",
     "jalons": [
-      357,
-      368
+      45413,
+      45424
     ]
   },
   "entite_57": {
     "label": "PER",
     "text": "dJ Alembert",
     "jalons": [
-      370,
-      381
+      45426,
+      45437
     ]
   },
   "entite_58": {
     "label": "ORG",
     "text": "Un capitaine Suisse",
     "jalons": [
-      491,
-      510
+      48107,
+      48126
     ]
   },
   "entite_59": {
     "label": "PER",
     "text": "derrière un buisson",
     "jalons": [
-      7,
-      26
+      48135,
+      48154
     ]
   },
   "entite_60": {
     "label": "LOC",
     "text": "Ferney",
     "jalons": [
-      167,
-      173
+      51879,
+      51885
     ]
   },
   "entite_61": {
     "label": "PER",
     "text": "Madame",
     "jalons": [
-      184,
-      190
+      51896,
+      51902
     ]
   },
   "entite_62": {
     "label": "LOC",
     "text": "Bayle",
     "jalons": [
-      197,
-      202
+      52933,
+      52938
     ]
   },
   "entite_63": {
     "label": "MISC",
     "text": "Note du Traducteur",
     "jalons": [
-      143,
-      161
+      54415,
+      54433
     ]
   },
   "entite_64": {
     "label": "LOC",
     "text": "Duc de Virtemberg",
     "jalons": [
-      383,
-      400
+      54655,
+      54672
     ]
   },
   "entite_65": {
     "label": "LOC",
     "text": "Duc de Bavière",
     "jalons": [
-      465,
-      479
+      54737,
+      54751
     ]
   },
   "entite_66": {
     "label": "MISC",
     "text": "eur en théologie de ses États",
     "jalons": [
-      0,
-      29
+      54784,
+      54813
     ]
   },
   "entite_67": {
     "label": "LOC",
     "text": "Diderot",
     "jalons": [
-      220,
-      227
+      57564,
+      57571
     ]
   }
 }

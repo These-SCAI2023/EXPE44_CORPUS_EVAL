@@ -1,0 +1,1186 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Gallica  Le département de l'Oise : Compiègne et M arat",
+    "jalons": [
+      6,
+      61
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Alexandre Sorel",
+    "jalons": [
+      94,
+      109
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Bibliothèques de la Ville de Compiègne",
+    "jalons": [
+      138,
+      176
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Gallica     de l'Oise",
+    "jalons": [
+      182,
+      203
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Compiègne et Marat",
+    "jalons": [
+      206,
+      224
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Sorel",
+    "jalons": [
+      258,
+      263
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Alexandre",
+    "jalons": [
+      265,
+      274
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      288,
+      303
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Alexandre Sorel",
+    "jalons": [
+      320,
+      335
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Bibliothèque",
+    "jalons": [
+      907,
+      919
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      933,
+      939
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "enus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      1536,
+      1590
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "ALEXANDRE SOREL",
+    "jalons": [
+      3198,
+      3213
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "‘CAvocat à la Cour impériale de ‘",
+    "jalons": [
+      3215,
+      3248
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3248,
+      3253
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "ARRAS",
+    "jalons": [
+      3550,
+      3555
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "DE L'IMPRIMERIE ROUSSEAU-AL",
+    "jalons": [
+      3557,
+      3584
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "PENDANT LA REVOLUTION  COMPIÈGNE ET MARAT",
+    "jalons": [
+      3689,
+      3730
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Chacun sait le rôle",
+    "jalons": [
+      3758,
+      3777
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3799,
+      3804
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "la société des Amis de la Constitution qui",
+    "jalons": [
+      3844,
+      3886
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "le nom de Société des Jacobins",
+    "jalons": [
+      3904,
+      3934
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Fondée dès le début de la",
+    "jalons": [
+      3936,
+      3961
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      4046,
+      4052
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      4586,
+      4595
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Amis de la Gonstitution",
+    "jalons": [
+      4698,
+      4721
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Liste des citoyens qui doivent composer la société des Amis de la « Constitution",
+    "jalons": [
+      4809,
+      4889
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "les de la nouvelle Contribution",
+    "jalons": [
+      5120,
+      5151
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "de la Société des Amis de la",
+    "jalons": [
+      5310,
+      5338
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Constitution de Comniègne depuis le",
+    "jalons": [
+      5339,
+      5374
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "la ville de Compiègne",
+    "jalons": [
+      5780,
+      5801
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Réimpression du Moniteur",
+    "jalons": [
+      5807,
+      5831
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "M. Thirial",
+    "jalons": [
+      5921,
+      5931
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "alors maire de la ville",
+    "jalons": [
+      5933,
+      5956
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Stanislas Leféron",
+    "jalons": [
+      6063,
+      6080
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "rait le nom de Société des Amis de la",
+    "jalons": [
+      6144,
+      6181
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "la société des amis de la Constitution de Noyon",
+    "jalons": [
+      6772,
+      6819
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      6872,
+      6881
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Messieurs de Noyon et de les « assurer de",
+    "jalons": [
+      6952,
+      6993
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Pénétrée de",
+    "jalons": [
+      7267,
+      7278
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "êta que la société s’affilierait à celle des Jda- cobins de Paris et à celle de Beauvais",
+    "jalons": [
+      8704,
+      8792
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "de la part des amis de la Constitution de Noyon",
+    "jalons": [
+      9126,
+      9173
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "res de Compiègne de les présen- « et À L'affilialion des Jacobins de Paris",
+    "jalons": [
+      9216,
+      9290
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Rainville",
+    "jalons": [
+      10038,
+      10047
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "du curé de Noyon",
+    "jalons": [
+      10052,
+      10068
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Gilbert",
+    "jalons": [
+      10070,
+      10077
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "M. l'évêque",
+    "jalons": [
+      10221,
+      10232
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Celu",
+    "jalons": [
+      10236,
+      10240
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Massieu",
+    "jalons": [
+      10296,
+      10303
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Givet",
+    "jalons": [
+      11009,
+      11014
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Bruxelles",
+    "jalons": [
+      11028,
+      11037
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Massieu",
+    "jalons": [
+      11769,
+      11776
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "dans la commune de Compiègne",
+    "jalons": [
+      11878,
+      11906
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Gibert de la joie",
+    "jalons": [
+      12352,
+      12369
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Louis-Joseph-Stanislas Leféron",
+    "jalons": [
+      12693,
+      12723
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Aussitôt la",
+    "jalons": [
+      12787,
+      12798
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Chabanon",
+    "jalons": [
+      12985,
+      12993
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "français en l'honneur du commandant et",
+    "jalons": [
+      13353,
+      13391
+    ]
+  },
+  "entite_58": {
+    "label": "MISC",
+    "text": "Vrai défenseur de la Constitution",
+    "jalons": [
+      14019,
+      14052
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      14286,
+      14291
+    ]
+  },
+  "entite_60": {
+    "label": "ORG",
+    "text": "la Constitution",
+    "jalons": [
+      14314,
+      14329
+    ]
+  },
+  "entite_61": {
+    "label": "ORG",
+    "text": "Aussi",
+    "jalons": [
+      14331,
+      14336
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "la société de Com",
+    "jalons": [
+      14361,
+      14378
+    ]
+  },
+  "entite_63": {
+    "label": "MISC",
+    "text": "bonheur et de celui de la «Action",
+    "jalons": [
+      14719,
+      14752
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Toutefois",
+    "jalons": [
+      14757,
+      14766
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "des Amis de lu Constitution de Compiègne s'amoindris",
+    "jalons": [
+      14848,
+      14900
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Thibaut",
+    "jalons": [
+      15217,
+      15224
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Berger",
+    "jalons": [
+      15226,
+      15232
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Disait",
+    "jalons": [
+      15234,
+      15240
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Duchauffour",
+    "jalons": [
+      15242,
+      15253
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "Wattelet",
+    "jalons": [
+      15255,
+      15263
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "Merci",
+    "jalons": [
+      15265,
+      15270
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "Courtois",
+    "jalons": [
+      15272,
+      15280
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Aubin",
+    "jalons": [
+      15282,
+      15287
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      15289,
+      15294
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Rey",
+    "jalons": [
+      15296,
+      15299
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "Beaugrand",
+    "jalons": [
+      15301,
+      15310
+    ]
+  },
+  "entite_77": {
+    "label": "ORG",
+    "text": "Chambon et Mosnies",
+    "jalons": [
+      15312,
+      15330
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "d’Alger",
+    "jalons": [
+      15421,
+      15428
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Étienne Poulain",
+    "jalons": [
+      15443,
+      15458
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "la Société des Amis de la Constitution de cette ville",
+    "jalons": [
+      15484,
+      15537
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "de l'a DIT, de la Vie",
+    "jalons": [
+      16793,
+      16814
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "nom de société d'Amis de la République",
+    "jalons": [
+      17293,
+      17331
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "de la société des Amis de la Con",
+    "jalons": [
+      17376,
+      17408
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "Amis de lu République",
+    "jalons": [
+      17454,
+      17475
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Tuileries",
+    "jalons": [
+      17921,
+      17930
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "Compiègne la nouvelle sociélé des",
+    "jalons": [
+      18607,
+      18640
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Amis de la République",
+    "jalons": [
+      18641,
+      18662
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Dès la",
+    "jalons": [
+      18665,
+      18671
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      18919,
+      18924
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "la Révolution qui avait débarrassé la France des « rois et de La royauté",
+    "jalons": [
+      18987,
+      19059
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Marseillais",
+    "jalons": [
+      20392,
+      20403
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "de Montagna",
+    "jalons": [
+      20469,
+      20480
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Le nom de la",
+    "jalons": [
+      20869,
+      20881
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "M. Lambert de Ballyhier",
+    "jalons": [
+      20920,
+      20943
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      20971,
+      20980
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      22213,
+      22217
+    ]
+  },
+  "entite_97": {
+    "label": "MISC",
+    "text": "Un membre leur jura « fraternité au nom de tous les citoyens de Compiègne",
+    "jalons": [
+      22907,
+      22980
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "Vive Louis XVII",
+    "jalons": [
+      23824,
+      23839
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "le nom seul de Marat sur Ja société",
+    "jalons": [
+      24965,
+      25000
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "des Amis de la République de Compiègne",
+    "jalons": [
+      25001,
+      25039
+    ]
+  },
+  "entite_101": {
+    "label": "ORG",
+    "text": "Le",
+    "jalons": [
+      25042,
+      25044
+    ]
+  },
+  "entite_102": {
+    "label": "ORG",
+    "text": "le Publiciste de la Républiqu",
+    "jalons": [
+      25059,
+      25088
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "l'Ami du peuple avec cette",
+    "jalons": [
+      25122,
+      25148
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "de la République",
+    "jalons": [
+      25309,
+      25325
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "le département de Mayenne et",
+    "jalons": [
+      25726,
+      25754
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Loire",
+    "jalons": [
+      25756,
+      25761
+    ]
+  },
+  "entite_107": {
+    "label": "LOC",
+    "text": "Ourscamp",
+    "jalons": [
+      26282,
+      26290
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      26348,
+      26353
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Montagne",
+    "jalons": [
+      28391,
+      28399
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      28488,
+      28493
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "Prenez",
+    "jalons": [
+      28778,
+      28784
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      29600,
+      29609
+    ]
+  },
+  "entite_113": {
+    "label": "MISC",
+    "text": "le nom du dénonciateur et le prier",
+    "jalons": [
+      29696,
+      29730
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "Mathieu",
+    "jalons": [
+      29890,
+      29897
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Corday",
+    "jalons": [
+      30474,
+      30480
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "Rémi",
+    "jalons": [
+      30659,
+      30663
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Bientôt la nouvelle de la mort de M",
+    "jalons": [
+      30685,
+      30720
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "Ainsi",
+    "jalons": [
+      31224,
+      31229
+    ]
+  },
+  "entite_119": {
+    "label": "MISC",
+    "text": "Le président au nom de la société, lui donna le « nom de Marat",
+    "jalons": [
+      31521,
+      31583
+    ]
+  },
+  "entite_120": {
+    "label": "MISC",
+    "text": "ier public de Venette",
+    "jalons": [
+      31744,
+      31765
+    ]
+  },
+  "entite_121": {
+    "label": "MISC",
+    "text": "Quelque Temps Après",
+    "jalons": [
+      31770,
+      31789
+    ]
+  },
+  "entite_122": {
+    "label": "MISC",
+    "text": "Compiègne le nom « de Marat-sur-Aise",
+    "jalons": [
+      31916,
+      31952
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "Commune de Marat-sur-Aise",
+    "jalons": [
+      32135,
+      32160
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "la Convention « le vœu de la société",
+    "jalons": [
+      32301,
+      32337
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "L'an deuxième de la République",
+    "jalons": [
+      33096,
+      33126
+    ]
+  },
+  "entite_126": {
+    "label": "MISC",
+    "text": "Compiègne et grand nombre de",
+    "jalons": [
+      33307,
+      33335
+    ]
+  },
+  "entite_127": {
+    "label": "MISC",
+    "text": "triomphe de la  Raison et des lumières sur le",
+    "jalons": [
+      33512,
+      33557
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Buste de Rousseau porté par deux frères de la société",
+    "jalons": [
+      34034,
+      34087
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "flambeau de la Raison",
+    "jalons": [
+      34589,
+      34610
+    ]
+  },
+  "entite_130": {
+    "label": "MISC",
+    "text": "l’Ami du Peuple nous laisse",
+    "jalons": [
+      34654,
+      34681
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "Groupe de frères d'armes",
+    "jalons": [
+      34922,
+      34946
+    ]
+  },
+  "entite_132": {
+    "label": "LOC",
+    "text": "la rue de la Fédération",
+    "jalons": [
+      34964,
+      34987
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "le temple de la Liberté",
+    "jalons": [
+      35008,
+      35031
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Saint-Jacques",
+    "jalons": [
+      35043,
+      35056
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Aujourd’hui rue d'Orléans",
+    "jalons": [
+      35535,
+      35560
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Place de l'Hôtel de Ville",
+    "jalons": [
+      35565,
+      35590
+    ]
+  },
+  "entite_137": {
+    "label": "MISC",
+    "text": "ceux de la Raison, de la Liberté et de l'Égalité",
+    "jalons": [
+      36175,
+      36223
+    ]
+  },
+  "entite_138": {
+    "label": "MISC",
+    "text": "sur la tête de la jeune",
+    "jalons": [
+      36353,
+      36376
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "la Liberté et en l’honneur de Pelletier et de Marat",
+    "jalons": [
+      36955,
+      37006
+    ]
+  },
+  "entite_140": {
+    "label": "MISC",
+    "text": "Dans la salle",
+    "jalons": [
+      37278,
+      37291
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "de la Raison",
+    "jalons": [
+      37637,
+      37649
+    ]
+  },
+  "entite_142": {
+    "label": "MISC",
+    "text": "Ainour sacré de la Patrie a",
+    "jalons": [
+      38256,
+      38283
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "M. de Peur",
+    "jalons": [
+      38653,
+      38663
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Sa",
+    "jalons": [
+      38907,
+      38909
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Daignez",
+    "jalons": [
+      39490,
+      39497
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "Ajouta",
+    "jalons": [
+      40289,
+      40295
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Chéteau de Compiègne",
+    "jalons": [
+      40300,
+      40320
+    ]
+  }
+}

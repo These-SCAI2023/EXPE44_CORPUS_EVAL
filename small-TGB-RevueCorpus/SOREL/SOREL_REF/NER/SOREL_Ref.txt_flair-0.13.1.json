@@ -83,1064 +83,1064 @@
     "label": "LOC",
     "text": "France",
     "jalons": [
-      79,
-      85
+      591,
+      597
     ]
   },
   "entite_11": {
     "label": "LOC",
     "text": "Moniteu",
     "jalons": [
-      505,
-      512
+      1017,
+      1024
     ]
   },
   "entite_12": {
     "label": "LOC",
     "text": "la ville de Compiègne",
     "jalons": [
-      4,
-      25
+      1028,
+      1049
     ]
   },
   "entite_13": {
     "label": "LOC",
     "text": "Amis de la",
     "jalons": [
-      213,
-      223
+      1237,
+      1247
     ]
   },
   "entite_14": {
     "label": "LOC",
     "text": "la société des Amis de la Constitution",
     "jalons": [
-      363,
-      401
+      1387,
+      1425
     ]
   },
   "entite_15": {
     "label": "LOC",
     "text": "de la Société des Amis de la",
     "jalons": [
-      304,
-      332
+      1840,
+      1868
     ]
   },
   "entite_16": {
     "label": "MISC",
     "text": "Constitution de Compiègne depuis le",
     "jalons": [
-      333,
-      368
+      1869,
+      1904
     ]
   },
   "entite_17": {
     "label": "LOC",
     "text": "la ville de Compiègne",
     "jalons": [
-      256,
-      277
+      2304,
+      2325
     ]
   },
   "entite_18": {
     "label": "LOC",
     "text": "Réimpression du Moniteur",
     "jalons": [
-      282,
-      306
+      2330,
+      2354
     ]
   },
   "entite_19": {
     "label": "PER",
     "text": "M. Thirial",
     "jalons": [
-      383,
-      393
+      2431,
+      2441
     ]
   },
   "entite_20": {
     "label": "LOC",
     "text": "maire de la ville",
     "jalons": [
-      401,
-      418
+      2449,
+      2466
     ]
   },
   "entite_21": {
     "label": "PER",
     "text": "Stanislas Leféron",
     "jalons": [
-      13,
-      30
+      2573,
+      2590
     ]
   },
   "entite_22": {
     "label": "MISC",
     "text": "Dans cette première réunion",
     "jalons": [
-      32,
-      59
+      2592,
+      2619
     ]
   },
   "entite_23": {
     "label": "MISC",
     "text": "le nom de Société des Amis de la Constitution",
     "jalons": [
-      98,
-      143
+      2658,
+      2703
     ]
   },
   "entite_24": {
     "label": "LOC",
     "text": "Mirabeau",
     "jalons": [
-      493,
-      501
+      3053,
+      3061
     ]
   },
   "entite_25": {
     "label": "MISC",
     "text": "la société des amis de la Constitution de Noyon",
     "jalons": [
-      200,
-      247
+      3272,
+      3319
     ]
   },
   "entite_26": {
     "label": "MISC",
     "text": "Messieurs de Noyon et de les assurer de",
     "jalons": [
-      378,
-      417
+      3450,
+      3489
     ]
   },
   "entite_27": {
     "label": "ORG",
     "text": "Dans la",
     "jalons": [
-      504,
-      511
+      3576,
+      3583
     ]
   },
   "entite_28": {
     "label": "LOC",
     "text": "Pénétrée de",
     "jalons": [
-      172,
-      183
+      3756,
+      3767
     ]
   },
   "entite_29": {
     "label": "MISC",
     "text": "l’assemblée arrêta que la société s’affilierait à celle des Jacobins de Paris et à celle de Beauvais",
     "jalons": [
-      7,
-      107
+      5127,
+      5227
     ]
   },
   "entite_30": {
     "label": "PER",
     "text": "Massieu",
     "jalons": [
-      165,
-      172
+      5285,
+      5292
     ]
   },
   "entite_31": {
     "label": "LOC",
     "text": "de la part des amis de la Constitution de Noyon",
     "jalons": [
-      439,
-      486
+      5559,
+      5606
     ]
   },
   "entite_32": {
     "label": "LOC",
     "text": "laquelle",
     "jalons": [
-      491,
-      499
+      5611,
+      5619
     ]
   },
   "entite_33": {
     "label": "MISC",
     "text": "frères de Compiègne de les",
     "jalons": [
-      12,
-      38
+      5644,
+      5670
     ]
   },
   "entite_34": {
     "label": "LOC",
     "text": "Jacobins de Paris",
     "jalons": [
-      72,
-      89
+      5704,
+      5721
     ]
   },
   "entite_35": {
     "label": "LOC",
     "text": "Jean-Jacques-Rousseau",
     "jalons": [
-      479,
-      500
+      6111,
+      6132
     ]
   },
   "entite_36": {
     "label": "LOC",
     "text": "Il",
     "jalons": [
-      502,
-      504
+      6134,
+      6136
     ]
   },
   "entite_37": {
     "label": "LOC",
     "text": "Rainville",
     "jalons": [
-      309,
-      318
+      6453,
+      6462
     ]
   },
   "entite_38": {
     "label": "LOC",
     "text": "et du curé de Noyon",
     "jalons": [
-      320,
-      339
+      6464,
+      6483
     ]
   },
   "entite_39": {
     "label": "LOC",
     "text": "Gibert",
     "jalons": [
-      341,
-      347
+      6485,
+      6491
     ]
   },
   "entite_40": {
     "label": "PER",
     "text": "M. l’évêque",
     "jalons": [
-      482,
-      493
+      6626,
+      6637
     ]
   },
   "entite_41": {
     "label": "PER",
     "text": "Celui-ci monta",
     "jalons": [
-      497,
-      511
+      6641,
+      6655
     ]
   },
   "entite_42": {
     "label": "PER",
     "text": "Massieu",
     "jalons": [
-      44,
-      51
+      6700,
+      6707
     ]
   },
   "entite_43": {
     "label": "LOC",
     "text": "Givet",
     "jalons": [
-      246,
-      251
+      7414,
+      7419
     ]
   },
   "entite_44": {
     "label": "LOC",
     "text": "Bruxelles",
     "jalons": [
-      265,
-      274
+      7433,
+      7442
     ]
   },
   "entite_45": {
     "label": "LOC",
     "text": "Compiègne",
     "jalons": [
-      88,
-      97
+      8280,
+      8289
     ]
   },
   "entite_46": {
     "label": "PER",
     "text": "Gibert de la joie",
     "jalons": [
-      16,
-      33
+      8720,
+      8737
     ]
   },
   "entite_47": {
     "label": "MISC",
     "text": "universelle qu’avait causée leur présence dans la ville de Compiègne et les assura aussi de",
     "jalons": [
-      34,
-      125
+      8738,
+      8829
     ]
   },
   "entite_48": {
     "label": "PER",
     "text": "Louis-Joseph-Stanislas Leféron",
     "jalons": [
-      348,
-      378
+      9052,
+      9082
     ]
   },
   "entite_49": {
     "label": "LOC",
     "text": "Bertrand",
     "jalons": [
-      97,
-      105
+      9313,
+      9321
     ]
   },
   "entite_50": {
     "label": "LOC",
     "text": "Chabanon",
     "jalons": [
-      125,
-      133
+      9341,
+      9349
     ]
   },
   "entite_51": {
     "label": "MISC",
     "text": "Administratifs et Militaires de vouloir bien",
     "jalons": [
-      342,
-      386
+      9558,
+      9602
     ]
   },
   "entite_52": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      365,
-      370
+      10605,
+      10610
     ]
   },
   "entite_53": {
     "label": "MISC",
     "text": "Le roi avait accepté la Constitution",
     "jalons": [
-      372,
-      408
+      10612,
+      10648
     ]
   },
   "entite_54": {
     "label": "MISC",
     "text": "Aussitôt lecture lut donnée à la société de Compiègne",
     "jalons": [
-      410,
-      463
+      10650,
+      10703
     ]
   },
   "entite_55": {
     "label": "LOC",
     "text": "bonheur et de celui de la",
     "jalons": [
-      279,
-      304
+      11031,
+      11056
     ]
   },
   "entite_56": {
     "label": "LOC",
     "text": "Toutefois",
     "jalons": [
-      315,
-      324
+      11067,
+      11076
     ]
   },
   "entite_57": {
     "label": "LOC",
     "text": "de la plupart des Amis de la Constitution de Compiègne",
     "jalons": [
-      392,
-      446
+      11144,
+      11198
     ]
   },
   "entite_58": {
     "label": "LOC",
     "text": "Déjà",
     "jalons": [
-      464,
-      468
+      11216,
+      11220
     ]
   },
   "entite_59": {
     "label": "LOC",
     "text": "Berger",
     "jalons": [
-      267,
-      273
+      11531,
+      11537
     ]
   },
   "entite_60": {
     "label": "LOC",
     "text": "Saiget",
     "jalons": [
-      275,
-      281
+      11539,
+      11545
     ]
   },
   "entite_61": {
     "label": "MISC",
     "text": "Duchauffour",
     "jalons": [
-      283,
-      294
+      11547,
+      11558
     ]
   },
   "entite_62": {
     "label": "MISC",
     "text": "Wattelet",
     "jalons": [
-      296,
-      304
+      11560,
+      11568
     ]
   },
   "entite_63": {
     "label": "MISC",
     "text": "Mercier",
     "jalons": [
-      306,
-      313
+      11570,
+      11577
     ]
   },
   "entite_64": {
     "label": "MISC",
     "text": "Courtois",
     "jalons": [
-      315,
-      323
+      11579,
+      11587
     ]
   },
   "entite_65": {
     "label": "MISC",
     "text": "Lambin",
     "jalons": [
-      325,
-      331
+      11589,
+      11595
     ]
   },
   "entite_66": {
     "label": "MISC",
     "text": "Veron",
     "jalons": [
-      333,
-      338
+      11597,
+      11602
     ]
   },
   "entite_67": {
     "label": "LOC",
     "text": "Rey",
     "jalons": [
-      340,
-      343
+      11604,
+      11607
     ]
   },
   "entite_68": {
     "label": "MISC",
     "text": "Beaugrand",
     "jalons": [
-      345,
-      354
+      11609,
+      11618
     ]
   },
   "entite_69": {
     "label": "MISC",
     "text": "Cuambon",
     "jalons": [
-      356,
-      363
+      11620,
+      11627
     ]
   },
   "entite_70": {
     "label": "MISC",
     "text": "Mosnies",
     "jalons": [
-      367,
-      374
+      11631,
+      11638
     ]
   },
   "entite_71": {
     "label": "ORG",
     "text": "Thibaut et Etienne Poulain",
     "jalons": [
-      470,
-      496
+      11734,
+      11760
     ]
   },
   "entite_72": {
     "label": "LOC",
     "text": "la Société des Amis de la Constitution de cette ville",
     "jalons": [
-      10,
-      63
+      11786,
+      11839
     ]
   },
   "entite_73": {
     "label": "MISC",
     "text": "la dissolution de la société des Amis de la Constitution fut prononcée à l’unanimité, et les Amis de la République se",
     "jalons": [
-      263,
-      380
+      13575,
+      13692
     ]
   },
   "entite_74": {
     "label": "MISC",
     "text": "La composition de cette",
     "jalons": [
-      489,
-      512
+      13801,
+      13824
     ]
   },
   "entite_75": {
     "label": "ORG",
     "text": "Compiègne la nouvelle société des Ami",
     "jalons": [
-      475,
-      512
+      14811,
+      14848
     ]
   },
   "entite_76": {
     "label": "LOC",
     "text": "de la République",
     "jalons": [
-      2,
-      18
+      14850,
+      14866
     ]
   },
   "entite_77": {
     "label": "MISC",
     "text": "Dès la séance",
     "jalons": [
-      21,
-      34
+      14869,
+      14882
     ]
   },
   "entite_78": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      273,
-      278
+      15121,
+      15126
     ]
   },
   "entite_79": {
     "label": "MISC",
     "text": "la Révolution qui avait débarrassé la France des « rois et de la",
     "jalons": [
-      340,
-      404
+      15188,
+      15252
     ]
   },
   "entite_80": {
     "label": "LOC",
     "text": "Compiègne",
     "jalons": [
-      469,
-      478
+      15317,
+      15326
     ]
   },
   "entite_81": {
     "label": "MISC",
     "text": "Que les membres de la société qui",
     "jalons": [
-      50,
-      83
+      16434,
+      16467
     ]
   },
   "entite_82": {
     "label": "LOC",
     "text": "Marseillais",
     "jalons": [
-      183,
-      194
+      16567,
+      16578
     ]
   },
   "entite_83": {
     "label": "LOC",
     "text": "Le nom de la",
     "jalons": [
-      141,
-      153
+      17037,
+      17049
     ]
   },
   "entite_84": {
     "label": "PER",
     "text": "M. Lambert de Ballyhier",
     "jalons": [
-      192,
-      215
+      17088,
+      17111
     ]
   },
   "entite_85": {
     "label": "LOC",
     "text": "Nord",
     "jalons": [
-      435,
-      439
+      18355,
+      18359
     ]
   },
   "entite_86": {
     "label": "PER",
     "text": "Enfin le quartidi",
     "jalons": [
-      489,
-      506
+      19433,
+      19450
     ]
   },
   "entite_87": {
     "label": "MISC",
     "text": "Vive Louis XVII",
     "jalons": [
-      421,
-      436
+      19877,
+      19892
     ]
   },
   "entite_88": {
     "label": "PER",
     "text": "seu I de Marat sur",
     "jalons": [
-      5,
-      23
+      20997,
+      21015
     ]
   },
   "entite_89": {
     "label": "LOC",
     "text": "la société des Amis de la République de Compiègne",
     "jalons": [
-      24,
-      73
+      21016,
+      21065
     ]
   },
   "entite_90": {
     "label": "LOC",
     "text": "hPubliciste de la République",
     "jalons": [
-      92,
-      120
+      21084,
+      21112
     ]
   },
   "entite_91": {
     "label": "LOC",
     "text": "Compiègne",
     "jalons": [
-      295,
-      304
+      21287,
+      21296
     ]
   },
   "entite_92": {
     "label": "LOC",
     "text": "de la République",
     "jalons": [
-      335,
-      351
+      21327,
+      21343
     ]
   },
   "entite_93": {
     "label": "LOC",
     "text": "Jeviens de",
     "jalons": [
-      51,
-      61
+      21555,
+      21565
     ]
   },
   "entite_94": {
     "label": "LOC",
     "text": "Mayenne",
     "jalons": [
-      250,
-      257
+      21754,
+      21761
     ]
   },
   "entite_95": {
     "label": "LOC",
     "text": "Loire",
     "jalons": [
-      261,
-      266
+      21765,
+      21770
     ]
   },
   "entite_96": {
     "label": "LOC",
     "text": "Ourscamp",
     "jalons": [
-      192,
-      200
+      22208,
+      22216
     ]
   },
   "entite_97": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      257,
-      262
+      22273,
+      22278
     ]
   },
   "entite_98": {
     "label": "LOC",
     "text": "de la Montagne",
     "jalons": [
-      244,
-      258
+      24308,
+      24322
     ]
   },
   "entite_99": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      346,
-      351
+      24410,
+      24415
     ]
   },
   "entite_100": {
     "label": "MISC",
     "text": "ilà l’effet de la prévention et de la sottise",
     "jalons": [
-      0,
-      45
+      24576,
+      24621
     ]
   },
   "entite_101": {
     "label": "LOC",
     "text": "Prenez",
     "jalons": [
-      81,
-      87
+      24657,
+      24663
     ]
   },
   "entite_102": {
     "label": "LOC",
     "text": "Aussitôt",
     "jalons": [
-      498,
-      506
+      25074,
+      25082
     ]
   },
   "entite_103": {
     "label": "LOC",
     "text": "la ville de Compiègne la",
     "jalons": [
-      72,
-      96
+      25160,
+      25184
     ]
   },
   "entite_104": {
     "label": "LOC",
     "text": "Compiègne",
     "jalons": [
-      383,
-      392
+      25471,
+      25480
     ]
   },
   "entite_105": {
     "label": "LOC",
     "text": "Corday",
     "jalons": [
-      223,
-      229
+      26335,
+      26341
     ]
   },
   "entite_106": {
     "label": "LOC",
     "text": "Bientôt la nouvelle de la mort de",
     "jalons": [
-      433,
-      466
+      26545,
+      26578
     ]
   },
   "entite_107": {
     "label": "LOC",
     "text": "Compiègne",
     "jalons": [
-      483,
-      492
+      26595,
+      26604
     ]
   },
   "entite_108": {
     "label": "LOC",
     "text": "Rousseau, de Brutus et de Lepclletier-Saint-Fargeau",
     "jalons": [
-      135,
-      186
+      26759,
+      26810
     ]
   },
   "entite_109": {
     "label": "PER",
     "text": "Le Roy",
     "jalons": [
-      73,
-      79
+      27209,
+      27215
     ]
   },
   "entite_110": {
     "label": "PER",
     "text": "lui donna le nom de Marat",
     "jalons": [
-      268,
-      293
+      27404,
+      27429
     ]
   },
   "entite_111": {
     "label": "LOC",
     "text": "de Venette",
     "jalons": [
-      459,
-      469
+      27595,
+      27605
     ]
   },
   "entite_112": {
     "label": "MISC",
     "text": "Le président proposa de donner à la commune de Compiègne le nom de Marat-sur-Oise",
     "jalons": [
-      58,
-      139
+      27706,
+      27787
     ]
   },
   "entite_113": {
     "label": "MISC",
     "text": "Commune de Marat-sur-Oise",
     "jalons": [
-      317,
-      342
+      27965,
+      27990
     ]
   },
   "entite_114": {
     "label": "MISC",
     "text": "lle de Compiègne fut en émoi",
     "jalons": [
-      0,
-      28
+      28672,
+      28700
     ]
   },
   "entite_115": {
     "label": "LOC",
     "text": "L’an deuxième de la République",
     "jalons": [
-      233,
-      263
+      28905,
+      28935
     ]
   },
   "entite_116": {
     "label": "PER",
     "text": "Le Pelletier",
     "jalons": [
-      499,
-      511
+      29171,
+      29183
     ]
   },
   "entite_117": {
     "label": "MISC",
     "text": "martyrs de la Révolution française",
     "jalons": [
-      20,
-      54
+      29204,
+      29238
     ]
   },
   "entite_118": {
     "label": "MISC",
     "text": "le triomphe de la Raison et des lumières sur le fanatisme et les",
     "jalons": [
-      91,
-      155
+      29275,
+      29339
     ]
   },
   "entite_119": {
     "label": "MISC",
     "text": "Groupe de citoyennes portant des fleurs et le flambeau de la Raison",
     "jalons": [
-      85,
-      152
+      30293,
+      30360
     ]
   },
   "entite_120": {
     "label": "MISC",
     "text": "Buste de Pelletier Saint-Fargeau",
     "jalons": [
-      244,
-      276
+      30452,
+      30484
     ]
   },
   "entite_121": {
     "label": "MISC",
     "text": "Groupe de frères d’armes",
     "jalons": [
-      458,
-      482
+      30666,
+      30690
     ]
   },
   "entite_122": {
     "label": "MISC",
     "text": "En suivant la rue de la F",
     "jalons": [
-      487,
-      512
+      30695,
+      30720
     ]
   },
   "entite_123": {
     "label": "LOC",
     "text": "le temple de la Liberté",
     "jalons": [
-      30,
-      53
+      30750,
+      30773
     ]
   },
   "entite_124": {
     "label": "LOC",
     "text": "Saint-Jacques",
     "jalons": [
-      65,
-      78
+      30785,
+      30798
     ]
   },
   "entite_125": {
     "label": "MISC",
     "text": "la place de la Loi",
     "jalons": [
-      1,
-      19
+      31233,
+      31251
     ]
   },
   "entite_126": {
     "label": "PER",
     "text": "Le château",
     "jalons": [
-      26,
-      36
+      31258,
+      31268
     ]
   },
   "entite_127": {
     "label": "PER",
     "text": "Aujourd’hui rue d’Orléans",
     "jalons": [
-      41,
-      66
+      31273,
+      31298
     ]
   },
   "entite_128": {
     "label": "PER",
     "text": "Place de l’Hôtel de Ville",
     "jalons": [
-      71,
-      96
+      31303,
+      31328
     ]
   },
   "entite_129": {
     "label": "LOC",
     "text": "le temple de la Raison",
     "jalons": [
-      378,
-      400
+      31610,
+      31632
     ]
   },
   "entite_130": {
     "label": "LOC",
     "text": "frère de la",
     "jalons": [
-      424,
-      435
+      31656,
+      31667
     ]
   },
   "entite_131": {
     "label": "MISC",
     "text": "de la Liberté et de l’Égalité",
     "jalons": [
-      177,
-      206
+      31921,
+      31950
     ]
   },
   "entite_132": {
     "label": "MISC",
     "text": "la Liberté et en l’honneur de Pelletier et de Marat",
     "jalons": [
-      423,
-      474
+      32679,
+      32730
     ]
   },
   "entite_133": {
     "label": "LOC",
     "text": "de la Raison",
     "jalons": [
-      81,
-      93
+      33361,
+      33373
     ]
   },
   "entite_134": {
     "label": "LOC",
     "text": "de la République",
     "jalons": [
-      495,
-      511
+      33775,
+      33791
     ]
   },
   "entite_135": {
     "label": "MISC",
     "text": "Eglise Saint-Antoine",
     "jalons": [
-      33,
-      53
+      33825,
+      33845
     ]
   },
   "entite_136": {
     "label": "MISC",
     "text": "sacré de la Patrie a",
     "jalons": [
-      183,
-      203
+      33975,
+      33995
     ]
   },
   "entite_137": {
     "label": "PER",
     "text": "M. de Pronnay",
     "jalons": [
-      57,
-      70
+      34361,
+      34374
     ]
   },
   "entite_138": {
     "label": "LOC",
     "text": "Louis.le-Bienfaisant",
     "jalons": [
-      191,
-      211
+      34495,
+      34515
     ]
   },
   "entite_139": {
     "label": "LOC",
     "text": "Daignez",
     "jalons": [
-      368,
-      375
+      35184,
+      35191
     ]
   },
   "entite_140": {
     "label": "LOC",
     "text": "Vatout",
     "jalons": [
-      142,
-      148
+      35982,
+      35988
     ]
   },
   "entite_141": {
     "label": "LOC",
     "text": "le Château de Compiègne",
     "jalons": [
-      150,
-      173
+      35990,
+      36013
     ]
   },
   "entite_142": {
     "label": "LOC",
     "text": "Bossuet",
     "jalons": [
-      226,
-      233
+      36578,
+      36585
     ]
   }
 }

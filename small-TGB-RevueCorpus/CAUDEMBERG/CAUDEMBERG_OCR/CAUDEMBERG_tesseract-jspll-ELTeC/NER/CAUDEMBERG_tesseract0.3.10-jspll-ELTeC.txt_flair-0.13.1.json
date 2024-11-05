@@ -1,0 +1,2178 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gallica  Inclina",
+    "jalons": [
+      6,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "L'enfant des Apennins",
+    "jalons": [
+      27,
+      48
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Par Mlle L. G. de C***",
+    "jalons": [
+      60,
+      82
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      108,
+      140
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Gallica     Girard de Caudemberg",
+    "jalons": [
+      146,
+      178
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Louise",
+    "jalons": [
+      180,
+      186
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Aile",
+    "jalons": [
+      188,
+      192
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      195,
+      210
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      212,
+      219
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "ou L'enfant des Apennins",
+    "jalons": [
+      221,
+      245
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "G. de C***",
+    "jalons": [
+      270,
+      280
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      874,
+      880
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "de Gallica sont la propriété de la BnF au sens de l'ar",
+    "jalons": [
+      1482,
+      1536
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      3095,
+      3101
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      3979,
+      3984
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Libraires",
+    "jalons": [
+      4013,
+      4022
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Quai des Augustins",
+    "jalons": [
+      4024,
+      4042
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      4359,
+      4365
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Gonzalve",
+    "jalons": [
+      5214,
+      5222
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Alphonse",
+    "jalons": [
+      5326,
+      5334
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      5837,
+      5845
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Albert s'entretenir avec Juliette",
+    "jalons": [
+      6170,
+      6203
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      6307,
+      6314
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      6566,
+      6572
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "que D'Azil",
+    "jalons": [
+      6854,
+      6864
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      7228,
+      7234
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Dès que le marquis la",
+    "jalons": [
+      7636,
+      7657
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "lui donna des marques",
+    "jalons": [
+      7698,
+      7719
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      7924,
+      7932
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      8410,
+      8417
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Capäble de les faire",
+    "jalons": [
+      8619,
+      8639
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "de Gonzalve",
+    "jalons": [
+      11173,
+      11184
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      11660,
+      11666
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      11713,
+      11721
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Lucie",
+    "jalons": [
+      12187,
+      12192
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Raqulne",
+    "jalons": [
+      12561,
+      12568
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "lemande et Luco de trahison , et ellE m- naça de les immoler",
+    "jalons": [
+      14902,
+      14962
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "baronne donna la clé de la “oreillE",
+    "jalons": [
+      15361,
+      15396
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Pourremédier",
+    "jalons": [
+      16366,
+      16378
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      16660,
+      16667
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "des Jieux",
+    "jalons": [
+      16903,
+      16912
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      17593,
+      17599
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Lazaro",
+    "jalons": [
+      17888,
+      17894
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      18783,
+      18790
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Baronbe",
+    "jalons": [
+      22030,
+      22037
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "pu Y'atteindre",
+    "jalons": [
+      23041,
+      23055
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "à la vie de cette",
+    "jalons": [
+      24064,
+      24081
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Fulvia",
+    "jalons": [
+      25309,
+      25315
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      25429,
+      25436
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Mais Juliette",
+    "jalons": [
+      25949,
+      25962
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      27824,
+      27829
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      28168,
+      28174
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "De Ré",
+    "jalons": [
+      29220,
+      29225
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      32578,
+      32584
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "INCLI",
+    "jalons": [
+      35323,
+      35328
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      35363,
+      35369
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "l’arracher des mains de l'amant de Wilmina",
+    "jalons": [
+      36884,
+      36926
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Qui la",
+    "jalons": [
+      37369,
+      37375
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      37444,
+      37449
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      38905,
+      38909
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      40035,
+      40042
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "J’ignore",
+    "jalons": [
+      42197,
+      42205
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Ami",
+    "jalons": [
+      45528,
+      45531
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Aubin",
+    "jalons": [
+      46580,
+      46585
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      47111,
+      47116
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Paspect de Passassin de Malsina",
+    "jalons": [
+      48943,
+      48974
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Mais J'ai",
+    "jalons": [
+      49620,
+      49629
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "ême au nom de l'humanité",
+    "jalons": [
+      50176,
+      50200
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Hélas",
+    "jalons": [
+      50679,
+      50684
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Wilminà",
+    "jalons": [
+      51192,
+      51199
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Raoul",
+    "jalons": [
+      52463,
+      52468
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "loux du jeune Gonzalve",
+    "jalons": [
+      53785,
+      53807
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "Alphonse",
+    "jalons": [
+      54710,
+      54718
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Joi",
+    "jalons": [
+      54781,
+      54784
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      55175,
+      55182
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Wilmna",
+    "jalons": [
+      55794,
+      55800
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      56251,
+      56258
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "il sait de quel",
+    "jalons": [
+      56832,
+      56847
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "elon lui",
+    "jalons": [
+      57344,
+      57352
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      58125,
+      58131
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Jesse",
+    "jalons": [
+      58917,
+      58922
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "és de larmes",
+    "jalons": [
+      59392,
+      59404
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "celui de la sagesse et de la",
+    "jalons": [
+      59761,
+      59789
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "Wilmira",
+    "jalons": [
+      60910,
+      60917
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Lazaro",
+    "jalons": [
+      63259,
+      63265
+    ]
+  },
+  "entite_85": {
+    "label": "MISC",
+    "text": "qu'aperçur Wilmina en ouvrant les yeux",
+    "jalons": [
+      65273,
+      65311
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      65798,
+      65803
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "mInnA",
+    "jalons": [
+      68287,
+      68292
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "L’hôt",
+    "jalons": [
+      68603,
+      68608
+    ]
+  },
+  "entite_89": {
+    "label": "MISC",
+    "text": "qui travaillait sur le bord de la for” leur di qu'au lever du soleil",
+    "jalons": [
+      70145,
+      70213
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "d'Albert",
+    "jalons": [
+      72363,
+      72371
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Albert le",
+    "jalons": [
+      73632,
+      73641
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Dès",
+    "jalons": [
+      74237,
+      74240
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Alberti",
+    "jalons": [
+      74446,
+      74453
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "Gouzalve",
+    "jalons": [
+      76562,
+      76570
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "prochérent de la Villa",
+    "jalons": [
+      77187,
+      77209
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Rosa",
+    "jalons": [
+      77211,
+      77215
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Vraiment",
+    "jalons": [
+      79213,
+      79221
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "di Wilmina",
+    "jalons": [
+      79488,
+      79498
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "Siguora",
+    "jalons": [
+      79861,
+      79868
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "pauvre monbond",
+    "jalons": [
+      79876,
+      79890
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      81168,
+      81172
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      82219,
+      82226
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "bonheur de le revoir",
+    "jalons": [
+      82950,
+      82970
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Svrie",
+    "jalons": [
+      83595,
+      83600
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "par les larmes et le désespoir de la comtesse",
+    "jalons": [
+      84481,
+      84526
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Mais GErtrude N",
+    "jalons": [
+      85964,
+      85979
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "de Wi",
+    "jalons": [
+      88059,
+      88064
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "T. V.",
+    "jalons": [
+      88577,
+      88582
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Malvina",
+    "jalons": [
+      89520,
+      89527
+    ]
+  },
+  "entite_110": {
+    "label": "PER",
+    "text": "Jevai le",
+    "jalons": [
+      89619,
+      89627
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "Lebranler",
+    "jalons": [
+      90690,
+      90699
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "ZJecteur",
+    "jalons": [
+      92100,
+      92108
+    ]
+  },
+  "entite_113": {
+    "label": "ORG",
+    "text": "Depuis la mort de Bertrude",
+    "jalons": [
+      92645,
+      92671
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "Raoul",
+    "jalons": [
+      94468,
+      94473
+    ]
+  },
+  "entite_115": {
+    "label": "MISC",
+    "text": "Alors Lazaro entra dans les",
+    "jalons": [
+      95291,
+      95318
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "la forteresse de Castello",
+    "jalons": [
+      95690,
+      95715
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Bianco que",
+    "jalons": [
+      95717,
+      95727
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Couvert de sueur",
+    "jalons": [
+      97753,
+      97769
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      98267,
+      98274
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Voici",
+    "jalons": [
+      98388,
+      98393
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Souffrez",
+    "jalons": [
+      98709,
+      98717
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      98791,
+      98798
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "en les instans que le père con",
+    "jalons": [
+      99840,
+      99870
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "d'Avarello de le",
+    "jalons": [
+      100868,
+      100884
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "Lui-mêm",
+    "jalons": [
+      101881,
+      101888
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "TERRE",
+    "jalons": [
+      102751,
+      102756
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      102761,
+      102768
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "Cézarini",
+    "jalons": [
+      104064,
+      104072
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "chemin de la Villa-Rosa",
+    "jalons": [
+      104850,
+      104873
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Fuyons",
+    "jalons": [
+      107053,
+      107059
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Fulvis",
+    "jalons": [
+      107497,
+      107503
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Gonzalve et Cé",
+    "jalons": [
+      108530,
+      108544
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Fulvia",
+    "jalons": [
+      108669,
+      108675
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Alphonse",
+    "jalons": [
+      108987,
+      108995
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "Gonzalve",
+    "jalons": [
+      109324,
+      109332
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "de Gonzalve",
+    "jalons": [
+      112108,
+      112119
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "Colonia",
+    "jalons": [
+      112608,
+      112615
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      114594,
+      114602
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "Alors le père Gézarini qui",
+    "jalons": [
+      114660,
+      114686
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "don Louis",
+    "jalons": [
+      114698,
+      114707
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "Lazaro",
+    "jalons": [
+      114994,
+      115000
+    ]
+  },
+  "entite_142": {
+    "label": "ORG",
+    "text": "celui de la bonté",
+    "jalons": [
+      115172,
+      115189
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Colonia",
+    "jalons": [
+      116722,
+      116729
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Alphonse",
+    "jalons": [
+      116770,
+      116778
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      117211,
+      117221
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "Puisque",
+    "jalons": [
+      117224,
+      117231
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Colonia",
+    "jalons": [
+      117806,
+      117813
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      121847,
+      121854
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "stonora",
+    "jalons": [
+      122881,
+      122888
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      122970,
+      122978
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      124849,
+      124857
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      124859,
+      124866
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Alphonse",
+    "jalons": [
+      125875,
+      125883
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "maine de la Villa-Rosa",
+    "jalons": [
+      125930,
+      125952
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Abrozzia",
+    "jalons": [
+      127491,
+      127499
+    ]
+  },
+  "entite_156": {
+    "label": "MISC",
+    "text": "C'était un homme de",
+    "jalons": [
+      127501,
+      127520
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Abrozzia",
+    "jalons": [
+      130523,
+      130531
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Ecoutez",
+    "jalons": [
+      130724,
+      130731
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Abrozzia",
+    "jalons": [
+      131570,
+      131578
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "de se",
+    "jalons": [
+      132608,
+      132613
+    ]
+  },
+  "entite_161": {
+    "label": "ORG",
+    "text": "voir bannir à jamais de sa patrie",
+    "jalons": [
+      132614,
+      132647
+    ]
+  },
+  "entite_162": {
+    "label": "MISC",
+    "text": "celui que lu causaient la perte de sa fortune et la vue de sa fille",
+    "jalons": [
+      132660,
+      132727
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Abrozzi",
+    "jalons": [
+      133625,
+      133632
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "cher Alphonse",
+    "jalons": [
+      134315,
+      134328
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Malvina",
+    "jalons": [
+      136613,
+      136620
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "sion de lui",
+    "jalons": [
+      136704,
+      136715
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Toscane",
+    "jalons": [
+      138467,
+      138474
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "duc Colonia",
+    "jalons": [
+      138493,
+      138504
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Carlos me",
+    "jalons": [
+      140289,
+      140298
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Je l’avouerai",
+    "jalons": [
+      140771,
+      140784
+    ]
+  },
+  "entite_171": {
+    "label": "MISC",
+    "text": "La mort du signor Abrozzia avait achevé d’ébranler la santé de sa mère",
+    "jalons": [
+      141841,
+      141911
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "J'eusse bien",
+    "jalons": [
+      141980,
+      141992
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Carlos n'avait",
+    "jalons": [
+      142767,
+      142781
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      142926,
+      142930
+    ]
+  },
+  "entite_175": {
+    "label": "LOC",
+    "text": "Jaterre",
+    "jalons": [
+      144567,
+      144574
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Malvina",
+    "jalons": [
+      144599,
+      144606
+    ]
+  },
+  "entite_177": {
+    "label": "MISC",
+    "text": "Depuis la mort de la comtesse",
+    "jalons": [
+      146482,
+      146511
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Montagne",
+    "jalons": [
+      146946,
+      146954
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "Malvina de recevoir",
+    "jalons": [
+      148007,
+      148026
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Alphonse",
+    "jalons": [
+      148458,
+      148466
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "la fille",
+    "jalons": [
+      148468,
+      148476
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "Jos de",
+    "jalons": [
+      148986,
+      148992
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "eu de jours",
+    "jalons": [
+      150016,
+      150027
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      150076,
+      150082
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "J'en restai",
+    "jalons": [
+      150514,
+      150525
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": "torii au sein de la",
+    "jalons": [
+      151040,
+      151059
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      151156,
+      151164
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "La douleur de me séparer de Malvina",
+    "jalons": [
+      151167,
+      151202
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Malvina",
+    "jalons": [
+      153739,
+      153746
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Colonia",
+    "jalons": [
+      154624,
+      154631
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "T. Le",
+    "jalons": [
+      155640,
+      155645
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "la berreloncette  de l'argent et des titres qui Pussent la",
+    "jalons": [
+      156672,
+      156730
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Lérinse",
+    "jalons": [
+      156825,
+      156832
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Lorsque Carlo",
+    "jalons": [
+      158219,
+      158232
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      158951,
+      158957
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      159331,
+      159339
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      160191,
+      160196
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Ecoutez",
+    "jalons": [
+      160318,
+      160325
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "enfin le marquis ayant l'air de vou",
+    "jalons": [
+      162329,
+      162364
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Partez",
+    "jalons": [
+      163169,
+      163175
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Malvina",
+    "jalons": [
+      163511,
+      163518
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Rimini",
+    "jalons": [
+      163728,
+      163734
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Malvina",
+    "jalons": [
+      163819,
+      163826
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "Je poursuivais Raoul",
+    "jalons": [
+      165891,
+      165911
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "J'ava",
+    "jalons": [
+      166907,
+      166912
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      166962,
+      166968
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Raoul",
+    "jalons": [
+      167008,
+      167013
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Afrique",
+    "jalons": [
+      171964,
+      171971
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Hottentots",
+    "jalons": [
+      171998,
+      172008
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      172516,
+      172522
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "WILMI",
+    "jalons": [
+      174587,
+      174592
+    ]
+  },
+  "entite_212": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      174999,
+      175005
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      175293,
+      175299
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "Dieu",
+    "jalons": [
+      176123,
+      176127
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      178159,
+      178165
+    ]
+  },
+  "entite_216": {
+    "label": "ORG",
+    "text": "Le ciel",
+    "jalons": [
+      185333,
+      185340
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "T. V.",
+    "jalons": [
+      185650,
+      185655
+    ]
+  },
+  "entite_218": {
+    "label": "LOC",
+    "text": "Louis",
+    "jalons": [
+      189292,
+      189297
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "Ivre de",
+    "jalons": [
+      190838,
+      190845
+    ]
+  },
+  "entite_220": {
+    "label": "MISC",
+    "text": "récédes du comte et de",
+    "jalons": [
+      190976,
+      190998
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "don Louis",
+    "jalons": [
+      190999,
+      191008
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "suivis d’Alberti, de Juhette et de tous les gens de la",
+    "jalons": [
+      191010,
+      191064
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Amitié",
+    "jalons": [
+      192721,
+      192727
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      192886,
+      192894
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      193119,
+      193124
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      193904,
+      193911
+    ]
+  },
+  "entite_227": {
+    "label": "MISC",
+    "text": "Chacun fut de l'avis de la jeune signora",
+    "jalons": [
+      194370,
+      194410
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      196239,
+      196247
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "Dès que Wilmina en fut maîtresse",
+    "jalons": [
+      196909,
+      196941
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "la chaumière de Laurentino",
+    "jalons": [
+      197059,
+      197085
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Aussi la pensée de",
+    "jalons": [
+      197806,
+      197824
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      198123,
+      198131
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "Apernins",
+    "jalons": [
+      198155,
+      198163
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "laPeyre",
+    "jalons": [
+      198189,
+      198196
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Bianchi",
+    "jalons": [
+      198275,
+      198282
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "Visiter le tombeau de Maria était un devoir cher et sacré",
+    "jalons": [
+      198835,
+      198892
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Va",
+    "jalons": [
+      199271,
+      199273
+    ]
+  },
+  "entite_238": {
+    "label": "ORG",
+    "text": "INCLINA",
+    "jalons": [
+      199673,
+      199680
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Lazaro",
+    "jalons": [
+      201045,
+      201051
+    ]
+  },
+  "entite_240": {
+    "label": "MISC",
+    "text": "J'ai vu de",
+    "jalons": [
+      201984,
+      201994
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Alberu",
+    "jalons": [
+      202163,
+      202169
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Lazaro se reti",
+    "jalons": [
+      202226,
+      202240
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Gonzalve",
+    "jalons": [
+      203010,
+      203018
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Raoul",
+    "jalons": [
+      203162,
+      203167
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      203767,
+      203773
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Alterbourg",
+    "jalons": [
+      204288,
+      204298
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      205545,
+      205550
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Malvina",
+    "jalons": [
+      205981,
+      205988
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "Alphonse",
+    "jalons": [
+      206421,
+      206429
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "T. Y.",
+    "jalons": [
+      207650,
+      207655
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Laurentino",
+    "jalons": [
+      209893,
+      209903
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      210612,
+      210619
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Laurentino",
+    "jalons": [
+      210818,
+      210828
+    ]
+  },
+  "entite_254": {
+    "label": "MISC",
+    "text": "Ceci avait été le secret de Gonzalve",
+    "jalons": [
+      212074,
+      212110
+    ]
+  },
+  "entite_255": {
+    "label": "ORG",
+    "text": "La Anse Es",
+    "jalons": [
+      213262,
+      213272
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "Cézarini",
+    "jalons": [
+      213346,
+      213354
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Wilmina",
+    "jalons": [
+      214030,
+      214037
+    ]
+  },
+  "entite_258": {
+    "label": "MISC",
+    "text": "dans la maison des  ducs Colonia , ainsi que Nicette, sœur de  Juliette et seconde fille d'Albert",
+    "jalons": [
+      214555,
+      214652
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      215008,
+      215016
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Louis",
+    "jalons": [
+      215040,
+      215045
+    ]
+  },
+  "entite_261": {
+    "label": "MISC",
+    "text": "Au moment d'entrer dans la ville",
+    "jalons": [
+      215048,
+      215080
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      215521,
+      215528
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Albert",
+    "jalons": [
+      215760,
+      215766
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Colonia",
+    "jalons": [
+      215968,
+      215975
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Ignore",
+    "jalons": [
+      216397,
+      216403
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      216889,
+      216897
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Paolo",
+    "jalons": [
+      217101,
+      217106
+    ]
+  },
+  "entite_268": {
+    "label": "MISC",
+    "text": "et ses compagnons de se réfugier dans les Anennins",
+    "jalons": [
+      217107,
+      217157
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Celui",
+    "jalons": [
+      217394,
+      217399
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Colonia",
+    "jalons": [
+      217495,
+      217502
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Ja peine de Mare",
+    "jalons": [
+      217613,
+      217629
+    ]
+  }
+}

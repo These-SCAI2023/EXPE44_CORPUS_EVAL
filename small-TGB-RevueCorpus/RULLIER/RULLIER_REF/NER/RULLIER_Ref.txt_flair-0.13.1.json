@@ -19,904 +19,904 @@
     "label": "LOC",
     "text": "de la dignité des Peuples, que de la majesté des Rois",
     "jalons": [
-      245,
-      298
+      757,
+      810
     ]
   },
   "entite_3": {
     "label": "MISC",
     "text": "Chantre de l’amour et du Vin",
     "jalons": [
-      406,
-      434
+      2966,
+      2994
     ]
   },
   "entite_4": {
     "label": "LOC",
     "text": "Anacréon",
     "jalons": [
-      436,
-      444
+      2996,
+      3004
     ]
   },
   "entite_5": {
     "label": "LOC",
     "text": "Couronn",
     "jalons": [
-      505,
-      512
+      3065,
+      3072
     ]
   },
   "entite_6": {
     "label": "LOC",
     "text": "Là",
     "jalons": [
-      120,
-      122
+      3192,
+      3194
     ]
   },
   "entite_7": {
     "label": "LOC",
     "text": "Alcée",
     "jalons": [
-      181,
-      186
+      3253,
+      3258
     ]
   },
   "entite_8": {
     "label": "LOC",
     "text": "Délie",
     "jalons": [
-      344,
-      349
+      3416,
+      3421
     ]
   },
   "entite_9": {
     "label": "MISC",
     "text": "Ovide oubliait Et les déserts de la Scylhie , Et les injures de César",
     "jalons": [
-      363,
-      432
+      3435,
+      3504
     ]
   },
   "entite_10": {
     "label": "LOC",
     "text": "Versait",
     "jalons": [
-      474,
-      481
+      3546,
+      3553
     ]
   },
   "entite_11": {
     "label": "PER",
     "text": "dare ci sur Boileau",
     "jalons": [
-      0,
-      19
+      3584,
+      3603
     ]
   },
   "entite_12": {
     "label": "LOC",
     "text": "Chapelle",
     "jalons": [
-      257,
-      265
+      3841,
+      3849
     ]
   },
   "entite_13": {
     "label": "MISC",
     "text": "Chaulicu",
     "jalons": [
-      285,
-      293
+      3869,
+      3877
     ]
   },
   "entite_14": {
     "label": "MISC",
     "text": "Poètes du plaisir",
     "jalons": [
-      295,
-      312
+      3879,
+      3896
     ]
   },
   "entite_15": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      324,
-      330
+      3908,
+      3914
     ]
   },
   "entite_16": {
     "label": "PER",
     "text": "Tendre Parny",
     "jalons": [
-      369,
-      381
+      3953,
+      3965
     ]
   },
   "entite_17": {
     "label": "PER",
     "text": "Betnis !",
     "jalons": [
-      448,
-      456
+      4032,
+      4040
     ]
   },
   "entite_18": {
     "label": "PER",
     "text": "Ménandre",
     "jalons": [
-      494,
-      502
+      4078,
+      4086
     ]
   },
   "entite_19": {
     "label": "MISC",
     "text": "Téren",
     "jalons": [
-      507,
-      512
+      4091,
+      4096
     ]
   },
   "entite_20": {
     "label": "MISC",
     "text": "ce et Molière, Et le mordant Lucille",
     "jalons": [
-      0,
-      36
+      4096,
+      4132
     ]
   },
   "entite_21": {
     "label": "PER",
     "text": "Tapre Juvénal",
     "jalons": [
-      41,
-      54
+      4137,
+      4150
     ]
   },
   "entite_22": {
     "label": "MISC",
     "text": "la voix de Corine",
     "jalons": [
-      55,
-      72
+      4663,
+      4680
     ]
   },
   "entite_23": {
     "label": "LOC",
     "text": "Milton",
     "jalons": [
-      258,
-      264
+      4866,
+      4872
     ]
   },
   "entite_24": {
     "label": "ORG",
     "text": "La gloire de Rome",
     "jalons": [
-      401,
-      418
+      5009,
+      5026
     ]
   },
   "entite_25": {
     "label": "LOC",
     "text": "Virgile",
     "jalons": [
-      421,
-      428
+      5029,
+      5036
     ]
   },
   "entite_26": {
     "label": "PER",
     "text": "de Delille.",
     "jalons": [
-      466,
-      477
+      5074,
+      5085
     ]
   },
   "entite_27": {
     "label": "LOC",
     "text": "ENVAHI",
     "jalons": [
-      481,
-      487
+      5089,
+      5095
     ]
   },
   "entite_28": {
     "label": "PER",
     "text": "Mais",
     "jalons": [
-      489,
-      493
+      5097,
+      5101
     ]
   },
   "entite_29": {
     "label": "LOC",
     "text": "Roi",
     "jalons": [
-      337,
-      340
+      6993,
+      6996
     ]
   },
   "entite_30": {
     "label": "MISC",
     "text": "Riches des trésors de Cérès",
     "jalons": [
-      458,
-      485
+      7626,
+      7653
     ]
   },
   "entite_31": {
     "label": "MISC",
     "text": "Oracle de ces",
     "jalons": [
-      416,
-      429
+      8096,
+      8109
     ]
   },
   "entite_32": {
     "label": "MISC",
     "text": "Maïs Apollon",
     "jalons": [
-      465,
-      477
+      8657,
+      8669
     ]
   },
   "entite_33": {
     "label": "MISC",
     "text": "Apollon",
     "jalons": [
-      263,
-      270
+      9479,
+      9486
     ]
   },
   "entite_34": {
     "label": "PER",
     "text": "Mercure Accourt",
     "jalons": [
-      468,
-      483
+      10196,
+      10211
     ]
   },
   "entite_35": {
     "label": "MISC",
     "text": "Et, de la part do Jupiter",
     "jalons": [
-      0,
-      25
+      10240,
+      10265
     ]
   },
   "entite_36": {
     "label": "LOC",
     "text": "Restamuet",
     "jalons": [
-      439,
-      448
+      10679,
+      10688
     ]
   },
   "entite_37": {
     "label": "PER",
     "text": "L’ardent Cornei",
     "jalons": [
-      497,
-      512
+      11249,
+      11264
     ]
   },
   "entite_38": {
     "label": "LOC",
     "text": "Aimés",
     "jalons": [
-      18,
-      23
+      15378,
+      15383
     ]
   },
   "entite_39": {
     "label": "LOC",
     "text": "Moi",
     "jalons": [
-      507,
-      510
+      17403,
+      17406
     ]
   },
   "entite_40": {
     "label": "PER",
     "text": "LE PARNASSE",
     "jalons": [
-      487,
-      498
+      18407,
+      18418
     ]
   },
   "entite_41": {
     "label": "PER",
     "text": "T’appelle",
     "jalons": [
-      502,
-      511
+      18422,
+      18431
     ]
   },
   "entite_42": {
     "label": "PER",
     "text": "Lequel",
     "jalons": [
-      27,
-      33
+      18459,
+      18465
     ]
   },
   "entite_43": {
     "label": "LOC",
     "text": "Jupiter",
     "jalons": [
-      120,
-      127
+      19064,
+      19071
     ]
   },
   "entite_44": {
     "label": "LOC",
     "text": "D’escalader",
     "jalons": [
-      177,
-      188
+      19633,
+      19644
     ]
   },
   "entite_45": {
     "label": "LOC",
     "text": "Sa Majesté",
     "jalons": [
-      369,
-      379
+      19825,
+      19835
     ]
   },
   "entite_46": {
     "label": "MISC",
     "text": "Même de la pitié des Dieux",
     "jalons": [
-      348,
-      374
+      20828,
+      20854
     ]
   },
   "entite_47": {
     "label": "MISC",
     "text": "Quand tu fais le tour de la terre",
     "jalons": [
-      381,
-      414
+      20861,
+      20894
     ]
   },
   "entite_48": {
     "label": "LOC",
     "text": "Jupiter lui",
     "jalons": [
-      496,
-      507
+      21488,
+      21499
     ]
   },
   "entite_49": {
     "label": "MISC",
     "text": "De Vénus",
     "jalons": [
-      92,
-      100
+      22108,
+      22116
     ]
   },
   "entite_50": {
     "label": "MISC",
     "text": "C’était le Roi du ciel",
     "jalons": [
-      203,
-      225
+      22219,
+      22241
     ]
   },
   "entite_51": {
     "label": "LOC",
     "text": "L’orgueil des enfans de la lerre",
     "jalons": [
-      283,
-      315
+      23323,
+      23355
     ]
   },
   "entite_52": {
     "label": "PER",
     "text": "Je jutai par le Styx",
     "jalons": [
-      14,
-      34
+      23566,
+      23586
     ]
   },
   "entite_53": {
     "label": "PER",
     "text": "As-tu Juré que Je Parnasse",
     "jalons": [
-      230,
-      256
+      24294,
+      24320
     ]
   },
   "entite_54": {
     "label": "MISC",
     "text": "donc si grande",
     "jalons": [
-      0,
-      14
+      24576,
+      24590
     ]
   },
   "entite_55": {
     "label": "LOC",
     "text": "Parle",
     "jalons": [
-      159,
-      164
+      24735,
+      24740
     ]
   },
   "entite_56": {
     "label": "MISC",
     "text": "Dont Jupiter",
     "jalons": [
-      223,
-      235
+      25311,
+      25323
     ]
   },
   "entite_57": {
     "label": "LOC",
     "text": "Apollon",
     "jalons": [
-      243,
-      250
+      25331,
+      25338
     ]
   },
   "entite_58": {
     "label": "LOC",
     "text": "La terre",
     "jalons": [
-      496,
-      504
+      25584,
+      25592
     ]
   },
   "entite_59": {
     "label": "LOC",
     "text": "Rivale",
     "jalons": [
-      502,
-      508
+      26102,
+      26108
     ]
   },
   "entite_60": {
     "label": "PER",
     "text": "Le Pin",
     "jalons": [
-      8,
-      14
+      27656,
+      27662
     ]
   },
   "entite_61": {
     "label": "LOC",
     "text": "Porte",
     "jalons": [
-      41,
-      46
+      27689,
+      27694
     ]
   },
   "entite_62": {
     "label": "LOC",
     "text": "Rodrigue",
     "jalons": [
-      387,
-      395
+      30083,
+      30091
     ]
   },
   "entite_63": {
     "label": "LOC",
     "text": "Toutefo",
     "jalons": [
-      505,
-      512
+      30201,
+      30208
     ]
   },
   "entite_64": {
     "label": "LOC",
     "text": "Enfans des rives de la Seine",
     "jalons": [
-      129,
-      157
+      31361,
+      31389
     ]
   },
   "entite_65": {
     "label": "MISC",
     "text": "Minerve et Pallas",
     "jalons": [
-      223,
-      240
+      31455,
+      31472
     ]
   },
   "entite_66": {
     "label": "LOC",
     "text": "Va",
     "jalons": [
-      510,
-      512
+      32254,
+      32256
     ]
   },
   "entite_67": {
     "label": "PER",
     "text": "Doi",
     "jalons": [
-      509,
-      512
+      33277,
+      33280
     ]
   },
   "entite_68": {
     "label": "LOC",
     "text": "Volsein",
     "jalons": [
-      46,
-      53
+      33326,
+      33333
     ]
   },
   "entite_69": {
     "label": "MISC",
     "text": "Quand Volsein",
     "jalons": [
-      445,
-      458
+      34237,
+      34250
     ]
   },
   "entite_70": {
     "label": "LOC",
     "text": "Volsein",
     "jalons": [
-      361,
-      368
+      34665,
+      34672
     ]
   },
   "entite_71": {
     "label": "LOC",
     "text": "Français",
     "jalons": [
-      449,
-      457
+      36289,
+      36297
     ]
   },
   "entite_72": {
     "label": "LOC",
     "text": "CHARLES",
     "jalons": [
-      369,
-      376
+      36721,
+      36728
     ]
   },
   "entite_73": {
     "label": "LOC",
     "text": "ENVAHI",
     "jalons": [
-      503,
-      509
+      36855,
+      36861
     ]
   },
   "entite_74": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      261,
-      267
+      37637,
+      37643
     ]
   },
   "entite_75": {
     "label": "LOC",
     "text": "La France",
     "jalons": [
-      284,
-      293
+      37660,
+      37669
     ]
   },
   "entite_76": {
     "label": "MISC",
     "text": "Le petit’fils de Louis et d’Henry",
     "jalons": [
-      82,
-      115
+      37970,
+      38003
     ]
   },
   "entite_77": {
     "label": "LOC",
     "text": "De Louis-le-Grand, fils de Mars",
     "jalons": [
-      283,
-      314
+      38171,
+      38202
     ]
   },
   "entite_78": {
     "label": "MISC",
     "text": "Père des lettrés et des arts.",
     "jalons": [
-      319,
-      348
+      38207,
+      38236
     ]
   },
   "entite_79": {
     "label": "PER",
     "text": "Boilcau",
     "jalons": [
-      490,
-      497
+      38890,
+      38897
     ]
   },
   "entite_80": {
     "label": "PER",
     "text": "Mais Apollon",
     "jalons": [
-      42,
-      54
+      38954,
+      38966
     ]
   },
   "entite_81": {
     "label": "LOC",
     "text": "Latonë",
     "jalons": [
-      467,
-      473
+      39379,
+      39385
     ]
   },
   "entite_82": {
     "label": "LOC",
     "text": "Français",
     "jalons": [
-      346,
-      354
+      39770,
+      39778
     ]
   },
   "entite_83": {
     "label": "PER",
     "text": "Entonner",
     "jalons": [
-      504,
-      512
+      40440,
+      40448
     ]
   },
   "entite_84": {
     "label": "MISC",
     "text": "Emprunter la langue des Dieux",
     "jalons": [
-      146,
-      175
+      40594,
+      40623
     ]
   },
   "entite_85": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      269,
-      275
+      42253,
+      42259
     ]
   },
   "entite_86": {
     "label": "MISC",
     "text": "Du Permesse et de l’Hippocrène",
     "jalons": [
-      439,
-      469
+      42423,
+      42453
     ]
   },
   "entite_87": {
     "label": "LOC",
     "text": "Allaient",
     "jalons": [
-      185,
-      193
+      42681,
+      42689
     ]
   },
   "entite_88": {
     "label": "LOC",
     "text": "Malheur",
     "jalons": [
-      411,
-      418
+      42907,
+      42914
     ]
   },
   "entite_89": {
     "label": "LOC",
     "text": "Erpéste",
     "jalons": [
-      503,
-      510
+      43511,
+      43518
     ]
   },
   "entite_90": {
     "label": "LOC",
     "text": "Pénriéinf",
     "jalons": [
-      85,
-      94
+      44117,
+      44126
     ]
   },
   "entite_91": {
     "label": "PER",
     "text": "Térence",
     "jalons": [
-      331,
-      338
+      44875,
+      44882
     ]
   },
   "entite_92": {
     "label": "PER",
     "text": "Rougisse du tendre Tibulle",
     "jalons": [
-      398,
-      424
+      44942,
+      44968
     ]
   },
   "entite_93": {
     "label": "LOC",
     "text": "Berlin",
     "jalons": [
-      449,
-      455
+      44993,
+      44999
     ]
   },
   "entite_94": {
     "label": "LOC",
     "text": "Parny",
     "jalons": [
-      503,
-      508
+      45047,
+      45052
     ]
   },
   "entite_95": {
     "label": "MISC",
     "text": "Quand la muse de Milylène",
     "jalons": [
-      37,
-      62
+      45093,
+      45118
     ]
   },
   "entite_96": {
     "label": "LOC",
     "text": "Mars",
     "jalons": [
-      388,
-      392
+      45956,
+      45960
     ]
   },
   "entite_97": {
     "label": "LOC",
     "text": "Qui",
     "jalons": [
-      394,
-      397
+      45962,
+      45965
     ]
   },
   "entite_98": {
     "label": "LOC",
     "text": "C’est la compagne de Zéphiro",
     "jalons": [
-      478,
-      506
+      46046,
+      46074
     ]
   },
   "entite_99": {
     "label": "LOC",
     "text": "Flor",
     "jalons": [
-      508,
-      512
+      46076,
+      46080
     ]
   },
   "entite_100": {
     "label": "MISC",
     "text": "Pour le sein de Dapfmê",
     "jalons": [
-      108,
-      130
+      46188,
+      46210
     ]
   },
   "entite_101": {
     "label": "MISC",
     "text": "Étonnés de tant de mérveiiies",
     "jalons": [
-      444,
-      473
+      46524,
+      46553
     ]
   },
   "entite_102": {
     "label": "MISC",
     "text": "Un mystère Les Français",
     "jalons": [
-      67,
-      90
+      46659,
+      46682
     ]
   },
   "entite_103": {
     "label": "LOC",
     "text": "Quinault",
     "jalons": [
-      489,
-      497
+      47081,
+      47089
     ]
   },
   "entite_104": {
     "label": "LOC",
     "text": "S’avancer",
     "jalons": [
-      501,
-      510
+      47093,
+      47102
     ]
   },
   "entite_105": {
     "label": "LOC",
     "text": "Parnasse",
     "jalons": [
-      222,
-      230
+      47326,
+      47334
     ]
   },
   "entite_106": {
     "label": "LOC",
     "text": "Ou de Juvénal",
     "jalons": [
-      269,
-      282
+      47373,
+      47386
     ]
   },
   "entite_107": {
     "label": "LOC",
     "text": "Calliope",
     "jalons": [
-      457,
-      465
+      48073,
+      48081
     ]
   },
   "entite_108": {
     "label": "MISC",
     "text": "Dans Lesbos",
     "jalons": [
-      173,
-      184
+      48301,
+      48312
     ]
   },
   "entite_109": {
     "label": "LOC",
     "text": "Digne",
     "jalons": [
-      264,
-      269
+      49928,
+      49933
     ]
   },
   "entite_110": {
     "label": "LOC",
     "text": "Roi",
     "jalons": [
-      105,
-      108
+      50793,
+      50796
     ]
   },
   "entite_111": {
     "label": "LOC",
     "text": "Apollon",
     "jalons": [
-      425,
-      432
+      51113,
+      51120
     ]
   },
   "entite_112": {
     "label": "MISC",
     "text": "S’écria le fils de Latone",
     "jalons": [
-      480,
-      505
+      53728,
+      53753
     ]
   },
   "entite_113": {
     "label": "MISC",
     "text": "Devant lo Ciel qui vous",
     "jalons": [
-      38,
-      61
+      53798,
+      53821
     ]
   },
   "entite_114": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      57,
-      63
+      55353,
+      55359
     ]
   }
 }

@@ -1,0 +1,11946 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Par Camille Périer",
+    "jalons": [
+      62,
+      80
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Mme Bentégea",
+    "jalons": [
+      82,
+      94
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      121,
+      153
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Gallica     la vie algérienne",
+    "jalons": [
+      159,
+      188
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      190,
+      196
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Par Camille Périer",
+    "jalons": [
+      198,
+      216
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "me Bentégea",
+    "jalons": [
+      220,
+      231
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Périer",
+    "jalons": [
+      237,
+      243
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      245,
+      252
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      266,
+      281
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      283,
+      289
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "dans le cadre de la loi",
+    "jalons": [
+      513,
+      536
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      893,
+      899
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la",
+    "jalons": [
+      1488,
+      1535
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Sourc",
+    "jalons": [
+      3067,
+      3072
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      3117,
+      3123
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "DENTU",
+    "jalons": [
+      3157,
+      3162
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "ÉDITEUR LIBRAIRIE CENTRALE",
+    "jalons": [
+      3164,
+      3190
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Palais-Royal",
+    "jalons": [
+      3234,
+      3246
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Boulevard des Italiens",
+    "jalons": [
+      3250,
+      3272
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "MERYEM",
+    "jalons": [
+      3402,
+      3408
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "VERSAILLES",
+    "jalons": [
+      3428,
+      3438
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "IMPRIMERIE CERF",
+    "jalons": [
+      3442,
+      3457
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "RUE DU PLESSIS",
+    "jalons": [
+      3459,
+      3473
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "DE LA VIE ALGÉRIENNE  MARCEL",
+    "jalons": [
+      3505,
+      3533
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Tate  PARIS E. DENTU",
+    "jalons": [
+      3685,
+      3705
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "LIBRAIRIE DE LA SOCIÉTÉ DES CENS DE",
+    "jalons": [
+      3717,
+      3752
+    ]
+  },
+  "entite_27": {
+    "label": "ORG",
+    "text": "LETIRES PALAIS-ROYAL",
+    "jalons": [
+      3753,
+      3773
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "GALERIE D’ORLÉANS",
+    "jalons": [
+      3782,
+      3799
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "EL à la LinraïRiE CENTRALE",
+    "jalons": [
+      3801,
+      3827
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      4076,
+      4083
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "la ville de Tlemcen",
+    "jalons": [
+      5998,
+      6017
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Méchouar",
+    "jalons": [
+      6641,
+      6649
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      7231,
+      7235
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Algérie",
+    "jalons": [
+      7995,
+      8002
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Georges Varon",
+    "jalons": [
+      8157,
+      8170
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      8205,
+      8212
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Safsaf",
+    "jalons": [
+      8368,
+      8374
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "les et des gerbes d’or de quelque",
+    "jalons": [
+      8704,
+      8737
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Cette union brillante de l'onde et de la lumière lui semblait un baiser d’amour du ciel à la",
+    "jalons": [
+      8784,
+      8876
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "celles des Alpes ou des Pyrénées",
+    "jalons": [
+      9833,
+      9865
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "La vue",
+    "jalons": [
+      11061,
+      11067
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "S’entr'ou",
+    "jalons": [
+      13191,
+      13200
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      13737,
+      13744
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      14123,
+      14130
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "la France et l’Afrique",
+    "jalons": [
+      14927,
+      14949
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      15376,
+      15383
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Georges était",
+    "jalons": [
+      15899,
+      15912
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      16348,
+      16355
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "M.Varou",
+    "jalons": [
+      16357,
+      16364
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      16547,
+      16554
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      16865,
+      16872
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Henri Lau",
+    "jalons": [
+      16967,
+      16976
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "Alsacien",
+    "jalons": [
+      17152,
+      17160
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Allemand",
+    "jalons": [
+      17169,
+      17177
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      17374,
+      17381
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      17663,
+      17669
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Et la Française",
+    "jalons": [
+      18134,
+      18149
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      18210,
+      18216
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "La Française",
+    "jalons": [
+      18435,
+      18447
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "Henri Laudun",
+    "jalons": [
+      18949,
+      18961
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Durner",
+    "jalons": [
+      19153,
+      19159
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "capitaine de Barres",
+    "jalons": [
+      19177,
+      19196
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "M. de Barres",
+    "jalons": [
+      19601,
+      19613
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "J'ai",
+    "jalons": [
+      19618,
+      19622
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Toulouse",
+    "jalons": [
+      19641,
+      19649
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Alors",
+    "jalons": [
+      19654,
+      19659
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      19685,
+      19691
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Toulouse",
+    "jalons": [
+      20129,
+      20137
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Laudun",
+    "jalons": [
+      20882,
+      20888
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      20893,
+      20899
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Henri et  Gaston",
+    "jalons": [
+      21064,
+      21080
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Madame de Juilly",
+    "jalons": [
+      21085,
+      21101
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "Laudun",
+    "jalons": [
+      21139,
+      21145
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Madame de Juilly",
+    "jalons": [
+      21150,
+      21166
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      21175,
+      21182
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "demi de la poche du Jeune",
+    "jalons": [
+      21545,
+      21570
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Henri",
+    "jalons": [
+      21765,
+      21770
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      22075,
+      22087
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      22217,
+      22224
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Oran",
+    "jalons": [
+      22847,
+      22851
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "l’Afrique avait blanchi de bonne",
+    "jalons": [
+      24065,
+      24097
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Oran",
+    "jalons": [
+      24382,
+      24386
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      24392,
+      24399
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      24452,
+      24459
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Puis",
+    "jalons": [
+      24508,
+      24512
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "Madame de Juilly devait quitter la fête et subir en rentrant la",
+    "jalons": [
+      26137,
+      26200
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "MERYEM",
+    "jalons": [
+      26585,
+      26591
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Oran",
+    "jalons": [
+      26789,
+      26793
+    ]
+  },
+  "entite_89": {
+    "label": "MISC",
+    "text": "le capitaine de Barres avait trouvé le moyen de lui",
+    "jalons": [
+      26795,
+      26846
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "M. de Barres",
+    "jalons": [
+      27007,
+      27019
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      27110,
+      27115
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      27170,
+      27177
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      27260,
+      27272
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "Madame de Juilly",
+    "jalons": [
+      27780,
+      27796
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "M. de Barres",
+    "jalons": [
+      27951,
+      27963
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Algérie",
+    "jalons": [
+      28008,
+      28015
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Oran",
+    "jalons": [
+      28294,
+      28298
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "Dés que madame de Juilly entra dans la cour",
+    "jalons": [
+      31277,
+      31320
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      32168,
+      32180
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "de Juilly",
+    "jalons": [
+      32769,
+      32778
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      33005,
+      33012
+    ]
+  },
+  "entite_102": {
+    "label": "PER",
+    "text": "Henri Laudun",
+    "jalons": [
+      33110,
+      33122
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "M. de Bar",
+    "jalons": [
+      33218,
+      33227
+    ]
+  },
+  "entite_104": {
+    "label": "MISC",
+    "text": "Madame de Juilly est la femme la",
+    "jalons": [
+      33398,
+      33430
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Henri",
+    "jalons": [
+      33495,
+      33500
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      33597,
+      33604
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "S’écria Georges touché de la",
+    "jalons": [
+      33643,
+      33671
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "M. de Barres",
+    "jalons": [
+      33703,
+      33715
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      34420,
+      34425
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      35815,
+      35822
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "vres de Marie",
+    "jalons": [
+      35840,
+      35853
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      36058,
+      36065
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "S’écria",
+    "jalons": [
+      36159,
+      36166
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "M. Varon",
+    "jalons": [
+      36398,
+      36406
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      37912,
+      37919
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      38473,
+      38480
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "capitaine de Barres",
+    "jalons": [
+      38551,
+      38570
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "M. de Juilly",
+    "jalons": [
+      38851,
+      38863
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "venu aujourd’hui",
+    "jalons": [
+      38912,
+      38928
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      38968,
+      38980
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      39003,
+      39010
+    ]
+  },
+  "entite_122": {
+    "label": "MISC",
+    "text": "Elise a déjà une voix agréa",
+    "jalons": [
+      40990,
+      41017
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Et Varon",
+    "jalons": [
+      41031,
+      41039
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "continua M. de Barres",
+    "jalons": [
+      41041,
+      41062
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "M. de Barres",
+    "jalons": [
+      41333,
+      41345
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "Varon",
+    "jalons": [
+      41417,
+      41422
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "George",
+    "jalons": [
+      41466,
+      41472
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "de Juilly",
+    "jalons": [
+      41972,
+      41981
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      42238,
+      42250
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Capilaine",
+    "jalons": [
+      42267,
+      42276
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      42366,
+      42371
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Marie de Juilly",
+    "jalons": [
+      42451,
+      42466
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      42905,
+      42910
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "nom de leur",
+    "jalons": [
+      43009,
+      43020
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Alors",
+    "jalons": [
+      43499,
+      43504
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Écoutez",
+    "jalons": [
+      43527,
+      43534
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "manda Henri",
+    "jalons": [
+      45197,
+      45208
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      45424,
+      45429
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Henri avec",
+    "jalons": [
+      45528,
+      45538
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      45588,
+      45594
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      45599,
+      45605
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      45985,
+      45991
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Algérie",
+    "jalons": [
+      46072,
+      46079
+    ]
+  },
+  "entite_144": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      46252,
+      46264
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Georges s'arrêta Sur la place du Méchouar, près de la porte de",
+    "jalons": [
+      46336,
+      46398
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "côté de la musique militaire",
+    "jalons": [
+      46413,
+      46441
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "La porte du petit",
+    "jalons": [
+      46568,
+      46585
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      47082,
+      47087
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      47118,
+      47125
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Georges alors",
+    "jalons": [
+      47647,
+      47660
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "deux pas de la chaise de Marie",
+    "jalons": [
+      48457,
+      48487
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      49092,
+      49099
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      49101,
+      49106
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Georges s'étonna",
+    "jalons": [
+      49529,
+      49545
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "imes arides dans l’azur du ciel",
+    "jalons": [
+      52736,
+      52767
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      53471,
+      53477
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      53878,
+      53885
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      54147,
+      54152
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Bonne mère",
+    "jalons": [
+      54157,
+      54167
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Monsieur de Juilly",
+    "jalons": [
+      54523,
+      54541
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      55046,
+      55051
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      55170,
+      55178
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Au",
+    "jalons": [
+      55805,
+      55807
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      56740,
+      56745
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      56952,
+      56959
+    ]
+  },
+  "entite_166": {
+    "label": "MISC",
+    "text": "Du travail et de la vie",
+    "jalons": [
+      56964,
+      56987
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      58120,
+      58127
+    ]
+  },
+  "entite_168": {
+    "label": "MISC",
+    "text": "Georges",
+    "jalons": [
+      58388,
+      58395
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "M. Varon",
+    "jalons": [
+      58844,
+      58852
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      59056,
+      59061
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      59656,
+      59663
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      60270,
+      60275
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Monsieur Varon",
+    "jalons": [
+      60810,
+      60824
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      60830,
+      60835
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Georges obéit",
+    "jalons": [
+      60937,
+      60950
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "M. de Jui",
+    "jalons": [
+      61431,
+      61440
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      61515,
+      61522
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "Mais la lenteur de Marie",
+    "jalons": [
+      61524,
+      61548
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Georges le",
+    "jalons": [
+      61857,
+      61867
+    ]
+  },
+  "entite_180": {
+    "label": "MISC",
+    "text": "La musique militaire de Tlemcen",
+    "jalons": [
+      62284,
+      62315
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Aujourd’hui",
+    "jalons": [
+      62951,
+      62962
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "Assez",
+    "jalons": [
+      63702,
+      63707
+    ]
+  },
+  "entite_183": {
+    "label": "LOC",
+    "text": "Saderie",
+    "jalons": [
+      63951,
+      63958
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      64125,
+      64132
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      64379,
+      64391
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      64426,
+      64438
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Dès que Marie",
+    "jalons": [
+      64479,
+      64492
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Georges",
+    "jalons": [
+      64504,
+      64511
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      64513,
+      64525
+    ]
+  },
+  "entite_190": {
+    "label": "MISC",
+    "text": "Madame de Juilly se plaça entre les deux",
+    "jalons": [
+      64959,
+      64999
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "Georges",
+    "jalons": [
+      65014,
+      65021
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "trouva auprès de l’ainée des jeunes filles",
+    "jalons": [
+      65025,
+      65067
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      65362,
+      65367
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      66208,
+      66215
+    ]
+  },
+  "entite_195": {
+    "label": "ORG",
+    "text": "MERYEM",
+    "jalons": [
+      66552,
+      66558
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Georges devint",
+    "jalons": [
+      66590,
+      66604
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "de Marie",
+    "jalons": [
+      66683,
+      66691
+    ]
+  },
+  "entite_198": {
+    "label": "PER",
+    "text": "Georges aurait",
+    "jalons": [
+      66735,
+      66749
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Élise",
+    "jalons": [
+      67014,
+      67019
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      67627,
+      67639
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Les deux",
+    "jalons": [
+      67642,
+      67650
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "Monsieur Varon",
+    "jalons": [
+      68037,
+      68051
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      68061,
+      68066
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "de Marie",
+    "jalons": [
+      68649,
+      68657
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      68883,
+      68895
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Breton",
+    "jalons": [
+      69474,
+      69480
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "de la Bretagne",
+    "jalons": [
+      69657,
+      69671
+    ]
+  },
+  "entite_208": {
+    "label": "MISC",
+    "text": "Laval et Vitré",
+    "jalons": [
+      69679,
+      69693
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Aloérie",
+    "jalons": [
+      69717,
+      69724
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      69727,
+      69734
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      70121,
+      70126
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Georges de",
+    "jalons": [
+      72112,
+      72122
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      73283,
+      73290
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      73525,
+      73532
+    ]
+  },
+  "entite_215": {
+    "label": "PER",
+    "text": "ui j’aurais",
+    "jalons": [
+      74240,
+      74251
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      74784,
+      74796
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      75108,
+      75113
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      75140,
+      75152
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "M. Varon",
+    "jalons": [
+      75208,
+      75216
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      75603,
+      75610
+    ]
+  },
+  "entite_221": {
+    "label": "LOC",
+    "text": "Capitaine des Barres",
+    "jalons": [
+      76208,
+      76228
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "Madame de Juilly et sa",
+    "jalons": [
+      76299,
+      76321
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      77086,
+      77093
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Madame de Juilly",
+    "jalons": [
+      77627,
+      77643
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Dauphiné",
+    "jalons": [
+      77795,
+      77803
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "pas de la Provence",
+    "jalons": [
+      77896,
+      77914
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "de Juilly",
+    "jalons": [
+      78206,
+      78215
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      78274,
+      78279
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      78390,
+      78397
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Henri Laudun",
+    "jalons": [
+      78410,
+      78422
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Hélène Tassot",
+    "jalons": [
+      78541,
+      78554
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "la reine de Tlemcen",
+    "jalons": [
+      78673,
+      78692
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Henri le préten",
+    "jalons": [
+      78694,
+      78709
+    ]
+  },
+  "entite_234": {
+    "label": "PER",
+    "text": "ARTE Te Fa",
+    "jalons": [
+      79469,
+      79479
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "Elle se",
+    "jalons": [
+      79901,
+      79908
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "é et la jalousie lui inspirèrent le désir d’avoir chez elle Georges et le capitaine",
+    "jalons": [
+      80384,
+      80467
+    ]
+  },
+  "entite_237": {
+    "label": "MISC",
+    "text": "Laudun de les lui",
+    "jalons": [
+      80626,
+      80643
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Etienne",
+    "jalons": [
+      81008,
+      81015
+    ]
+  },
+  "entite_239": {
+    "label": "MISC",
+    "text": "Déjà le nom de Marie était parvenu aux oreilles de Georges",
+    "jalons": [
+      81121,
+      81179
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "George s’avança",
+    "jalons": [
+      81342,
+      81357
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "d'Alger",
+    "jalons": [
+      81468,
+      81475
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      81478,
+      81487
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "M. de Juilly dit",
+    "jalons": [
+      81553,
+      81569
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      81597,
+      81603
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      82473,
+      82485
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      82552,
+      82558
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Étienne",
+    "jalons": [
+      83097,
+      83104
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      83226,
+      83232
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "Mademoiselle Marie de Juilly porte le nom de",
+    "jalons": [
+      83237,
+      83281
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "pitaine de Barres",
+    "jalons": [
+      83397,
+      83414
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      83619,
+      83631
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Hélène",
+    "jalons": [
+      83669,
+      83675
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "Elle a l'habitude de dire du mal de confiance",
+    "jalons": [
+      84945,
+      84990
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "M. de Barres tira Georges",
+    "jalons": [
+      85342,
+      85367
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      86130,
+      86142
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "M. de Barres",
+    "jalons": [
+      86611,
+      86623
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Varon sera de la",
+    "jalons": [
+      86691,
+      86707
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      86767,
+      86773
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      86827,
+      86833
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Seule",
+    "jalons": [
+      87276,
+      87281
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      87411,
+      87418
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Elise",
+    "jalons": [
+      88581,
+      88586
+    ]
+  },
+  "entite_263": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      89225,
+      89237
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      89962,
+      89974
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "de Juilly",
+    "jalons": [
+      90090,
+      90099
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "de la trouv",
+    "jalons": [
+      90101,
+      90112
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Elle lui",
+    "jalons": [
+      90132,
+      90140
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      90416,
+      90428
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      90577,
+      90582
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      90720,
+      90727
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      90748,
+      90760
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      91246,
+      91253
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      91398,
+      91410
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      91594,
+      91601
+    ]
+  },
+  "entite_275": {
+    "label": "MISC",
+    "text": "eait devant la porte ouverte de",
+    "jalons": [
+      91648,
+      91679
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      91958,
+      91970
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      92218,
+      92225
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      92390,
+      92402
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Durner",
+    "jalons": [
+      93980,
+      93986
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "le jardin de M. de Barres",
+    "jalons": [
+      94271,
+      94296
+    ]
+  },
+  "entite_281": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      94698,
+      94710
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      94895,
+      94907
+    ]
+  },
+  "entite_283": {
+    "label": "MISC",
+    "text": "S’occupa de madame de Juilly d’une",
+    "jalons": [
+      95006,
+      95040
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      95282,
+      95289
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      96203,
+      96209
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Algérie",
+    "jalons": [
+      96231,
+      96238
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      97408,
+      97414
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "J'avoue",
+    "jalons": [
+      97561,
+      97568
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "Monsieur",
+    "jalons": [
+      97570,
+      97578
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      98154,
+      98166
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "Henri Laudun",
+    "jalons": [
+      98984,
+      98996
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      99090,
+      99102
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "La jeune fille",
+    "jalons": [
+      99313,
+      99327
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      99573,
+      99579
+    ]
+  },
+  "entite_295": {
+    "label": "MISC",
+    "text": "Il rappelait le souvenir de la",
+    "jalons": [
+      99581,
+      99611
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      99612,
+      99618
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Sahara",
+    "jalons": [
+      100671,
+      100677
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      100737,
+      100743
+    ]
+  },
+  "entite_299": {
+    "label": "ORG",
+    "text": "la partie de l'Algérie",
+    "jalons": [
+      100841,
+      100863
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Georges arriva",
+    "jalons": [
+      101041,
+      101055
+    ]
+  },
+  "entite_301": {
+    "label": "PER",
+    "text": "de Marie",
+    "jalons": [
+      101550,
+      101558
+    ]
+  },
+  "entite_302": {
+    "label": "LOC",
+    "text": "côté de Sa Sœur",
+    "jalons": [
+      101911,
+      101926
+    ]
+  },
+  "entite_303": {
+    "label": "MISC",
+    "text": "S’empara de Marie et",
+    "jalons": [
+      102168,
+      102188
+    ]
+  },
+  "entite_304": {
+    "label": "MISC",
+    "text": "Georges",
+    "jalons": [
+      102226,
+      102233
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      103312,
+      103318
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      103517,
+      103523
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      103576,
+      103582
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Arabe",
+    "jalons": [
+      103736,
+      103741
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "Française",
+    "jalons": [
+      103745,
+      103754
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      104364,
+      104370
+    ]
+  },
+  "entite_311": {
+    "label": "MISC",
+    "text": "Georges",
+    "jalons": [
+      104658,
+      104665
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "mme de Barres",
+    "jalons": [
+      104960,
+      104973
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "de de Barres",
+    "jalons": [
+      105099,
+      105111
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "Tantôt",
+    "jalons": [
+      105408,
+      105414
+    ]
+  },
+  "entite_315": {
+    "label": "PER",
+    "text": "de Barres",
+    "jalons": [
+      105463,
+      105472
+    ]
+  },
+  "entite_316": {
+    "label": "ORG",
+    "text": "Vous de cette",
+    "jalons": [
+      105967,
+      105980
+    ]
+  },
+  "entite_317": {
+    "label": "MISC",
+    "text": "Madame de Juilly avait des alternatives de bon et de mauvais",
+    "jalons": [
+      106556,
+      106616
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      106667,
+      106672
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "M. de Barres",
+    "jalons": [
+      106825,
+      106837
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      106952,
+      106959
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      107316,
+      107328
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      107740,
+      107747
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "Thérèse",
+    "jalons": [
+      107985,
+      107992
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Assez",
+    "jalons": [
+      108025,
+      108030
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      108064,
+      108069
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      108418,
+      108423
+    ]
+  },
+  "entite_327": {
+    "label": "MISC",
+    "text": "Dans les circonstances de cette",
+    "jalons": [
+      108588,
+      108619
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "Madame de",
+    "jalons": [
+      108994,
+      109003
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "Madame de Juilly",
+    "jalons": [
+      109096,
+      109112
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      109230,
+      109242
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      109382,
+      109389
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      109649,
+      109654
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      110053,
+      110060
+    ]
+  },
+  "entite_334": {
+    "label": "LOC",
+    "text": "La reine de Tlemcen",
+    "jalons": [
+      110264,
+      110283
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Tassot",
+    "jalons": [
+      110298,
+      110304
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "de Georges",
+    "jalons": [
+      110643,
+      110653
+    ]
+  },
+  "entite_337": {
+    "label": "PER",
+    "text": "Henri Laudun",
+    "jalons": [
+      110712,
+      110724
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      111049,
+      111056
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "de la famille de Juill",
+    "jalons": [
+      111207,
+      111229
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "M. Varon",
+    "jalons": [
+      111994,
+      112002
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "L’aveu",
+    "jalons": [
+      112118,
+      112124
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      112518,
+      112530
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "Georges voulait s'éloigner",
+    "jalons": [
+      112533,
+      112559
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      113049,
+      113054
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      113073,
+      113085
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      113172,
+      113179
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "M. de Bar",
+    "jalons": [
+      113234,
+      113243
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "M. de Juilly d’un",
+    "jalons": [
+      114251,
+      114268
+    ]
+  },
+  "entite_349": {
+    "label": "PER",
+    "text": "M. de Sarres",
+    "jalons": [
+      114581,
+      114593
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "M. de Juilly ajouta",
+    "jalons": [
+      114725,
+      114744
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      114983,
+      114995
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": "Cepen",
+    "jalons": [
+      115193,
+      115198
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      115396,
+      115408
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "M. de Juill",
+    "jalons": [
+      116122,
+      116133
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      116421,
+      116433
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      116671,
+      116683
+    ]
+  },
+  "entite_357": {
+    "label": "MISC",
+    "text": "ches sur les hauteurs du moyen Atlas",
+    "jalons": [
+      116764,
+      116800
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      116929,
+      116936
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Zier",
+    "jalons": [
+      117856,
+      117860
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "Georges, de Gaston et d'Henri",
+    "jalons": [
+      118274,
+      118303
+    ]
+  },
+  "entite_361": {
+    "label": "MISC",
+    "text": "tonnèrent de voir les dames de Juilly si belles dans la",
+    "jalons": [
+      119328,
+      119383
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      119949,
+      119956
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "Tassot",
+    "jalons": [
+      120300,
+      120306
+    ]
+  },
+  "entite_364": {
+    "label": "MISC",
+    "text": "Elle S'empressa de répondre",
+    "jalons": [
+      120436,
+      120463
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      120807,
+      120812
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      120814,
+      120818
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      120979,
+      120984
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "Hélène Tassot",
+    "jalons": [
+      121408,
+      121421
+    ]
+  },
+  "entite_369": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      122099,
+      122111
+    ]
+  },
+  "entite_370": {
+    "label": "PER",
+    "text": "Henri Laudun",
+    "jalons": [
+      122744,
+      122756
+    ]
+  },
+  "entite_371": {
+    "label": "MISC",
+    "text": "est sous les ordres du colonel de Juilly",
+    "jalons": [
+      122757,
+      122797
+    ]
+  },
+  "entite_372": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      123578,
+      123590
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Hélène",
+    "jalons": [
+      125238,
+      125244
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Henri Laudun",
+    "jalons": [
+      125406,
+      125418
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      125712,
+      125724
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "Henri le suivit",
+    "jalons": [
+      125747,
+      125762
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      126452,
+      126459
+    ]
+  },
+  "entite_378": {
+    "label": "LOC",
+    "text": "Le",
+    "jalons": [
+      126461,
+      126463
+    ]
+  },
+  "entite_379": {
+    "label": "PER",
+    "text": "Georges dans",
+    "jalons": [
+      127101,
+      127113
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "Des",
+    "jalons": [
+      127426,
+      127429
+    ]
+  },
+  "entite_381": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      127714,
+      127726
+    ]
+  },
+  "entite_382": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      128064,
+      128076
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Georges près de lui",
+    "jalons": [
+      128140,
+      128159
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      128391,
+      128396
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      128465,
+      128470
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "Elise",
+    "jalons": [
+      128503,
+      128508
+    ]
+  },
+  "entite_387": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      128512,
+      128524
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "Georges obéit",
+    "jalons": [
+      128526,
+      128539
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Etienne",
+    "jalons": [
+      129489,
+      129496
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      129603,
+      129610
+    ]
+  },
+  "entite_391": {
+    "label": "MISC",
+    "text": "Vous voulez me donner le change",
+    "jalons": [
+      130086,
+      130117
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      130204,
+      130209
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "MERYENI porte de la",
+    "jalons": [
+      130348,
+      130367
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Qu’avez",
+    "jalons": [
+      131064,
+      131071
+    ]
+  },
+  "entite_395": {
+    "label": "MISC",
+    "text": "Allez prés de ma sœur et de",
+    "jalons": [
+      131143,
+      131170
+    ]
+  },
+  "entite_396": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      131171,
+      131183
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "M. de Juilly",
+    "jalons": [
+      131360,
+      131372
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      132472,
+      132478
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "Sabrez.",
+    "jalons": [
+      132831,
+      132838
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      132904,
+      132910
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "Marie de Juilly",
+    "jalons": [
+      132997,
+      133012
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      133068,
+      133075
+    ]
+  },
+  "entite_403": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      133193,
+      133201
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      133235,
+      133242
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      133334,
+      133341
+    ]
+  },
+  "entite_406": {
+    "label": "LOC",
+    "text": "celui de Gaston",
+    "jalons": [
+      133387,
+      133402
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "Rassurez-vous",
+    "jalons": [
+      133407,
+      133420
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "Durner",
+    "jalons": [
+      133433,
+      133439
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      133529,
+      133535
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "la main de Georges",
+    "jalons": [
+      133555,
+      133573
+    ]
+  },
+  "entite_411": {
+    "label": "PER",
+    "text": "George",
+    "jalons": [
+      133626,
+      133632
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "Certes",
+    "jalons": [
+      133730,
+      133736
+    ]
+  },
+  "entite_413": {
+    "label": "LOC",
+    "text": "Georges le choix de M. de Juilly",
+    "jalons": [
+      133903,
+      133935
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      133937,
+      133942
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Georges déjà",
+    "jalons": [
+      133944,
+      133956
+    ]
+  },
+  "entite_416": {
+    "label": "MISC",
+    "text": "Georges et le capitaine de Barres",
+    "jalons": [
+      134743,
+      134776
+    ]
+  },
+  "entite_417": {
+    "label": "PER",
+    "text": "M. Varon",
+    "jalons": [
+      135109,
+      135117
+    ]
+  },
+  "entite_418": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      135154,
+      135166
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      137195,
+      137200
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "Madame de Jui",
+    "jalons": [
+      137203,
+      137216
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "Thérèse",
+    "jalons": [
+      137710,
+      137717
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      137985,
+      137990
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      138229,
+      138236
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "Cessons de voir",
+    "jalons": [
+      138279,
+      138294
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      138298,
+      138303
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      138808,
+      138813
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "Thérèse",
+    "jalons": [
+      139776,
+      139783
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      140071,
+      140076
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "J'ai",
+    "jalons": [
+      140078,
+      140082
+    ]
+  },
+  "entite_430": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      140765,
+      140772
+    ]
+  },
+  "entite_431": {
+    "label": "MISC",
+    "text": "DENMERETR  der si elle est de votre famille",
+    "jalons": [
+      140911,
+      140954
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Nullement",
+    "jalons": [
+      140960,
+      140969
+    ]
+  },
+  "entite_433": {
+    "label": "PER",
+    "text": "M. de Juily",
+    "jalons": [
+      140980,
+      140991
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      141040,
+      141047
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      141128,
+      141133
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      141606,
+      141611
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Süpplia de la",
+    "jalons": [
+      145395,
+      145408
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Juilly",
+    "jalons": [
+      145857,
+      145863
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      145867,
+      145873
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Saharienne",
+    "jalons": [
+      145878,
+      145888
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "Aiïssa",
+    "jalons": [
+      145905,
+      145911
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Elk",
+    "jalons": [
+      145913,
+      145916
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "L'enfant de la",
+    "jalons": [
+      146242,
+      146256
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "cale d'Elise",
+    "jalons": [
+      146944,
+      146956
+    ]
+  },
+  "entite_445": {
+    "label": "PER",
+    "text": "Marie de cœur",
+    "jalons": [
+      147216,
+      147229
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      147264,
+      147269
+    ]
+  },
+  "entite_447": {
+    "label": "PER",
+    "text": "cher Varon",
+    "jalons": [
+      147275,
+      147285
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "Georges serra énergiquement la main que lui",
+    "jalons": [
+      147520,
+      147563
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      147732,
+      147737
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      147739,
+      147751
+    ]
+  },
+  "entite_451": {
+    "label": "MISC",
+    "text": "avait voulu d'abord s'assurer de l'amour du jeune homme avant de révéler",
+    "jalons": [
+      147752,
+      147824
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      148714,
+      148726
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      149309,
+      149314
+    ]
+  },
+  "entite_454": {
+    "label": "MISC",
+    "text": "Élise que",
+    "jalons": [
+      150297,
+      150306
+    ]
+  },
+  "entite_455": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      150307,
+      150319
+    ]
+  },
+  "entite_456": {
+    "label": "MISC",
+    "text": "Quelques observations de Thérèse et de Marie le",
+    "jalons": [
+      150458,
+      150505
+    ]
+  },
+  "entite_457": {
+    "label": "PER",
+    "text": "Elise",
+    "jalons": [
+      150539,
+      150544
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "Élise de M. de Barres",
+    "jalons": [
+      151154,
+      151175
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      151206,
+      151211
+    ]
+  },
+  "entite_460": {
+    "label": "MISC",
+    "text": "et les fixa sur sa Sœur",
+    "jalons": [
+      151552,
+      151575
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      151658,
+      151663
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "madame de Juilly",
+    "jalons": [
+      152122,
+      152138
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      152201,
+      152206
+    ]
+  },
+  "entite_464": {
+    "label": "MISC",
+    "text": "Tandis que la joie de Marie",
+    "jalons": [
+      152753,
+      152780
+    ]
+  },
+  "entite_465": {
+    "label": "MISC",
+    "text": "comme de celui de Marie",
+    "jalons": [
+      153090,
+      153113
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "Marie sera",
+    "jalons": [
+      153118,
+      153128
+    ]
+  },
+  "entite_467": {
+    "label": "PER",
+    "text": "Marie la releva",
+    "jalons": [
+      153331,
+      153346
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "tremblant",
+    "jalons": [
+      153350,
+      153359
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "S’écria",
+    "jalons": [
+      153550,
+      153557
+    ]
+  },
+  "entite_470": {
+    "label": "PER",
+    "text": "de M. de Barres",
+    "jalons": [
+      153718,
+      153733
+    ]
+  },
+  "entite_471": {
+    "label": "PER",
+    "text": "Marie lui",
+    "jalons": [
+      153889,
+      153898
+    ]
+  },
+  "entite_472": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      154039,
+      154051
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      154236,
+      154248
+    ]
+  },
+  "entite_474": {
+    "label": "MISC",
+    "text": "changea dans les habi",
+    "jalons": [
+      154625,
+      154646
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "de la famille de Juilly",
+    "jalons": [
+      154668,
+      154691
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      154709,
+      154714
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      154973,
+      154985
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Gaston",
+    "jalons": [
+      155129,
+      155135
+    ]
+  },
+  "entite_479": {
+    "label": "PER",
+    "text": "M. de Barres lui",
+    "jalons": [
+      155258,
+      155274
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "de toute la famille de Juilly",
+    "jalons": [
+      155411,
+      155440
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Henri",
+    "jalons": [
+      155673,
+      155678
+    ]
+  },
+  "entite_482": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      155825,
+      155837
+    ]
+  },
+  "entite_483": {
+    "label": "PER",
+    "text": "Henri Laudun",
+    "jalons": [
+      156000,
+      156012
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      156029,
+      156034
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      156088,
+      156100
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      156103,
+      156110
+    ]
+  },
+  "entite_487": {
+    "label": "PER",
+    "text": "Mais Georges",
+    "jalons": [
+      156112,
+      156124
+    ]
+  },
+  "entite_488": {
+    "label": "PER",
+    "text": "de Marie",
+    "jalons": [
+      156138,
+      156146
+    ]
+  },
+  "entite_489": {
+    "label": "MISC",
+    "text": "M. et madame de Juilly",
+    "jalons": [
+      156566,
+      156588
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Henri",
+    "jalons": [
+      156590,
+      156595
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      156741,
+      156748
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      157993,
+      158000
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "Georges",
+    "jalons": [
+      158191,
+      158198
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "Française",
+    "jalons": [
+      158398,
+      158407
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Soyez",
+    "jalons": [
+      158425,
+      158430
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "GeOrges",
+    "jalons": [
+      158440,
+      158447
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "Parlez",
+    "jalons": [
+      158834,
+      158840
+    ]
+  },
+  "entite_498": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      158851,
+      158858
+    ]
+  },
+  "entite_499": {
+    "label": "LOC",
+    "text": "de Marie que de celle du",
+    "jalons": [
+      158897,
+      158921
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Sahara",
+    "jalons": [
+      158967,
+      158973
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Mademoi",
+    "jalons": [
+      160494,
+      160501
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      160581,
+      160593
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Marie en lui",
+    "jalons": [
+      160663,
+      160675
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      161055,
+      161062
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "le caprice du mari",
+    "jalons": [
+      161283,
+      161301
+    ]
+  },
+  "entite_506": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      161350,
+      161356
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      161911,
+      161918
+    ]
+  },
+  "entite_508": {
+    "label": "PER",
+    "text": "Marie ou Meryem",
+    "jalons": [
+      162245,
+      162260
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      162684,
+      162689
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Jeune fille la",
+    "jalons": [
+      162796,
+      162810
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      163523,
+      163528
+    ]
+  },
+  "entite_512": {
+    "label": "MISC",
+    "text": "avait déjà un peu de temps que Marie et Georges",
+    "jalons": [
+      163841,
+      163888
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "chemin de la ville",
+    "jalons": [
+      164646,
+      164664
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "Henri Laudun",
+    "jalons": [
+      164666,
+      164678
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Marie et Georges échan",
+    "jalons": [
+      164726,
+      164748
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "Élise sur",
+    "jalons": [
+      164814,
+      164823
+    ]
+  },
+  "entite_517": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      165277,
+      165289
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      165433,
+      165440
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Henri",
+    "jalons": [
+      165608,
+      165613
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Capitaine",
+    "jalons": [
+      165615,
+      165624
+    ]
+  },
+  "entite_521": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      165648,
+      165660
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Laudun",
+    "jalons": [
+      165723,
+      165729
+    ]
+  },
+  "entite_523": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      166108,
+      166111
+    ]
+  },
+  "entite_524": {
+    "label": "LOC",
+    "text": "Laissez",
+    "jalons": [
+      166326,
+      166333
+    ]
+  },
+  "entite_525": {
+    "label": "MISC",
+    "text": "hâtez le mariage de Varon avec mademoiselle Marie",
+    "jalons": [
+      166422,
+      166471
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      167203,
+      167210
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      167306,
+      167311
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      167623,
+      167630
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      167876,
+      167883
+    ]
+  },
+  "entite_530": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      168019,
+      168031
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      168185,
+      168197
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      169126,
+      169131
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      169743,
+      169755
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Henri",
+    "jalons": [
+      169951,
+      169956
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "M. de Juill",
+    "jalons": [
+      170029,
+      170040
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "Quand M. de Barres",
+    "jalons": [
+      170170,
+      170188
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "Marie seule",
+    "jalons": [
+      170213,
+      170224
+    ]
+  },
+  "entite_538": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      170235,
+      170247
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "Marie alla",
+    "jalons": [
+      170461,
+      170471
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "de Thér",
+    "jalons": [
+      170489,
+      170496
+    ]
+  },
+  "entite_541": {
+    "label": "MISC",
+    "text": "èse dans Ja chambre de la malade",
+    "jalons": [
+      170496,
+      170528
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "M. de Barres lui",
+    "jalons": [
+      170577,
+      170593
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      170696,
+      170703
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Henri",
+    "jalons": [
+      170707,
+      170712
+    ]
+  },
+  "entite_545": {
+    "label": "LOC",
+    "text": "M. de Barres",
+    "jalons": [
+      171077,
+      171089
+    ]
+  },
+  "entite_546": {
+    "label": "PER",
+    "text": "Ja chambre de sa fille",
+    "jalons": [
+      171990,
+      172012
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Marie saus",
+    "jalons": [
+      172022,
+      172032
+    ]
+  },
+  "entite_548": {
+    "label": "MISC",
+    "text": "tête dans le sein de sa mère",
+    "jalons": [
+      172552,
+      172580
+    ]
+  },
+  "entite_549": {
+    "label": "PER",
+    "text": "Elle sanglotait",
+    "jalons": [
+      172582,
+      172597
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "Tu",
+    "jalons": [
+      173562,
+      173564
+    ]
+  },
+  "entite_551": {
+    "label": "PER",
+    "text": "Madame de Juilly",
+    "jalons": [
+      173671,
+      173687
+    ]
+  },
+  "entite_552": {
+    "label": "MISC",
+    "text": "L'explosion de douleur de madame de Juilly",
+    "jalons": [
+      174450,
+      174492
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "Élise glissa",
+    "jalons": [
+      175109,
+      175121
+    ]
+  },
+  "entite_554": {
+    "label": "MISC",
+    "text": "des bras de sa mère sur",
+    "jalons": [
+      175122,
+      175145
+    ]
+  },
+  "entite_555": {
+    "label": "PER",
+    "text": "Madame de Juilly",
+    "jalons": [
+      175160,
+      175176
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "verre de Bohème",
+    "jalons": [
+      176131,
+      176146
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      176200,
+      176207
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Lête",
+    "jalons": [
+      177647,
+      177651
+    ]
+  },
+  "entite_559": {
+    "label": "ORG",
+    "text": "MERYEM",
+    "jalons": [
+      177655,
+      177661
+    ]
+  },
+  "entite_560": {
+    "label": "PER",
+    "text": "de Marie",
+    "jalons": [
+      177750,
+      177758
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      177763,
+      177770
+    ]
+  },
+  "entite_562": {
+    "label": "PER",
+    "text": "Chère Thérèse",
+    "jalons": [
+      178117,
+      178130
+    ]
+  },
+  "entite_563": {
+    "label": "PER",
+    "text": "Et Marie",
+    "jalons": [
+      178654,
+      178662
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "bonheur de Georges et de Marie",
+    "jalons": [
+      179486,
+      179516
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "Madame de Juilly",
+    "jalons": [
+      179839,
+      179855
+    ]
+  },
+  "entite_566": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      180288,
+      180295
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      180681,
+      180688
+    ]
+  },
+  "entite_568": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      181312,
+      181319
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      181458,
+      181463
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "Alcérie",
+    "jalons": [
+      181670,
+      181677
+    ]
+  },
+  "entite_571": {
+    "label": "MISC",
+    "text": "ait de la langue de sa mère lui permit de les",
+    "jalons": [
+      182784,
+      182829
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Les deux",
+    "jalons": [
+      183799,
+      183807
+    ]
+  },
+  "entite_573": {
+    "label": "LOC",
+    "text": "la vue de Marie. De la porte",
+    "jalons": [
+      184428,
+      184456
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Lais-toi",
+    "jalons": [
+      185867,
+      185875
+    ]
+  },
+  "entite_575": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      186227,
+      186232
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "La bonne Française",
+    "jalons": [
+      187051,
+      187069
+    ]
+  },
+  "entite_577": {
+    "label": "LOC",
+    "text": "Yamina",
+    "jalons": [
+      187084,
+      187090
+    ]
+  },
+  "entite_578": {
+    "label": "MISC",
+    "text": "UN Jardin aux en- virons de la ville",
+    "jalons": [
+      187333,
+      187369
+    ]
+  },
+  "entite_579": {
+    "label": "PER",
+    "text": "Pignor",
+    "jalons": [
+      188410,
+      188416
+    ]
+  },
+  "entite_580": {
+    "label": "PER",
+    "text": "ance des Mauresques",
+    "jalons": [
+      188416,
+      188435
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "La conversa",
+    "jalons": [
+      190965,
+      190976
+    ]
+  },
+  "entite_582": {
+    "label": "PER",
+    "text": "es de Sidi-Hamza",
+    "jalons": [
+      192000,
+      192016
+    ]
+  },
+  "entite_583": {
+    "label": "LOC",
+    "text": "Sidi-Hamza",
+    "jalons": [
+      192230,
+      192240
+    ]
+  },
+  "entite_584": {
+    "label": "LOC",
+    "text": "Hamian",
+    "jalons": [
+      192293,
+      192299
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "Aujourd'hui",
+    "jalons": [
+      192304,
+      192315
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "Aïssa",
+    "jalons": [
+      192455,
+      192460
+    ]
+  },
+  "entite_587": {
+    "label": "PER",
+    "text": "La belle Aïssa",
+    "jalons": [
+      192465,
+      192479
+    ]
+  },
+  "entite_588": {
+    "label": "PER",
+    "text": "Ainsi",
+    "jalons": [
+      192545,
+      192550
+    ]
+  },
+  "entite_589": {
+    "label": "LOC",
+    "text": "Sidi-Hama",
+    "jalons": [
+      192627,
+      192636
+    ]
+  },
+  "entite_590": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      192807,
+      192816
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Sidr",
+    "jalons": [
+      192834,
+      192838
+    ]
+  },
+  "entite_592": {
+    "label": "LOC",
+    "text": "Hamza",
+    "jalons": [
+      192840,
+      192845
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "ami la joie de la voir",
+    "jalons": [
+      192947,
+      192969
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "Marie tres",
+    "jalons": [
+      193014,
+      193024
+    ]
+  },
+  "entite_595": {
+    "label": "LOC",
+    "text": "Chambas",
+    "jalons": [
+      193459,
+      193466
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Sans Savoir",
+    "jalons": [
+      193745,
+      193756
+    ]
+  },
+  "entite_597": {
+    "label": "PER",
+    "text": "Elle Turco",
+    "jalons": [
+      193980,
+      193990
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      194431,
+      194436
+    ]
+  },
+  "entite_599": {
+    "label": "LOC",
+    "text": "Attaque de",
+    "jalons": [
+      194484,
+      194494
+    ]
+  },
+  "entite_600": {
+    "label": "PER",
+    "text": "Lu le vois",
+    "jalons": [
+      195251,
+      195261
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      195902,
+      195907
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "C’est",
+    "jalons": [
+      196360,
+      196365
+    ]
+  },
+  "entite_603": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      196371,
+      196376
+    ]
+  },
+  "entite_604": {
+    "label": "LOC",
+    "text": "Sahara",
+    "jalons": [
+      197784,
+      197790
+    ]
+  },
+  "entite_605": {
+    "label": "LOC",
+    "text": "Élise",
+    "jalons": [
+      197936,
+      197941
+    ]
+  },
+  "entite_606": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      198638,
+      198644
+    ]
+  },
+  "entite_607": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      199059,
+      199068
+    ]
+  },
+  "entite_608": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      199290,
+      199299
+    ]
+  },
+  "entite_609": {
+    "label": "LOC",
+    "text": "Ilier",
+    "jalons": [
+      199447,
+      199452
+    ]
+  },
+  "entite_610": {
+    "label": "LOC",
+    "text": "Jirai",
+    "jalons": [
+      199572,
+      199577
+    ]
+  },
+  "entite_611": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      199597,
+      199606
+    ]
+  },
+  "entite_612": {
+    "label": "ORG",
+    "text": "MERYEM",
+    "jalons": [
+      199673,
+      199679
+    ]
+  },
+  "entite_613": {
+    "label": "PER",
+    "text": "oles que Marie ajouta",
+    "jalons": [
+      200192,
+      200213
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "Au fond de la",
+    "jalons": [
+      200780,
+      200793
+    ]
+  },
+  "entite_615": {
+    "label": "LOC",
+    "text": "déjà des",
+    "jalons": [
+      201236,
+      201244
+    ]
+  },
+  "entite_616": {
+    "label": "PER",
+    "text": "Gaston Durner",
+    "jalons": [
+      203195,
+      203208
+    ]
+  },
+  "entite_617": {
+    "label": "LOC",
+    "text": "Sahara",
+    "jalons": [
+      203954,
+      203960
+    ]
+  },
+  "entite_618": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      205020,
+      205027
+    ]
+  },
+  "entite_619": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      205372,
+      205379
+    ]
+  },
+  "entite_620": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      206718,
+      206725
+    ]
+  },
+  "entite_621": {
+    "label": "PER",
+    "text": "Si Je pouvais Césser",
+    "jalons": [
+      206773,
+      206793
+    ]
+  },
+  "entite_622": {
+    "label": "PER",
+    "text": "Georges la",
+    "jalons": [
+      207404,
+      207414
+    ]
+  },
+  "entite_623": {
+    "label": "MISC",
+    "text": "Déjà Meryem entrainait Georges sur ses pas",
+    "jalons": [
+      207979,
+      208021
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Tais",
+    "jalons": [
+      208891,
+      208895
+    ]
+  },
+  "entite_625": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      208988,
+      208994
+    ]
+  },
+  "entite_626": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      209151,
+      209158
+    ]
+  },
+  "entite_627": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      209819,
+      209825
+    ]
+  },
+  "entite_628": {
+    "label": "MISC",
+    "text": "Mais en quittant la chambre",
+    "jalons": [
+      209926,
+      209953
+    ]
+  },
+  "entite_629": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      210006,
+      210013
+    ]
+  },
+  "entite_630": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      210347,
+      210354
+    ]
+  },
+  "entite_631": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      210414,
+      210419
+    ]
+  },
+  "entite_632": {
+    "label": "PER",
+    "text": "Georges chercha Marie dans",
+    "jalons": [
+      210606,
+      210632
+    ]
+  },
+  "entite_633": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      211599,
+      211604
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Favait",
+    "jalons": [
+      211960,
+      211966
+    ]
+  },
+  "entite_635": {
+    "label": "PER",
+    "text": "Georges avec",
+    "jalons": [
+      212053,
+      212065
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      212976,
+      212983
+    ]
+  },
+  "entite_637": {
+    "label": "LOC",
+    "text": "Sebdou",
+    "jalons": [
+      213262,
+      213268
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "de nouveau du pas des chevaux",
+    "jalons": [
+      213507,
+      213536
+    ]
+  },
+  "entite_639": {
+    "label": "MISC",
+    "text": "cavalier arabe s'arrêta devant la porte du",
+    "jalons": [
+      214066,
+      214108
+    ]
+  },
+  "entite_640": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      214396,
+      214402
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "L'Arabe fit un geste et montra le Sud",
+    "jalons": [
+      214440,
+      214477
+    ]
+  },
+  "entite_642": {
+    "label": "LOC",
+    "text": "d'Alger",
+    "jalons": [
+      215016,
+      215023
+    ]
+  },
+  "entite_643": {
+    "label": "PER",
+    "text": "Elise alla mieux",
+    "jalons": [
+      215048,
+      215064
+    ]
+  },
+  "entite_644": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      215066,
+      215074
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "Marie venait de lui donner",
+    "jalons": [
+      215523,
+      215549
+    ]
+  },
+  "entite_646": {
+    "label": "MISC",
+    "text": "XXII  Ausud de Tlemcen",
+    "jalons": [
+      216418,
+      216440
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "D'ailleurs",
+    "jalons": [
+      217206,
+      217216
+    ]
+  },
+  "entite_648": {
+    "label": "LOC",
+    "text": "Sahara",
+    "jalons": [
+      217221,
+      217227
+    ]
+  },
+  "entite_649": {
+    "label": "LOC",
+    "text": "L'Arabe",
+    "jalons": [
+      217451,
+      217458
+    ]
+  },
+  "entite_650": {
+    "label": "MISC",
+    "text": "chasse les repose de la guerre et la leur",
+    "jalons": [
+      217625,
+      217666
+    ]
+  },
+  "entite_651": {
+    "label": "MISC",
+    "text": "Linent à Ja victoire",
+    "jalons": [
+      217729,
+      217749
+    ]
+  },
+  "entite_652": {
+    "label": "LOC",
+    "text": "Sahar",
+    "jalons": [
+      217893,
+      217898
+    ]
+  },
+  "entite_653": {
+    "label": "LOC",
+    "text": "Sahara",
+    "jalons": [
+      219611,
+      219617
+    ]
+  },
+  "entite_654": {
+    "label": "MISC",
+    "text": "Les femmes du Hamian",
+    "jalons": [
+      219767,
+      219787
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Celle",
+    "jalons": [
+      220375,
+      220380
+    ]
+  },
+  "entite_656": {
+    "label": "ORG",
+    "text": "de Sèvres",
+    "jalons": [
+      221170,
+      221179
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "Gause de sa beauté",
+    "jalons": [
+      224162,
+      224180
+    ]
+  },
+  "entite_658": {
+    "label": "LOC",
+    "text": "Sidi-Hamza",
+    "jalons": [
+      224751,
+      224761
+    ]
+  },
+  "entite_659": {
+    "label": "PER",
+    "text": "le de Meryem",
+    "jalons": [
+      224768,
+      224780
+    ]
+  },
+  "entite_660": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      224879,
+      224885
+    ]
+  },
+  "entite_661": {
+    "label": "MISC",
+    "text": "Dans le Sahara",
+    "jalons": [
+      224948,
+      224962
+    ]
+  },
+  "entite_662": {
+    "label": "LOC",
+    "text": "de la terre de Sienne",
+    "jalons": [
+      225519,
+      225540
+    ]
+  },
+  "entite_663": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      225596,
+      225602
+    ]
+  },
+  "entite_664": {
+    "label": "PER",
+    "text": "Je lui ai do",
+    "jalons": [
+      225780,
+      225792
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "Le Soudan",
+    "jalons": [
+      225840,
+      225849
+    ]
+  },
+  "entite_666": {
+    "label": "LOC",
+    "text": "Maroc",
+    "jalons": [
+      225854,
+      225859
+    ]
+  },
+  "entite_667": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      225861,
+      225866
+    ]
+  },
+  "entite_668": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      225879,
+      225885
+    ]
+  },
+  "entite_669": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      226176,
+      226182
+    ]
+  },
+  "entite_670": {
+    "label": "LOC",
+    "text": "Sidi",
+    "jalons": [
+      226260,
+      226264
+    ]
+  },
+  "entite_671": {
+    "label": "LOC",
+    "text": "Hamza",
+    "jalons": [
+      226266,
+      226271
+    ]
+  },
+  "entite_672": {
+    "label": "ORG",
+    "text": "Sans",
+    "jalons": [
+      226299,
+      226303
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      226508,
+      226517
+    ]
+  },
+  "entite_674": {
+    "label": "MISC",
+    "text": "Sidi Hamza le temps de la",
+    "jalons": [
+      226652,
+      226677
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      227024,
+      227033
+    ]
+  },
+  "entite_676": {
+    "label": "LOC",
+    "text": "Sili-Hamza",
+    "jalons": [
+      227182,
+      227192
+    ]
+  },
+  "entite_677": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      228201,
+      228208
+    ]
+  },
+  "entite_678": {
+    "label": "ORG",
+    "text": "Elle al",
+    "jalons": [
+      228854,
+      228861
+    ]
+  },
+  "entite_679": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      229565,
+      229571
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "Va",
+    "jalons": [
+      230097,
+      230099
+    ]
+  },
+  "entite_681": {
+    "label": "PER",
+    "text": "J’ai voulu",
+    "jalons": [
+      230404,
+      230414
+    ]
+  },
+  "entite_682": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      230509,
+      230515
+    ]
+  },
+  "entite_683": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      231625,
+      231631
+    ]
+  },
+  "entite_684": {
+    "label": "ORG",
+    "text": "El Romari",
+    "jalons": [
+      231902,
+      231911
+    ]
+  },
+  "entite_685": {
+    "label": "PER",
+    "text": "Tu lui",
+    "jalons": [
+      231916,
+      231922
+    ]
+  },
+  "entite_686": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      232605,
+      232611
+    ]
+  },
+  "entite_687": {
+    "label": "MISC",
+    "text": "des Sahariennes et peut-être celle de",
+    "jalons": [
+      232960,
+      232997
+    ]
+  },
+  "entite_688": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      233224,
+      233230
+    ]
+  },
+  "entite_689": {
+    "label": "MISC",
+    "text": "Elle ne doutait pas de Paffection de Kadidja",
+    "jalons": [
+      233232,
+      233276
+    ]
+  },
+  "entite_690": {
+    "label": "PER",
+    "text": "eprit Meryem",
+    "jalons": [
+      235520,
+      235532
+    ]
+  },
+  "entite_691": {
+    "label": "MISC",
+    "text": "Français de passer libres et fiers devant le Kabyle étonné de",
+    "jalons": [
+      235570,
+      235631
+    ]
+  },
+  "entite_692": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      235818,
+      235827
+    ]
+  },
+  "entite_693": {
+    "label": "MISC",
+    "text": "El-Romari marcha à la rencontre de Sidi-Hamza et le joignit précisément devant la tente de Meryem et de Kadidja",
+    "jalons": [
+      237687,
+      237798
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      238476,
+      238485
+    ]
+  },
+  "entite_695": {
+    "label": "LOC",
+    "text": "Français",
+    "jalons": [
+      238906,
+      238914
+    ]
+  },
+  "entite_696": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      239106,
+      239112
+    ]
+  },
+  "entite_697": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      239700,
+      239706
+    ]
+  },
+  "entite_698": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      239710,
+      239715
+    ]
+  },
+  "entite_699": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      239837,
+      239844
+    ]
+  },
+  "entite_700": {
+    "label": "PER",
+    "text": "je n'ai que toi et Dieu",
+    "jalons": [
+      240140,
+      240163
+    ]
+  },
+  "entite_701": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      240568,
+      240575
+    ]
+  },
+  "entite_702": {
+    "label": "LOC",
+    "text": "Gaston Durner",
+    "jalons": [
+      240977,
+      240990
+    ]
+  },
+  "entite_703": {
+    "label": "PER",
+    "text": "de Themcen",
+    "jalons": [
+      241142,
+      241152
+    ]
+  },
+  "entite_704": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      242149,
+      242158
+    ]
+  },
+  "entite_705": {
+    "label": "LOC",
+    "text": "Lapis",
+    "jalons": [
+      243056,
+      243061
+    ]
+  },
+  "entite_706": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      243126,
+      243133
+    ]
+  },
+  "entite_707": {
+    "label": "PER",
+    "text": "Elle essaya de le rompre",
+    "jalons": [
+      243136,
+      243160
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "ElRomari?",
+    "jalons": [
+      243188,
+      243197
+    ]
+  },
+  "entite_709": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      243361,
+      243368
+    ]
+  },
+  "entite_710": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      243527,
+      243536
+    ]
+  },
+  "entite_711": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      244819,
+      244825
+    ]
+  },
+  "entite_712": {
+    "label": "LOC",
+    "text": "Kaidja",
+    "jalons": [
+      244828,
+      244834
+    ]
+  },
+  "entite_713": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      245238,
+      245245
+    ]
+  },
+  "entite_714": {
+    "label": "LOC",
+    "text": "d'El-Romari",
+    "jalons": [
+      245829,
+      245840
+    ]
+  },
+  "entite_715": {
+    "label": "MISC",
+    "text": "Elle prit la boisson et la lui",
+    "jalons": [
+      247315,
+      247345
+    ]
+  },
+  "entite_716": {
+    "label": "PER",
+    "text": "Appelez-moi Gaston",
+    "jalons": [
+      247494,
+      247512
+    ]
+  },
+  "entite_717": {
+    "label": "PER",
+    "text": "Je vais",
+    "jalons": [
+      247514,
+      247521
+    ]
+  },
+  "entite_718": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      247563,
+      247569
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Gaston",
+    "jalons": [
+      247969,
+      247975
+    ]
+  },
+  "entite_720": {
+    "label": "LOC",
+    "text": "Espérez",
+    "jalons": [
+      248005,
+      248012
+    ]
+  },
+  "entite_721": {
+    "label": "PER",
+    "text": "Saha",
+    "jalons": [
+      248316,
+      248320
+    ]
+  },
+  "entite_722": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      248847,
+      248853
+    ]
+  },
+  "entite_723": {
+    "label": "MISC",
+    "text": "Dans les montagnes des Ouled-Sidi Cheiïk",
+    "jalons": [
+      248914,
+      248954
+    ]
+  },
+  "entite_724": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      249382,
+      249388
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "Georges ne sera Jamais le mari de mademoi",
+    "jalons": [
+      249857,
+      249898
+    ]
+  },
+  "entite_726": {
+    "label": "LOC",
+    "text": "Epargnez-moi",
+    "jalons": [
+      250116,
+      250128
+    ]
+  },
+  "entite_727": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      250242,
+      250248
+    ]
+  },
+  "entite_728": {
+    "label": "MISC",
+    "text": "ai pas la force de la",
+    "jalons": [
+      250369,
+      250390
+    ]
+  },
+  "entite_729": {
+    "label": "MISC",
+    "text": "Venue des régiuns de flamme",
+    "jalons": [
+      250904,
+      250931
+    ]
+  },
+  "entite_730": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      250991,
+      250995
+    ]
+  },
+  "entite_731": {
+    "label": "LOC",
+    "text": "Fautre",
+    "jalons": [
+      251535,
+      251541
+    ]
+  },
+  "entite_732": {
+    "label": "LOC",
+    "text": "ami de Barres",
+    "jalons": [
+      251769,
+      251782
+    ]
+  },
+  "entite_733": {
+    "label": "PER",
+    "text": "Et Georges",
+    "jalons": [
+      251787,
+      251797
+    ]
+  },
+  "entite_734": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      251802,
+      251809
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      252351,
+      252357
+    ]
+  },
+  "entite_736": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      252575,
+      252580
+    ]
+  },
+  "entite_737": {
+    "label": "PER",
+    "text": "ami de Barres",
+    "jalons": [
+      252970,
+      252983
+    ]
+  },
+  "entite_738": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      253497,
+      253503
+    ]
+  },
+  "entite_739": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      253753,
+      253759
+    ]
+  },
+  "entite_740": {
+    "label": "PER",
+    "text": "du Jeune",
+    "jalons": [
+      254466,
+      254474
+    ]
+  },
+  "entite_741": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      255052,
+      255061
+    ]
+  },
+  "entite_742": {
+    "label": "LOC",
+    "text": "Kai",
+    "jalons": [
+      255432,
+      255435
+    ]
+  },
+  "entite_743": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      255575,
+      255581
+    ]
+  },
+  "entite_744": {
+    "label": "ORG",
+    "text": "Un seul de tes",
+    "jalons": [
+      255976,
+      255990
+    ]
+  },
+  "entite_745": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      256111,
+      256117
+    ]
+  },
+  "entite_746": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      256239,
+      256246
+    ]
+  },
+  "entite_747": {
+    "label": "LOC",
+    "text": "la fille de Sidi-Hamza",
+    "jalons": [
+      256248,
+      256270
+    ]
+  },
+  "entite_748": {
+    "label": "LOC",
+    "text": "Qille",
+    "jalons": [
+      256596,
+      256601
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "Quand je t'ai vue hier",
+    "jalons": [
+      256603,
+      256625
+    ]
+  },
+  "entite_750": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      257291,
+      257300
+    ]
+  },
+  "entite_751": {
+    "label": "MISC",
+    "text": "Romari les vit venir",
+    "jalons": [
+      258048,
+      258068
+    ]
+  },
+  "entite_752": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      259528,
+      259537
+    ]
+  },
+  "entite_753": {
+    "label": "LOC",
+    "text": "Ente",
+    "jalons": [
+      259539,
+      259543
+    ]
+  },
+  "entite_754": {
+    "label": "LOC",
+    "text": "Kaïd",
+    "jalons": [
+      259654,
+      259658
+    ]
+  },
+  "entite_755": {
+    "label": "LOC",
+    "text": "Fappeler",
+    "jalons": [
+      262606,
+      262614
+    ]
+  },
+  "entite_756": {
+    "label": "PER",
+    "text": "As-tu vu El-Romari",
+    "jalons": [
+      263514,
+      263532
+    ]
+  },
+  "entite_757": {
+    "label": "PER",
+    "text": "As-tu vu El-Roma",
+    "jalons": [
+      263664,
+      263680
+    ]
+  },
+  "entite_758": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      263692,
+      263699
+    ]
+  },
+  "entite_759": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      263783,
+      263789
+    ]
+  },
+  "entite_760": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      264683,
+      264690
+    ]
+  },
+  "entite_761": {
+    "label": "LOC",
+    "text": "Malheureu",
+    "jalons": [
+      264695,
+      264704
+    ]
+  },
+  "entite_762": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      264828,
+      264834
+    ]
+  },
+  "entite_763": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      265598,
+      265605
+    ]
+  },
+  "entite_764": {
+    "label": "LOC",
+    "text": "Pardonnez",
+    "jalons": [
+      266304,
+      266313
+    ]
+  },
+  "entite_765": {
+    "label": "LOC",
+    "text": "Kaduija",
+    "jalons": [
+      266316,
+      266323
+    ]
+  },
+  "entite_766": {
+    "label": "PER",
+    "text": "Pardonnez-moi aussi",
+    "jalons": [
+      266358,
+      266377
+    ]
+  },
+  "entite_767": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      266629,
+      266636
+    ]
+  },
+  "entite_768": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      266740,
+      266746
+    ]
+  },
+  "entite_769": {
+    "label": "PER",
+    "text": "MERYEM  Meryem",
+    "jalons": [
+      266759,
+      266773
+    ]
+  },
+  "entite_770": {
+    "label": "LOC",
+    "text": "Romari",
+    "jalons": [
+      266955,
+      266961
+    ]
+  },
+  "entite_771": {
+    "label": "LOC",
+    "text": "El-Rom",
+    "jalons": [
+      267258,
+      267264
+    ]
+  },
+  "entite_772": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      267322,
+      267329
+    ]
+  },
+  "entite_773": {
+    "label": "LOC",
+    "text": "Jai",
+    "jalons": [
+      267557,
+      267560
+    ]
+  },
+  "entite_774": {
+    "label": "LOC",
+    "text": "Kadidja",
+    "jalons": [
+      267562,
+      267569
+    ]
+  },
+  "entite_775": {
+    "label": "PER",
+    "text": "Saad",
+    "jalons": [
+      267767,
+      267771
+    ]
+  },
+  "entite_776": {
+    "label": "PER",
+    "text": "de Sidi-Hamza",
+    "jalons": [
+      268274,
+      268287
+    ]
+  },
+  "entite_777": {
+    "label": "PER",
+    "text": "Mais je ne te la demande",
+    "jalons": [
+      269335,
+      269359
+    ]
+  },
+  "entite_778": {
+    "label": "LOC",
+    "text": "Sidi-Hamza",
+    "jalons": [
+      269365,
+      269375
+    ]
+  },
+  "entite_779": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      269917,
+      269923
+    ]
+  },
+  "entite_780": {
+    "label": "LOC",
+    "text": "Tell",
+    "jalons": [
+      270281,
+      270285
+    ]
+  },
+  "entite_781": {
+    "label": "PER",
+    "text": "Meryem le veu",
+    "jalons": [
+      270287,
+      270300
+    ]
+  },
+  "entite_782": {
+    "label": "LOC",
+    "text": "J'attendrai",
+    "jalons": [
+      270311,
+      270322
+    ]
+  },
+  "entite_783": {
+    "label": "LOC",
+    "text": "El",
+    "jalons": [
+      270333,
+      270335
+    ]
+  },
+  "entite_784": {
+    "label": "LOC",
+    "text": "Romari",
+    "jalons": [
+      270336,
+      270342
+    ]
+  },
+  "entite_785": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      270714,
+      270720
+    ]
+  },
+  "entite_786": {
+    "label": "MISC",
+    "text": "aissons el qu'habilt",
+    "jalons": [
+      270848,
+      270868
+    ]
+  },
+  "entite_787": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      270872,
+      270879
+    ]
+  },
+  "entite_788": {
+    "label": "LOC",
+    "text": "la famille de Juilly",
+    "jalons": [
+      270881,
+      270901
+    ]
+  },
+  "entite_789": {
+    "label": "MISC",
+    "text": "Elise et",
+    "jalons": [
+      270903,
+      270911
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "M. de Bar",
+    "jalons": [
+      270912,
+      270921
+    ]
+  },
+  "entite_791": {
+    "label": "MISC",
+    "text": "peine le temps d’entrevoir sur le seuil Un Arabe de petite",
+    "jalons": [
+      272435,
+      272493
+    ]
+  },
+  "entite_792": {
+    "label": "ORG",
+    "text": "Elle pénétra dans la maison aux yeux de la ne",
+    "jalons": [
+      272848,
+      272893
+    ]
+  },
+  "entite_793": {
+    "label": "LOC",
+    "text": "capitaine de Barres",
+    "jalons": [
+      273378,
+      273397
+    ]
+  },
+  "entite_794": {
+    "label": "ORG",
+    "text": "Elle tres",
+    "jalons": [
+      273399,
+      273408
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      274088,
+      274095
+    ]
+  },
+  "entite_796": {
+    "label": "LOC",
+    "text": "Varon",
+    "jalons": [
+      275132,
+      275137
+    ]
+  },
+  "entite_797": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      275178,
+      275190
+    ]
+  },
+  "entite_798": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      275443,
+      275449
+    ]
+  },
+  "entite_799": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      275452,
+      275456
+    ]
+  },
+  "entite_800": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      276137,
+      276149
+    ]
+  },
+  "entite_801": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      277394,
+      277400
+    ]
+  },
+  "entite_802": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      277492,
+      277499
+    ]
+  },
+  "entite_803": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      277698,
+      277710
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "Saharie",
+    "jalons": [
+      278009,
+      278016
+    ]
+  },
+  "entite_805": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      278515,
+      278520
+    ]
+  },
+  "entite_806": {
+    "label": "PER",
+    "text": "de M. de Barres",
+    "jalons": [
+      279445,
+      279460
+    ]
+  },
+  "entite_807": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      279508,
+      279513
+    ]
+  },
+  "entite_808": {
+    "label": "MISC",
+    "text": "la les baisers et les",
+    "jalons": [
+      279552,
+      279573
+    ]
+  },
+  "entite_809": {
+    "label": "PER",
+    "text": "Meryem avait",
+    "jalons": [
+      280017,
+      280029
+    ]
+  },
+  "entite_810": {
+    "label": "LOC",
+    "text": "Hamian",
+    "jalons": [
+      280056,
+      280062
+    ]
+  },
+  "entite_811": {
+    "label": "LOC",
+    "text": "Sahara",
+    "jalons": [
+      280442,
+      280448
+    ]
+  },
+  "entite_812": {
+    "label": "LOC",
+    "text": "Tell",
+    "jalons": [
+      280452,
+      280456
+    ]
+  },
+  "entite_813": {
+    "label": "LOC",
+    "text": "El",
+    "jalons": [
+      280458,
+      280460
+    ]
+  },
+  "entite_814": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      280499,
+      280505
+    ]
+  },
+  "entite_815": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      281030,
+      281036
+    ]
+  },
+  "entite_816": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      282475,
+      282481
+    ]
+  },
+  "entite_817": {
+    "label": "PER",
+    "text": "de Merÿem",
+    "jalons": [
+      282613,
+      282622
+    ]
+  },
+  "entite_818": {
+    "label": "LOC",
+    "text": "Sidi-Hamza",
+    "jalons": [
+      282788,
+      282798
+    ]
+  },
+  "entite_819": {
+    "label": "LOC",
+    "text": "Hamza",
+    "jalons": [
+      282970,
+      282975
+    ]
+  },
+  "entite_820": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      283091,
+      283100
+    ]
+  },
+  "entite_821": {
+    "label": "PER",
+    "text": "tu de Meryem",
+    "jalons": [
+      283111,
+      283123
+    ]
+  },
+  "entite_822": {
+    "label": "LOC",
+    "text": "Qui",
+    "jalons": [
+      283128,
+      283131
+    ]
+  },
+  "entite_823": {
+    "label": "LOC",
+    "text": "parle de Meryem",
+    "jalons": [
+      283136,
+      283151
+    ]
+  },
+  "entite_824": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      283430,
+      283436
+    ]
+  },
+  "entite_825": {
+    "label": "PER",
+    "text": "Sidi Hamza",
+    "jalons": [
+      284258,
+      284268
+    ]
+  },
+  "entite_826": {
+    "label": "LOC",
+    "text": "Sidi-Hamza",
+    "jalons": [
+      284500,
+      284510
+    ]
+  },
+  "entite_827": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      284554,
+      284560
+    ]
+  },
+  "entite_828": {
+    "label": "LOC",
+    "text": "Haïsa",
+    "jalons": [
+      284915,
+      284920
+    ]
+  },
+  "entite_829": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      285067,
+      285074
+    ]
+  },
+  "entite_830": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      285789,
+      285796
+    ]
+  },
+  "entite_831": {
+    "label": "MISC",
+    "text": "elles de Georges et avertir du retour de",
+    "jalons": [
+      286069,
+      286109
+    ]
+  },
+  "entite_832": {
+    "label": "LOC",
+    "text": "la vie de Meryem",
+    "jalons": [
+      286172,
+      286188
+    ]
+  },
+  "entite_833": {
+    "label": "LOC",
+    "text": "Sorte",
+    "jalons": [
+      287092,
+      287097
+    ]
+  },
+  "entite_834": {
+    "label": "PER",
+    "text": "de Georges",
+    "jalons": [
+      287115,
+      287125
+    ]
+  },
+  "entite_835": {
+    "label": "LOC",
+    "text": "Ment de leur",
+    "jalons": [
+      287196,
+      287208
+    ]
+  },
+  "entite_836": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      287302,
+      287309
+    ]
+  },
+  "entite_837": {
+    "label": "LOC",
+    "text": "Le jour de la",
+    "jalons": [
+      287311,
+      287324
+    ]
+  },
+  "entite_838": {
+    "label": "LOC",
+    "text": "Salon de M. de Juilly",
+    "jalons": [
+      287411,
+      287432
+    ]
+  },
+  "entite_839": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      287774,
+      287781
+    ]
+  },
+  "entite_840": {
+    "label": "PER",
+    "text": "Henri Lau",
+    "jalons": [
+      287994,
+      288003
+    ]
+  },
+  "entite_841": {
+    "label": "MISC",
+    "text": "de Marie et le départ de Georges et de Gaston",
+    "jalons": [
+      288083,
+      288128
+    ]
+  },
+  "entite_842": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      288163,
+      288175
+    ]
+  },
+  "entite_843": {
+    "label": "PER",
+    "text": "de Meryem",
+    "jalons": [
+      288263,
+      288272
+    ]
+  },
+  "entite_844": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      288317,
+      288322
+    ]
+  },
+  "entite_845": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      288853,
+      288860
+    ]
+  },
+  "entite_846": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      288862,
+      288866
+    ]
+  },
+  "entite_847": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      288987,
+      288994
+    ]
+  },
+  "entite_848": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      289102,
+      289108
+    ]
+  },
+  "entite_849": {
+    "label": "PER",
+    "text": "Qu’avez-vou",
+    "jalons": [
+      290805,
+      290816
+    ]
+  },
+  "entite_850": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      291816,
+      291822
+    ]
+  },
+  "entite_851": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      292292,
+      292299
+    ]
+  },
+  "entite_852": {
+    "label": "LOC",
+    "text": "Ecoute-moi",
+    "jalons": [
+      292301,
+      292311
+    ]
+  },
+  "entite_853": {
+    "label": "LOC",
+    "text": "MERYEM",
+    "jalons": [
+      292355,
+      292361
+    ]
+  },
+  "entite_854": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      292378,
+      292385
+    ]
+  },
+  "entite_855": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      292435,
+      292441
+    ]
+  },
+  "entite_856": {
+    "label": "LOC",
+    "text": "la porte de Fatel",
+    "jalons": [
+      292847,
+      292864
+    ]
+  },
+  "entite_857": {
+    "label": "LOC",
+    "text": "Yeux de F'äinec",
+    "jalons": [
+      293662,
+      293677
+    ]
+  },
+  "entite_858": {
+    "label": "MISC",
+    "text": "montraient sur le seuil de",
+    "jalons": [
+      293889,
+      293915
+    ]
+  },
+  "entite_859": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      293942,
+      293954
+    ]
+  },
+  "entite_860": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      294170,
+      294176
+    ]
+  },
+  "entite_861": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      294243,
+      294250
+    ]
+  },
+  "entite_862": {
+    "label": "PER",
+    "text": "Là était la vraie",
+    "jalons": [
+      294409,
+      294426
+    ]
+  },
+  "entite_863": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      294902,
+      294909
+    ]
+  },
+  "entite_864": {
+    "label": "PER",
+    "text": "Marie la chercha",
+    "jalons": [
+      294922,
+      294938
+    ]
+  },
+  "entite_865": {
+    "label": "LOC",
+    "text": "la tête de Georges",
+    "jalons": [
+      295154,
+      295172
+    ]
+  },
+  "entite_866": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      295327,
+      295334
+    ]
+  },
+  "entite_867": {
+    "label": "MISC",
+    "text": "Tout le monde la suivit",
+    "jalons": [
+      295336,
+      295359
+    ]
+  },
+  "entite_868": {
+    "label": "LOC",
+    "text": "Aïlleurs",
+    "jalons": [
+      295434,
+      295442
+    ]
+  },
+  "entite_869": {
+    "label": "LOC",
+    "text": "la vallée",
+    "jalons": [
+      295937,
+      295946
+    ]
+  },
+  "entite_870": {
+    "label": "LOC",
+    "text": "Tlemcen",
+    "jalons": [
+      297289,
+      297296
+    ]
+  },
+  "entite_871": {
+    "label": "LOC",
+    "text": "Oran",
+    "jalons": [
+      297299,
+      297303
+    ]
+  },
+  "entite_872": {
+    "label": "LOC",
+    "text": "le retour de Georges",
+    "jalons": [
+      297362,
+      297382
+    ]
+  },
+  "entite_873": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      298192,
+      298200
+    ]
+  },
+  "entite_874": {
+    "label": "MISC",
+    "text": "Georges et La famille de Juilly",
+    "jalons": [
+      298304,
+      298335
+    ]
+  },
+  "entite_875": {
+    "label": "LOC",
+    "text": "Hamian",
+    "jalons": [
+      298840,
+      298846
+    ]
+  },
+  "entite_876": {
+    "label": "MISC",
+    "text": "Malgré elle",
+    "jalons": [
+      298848,
+      298859
+    ]
+  },
+  "entite_877": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      298983,
+      298992
+    ]
+  },
+  "entite_878": {
+    "label": "LOC",
+    "text": "E-Romari",
+    "jalons": [
+      298994,
+      299002
+    ]
+  },
+  "entite_879": {
+    "label": "LOC",
+    "text": "Sidi-Hamza",
+    "jalons": [
+      299449,
+      299459
+    ]
+  },
+  "entite_880": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      300006,
+      300013
+    ]
+  },
+  "entite_881": {
+    "label": "LOC",
+    "text": "Hamian",
+    "jalons": [
+      301032,
+      301038
+    ]
+  },
+  "entite_882": {
+    "label": "PER",
+    "text": "Marie de Juilly",
+    "jalons": [
+      301448,
+      301463
+    ]
+  },
+  "entite_883": {
+    "label": "LOC",
+    "text": "Geor",
+    "jalons": [
+      301651,
+      301655
+    ]
+  },
+  "entite_884": {
+    "label": "LOC",
+    "text": "France près de",
+    "jalons": [
+      301702,
+      301716
+    ]
+  },
+  "entite_885": {
+    "label": "PER",
+    "text": "M. de Juilly",
+    "jalons": [
+      301717,
+      301729
+    ]
+  },
+  "entite_886": {
+    "label": "LOC",
+    "text": "Oran",
+    "jalons": [
+      301931,
+      301935
+    ]
+  },
+  "entite_887": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      301967,
+      301979
+    ]
+  },
+  "entite_888": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      302858,
+      302865
+    ]
+  },
+  "entite_889": {
+    "label": "PER",
+    "text": "Georges! Georges",
+    "jalons": [
+      303130,
+      303146
+    ]
+  },
+  "entite_890": {
+    "label": "PER",
+    "text": "paule de Georges",
+    "jalons": [
+      303343,
+      303359
+    ]
+  },
+  "entite_891": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      303525,
+      303537
+    ]
+  },
+  "entite_892": {
+    "label": "PER",
+    "text": "Elise tomba",
+    "jalons": [
+      303645,
+      303656
+    ]
+  },
+  "entite_893": {
+    "label": "MISC",
+    "text": "évanouie dans les bras de sa",
+    "jalons": [
+      303657,
+      303685
+    ]
+  },
+  "entite_894": {
+    "label": "LOC",
+    "text": "Kl-Roma",
+    "jalons": [
+      304437,
+      304444
+    ]
+  },
+  "entite_895": {
+    "label": "LOC",
+    "text": "El-Romari",
+    "jalons": [
+      304890,
+      304899
+    ]
+  },
+  "entite_896": {
+    "label": "LOC",
+    "text": "Geor",
+    "jalons": [
+      305135,
+      305139
+    ]
+  },
+  "entite_897": {
+    "label": "LOC",
+    "text": "d'El-Romari",
+    "jalons": [
+      305152,
+      305163
+    ]
+  },
+  "entite_898": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      305527,
+      305533
+    ]
+  },
+  "entite_899": {
+    "label": "PER",
+    "text": "Sant",
+    "jalons": [
+      305642,
+      305646
+    ]
+  },
+  "entite_900": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      305649,
+      305656
+    ]
+  },
+  "entite_901": {
+    "label": "LOC",
+    "text": "voulu",
+    "jalons": [
+      305669,
+      305674
+    ]
+  },
+  "entite_902": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      305871,
+      305878
+    ]
+  },
+  "entite_903": {
+    "label": "PER",
+    "text": "M. de Barres",
+    "jalons": [
+      305905,
+      305917
+    ]
+  },
+  "entite_904": {
+    "label": "LOC",
+    "text": "Arabe",
+    "jalons": [
+      306130,
+      306135
+    ]
+  },
+  "entite_905": {
+    "label": "PER",
+    "text": "Georges Doussa",
+    "jalons": [
+      306296,
+      306310
+    ]
+  },
+  "entite_906": {
+    "label": "MISC",
+    "text": "Él-Romari et de celle",
+    "jalons": [
+      306411,
+      306432
+    ]
+  },
+  "entite_907": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      306474,
+      306480
+    ]
+  },
+  "entite_908": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      306922,
+      306929
+    ]
+  },
+  "entite_909": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      307191,
+      307196
+    ]
+  },
+  "entite_910": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      307290,
+      307297
+    ]
+  },
+  "entite_911": {
+    "label": "LOC",
+    "text": "Meryem",
+    "jalons": [
+      307348,
+      307354
+    ]
+  },
+  "entite_912": {
+    "label": "LOC",
+    "text": "Vosges",
+    "jalons": [
+      307491,
+      307497
+    ]
+  },
+  "entite_913": {
+    "label": "MISC",
+    "text": "La lune en s’élevan",
+    "jalons": [
+      308717,
+      308736
+    ]
+  },
+  "entite_914": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      311461,
+      311467
+    ]
+  },
+  "entite_915": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      311652,
+      311658
+    ]
+  },
+  "entite_916": {
+    "label": "PER",
+    "text": "de Marcel",
+    "jalons": [
+      312009,
+      312018
+    ]
+  },
+  "entite_917": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      312535,
+      312541
+    ]
+  },
+  "entite_918": {
+    "label": "LOC",
+    "text": "MARCEL",
+    "jalons": [
+      313071,
+      313077
+    ]
+  },
+  "entite_919": {
+    "label": "PER",
+    "text": "Marcel sans",
+    "jalons": [
+      313090,
+      313101
+    ]
+  },
+  "entite_920": {
+    "label": "LOC",
+    "text": "Quel",
+    "jalons": [
+      313336,
+      313340
+    ]
+  },
+  "entite_921": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      314357,
+      314363
+    ]
+  },
+  "entite_922": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      314653,
+      314660
+    ]
+  },
+  "entite_923": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      314729,
+      314737
+    ]
+  },
+  "entite_924": {
+    "label": "MISC",
+    "text": "Mademoiselle Laure a eu besoin de moi",
+    "jalons": [
+      315314,
+      315351
+    ]
+  },
+  "entite_925": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      315767,
+      315774
+    ]
+  },
+  "entite_926": {
+    "label": "PER",
+    "text": "Marcel s'arrêta",
+    "jalons": [
+      316029,
+      316044
+    ]
+  },
+  "entite_927": {
+    "label": "PER",
+    "text": "Marcel s'arrêta",
+    "jalons": [
+      317953,
+      317968
+    ]
+  },
+  "entite_928": {
+    "label": "MISC",
+    "text": "Dans un de ces",
+    "jalons": [
+      319345,
+      319359
+    ]
+  },
+  "entite_929": {
+    "label": "MISC",
+    "text": "la belle Laure des Arceaux",
+    "jalons": [
+      319528,
+      319554
+    ]
+  },
+  "entite_930": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      320350,
+      320365
+    ]
+  },
+  "entite_931": {
+    "label": "LOC",
+    "text": "Renaud",
+    "jalons": [
+      320417,
+      320423
+    ]
+  },
+  "entite_932": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      320555,
+      320560
+    ]
+  },
+  "entite_933": {
+    "label": "PER",
+    "text": "Pierre Du",
+    "jalons": [
+      320611,
+      320620
+    ]
+  },
+  "entite_934": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      320913,
+      320928
+    ]
+  },
+  "entite_935": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      321126,
+      321133
+    ]
+  },
+  "entite_936": {
+    "label": "PER",
+    "text": "Laure el sa",
+    "jalons": [
+      321135,
+      321146
+    ]
+  },
+  "entite_937": {
+    "label": "PER",
+    "text": "MARCEL",
+    "jalons": [
+      322084,
+      322090
+    ]
+  },
+  "entite_938": {
+    "label": "MISC",
+    "text": "des tristesses de la Jeune fille",
+    "jalons": [
+      323073,
+      323105
+    ]
+  },
+  "entite_939": {
+    "label": "PER",
+    "text": "Laure lui",
+    "jalons": [
+      323150,
+      323159
+    ]
+  },
+  "entite_940": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      323395,
+      323400
+    ]
+  },
+  "entite_941": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      324556,
+      324561
+    ]
+  },
+  "entite_942": {
+    "label": "PER",
+    "text": "Pierre D",
+    "jalons": [
+      324600,
+      324608
+    ]
+  },
+  "entite_943": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      324744,
+      324749
+    ]
+  },
+  "entite_944": {
+    "label": "PER",
+    "text": "Le baron desArceaux",
+    "jalons": [
+      325130,
+      325149
+    ]
+  },
+  "entite_945": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      325751,
+      325758
+    ]
+  },
+  "entite_946": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      326084,
+      326090
+    ]
+  },
+  "entite_947": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      326957,
+      326965
+    ]
+  },
+  "entite_948": {
+    "label": "PER",
+    "text": "Marcel le chasseur de nuit du Rendal",
+    "jalons": [
+      327745,
+      327781
+    ]
+  },
+  "entite_949": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      328096,
+      328103
+    ]
+  },
+  "entite_950": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      328894,
+      328902
+    ]
+  },
+  "entite_951": {
+    "label": "PER",
+    "text": "jele Sais",
+    "jalons": [
+      329204,
+      329213
+    ]
+  },
+  "entite_952": {
+    "label": "PER",
+    "text": "Marcel en",
+    "jalons": [
+      330150,
+      330159
+    ]
+  },
+  "entite_953": {
+    "label": "LOC",
+    "text": "Tant mieux",
+    "jalons": [
+      330221,
+      330231
+    ]
+  },
+  "entite_954": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      330452,
+      330458
+    ]
+  },
+  "entite_955": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      330745,
+      330752
+    ]
+  },
+  "entite_956": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      330820,
+      330827
+    ]
+  },
+  "entite_957": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      330865,
+      330872
+    ]
+  },
+  "entite_958": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      330877,
+      330883
+    ]
+  },
+  "entite_959": {
+    "label": "PER",
+    "text": "MARCEL",
+    "jalons": [
+      331251,
+      331257
+    ]
+  },
+  "entite_960": {
+    "label": "PER",
+    "text": "Conime Marcel",
+    "jalons": [
+      331265,
+      331278
+    ]
+  },
+  "entite_961": {
+    "label": "LOC",
+    "text": "Pêére",
+    "jalons": [
+      331349,
+      331354
+    ]
+  },
+  "entite_962": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      331404,
+      331410
+    ]
+  },
+  "entite_963": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      331759,
+      331765
+    ]
+  },
+  "entite_964": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      331801,
+      331809
+    ]
+  },
+  "entite_965": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      331868,
+      331875
+    ]
+  },
+  "entite_966": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      332111,
+      332119
+    ]
+  },
+  "entite_967": {
+    "label": "PER",
+    "text": "Marcel?",
+    "jalons": [
+      332336,
+      332343
+    ]
+  },
+  "entite_968": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      332428,
+      332436
+    ]
+  },
+  "entite_969": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      332772,
+      332778
+    ]
+  },
+  "entite_970": {
+    "label": "PER",
+    "text": "faire de moi",
+    "jalons": [
+      332801,
+      332813
+    ]
+  },
+  "entite_971": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      333032,
+      333039
+    ]
+  },
+  "entite_972": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      333045,
+      333051
+    ]
+  },
+  "entite_973": {
+    "label": "LOC",
+    "text": "Lience",
+    "jalons": [
+      333063,
+      333069
+    ]
+  },
+  "entite_974": {
+    "label": "MISC",
+    "text": "Le baron des Arceaux? le fils de",
+    "jalons": [
+      333074,
+      333106
+    ]
+  },
+  "entite_975": {
+    "label": "PER",
+    "text": "Pierre Du",
+    "jalons": [
+      333107,
+      333116
+    ]
+  },
+  "entite_976": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      333196,
+      333202
+    ]
+  },
+  "entite_977": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      333234,
+      333242
+    ]
+  },
+  "entite_978": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      333389,
+      333397
+    ]
+  },
+  "entite_979": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      333885,
+      333891
+    ]
+  },
+  "entite_980": {
+    "label": "PER",
+    "text": "Bertrand   MARCEL",
+    "jalons": [
+      334086,
+      334103
+    ]
+  },
+  "entite_981": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      335294,
+      335309
+    ]
+  },
+  "entite_982": {
+    "label": "MISC",
+    "text": "Arceaux qui ne se donnait pas le ridicule de nier le premier nom de",
+    "jalons": [
+      335362,
+      335429
+    ]
+  },
+  "entite_983": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      335443,
+      335458
+    ]
+  },
+  "entite_984": {
+    "label": "PER",
+    "text": "le fils de Pierre Duchange le baron  des Arceaux",
+    "jalons": [
+      335765,
+      335813
+    ]
+  },
+  "entite_985": {
+    "label": "PER",
+    "text": "Marcel sans",
+    "jalons": [
+      335822,
+      335833
+    ]
+  },
+  "entite_986": {
+    "label": "LOC",
+    "text": "Duchange",
+    "jalons": [
+      336237,
+      336245
+    ]
+  },
+  "entite_987": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      336254,
+      336261
+    ]
+  },
+  "entite_988": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      336275,
+      336281
+    ]
+  },
+  "entite_989": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      336332,
+      336339
+    ]
+  },
+  "entite_990": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      337394,
+      337401
+    ]
+  },
+  "entite_991": {
+    "label": "MISC",
+    "text": "il lui parle d'amour",
+    "jalons": [
+      337408,
+      337428
+    ]
+  },
+  "entite_992": {
+    "label": "ORG",
+    "text": "Elle se",
+    "jalons": [
+      337913,
+      337920
+    ]
+  },
+  "entite_993": {
+    "label": "LOC",
+    "text": "Ucier",
+    "jalons": [
+      338305,
+      338310
+    ]
+  },
+  "entite_994": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      338378,
+      338384
+    ]
+  },
+  "entite_995": {
+    "label": "MISC",
+    "text": "La présence de Laure",
+    "jalons": [
+      338444,
+      338464
+    ]
+  },
+  "entite_996": {
+    "label": "MISC",
+    "text": "était le fils de la première femme de Pierre Du",
+    "jalons": [
+      338836,
+      338883
+    ]
+  },
+  "entite_997": {
+    "label": "PER",
+    "text": "Laure le",
+    "jalons": [
+      339144,
+      339152
+    ]
+  },
+  "entite_998": {
+    "label": "PER",
+    "text": "nda madame des Arceaux",
+    "jalons": [
+      339456,
+      339478
+    ]
+  },
+  "entite_999": {
+    "label": "LOC",
+    "text": "C’est la fille de Bertrand",
+    "jalons": [
+      339522,
+      339548
+    ]
+  },
+  "entite_1000": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      339890,
+      339898
+    ]
+  },
+  "entite_1001": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      340127,
+      340134
+    ]
+  },
+  "entite_1002": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      340412,
+      340418
+    ]
+  },
+  "entite_1003": {
+    "label": "LOC",
+    "text": "Jessaierai",
+    "jalons": [
+      340483,
+      340493
+    ]
+  },
+  "entite_1004": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      340499,
+      340504
+    ]
+  },
+  "entite_1005": {
+    "label": "PER",
+    "text": "Marcel ou Suzanne S'approchait de",
+    "jalons": [
+      341234,
+      341267
+    ]
+  },
+  "entite_1006": {
+    "label": "PER",
+    "text": "Catherine!",
+    "jalons": [
+      341505,
+      341515
+    ]
+  },
+  "entite_1007": {
+    "label": "PER",
+    "text": "Marcel niait",
+    "jalons": [
+      341527,
+      341539
+    ]
+  },
+  "entite_1008": {
+    "label": "PER",
+    "text": "Catherine Renauü",
+    "jalons": [
+      341784,
+      341800
+    ]
+  },
+  "entite_1009": {
+    "label": "MISC",
+    "text": "la femme de",
+    "jalons": [
+      341802,
+      341813
+    ]
+  },
+  "entite_1010": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      341814,
+      341829
+    ]
+  },
+  "entite_1011": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      342408,
+      342414
+    ]
+  },
+  "entite_1012": {
+    "label": "LOC",
+    "text": "la porte de la chan",
+    "jalons": [
+      342538,
+      342557
+    ]
+  },
+  "entite_1013": {
+    "label": "MISC",
+    "text": "Laure des Arceaux parut sur le",
+    "jalons": [
+      342576,
+      342606
+    ]
+  },
+  "entite_1014": {
+    "label": "MISC",
+    "text": "Lueuse Sobrièlé de geste qui La subjugua",
+    "jalons": [
+      342753,
+      342793
+    ]
+  },
+  "entite_1015": {
+    "label": "LOC",
+    "text": "MARCEL",
+    "jalons": [
+      342813,
+      342819
+    ]
+  },
+  "entite_1016": {
+    "label": "LOC",
+    "text": "La solennité de Marcel",
+    "jalons": [
+      343164,
+      343186
+    ]
+  },
+  "entite_1017": {
+    "label": "LOC",
+    "text": "la vue de",
+    "jalons": [
+      343188,
+      343197
+    ]
+  },
+  "entite_1018": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      343626,
+      343632
+    ]
+  },
+  "entite_1019": {
+    "label": "LOC",
+    "text": "EtMarcel",
+    "jalons": [
+      343634,
+      343642
+    ]
+  },
+  "entite_1020": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      344254,
+      344260
+    ]
+  },
+  "entite_1021": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      344271,
+      344278
+    ]
+  },
+  "entite_1022": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      344560,
+      344568
+    ]
+  },
+  "entite_1023": {
+    "label": "LOC",
+    "text": "Cette",
+    "jalons": [
+      344570,
+      344575
+    ]
+  },
+  "entite_1024": {
+    "label": "MISC",
+    "text": "Madame des Arceaux se redressa el et lui",
+    "jalons": [
+      344935,
+      344975
+    ]
+  },
+  "entite_1025": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      345080,
+      345088
+    ]
+  },
+  "entite_1026": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      345532,
+      345539
+    ]
+  },
+  "entite_1027": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      345935,
+      345940
+    ]
+  },
+  "entite_1028": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      346562,
+      346569
+    ]
+  },
+  "entite_1029": {
+    "label": "LOC",
+    "text": "La vie de Franklin",
+    "jalons": [
+      347408,
+      347426
+    ]
+  },
+  "entite_1030": {
+    "label": "PER",
+    "text": "Mais aujou",
+    "jalons": [
+      348150,
+      348160
+    ]
+  },
+  "entite_1031": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      348217,
+      348222
+    ]
+  },
+  "entite_1032": {
+    "label": "LOC",
+    "text": "MARCEL",
+    "jalons": [
+      348627,
+      348633
+    ]
+  },
+  "entite_1033": {
+    "label": "PER",
+    "text": "Yu",
+    "jalons": [
+      349689,
+      349691
+    ]
+  },
+  "entite_1034": {
+    "label": "ORG",
+    "text": "Dans la Pensée de Laure",
+    "jalons": [
+      350183,
+      350206
+    ]
+  },
+  "entite_1035": {
+    "label": "PER",
+    "text": "MARCEL  le regarda",
+    "jalons": [
+      350249,
+      350267
+    ]
+  },
+  "entite_1036": {
+    "label": "PER",
+    "text": "Jacques ou René",
+    "jalons": [
+      350635,
+      350650
+    ]
+  },
+  "entite_1037": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      350653,
+      350659
+    ]
+  },
+  "entite_1038": {
+    "label": "MISC",
+    "text": "blissait entre lui et la jeune lille",
+    "jalons": [
+      350720,
+      350756
+    ]
+  },
+  "entite_1039": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      351611,
+      351616
+    ]
+  },
+  "entite_1040": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      352288,
+      352293
+    ]
+  },
+  "entite_1041": {
+    "label": "LOC",
+    "text": "Assez",
+    "jalons": [
+      353306,
+      353311
+    ]
+  },
+  "entite_1042": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      353590,
+      353597
+    ]
+  },
+  "entite_1043": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      353610,
+      353615
+    ]
+  },
+  "entite_1044": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      353708,
+      353714
+    ]
+  },
+  "entite_1045": {
+    "label": "MISC",
+    "text": "dre à l’exclamation de la Jeune fille",
+    "jalons": [
+      353792,
+      353829
+    ]
+  },
+  "entite_1046": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      354059,
+      354065
+    ]
+  },
+  "entite_1047": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      354410,
+      354416
+    ]
+  },
+  "entite_1048": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      354779,
+      354784
+    ]
+  },
+  "entite_1049": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      355517,
+      355522
+    ]
+  },
+  "entite_1050": {
+    "label": "PER",
+    "text": "MARCEL  Ici",
+    "jalons": [
+      356410,
+      356421
+    ]
+  },
+  "entite_1051": {
+    "label": "PER",
+    "text": "Laure se",
+    "jalons": [
+      356423,
+      356431
+    ]
+  },
+  "entite_1052": {
+    "label": "LOC",
+    "text": "moi",
+    "jalons": [
+      357376,
+      357379
+    ]
+  },
+  "entite_1053": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      359156,
+      359161
+    ]
+  },
+  "entite_1054": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      359786,
+      359791
+    ]
+  },
+  "entite_1055": {
+    "label": "PER",
+    "text": "Marcel venait",
+    "jalons": [
+      359793,
+      359806
+    ]
+  },
+  "entite_1056": {
+    "label": "MISC",
+    "text": "Le peu de romanciers et de poëles que J'ai lus",
+    "jalons": [
+      360459,
+      360505
+    ]
+  },
+  "entite_1057": {
+    "label": "LOC",
+    "text": "Jeunesse",
+    "jalons": [
+      363254,
+      363262
+    ]
+  },
+  "entite_1058": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      363313,
+      363318
+    ]
+  },
+  "entite_1059": {
+    "label": "PER",
+    "text": "Marcel se",
+    "jalons": [
+      363320,
+      363329
+    ]
+  },
+  "entite_1060": {
+    "label": "PER",
+    "text": "MARCEL",
+    "jalons": [
+      364218,
+      364224
+    ]
+  },
+  "entite_1061": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      365973,
+      365979
+    ]
+  },
+  "entite_1062": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      367104,
+      367111
+    ]
+  },
+  "entite_1063": {
+    "label": "PER",
+    "text": "Elle lui",
+    "jalons": [
+      367113,
+      367121
+    ]
+  },
+  "entite_1064": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      367572,
+      367579
+    ]
+  },
+  "entite_1065": {
+    "label": "PER",
+    "text": "Li   MARC",
+    "jalons": [
+      367607,
+      367616
+    ]
+  },
+  "entite_1066": {
+    "label": "LOC",
+    "text": "Befirand",
+    "jalons": [
+      368081,
+      368089
+    ]
+  },
+  "entite_1067": {
+    "label": "PER",
+    "text": "Marcel questionna",
+    "jalons": [
+      368091,
+      368108
+    ]
+  },
+  "entite_1068": {
+    "label": "ORG",
+    "text": "les sens de la",
+    "jalons": [
+      368109,
+      368123
+    ]
+  },
+  "entite_1069": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      368459,
+      368466
+    ]
+  },
+  "entite_1070": {
+    "label": "PER",
+    "text": "S’écria Marcel",
+    "jalons": [
+      368482,
+      368496
+    ]
+  },
+  "entite_1071": {
+    "label": "MISC",
+    "text": "Marcel sortit de la maison avec Fintention de se",
+    "jalons": [
+      368689,
+      368737
+    ]
+  },
+  "entite_1072": {
+    "label": "LOC",
+    "text": "Altendez",
+    "jalons": [
+      369615,
+      369623
+    ]
+  },
+  "entite_1073": {
+    "label": "MISC",
+    "text": "le souvenir de la beauté de Laure et de Paffectueuse",
+    "jalons": [
+      371524,
+      371576
+    ]
+  },
+  "entite_1074": {
+    "label": "PER",
+    "text": "ui lui",
+    "jalons": [
+      372224,
+      372230
+    ]
+  },
+  "entite_1075": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      372524,
+      372531
+    ]
+  },
+  "entite_1076": {
+    "label": "PER",
+    "text": "Marcel attendit",
+    "jalons": [
+      373634,
+      373649
+    ]
+  },
+  "entite_1077": {
+    "label": "PER",
+    "text": "MARCEL",
+    "jalons": [
+      373736,
+      373742
+    ]
+  },
+  "entite_1078": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      373891,
+      373897
+    ]
+  },
+  "entite_1079": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      374046,
+      374053
+    ]
+  },
+  "entite_1080": {
+    "label": "LOC",
+    "text": "Sur la route de Paris",
+    "jalons": [
+      374571,
+      374592
+    ]
+  },
+  "entite_1081": {
+    "label": "PER",
+    "text": "Jacques en",
+    "jalons": [
+      374841,
+      374851
+    ]
+  },
+  "entite_1082": {
+    "label": "PER",
+    "text": "Marcel le",
+    "jalons": [
+      375545,
+      375554
+    ]
+  },
+  "entite_1083": {
+    "label": "MISC",
+    "text": "Madame des Arceaux",
+    "jalons": [
+      375708,
+      375726
+    ]
+  },
+  "entite_1084": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      376227,
+      376233
+    ]
+  },
+  "entite_1085": {
+    "label": "MISC",
+    "text": "Pierre Duchange et ceux de Bertrand",
+    "jalons": [
+      377637,
+      377672
+    ]
+  },
+  "entite_1086": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      378103,
+      378108
+    ]
+  },
+  "entite_1087": {
+    "label": "MISC",
+    "text": "Les soins de la jeune",
+    "jalons": [
+      378215,
+      378236
+    ]
+  },
+  "entite_1088": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      378372,
+      378377
+    ]
+  },
+  "entite_1089": {
+    "label": "PER",
+    "text": "Marcel?",
+    "jalons": [
+      378399,
+      378406
+    ]
+  },
+  "entite_1090": {
+    "label": "PER",
+    "text": "Marcel?",
+    "jalons": [
+      378410,
+      378417
+    ]
+  },
+  "entite_1091": {
+    "label": "MISC",
+    "text": "répéta la jeune fille qui",
+    "jalons": [
+      378418,
+      378443
+    ]
+  },
+  "entite_1092": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      378785,
+      378790
+    ]
+  },
+  "entite_1093": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      378807,
+      378814
+    ]
+  },
+  "entite_1094": {
+    "label": "PER",
+    "text": "Marcel veut le Luer,ré",
+    "jalons": [
+      378819,
+      378841
+    ]
+  },
+  "entite_1095": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      378861,
+      378868
+    ]
+  },
+  "entite_1096": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      379167,
+      379172
+    ]
+  },
+  "entite_1097": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      379207,
+      379214
+    ]
+  },
+  "entite_1098": {
+    "label": "PER",
+    "text": "ésir de voir Marce",
+    "jalons": [
+      379904,
+      379922
+    ]
+  },
+  "entite_1099": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      379954,
+      379959
+    ]
+  },
+  "entite_1100": {
+    "label": "PER",
+    "text": "Laure des",
+    "jalons": [
+      380325,
+      380334
+    ]
+  },
+  "entite_1101": {
+    "label": "PER",
+    "text": "ui Inon",
+    "jalons": [
+      381440,
+      381447
+    ]
+  },
+  "entite_1102": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      381760,
+      381766
+    ]
+  },
+  "entite_1103": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      381874,
+      381882
+    ]
+  },
+  "entite_1104": {
+    "label": "PER",
+    "text": "Lorsque Laure",
+    "jalons": [
+      381939,
+      381952
+    ]
+  },
+  "entite_1105": {
+    "label": "LOC",
+    "text": "arriva",
+    "jalons": [
+      381953,
+      381959
+    ]
+  },
+  "entite_1106": {
+    "label": "PER",
+    "text": "MARCEL",
+    "jalons": [
+      382433,
+      382439
+    ]
+  },
+  "entite_1107": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      382803,
+      382809
+    ]
+  },
+  "entite_1108": {
+    "label": "PER",
+    "text": "Laure le",
+    "jalons": [
+      382919,
+      382927
+    ]
+  },
+  "entite_1109": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      383170,
+      383175
+    ]
+  },
+  "entite_1110": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      384737,
+      384743
+    ]
+  },
+  "entite_1111": {
+    "label": "PER",
+    "text": "de Laure",
+    "jalons": [
+      385602,
+      385610
+    ]
+  },
+  "entite_1112": {
+    "label": "MISC",
+    "text": "Vous êtes la sœur du baron des Arceaux",
+    "jalons": [
+      386068,
+      386106
+    ]
+  },
+  "entite_1113": {
+    "label": "PER",
+    "text": "Marcel ébranlé",
+    "jalons": [
+      386322,
+      386336
+    ]
+  },
+  "entite_1114": {
+    "label": "LOC",
+    "text": "Voyant",
+    "jalons": [
+      386511,
+      386517
+    ]
+  },
+  "entite_1115": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      386992,
+      386997
+    ]
+  },
+  "entite_1116": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      388323,
+      388329
+    ]
+  },
+  "entite_1117": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      388544,
+      388550
+    ]
+  },
+  "entite_1118": {
+    "label": "PER",
+    "text": "MARCEL",
+    "jalons": [
+      388558,
+      388564
+    ]
+  },
+  "entite_1119": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      388840,
+      388846
+    ]
+  },
+  "entite_1120": {
+    "label": "LOC",
+    "text": "Qui",
+    "jalons": [
+      388860,
+      388863
+    ]
+  },
+  "entite_1121": {
+    "label": "LOC",
+    "text": "Croye",
+    "jalons": [
+      389115,
+      389120
+    ]
+  },
+  "entite_1122": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      389143,
+      389148
+    ]
+  },
+  "entite_1123": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      389293,
+      389299
+    ]
+  },
+  "entite_1124": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      389495,
+      389500
+    ]
+  },
+  "entite_1125": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      389547,
+      389553
+    ]
+  },
+  "entite_1126": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      392229,
+      392234
+    ]
+  },
+  "entite_1127": {
+    "label": "MISC",
+    "text": "Enfin il vit les maisons de la banlieue de",
+    "jalons": [
+      392583,
+      392625
+    ]
+  },
+  "entite_1128": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      392626,
+      392631
+    ]
+  },
+  "entite_1129": {
+    "label": "MISC",
+    "text": "Jacques de vue",
+    "jalons": [
+      392801,
+      392815
+    ]
+  },
+  "entite_1130": {
+    "label": "LOC",
+    "text": "Au sortir de la gare",
+    "jalons": [
+      393048,
+      393068
+    ]
+  },
+  "entite_1131": {
+    "label": "PER",
+    "text": "Jacques monta",
+    "jalons": [
+      393070,
+      393083
+    ]
+  },
+  "entite_1132": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      393436,
+      393443
+    ]
+  },
+  "entite_1133": {
+    "label": "LOC",
+    "text": "Neuve-des-Mathu",
+    "jalons": [
+      393449,
+      393464
+    ]
+  },
+  "entite_1134": {
+    "label": "MISC",
+    "text": "de Le ER ER do de mt  ge nas So Tre",
+    "jalons": [
+      393973,
+      394008
+    ]
+  },
+  "entite_1135": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      395569,
+      395575
+    ]
+  },
+  "entite_1136": {
+    "label": "LOC",
+    "text": "Prenez garde",
+    "jalons": [
+      395577,
+      395589
+    ]
+  },
+  "entite_1137": {
+    "label": "LOC",
+    "text": "Neurve-des-Mathurins",
+    "jalons": [
+      396106,
+      396126
+    ]
+  },
+  "entite_1138": {
+    "label": "LOC",
+    "text": "Entrez",
+    "jalons": [
+      396161,
+      396167
+    ]
+  },
+  "entite_1139": {
+    "label": "PER",
+    "text": "Marcel entra",
+    "jalons": [
+      396208,
+      396220
+    ]
+  },
+  "entite_1140": {
+    "label": "PER",
+    "text": "Jacques mit",
+    "jalons": [
+      396448,
+      396459
+    ]
+  },
+  "entite_1141": {
+    "label": "PER",
+    "text": "M. le baron",
+    "jalons": [
+      396598,
+      396609
+    ]
+  },
+  "entite_1142": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      396788,
+      396795
+    ]
+  },
+  "entite_1143": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      397047,
+      397051
+    ]
+  },
+  "entite_1144": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      397280,
+      397286
+    ]
+  },
+  "entite_1145": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      397573,
+      397577
+    ]
+  },
+  "entite_1146": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      397660,
+      397667
+    ]
+  },
+  "entite_1147": {
+    "label": "MISC",
+    "text": "ches de Jacques et celles de madame des Arceaux",
+    "jalons": [
+      398205,
+      398252
+    ]
+  },
+  "entite_1148": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      398275,
+      398280
+    ]
+  },
+  "entite_1149": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      398805,
+      398811
+    ]
+  },
+  "entite_1150": {
+    "label": "PER",
+    "text": "Au Rendal",
+    "jalons": [
+      399408,
+      399417
+    ]
+  },
+  "entite_1151": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      399448,
+      399453
+    ]
+  },
+  "entite_1152": {
+    "label": "LOC",
+    "text": "Bertrand",
+    "jalons": [
+      400056,
+      400064
+    ]
+  },
+  "entite_1153": {
+    "label": "LOC",
+    "text": "Suzanne avait rencontré le baron dans le village",
+    "jalons": [
+      400066,
+      400114
+    ]
+  },
+  "entite_1154": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      400873,
+      400880
+    ]
+  },
+  "entite_1155": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      401383,
+      401389
+    ]
+  },
+  "entite_1156": {
+    "label": "LOC",
+    "text": "Cependant",
+    "jalons": [
+      401391,
+      401400
+    ]
+  },
+  "entite_1157": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      403299,
+      403304
+    ]
+  },
+  "entite_1158": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      403711,
+      403716
+    ]
+  },
+  "entite_1159": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      403990,
+      403995
+    ]
+  },
+  "entite_1160": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      404277,
+      404282
+    ]
+  },
+  "entite_1161": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      404728,
+      404733
+    ]
+  },
+  "entite_1162": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      404920,
+      404927
+    ]
+  },
+  "entite_1163": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      405018,
+      405023
+    ]
+  },
+  "entite_1164": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      405302,
+      405309
+    ]
+  },
+  "entite_1165": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      405566,
+      405573
+    ]
+  },
+  "entite_1166": {
+    "label": "MISC",
+    "text": "Le baron serra la main que la jeune fille lui",
+    "jalons": [
+      405631,
+      405676
+    ]
+  },
+  "entite_1167": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      405926,
+      405933
+    ]
+  },
+  "entite_1168": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      406549,
+      406556
+    ]
+  },
+  "entite_1169": {
+    "label": "PER",
+    "text": "J'aurai à peine le",
+    "jalons": [
+      406577,
+      406595
+    ]
+  },
+  "entite_1170": {
+    "label": "MISC",
+    "text": "temps de prendre la petite et de la",
+    "jalons": [
+      406596,
+      406631
+    ]
+  },
+  "entite_1171": {
+    "label": "PER",
+    "text": "Pressé",
+    "jalons": [
+      406724,
+      406730
+    ]
+  },
+  "entite_1172": {
+    "label": "PER",
+    "text": "Suzanne pleura",
+    "jalons": [
+      407001,
+      407015
+    ]
+  },
+  "entite_1173": {
+    "label": "PER",
+    "text": "donna l’ordre",
+    "jalons": [
+      407026,
+      407039
+    ]
+  },
+  "entite_1174": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      407271,
+      407276
+    ]
+  },
+  "entite_1175": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      408076,
+      408085
+    ]
+  },
+  "entite_1176": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      408201,
+      408216
+    ]
+  },
+  "entite_1177": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      408762,
+      408767
+    ]
+  },
+  "entite_1178": {
+    "label": "LOC",
+    "text": "le chemin de fer de Lyon",
+    "jalons": [
+      408900,
+      408924
+    ]
+  },
+  "entite_1179": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      408950,
+      408957
+    ]
+  },
+  "entite_1180": {
+    "label": "PER",
+    "text": "Il lui apprenait le nom de l'hôtel",
+    "jalons": [
+      408959,
+      408993
+    ]
+  },
+  "entite_1181": {
+    "label": "PER",
+    "text": "Suzanne et lui ordonnait",
+    "jalons": [
+      409028,
+      409052
+    ]
+  },
+  "entite_1182": {
+    "label": "ORG",
+    "text": "de veiller sur la jeune fille",
+    "jalons": [
+      409053,
+      409082
+    ]
+  },
+  "entite_1183": {
+    "label": "PER",
+    "text": "Cett",
+    "jalons": [
+      409084,
+      409088
+    ]
+  },
+  "entite_1184": {
+    "label": "MISC",
+    "text": "L’inquiétude de Suzanne était déjà grande",
+    "jalons": [
+      409150,
+      409191
+    ]
+  },
+  "entite_1185": {
+    "label": "LOC",
+    "text": "Rassurez-vous",
+    "jalons": [
+      409565,
+      409578
+    ]
+  },
+  "entite_1186": {
+    "label": "PER",
+    "text": "Jacques vint",
+    "jalons": [
+      410564,
+      410576
+    ]
+  },
+  "entite_1187": {
+    "label": "PER",
+    "text": "MARCEL",
+    "jalons": [
+      410590,
+      410596
+    ]
+  },
+  "entite_1188": {
+    "label": "LOC",
+    "text": "Rendal",
+    "jalons": [
+      411072,
+      411078
+    ]
+  },
+  "entite_1189": {
+    "label": "ORG",
+    "text": "Le qua",
+    "jalons": [
+      411130,
+      411136
+    ]
+  },
+  "entite_1190": {
+    "label": "PER",
+    "text": "Heu de Jacques",
+    "jalons": [
+      411152,
+      411166
+    ]
+  },
+  "entite_1191": {
+    "label": "MISC",
+    "text": "la jeune fille qui fondit de",
+    "jalons": [
+      412673,
+      412701
+    ]
+  },
+  "entite_1192": {
+    "label": "PER",
+    "text": "frère Marcel",
+    "jalons": [
+      413847,
+      413859
+    ]
+  },
+  "entite_1193": {
+    "label": "PER",
+    "text": "Suzanne se",
+    "jalons": [
+      414167,
+      414177
+    ]
+  },
+  "entite_1194": {
+    "label": "LOC",
+    "text": "Arceaux",
+    "jalons": [
+      414967,
+      414974
+    ]
+  },
+  "entite_1195": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      414976,
+      414980
+    ]
+  },
+  "entite_1196": {
+    "label": "LOC",
+    "text": "Suzanne des",
+    "jalons": [
+      415057,
+      415068
+    ]
+  },
+  "entite_1197": {
+    "label": "PER",
+    "text": "Marcel s’étonna",
+    "jalons": [
+      415483,
+      415498
+    ]
+  },
+  "entite_1198": {
+    "label": "PER",
+    "text": "mura Marcel",
+    "jalons": [
+      417831,
+      417842
+    ]
+  },
+  "entite_1199": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      418006,
+      418013
+    ]
+  },
+  "entite_1200": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      418019,
+      418025
+    ]
+  },
+  "entite_1201": {
+    "label": "PER",
+    "text": "Laure en",
+    "jalons": [
+      418306,
+      418314
+    ]
+  },
+  "entite_1202": {
+    "label": "LOC",
+    "text": "KE",
+    "jalons": [
+      418426,
+      418428
+    ]
+  },
+  "entite_1203": {
+    "label": "LOC",
+    "text": "TA",
+    "jalons": [
+      418431,
+      418433
+    ]
+  },
+  "entite_1204": {
+    "label": "LOC",
+    "text": "TT",
+    "jalons": [
+      418437,
+      418439
+    ]
+  },
+  "entite_1205": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      418888,
+      418893
+    ]
+  },
+  "entite_1206": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      418919,
+      418924
+    ]
+  },
+  "entite_1207": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      419236,
+      419241
+    ]
+  },
+  "entite_1208": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      420563,
+      420569
+    ]
+  },
+  "entite_1209": {
+    "label": "PER",
+    "text": "Mais Laure",
+    "jalons": [
+      420934,
+      420944
+    ]
+  },
+  "entite_1210": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      421147,
+      421153
+    ]
+  },
+  "entite_1211": {
+    "label": "LOC",
+    "text": "Sienne",
+    "jalons": [
+      421250,
+      421256
+    ]
+  },
+  "entite_1212": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      421764,
+      421772
+    ]
+  },
+  "entite_1213": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      421811,
+      421817
+    ]
+  },
+  "entite_1214": {
+    "label": "LOC",
+    "text": "Dien",
+    "jalons": [
+      421855,
+      421859
+    ]
+  },
+  "entite_1215": {
+    "label": "MISC",
+    "text": "Laurel  L'amour de Laure était en",
+    "jalons": [
+      421976,
+      422009
+    ]
+  },
+  "entite_1216": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      422854,
+      422859
+    ]
+  },
+  "entite_1217": {
+    "label": "LOC",
+    "text": "MARCEL",
+    "jalons": [
+      423258,
+      423264
+    ]
+  },
+  "entite_1218": {
+    "label": "PER",
+    "text": "Elle l’accabla",
+    "jalons": [
+      423362,
+      423376
+    ]
+  },
+  "entite_1219": {
+    "label": "PER",
+    "text": "des Arceaux",
+    "jalons": [
+      423458,
+      423469
+    ]
+  },
+  "entite_1220": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      423642,
+      423649
+    ]
+  },
+  "entite_1221": {
+    "label": "PER",
+    "text": "Marcel",
+    "jalons": [
+      423796,
+      423802
+    ]
+  },
+  "entite_1222": {
+    "label": "PER",
+    "text": "Seoir Su",
+    "jalons": [
+      423928,
+      423936
+    ]
+  },
+  "entite_1223": {
+    "label": "PER",
+    "text": "anne Contrariée de voir",
+    "jalons": [
+      424366,
+      424389
+    ]
+  },
+  "entite_1224": {
+    "label": "LOC",
+    "text": "Sans",
+    "jalons": [
+      425311,
+      425315
+    ]
+  },
+  "entite_1225": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      425976,
+      425983
+    ]
+  },
+  "entite_1226": {
+    "label": "LOC",
+    "text": "MARCEL",
+    "jalons": [
+      426475,
+      426481
+    ]
+  },
+  "entite_1227": {
+    "label": "MISC",
+    "text": "monde et de Pagio",
+    "jalons": [
+      426496,
+      426513
+    ]
+  },
+  "entite_1228": {
+    "label": "PER",
+    "text": "Marcel devina",
+    "jalons": [
+      426515,
+      426528
+    ]
+  },
+  "entite_1229": {
+    "label": "LOC",
+    "text": "Berlon",
+    "jalons": [
+      427472,
+      427478
+    ]
+  },
+  "entite_1230": {
+    "label": "LOC",
+    "text": "Berton",
+    "jalons": [
+      427947,
+      427953
+    ]
+  },
+  "entite_1231": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      427995,
+      428001
+    ]
+  },
+  "entite_1232": {
+    "label": "PER",
+    "text": "Marcel s'inclina",
+    "jalons": [
+      428479,
+      428495
+    ]
+  },
+  "entite_1233": {
+    "label": "PER",
+    "text": "ole du village",
+    "jalons": [
+      430592,
+      430606
+    ]
+  },
+  "entite_1234": {
+    "label": "PER",
+    "text": "Marcel les",
+    "jalons": [
+      431134,
+      431144
+    ]
+  },
+  "entite_1235": {
+    "label": "MISC",
+    "text": "combinaisons du jeu de la fortune Sur léchiquier du monde",
+    "jalons": [
+      431145,
+      431202
+    ]
+  },
+  "entite_1236": {
+    "label": "MISC",
+    "text": "Laure et mada- me des Arceaux",
+    "jalons": [
+      432214,
+      432243
+    ]
+  },
+  "entite_1237": {
+    "label": "PER",
+    "text": "M. Berton",
+    "jalons": [
+      432465,
+      432474
+    ]
+  },
+  "entite_1238": {
+    "label": "MISC",
+    "text": "J’ai eu beau me défendre en lui disani qu'il n'y avait pas de",
+    "jalons": [
+      432650,
+      432711
+    ]
+  },
+  "entite_1239": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      433424,
+      433429
+    ]
+  },
+  "entite_1240": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      436444,
+      436449
+    ]
+  },
+  "entite_1241": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      437321,
+      437327
+    ]
+  },
+  "entite_1242": {
+    "label": "LOC",
+    "text": "Franchement",
+    "jalons": [
+      437745,
+      437756
+    ]
+  },
+  "entite_1243": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      437762,
+      437767
+    ]
+  },
+  "entite_1244": {
+    "label": "LOC",
+    "text": "Aurez",
+    "jalons": [
+      439760,
+      439765
+    ]
+  },
+  "entite_1245": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      440195,
+      440201
+    ]
+  },
+  "entite_1246": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      442132,
+      442137
+    ]
+  },
+  "entite_1247": {
+    "label": "MISC",
+    "text": "Ja voix du chasseur de nuit du Rendal",
+    "jalons": [
+      442188,
+      442225
+    ]
+  },
+  "entite_1248": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      442547,
+      442553
+    ]
+  },
+  "entite_1249": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      442698,
+      442703
+    ]
+  },
+  "entite_1250": {
+    "label": "PER",
+    "text": "Marcel obéit",
+    "jalons": [
+      442706,
+      442718
+    ]
+  },
+  "entite_1251": {
+    "label": "PER",
+    "text": "de Laure",
+    "jalons": [
+      442747,
+      442755
+    ]
+  },
+  "entite_1252": {
+    "label": "LOC",
+    "text": "La vue de",
+    "jalons": [
+      442942,
+      442951
+    ]
+  },
+  "entite_1253": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      442973,
+      442978
+    ]
+  },
+  "entite_1254": {
+    "label": "MISC",
+    "text": "Elle serra vivement la main du jeune homme",
+    "jalons": [
+      442980,
+      443022
+    ]
+  },
+  "entite_1255": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      443926,
+      443931
+    ]
+  },
+  "entite_1256": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      445219,
+      445227
+    ]
+  },
+  "entite_1257": {
+    "label": "LOC",
+    "text": "Laissez",
+    "jalons": [
+      445471,
+      445478
+    ]
+  },
+  "entite_1258": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      445684,
+      445690
+    ]
+  },
+  "entite_1259": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      445945,
+      445950
+    ]
+  },
+  "entite_1260": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      446313,
+      446318
+    ]
+  },
+  "entite_1261": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      446321,
+      446327
+    ]
+  },
+  "entite_1262": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      447561,
+      447567
+    ]
+  },
+  "entite_1263": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      447573,
+      447578
+    ]
+  },
+  "entite_1264": {
+    "label": "PER",
+    "text": "L’amour",
+    "jalons": [
+      448505,
+      448512
+    ]
+  },
+  "entite_1265": {
+    "label": "PER",
+    "text": "de Laure lui",
+    "jalons": [
+      448513,
+      448525
+    ]
+  },
+  "entite_1266": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      449214,
+      449219
+    ]
+  },
+  "entite_1267": {
+    "label": "MISC",
+    "text": "EL  lait donc que le bonheur de Laure se",
+    "jalons": [
+      450048,
+      450088
+    ]
+  },
+  "entite_1268": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      451382,
+      451387
+    ]
+  },
+  "entite_1269": {
+    "label": "ORG",
+    "text": "MARCEL",
+    "jalons": [
+      451566,
+      451572
+    ]
+  },
+  "entite_1270": {
+    "label": "ORG",
+    "text": "Le",
+    "jalons": [
+      451576,
+      451578
+    ]
+  },
+  "entite_1271": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      451862,
+      451868
+    ]
+  },
+  "entite_1272": {
+    "label": "MISC",
+    "text": "Elle avait déjà parlé de",
+    "jalons": [
+      451870,
+      451894
+    ]
+  },
+  "entite_1273": {
+    "label": "LOC",
+    "text": "Franchement",
+    "jalons": [
+      453075,
+      453086
+    ]
+  },
+  "entite_1274": {
+    "label": "LOC",
+    "text": "Elle s'arrêta",
+    "jalons": [
+      453468,
+      453481
+    ]
+  },
+  "entite_1275": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      453486,
+      453491
+    ]
+  },
+  "entite_1276": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      453682,
+      453688
+    ]
+  },
+  "entite_1277": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      453906,
+      453913
+    ]
+  },
+  "entite_1278": {
+    "label": "MISC",
+    "text": "Laure s’étonna de voir que rien",
+    "jalons": [
+      454475,
+      454506
+    ]
+  },
+  "entite_1279": {
+    "label": "LOC",
+    "text": "Aujourd'hui",
+    "jalons": [
+      455246,
+      455257
+    ]
+  },
+  "entite_1280": {
+    "label": "LOC",
+    "text": "Lavre",
+    "jalons": [
+      455752,
+      455757
+    ]
+  },
+  "entite_1281": {
+    "label": "LOC",
+    "text": "Pamour",
+    "jalons": [
+      456184,
+      456190
+    ]
+  },
+  "entite_1282": {
+    "label": "LOC",
+    "text": "Espère-le",
+    "jalons": [
+      456366,
+      456375
+    ]
+  },
+  "entite_1283": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      456484,
+      456490
+    ]
+  },
+  "entite_1284": {
+    "label": "PER",
+    "text": "s'écria Laure",
+    "jalons": [
+      457802,
+      457815
+    ]
+  },
+  "entite_1285": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      458841,
+      458846
+    ]
+  },
+  "entite_1286": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      459104,
+      459110
+    ]
+  },
+  "entite_1287": {
+    "label": "PER",
+    "text": "MARCEL",
+    "jalons": [
+      459814,
+      459820
+    ]
+  },
+  "entite_1288": {
+    "label": "PER",
+    "text": "Cela lui",
+    "jalons": [
+      460113,
+      460121
+    ]
+  },
+  "entite_1289": {
+    "label": "PER",
+    "text": "Marcel étendu",
+    "jalons": [
+      460304,
+      460317
+    ]
+  },
+  "entite_1290": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      461312,
+      461324
+    ]
+  },
+  "entite_1291": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      461720,
+      461735
+    ]
+  },
+  "entite_1292": {
+    "label": "LOC",
+    "text": "Elle la trouva",
+    "jalons": [
+      461737,
+      461751
+    ]
+  },
+  "entite_1293": {
+    "label": "PER",
+    "text": "Pierre Du",
+    "jalons": [
+      461761,
+      461770
+    ]
+  },
+  "entite_1294": {
+    "label": "LOC",
+    "text": "Retirez",
+    "jalons": [
+      461984,
+      461991
+    ]
+  },
+  "entite_1295": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      462549,
+      462554
+    ]
+  },
+  "entite_1296": {
+    "label": "LOC",
+    "text": "Une affaire de Bourse",
+    "jalons": [
+      462570,
+      462591
+    ]
+  },
+  "entite_1297": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      462764,
+      462773
+    ]
+  },
+  "entite_1298": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      463333,
+      463338
+    ]
+  },
+  "entite_1299": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      463764,
+      463769
+    ]
+  },
+  "entite_1300": {
+    "label": "LOC",
+    "text": "Crois-moi",
+    "jalons": [
+      463838,
+      463847
+    ]
+  },
+  "entite_1301": {
+    "label": "MISC",
+    "text": "Madame des Arceaux en",
+    "jalons": [
+      463914,
+      463935
+    ]
+  },
+  "entite_1302": {
+    "label": "PER",
+    "text": "M. des Arceaux",
+    "jalons": [
+      464181,
+      464195
+    ]
+  },
+  "entite_1303": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      464556,
+      464561
+    ]
+  },
+  "entite_1304": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      464777,
+      464792
+    ]
+  },
+  "entite_1305": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      465231,
+      465240
+    ]
+  },
+  "entite_1306": {
+    "label": "PER",
+    "text": "Pierre Du",
+    "jalons": [
+      465504,
+      465513
+    ]
+  },
+  "entite_1307": {
+    "label": "PER",
+    "text": "Pierre Du",
+    "jalons": [
+      465873,
+      465882
+    ]
+  },
+  "entite_1308": {
+    "label": "PER",
+    "text": "Madame des Arceaux",
+    "jalons": [
+      465954,
+      465972
+    ]
+  },
+  "entite_1309": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      466167,
+      466182
+    ]
+  },
+  "entite_1310": {
+    "label": "MISC",
+    "text": "XII  La nouvelle de la mort de Pierre Duchange se ré",
+    "jalons": [
+      466813,
+      466865
+    ]
+  },
+  "entite_1311": {
+    "label": "LOC",
+    "text": "Duchan",
+    "jalons": [
+      467450,
+      467456
+    ]
+  },
+  "entite_1312": {
+    "label": "MISC",
+    "text": "ge des Arceaux",
+    "jalons": [
+      467456,
+      467470
+    ]
+  },
+  "entite_1313": {
+    "label": "PER",
+    "text": "Madame des Arceaux",
+    "jalons": [
+      467612,
+      467630
+    ]
+  },
+  "entite_1314": {
+    "label": "MISC",
+    "text": "Sans prévoir le moins du monde",
+    "jalons": [
+      467824,
+      467854
+    ]
+  },
+  "entite_1315": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      468723,
+      468738
+    ]
+  },
+  "entite_1316": {
+    "label": "LOC",
+    "text": "Rendal",
+    "jalons": [
+      469229,
+      469235
+    ]
+  },
+  "entite_1317": {
+    "label": "PER",
+    "text": "Marcel Bertrand",
+    "jalons": [
+      469311,
+      469326
+    ]
+  },
+  "entite_1318": {
+    "label": "PER",
+    "text": "Pardon",
+    "jalons": [
+      469749,
+      469755
+    ]
+  },
+  "entite_1319": {
+    "label": "MISC",
+    "text": "J'ai mis Suzanne dans un des meilleurs",
+    "jalons": [
+      470430,
+      470468
+    ]
+  },
+  "entite_1320": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      470485,
+      470490
+    ]
+  },
+  "entite_1321": {
+    "label": "LOC",
+    "text": "Votre",
+    "jalons": [
+      470495,
+      470500
+    ]
+  },
+  "entite_1322": {
+    "label": "LOC",
+    "text": "MARCEL",
+    "jalons": [
+      470928,
+      470934
+    ]
+  },
+  "entite_1323": {
+    "label": "PER",
+    "text": "Laure me remerciera",
+    "jalons": [
+      471448,
+      471467
+    ]
+  },
+  "entite_1324": {
+    "label": "PER",
+    "text": "le frère de Su",
+    "jalons": [
+      471480,
+      471494
+    ]
+  },
+  "entite_1325": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      471534,
+      471539
+    ]
+  },
+  "entite_1326": {
+    "label": "PER",
+    "text": "C'est Marcel",
+    "jalons": [
+      472031,
+      472043
+    ]
+  },
+  "entite_1327": {
+    "label": "MISC",
+    "text": "la digne femme de Pierre Du",
+    "jalons": [
+      472236,
+      472263
+    ]
+  },
+  "entite_1328": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      472539,
+      472545
+    ]
+  },
+  "entite_1329": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      472733,
+      472748
+    ]
+  },
+  "entite_1330": {
+    "label": "LOC",
+    "text": "Enfin",
+    "jalons": [
+      472753,
+      472758
+    ]
+  },
+  "entite_1331": {
+    "label": "PER",
+    "text": "Catherine   MARCEL",
+    "jalons": [
+      473619,
+      473637
+    ]
+  },
+  "entite_1332": {
+    "label": "PER",
+    "text": "Renaud",
+    "jalons": [
+      473644,
+      473650
+    ]
+  },
+  "entite_1333": {
+    "label": "PER",
+    "text": "Pierre Du",
+    "jalons": [
+      474004,
+      474013
+    ]
+  },
+  "entite_1334": {
+    "label": "PER",
+    "text": "Antoinette Benoit",
+    "jalons": [
+      474330,
+      474347
+    ]
+  },
+  "entite_1335": {
+    "label": "PER",
+    "text": "Bertrand Iui donna",
+    "jalons": [
+      474390,
+      474408
+    ]
+  },
+  "entite_1336": {
+    "label": "PER",
+    "text": "Catherine Renaud",
+    "jalons": [
+      474650,
+      474666
+    ]
+  },
+  "entite_1337": {
+    "label": "PER",
+    "text": "Elle remercie",
+    "jalons": [
+      474668,
+      474681
+    ]
+  },
+  "entite_1338": {
+    "label": "PER",
+    "text": "Il Jui",
+    "jalons": [
+      474692,
+      474698
+    ]
+  },
+  "entite_1339": {
+    "label": "PER",
+    "text": "Elle",
+    "jalons": [
+      474742,
+      474746
+    ]
+  },
+  "entite_1340": {
+    "label": "PER",
+    "text": "Dieu",
+    "jalons": [
+      475131,
+      475135
+    ]
+  },
+  "entite_1341": {
+    "label": "PER",
+    "text": "MARCEL  Marcel se",
+    "jalons": [
+      475217,
+      475234
+    ]
+  },
+  "entite_1342": {
+    "label": "LOC",
+    "text": "l'hôtel des Arceaux",
+    "jalons": [
+      475248,
+      475267
+    ]
+  },
+  "entite_1343": {
+    "label": "LOC",
+    "text": "Ma",
+    "jalons": [
+      475269,
+      475271
+    ]
+  },
+  "entite_1344": {
+    "label": "LOC",
+    "text": "de la santé de madame des Arceaux",
+    "jalons": [
+      475588,
+      475621
+    ]
+  },
+  "entite_1345": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      475696,
+      475702
+    ]
+  },
+  "entite_1346": {
+    "label": "MISC",
+    "text": "Ce Sera VOUS",
+    "jalons": [
+      476163,
+      476175
+    ]
+  },
+  "entite_1347": {
+    "label": "MISC",
+    "text": "Madame, le frère de Suzanne ne travail- lera pas sous les ordres du baron des Arceaux",
+    "jalons": [
+      476185,
+      476270
+    ]
+  },
+  "entite_1348": {
+    "label": "LOC",
+    "text": "Madame",
+    "jalons": [
+      476305,
+      476311
+    ]
+  },
+  "entite_1349": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      476569,
+      476575
+    ]
+  },
+  "entite_1350": {
+    "label": "LOC",
+    "text": "MA",
+    "jalons": [
+      476670,
+      476672
+    ]
+  },
+  "entite_1351": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      476810,
+      476822
+    ]
+  },
+  "entite_1352": {
+    "label": "LOC",
+    "text": "Madame",
+    "jalons": [
+      477159,
+      477165
+    ]
+  },
+  "entite_1353": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      477171,
+      477177
+    ]
+  },
+  "entite_1354": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      477460,
+      477466
+    ]
+  },
+  "entite_1355": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      477596,
+      477602
+    ]
+  },
+  "entite_1356": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      477851,
+      477857
+    ]
+  },
+  "entite_1357": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      478407,
+      478414
+    ]
+  },
+  "entite_1358": {
+    "label": "LOC",
+    "text": "Assez",
+    "jalons": [
+      478449,
+      478454
+    ]
+  },
+  "entite_1359": {
+    "label": "LOC",
+    "text": "Madame",
+    "jalons": [
+      478456,
+      478462
+    ]
+  },
+  "entite_1360": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      478468,
+      478474
+    ]
+  },
+  "entite_1361": {
+    "label": "PER",
+    "text": "adame des Arceaux",
+    "jalons": [
+      478720,
+      478737
+    ]
+  },
+  "entite_1362": {
+    "label": "LOC",
+    "text": "Madame",
+    "jalons": [
+      478895,
+      478901
+    ]
+  },
+  "entite_1363": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      478907,
+      478913
+    ]
+  },
+  "entite_1364": {
+    "label": "PER",
+    "text": "Marcel lui",
+    "jalons": [
+      479065,
+      479075
+    ]
+  },
+  "entite_1365": {
+    "label": "LOC",
+    "text": "Bernard",
+    "jalons": [
+      479111,
+      479118
+    ]
+  },
+  "entite_1366": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      479208,
+      479214
+    ]
+  },
+  "entite_1367": {
+    "label": "MISC",
+    "text": "Et il lança les papiers dans le feu de la",
+    "jalons": [
+      479258,
+      479299
+    ]
+  },
+  "entite_1368": {
+    "label": "MISC",
+    "text": "Elle le félicitait de",
+    "jalons": [
+      479509,
+      479530
+    ]
+  },
+  "entite_1369": {
+    "label": "MISC",
+    "text": "Marcel et Laure au bord de Son",
+    "jalons": [
+      480138,
+      480168
+    ]
+  },
+  "entite_1370": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      480441,
+      480447
+    ]
+  },
+  "entite_1371": {
+    "label": "LOC",
+    "text": "de Laure",
+    "jalons": [
+      480644,
+      480652
+    ]
+  },
+  "entite_1372": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      480738,
+      480745
+    ]
+  },
+  "entite_1373": {
+    "label": "MISC",
+    "text": "Marcel en Souriant à la jeune fille",
+    "jalons": [
+      480786,
+      480821
+    ]
+  },
+  "entite_1374": {
+    "label": "PER",
+    "text": "Marcel demanda",
+    "jalons": [
+      481101,
+      481115
+    ]
+  },
+  "entite_1375": {
+    "label": "MISC",
+    "text": "la permission de poser un baiser sur le front de Laure",
+    "jalons": [
+      481116,
+      481170
+    ]
+  },
+  "entite_1376": {
+    "label": "PER",
+    "text": "Marcel comme",
+    "jalons": [
+      481291,
+      481303
+    ]
+  },
+  "entite_1377": {
+    "label": "PER",
+    "text": "Pierre Duchange",
+    "jalons": [
+      482018,
+      482033
+    ]
+  },
+  "entite_1378": {
+    "label": "PER",
+    "text": "Pillusion de Marcel",
+    "jalons": [
+      482253,
+      482272
+    ]
+  },
+  "entite_1379": {
+    "label": "ORG",
+    "text": "elle l’empécha de voir clair",
+    "jalons": [
+      482274,
+      482302
+    ]
+  },
+  "entite_1380": {
+    "label": "LOC",
+    "text": "MARCEL",
+    "jalons": [
+      482565,
+      482571
+    ]
+  },
+  "entite_1381": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      482676,
+      482681
+    ]
+  },
+  "entite_1382": {
+    "label": "PER",
+    "text": "Marcel",
+    "jalons": [
+      482819,
+      482825
+    ]
+  },
+  "entite_1383": {
+    "label": "LOC",
+    "text": "de la noblesse ou de la",
+    "jalons": [
+      482954,
+      482977
+    ]
+  },
+  "entite_1384": {
+    "label": "ORG",
+    "text": "Quand le soir",
+    "jalons": [
+      483312,
+      483325
+    ]
+  },
+  "entite_1385": {
+    "label": "MISC",
+    "text": "de Laure et de madame des Arceaux",
+    "jalons": [
+      483407,
+      483440
+    ]
+  },
+  "entite_1386": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      483461,
+      483468
+    ]
+  },
+  "entite_1387": {
+    "label": "PER",
+    "text": "Marcel se haussait",
+    "jalons": [
+      484332,
+      484350
+    ]
+  },
+  "entite_1388": {
+    "label": "PER",
+    "text": "usqu’à Laure",
+    "jalons": [
+      484352,
+      484364
+    ]
+  },
+  "entite_1389": {
+    "label": "PER",
+    "text": "Laure et Marcel",
+    "jalons": [
+      484485,
+      484500
+    ]
+  },
+  "entite_1390": {
+    "label": "MISC",
+    "text": "Entre la fille du château et le propriétaire de la chaumière",
+    "jalons": [
+      484579,
+      484639
+    ]
+  },
+  "entite_1391": {
+    "label": "LOC",
+    "text": "Lanre",
+    "jalons": [
+      485212,
+      485217
+    ]
+  },
+  "entite_1392": {
+    "label": "MISC",
+    "text": "XII  L'heure de la",
+    "jalons": [
+      485903,
+      485921
+    ]
+  },
+  "entite_1393": {
+    "label": "MISC",
+    "text": "Marcel et Suzanne avaient étonné les habitants du Rendal",
+    "jalons": [
+      485946,
+      486002
+    ]
+  },
+  "entite_1394": {
+    "label": "MISC",
+    "text": "Laure étreignait dans la présence de Marcel",
+    "jalons": [
+      486241,
+      486284
+    ]
+  },
+  "entite_1395": {
+    "label": "PER",
+    "text": "Marcel",
+    "jalons": [
+      486994,
+      487000
+    ]
+  },
+  "entite_1396": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      487402,
+      487407
+    ]
+  },
+  "entite_1397": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      488089,
+      488094
+    ]
+  },
+  "entite_1398": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      488163,
+      488168
+    ]
+  },
+  "entite_1399": {
+    "label": "LOC",
+    "text": "Rendal",
+    "jalons": [
+      488208,
+      488214
+    ]
+  },
+  "entite_1400": {
+    "label": "LOC",
+    "text": "La mère",
+    "jalons": [
+      488221,
+      488228
+    ]
+  },
+  "entite_1401": {
+    "label": "LOC",
+    "text": "Su",
+    "jalons": [
+      488230,
+      488232
+    ]
+  },
+  "entite_1402": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      488425,
+      488430
+    ]
+  },
+  "entite_1403": {
+    "label": "LOC",
+    "text": "MARCEL",
+    "jalons": [
+      488754,
+      488760
+    ]
+  },
+  "entite_1404": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      489143,
+      489149
+    ]
+  },
+  "entite_1405": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      489458,
+      489463
+    ]
+  },
+  "entite_1406": {
+    "label": "PER",
+    "text": "Paul des",
+    "jalons": [
+      489984,
+      489992
+    ]
+  },
+  "entite_1407": {
+    "label": "MISC",
+    "text": "Arceaux et de",
+    "jalons": [
+      489993,
+      490006
+    ]
+  },
+  "entite_1408": {
+    "label": "PER",
+    "text": "Marcel de Rendal",
+    "jalons": [
+      490007,
+      490023
+    ]
+  },
+  "entite_1409": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      490951,
+      490957
+    ]
+  },
+  "entite_1410": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      491408,
+      491413
+    ]
+  },
+  "entite_1411": {
+    "label": "PER",
+    "text": "MARCEL",
+    "jalons": [
+      491668,
+      491674
+    ]
+  },
+  "entite_1412": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      491708,
+      491713
+    ]
+  },
+  "entite_1413": {
+    "label": "PER",
+    "text": "Marcel",
+    "jalons": [
+      492033,
+      492039
+    ]
+  },
+  "entite_1414": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      492335,
+      492341
+    ]
+  },
+  "entite_1415": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      492590,
+      492595
+    ]
+  },
+  "entite_1416": {
+    "label": "PER",
+    "text": "Laure le",
+    "jalons": [
+      492678,
+      492686
+    ]
+  },
+  "entite_1417": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      493720,
+      493725
+    ]
+  },
+  "entite_1418": {
+    "label": "LOC",
+    "text": "s’agit pas de moi",
+    "jalons": [
+      494080,
+      494097
+    ]
+  },
+  "entite_1419": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      495753,
+      495759
+    ]
+  },
+  "entite_1420": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      496976,
+      496982
+    ]
+  },
+  "entite_1421": {
+    "label": "PER",
+    "text": "Laure ne lui",
+    "jalons": [
+      497602,
+      497614
+    ]
+  },
+  "entite_1422": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      498729,
+      498734
+    ]
+  },
+  "entite_1423": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      499191,
+      499197
+    ]
+  },
+  "entite_1424": {
+    "label": "MISC",
+    "text": "Laure le soir",
+    "jalons": [
+      499207,
+      499220
+    ]
+  },
+  "entite_1425": {
+    "label": "MISC",
+    "text": "Laure y était",
+    "jalons": [
+      499602,
+      499615
+    ]
+  },
+  "entite_1426": {
+    "label": "PER",
+    "text": "Marcel le",
+    "jalons": [
+      499967,
+      499976
+    ]
+  },
+  "entite_1427": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      500009,
+      500014
+    ]
+  },
+  "entite_1428": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      500249,
+      500254
+    ]
+  },
+  "entite_1429": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      500705,
+      500711
+    ]
+  },
+  "entite_1430": {
+    "label": "LOC",
+    "text": "Dieu de la terre",
+    "jalons": [
+      501286,
+      501302
+    ]
+  },
+  "entite_1431": {
+    "label": "LOC",
+    "text": "Adieu",
+    "jalons": [
+      503784,
+      503789
+    ]
+  },
+  "entite_1432": {
+    "label": "MISC",
+    "text": "Madame des Arceaux",
+    "jalons": [
+      506441,
+      506459
+    ]
+  },
+  "entite_1433": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      506763,
+      506768
+    ]
+  },
+  "entite_1434": {
+    "label": "MISC",
+    "text": "Marcel,tandis que le baron sau",
+    "jalons": [
+      506772,
+      506802
+    ]
+  },
+  "entite_1435": {
+    "label": "LOC",
+    "text": "Rendal",
+    "jalons": [
+      506937,
+      506943
+    ]
+  },
+  "entite_1436": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      508691,
+      508696
+    ]
+  },
+  "entite_1437": {
+    "label": "PER",
+    "text": "Suzanne parut",
+    "jalons": [
+      510085,
+      510098
+    ]
+  },
+  "entite_1438": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      510352,
+      510358
+    ]
+  },
+  "entite_1439": {
+    "label": "LOC",
+    "text": "MARCEL",
+    "jalons": [
+      510398,
+      510404
+    ]
+  },
+  "entite_1440": {
+    "label": "PER",
+    "text": "lui donner",
+    "jalons": [
+      510450,
+      510460
+    ]
+  },
+  "entite_1441": {
+    "label": "LOC",
+    "text": "La mort de",
+    "jalons": [
+      510577,
+      510587
+    ]
+  },
+  "entite_1442": {
+    "label": "LOC",
+    "text": "Marcel",
+    "jalons": [
+      510719,
+      510725
+    ]
+  },
+  "entite_1443": {
+    "label": "LOC",
+    "text": "Suzanne",
+    "jalons": [
+      510829,
+      510836
+    ]
+  },
+  "entite_1444": {
+    "label": "MISC",
+    "text": "Avant de quitter les Arceaux il alla",
+    "jalons": [
+      511011,
+      511047
+    ]
+  },
+  "entite_1445": {
+    "label": "PER",
+    "text": "Marcel Bertrand",
+    "jalons": [
+      511596,
+      511611
+    ]
+  },
+  "entite_1446": {
+    "label": "PER",
+    "text": "M.de Rendal",
+    "jalons": [
+      511629,
+      511640
+    ]
+  },
+  "entite_1447": {
+    "label": "LOC",
+    "text": "Elle sépara la chaumière du vieux Bertrand des",
+    "jalons": [
+      511943,
+      511989
+    ]
+  },
+  "entite_1448": {
+    "label": "MISC",
+    "text": "ES Fe Le Le",
+    "jalons": [
+      512435,
+      512446
+    ]
+  },
+  "entite_1449": {
+    "label": "PER",
+    "text": "Li Re",
+    "jalons": [
+      512599,
+      512604
+    ]
+  },
+  "entite_1450": {
+    "label": "PER",
+    "text": "Paul Feval Amédée Achard",
+    "jalons": [
+      512609,
+      512633
+    ]
+  },
+  "entite_1451": {
+    "label": "PER",
+    "text": "Le Roman du Mari",
+    "jalons": [
+      512684,
+      512700
+    ]
+  },
+  "entite_1452": {
+    "label": "PER",
+    "text": "Me Gil-Blas",
+    "jalons": [
+      512726,
+      512737
+    ]
+  },
+  "entite_1453": {
+    "label": "PER",
+    "text": "M. Gagneur",
+    "jalons": [
+      512771,
+      512781
+    ]
+  },
+  "entite_1454": {
+    "label": "PER",
+    "text": "Le Drame de la jeunesse",
+    "jalons": [
+      512790,
+      512813
+    ]
+  },
+  "entite_1455": {
+    "label": "PER",
+    "text": "Le capitaine Fantôme",
+    "jalons": [
+      512836,
+      512856
+    ]
+  },
+  "entite_1456": {
+    "label": "PER",
+    "text": "Les Filles de Cabanit",
+    "jalons": [
+      512912,
+      512933
+    ]
+  },
+  "entite_1457": {
+    "label": "PER",
+    "text": "Pierre Véron",
+    "jalons": [
+      513040,
+      513052
+    ]
+  },
+  "entite_1458": {
+    "label": "ORG",
+    "text": "Paris s'amuse",
+    "jalons": [
+      513057,
+      513070
+    ]
+  },
+  "entite_1459": {
+    "label": "PER",
+    "text": "Les Marionnettes de Paris",
+    "jalons": [
+      513100,
+      513125
+    ]
+  },
+  "entite_1460": {
+    "label": "PER",
+    "text": "Lv S3eéd",
+    "jalons": [
+      513127,
+      513135
+    ]
+  },
+  "entite_1461": {
+    "label": "PER",
+    "text": "Les Gens de théâtre",
+    "jalons": [
+      513140,
+      513159
+    ]
+  },
+  "entite_1462": {
+    "label": "ORG",
+    "text": "Les Marchands de santé",
+    "jalons": [
+      513183,
+      513205
+    ]
+  },
+  "entite_1463": {
+    "label": "PER",
+    "text": "Les Souffre-Plaisir",
+    "jalons": [
+      513224,
+      513243
+    ]
+  },
+  "entite_1464": {
+    "label": "ORG",
+    "text": "Le Roman de la Femme",
+    "jalons": [
+      513268,
+      513288
+    ]
+  },
+  "entite_1465": {
+    "label": "LOC",
+    "text": "L'Année",
+    "jalons": [
+      513309,
+      513316
+    ]
+  },
+  "entite_1466": {
+    "label": "PER",
+    "text": "Émile Gaboriau",
+    "jalons": [
+      513350,
+      513364
+    ]
+  },
+  "entite_1467": {
+    "label": "PER",
+    "text": "Le 13e Hussards",
+    "jalons": [
+      513369,
+      513384
+    ]
+  },
+  "entite_1468": {
+    "label": "ORG",
+    "text": "Les Gens de bureau",
+    "jalons": [
+      513453,
+      513471
+    ]
+  },
+  "entite_1469": {
+    "label": "PER",
+    "text": "Les Comédiennes",
+    "jalons": [
+      513495,
+      513510
+    ]
+  },
+  "entite_1470": {
+    "label": "PER",
+    "text": "Mare Bayeux",
+    "jalons": [
+      513590,
+      513601
+    ]
+  },
+  "entite_1471": {
+    "label": "MISC",
+    "text": "Une Femme de cœur",
+    "jalons": [
+      513605,
+      513622
+    ]
+  },
+  "entite_1472": {
+    "label": "PER",
+    "text": "Émile Chevalier",
+    "jalons": [
+      513771,
+      513786
+    ]
+  },
+  "entite_1473": {
+    "label": "PER",
+    "text": "Le Pirate du Saint-Laureñt",
+    "jalons": [
+      513843,
+      513869
+    ]
+  },
+  "entite_1474": {
+    "label": "PER",
+    "text": "Valéry Vernier",
+    "jalons": [
+      513965,
+      513979
+    ]
+  },
+  "entite_1475": {
+    "label": "PER",
+    "text": "Augustin Chalinmel",
+    "jalons": [
+      514215,
+      514233
+    ]
+  },
+  "entite_1476": {
+    "label": "MISC",
+    "text": "Histoire anecdolique de la Fronde",
+    "jalons": [
+      514273,
+      514306
+    ]
+  },
+  "entite_1477": {
+    "label": "MISC",
+    "text": "Le Roman de la Plage",
+    "jalons": [
+      514388,
+      514408
+    ]
+  },
+  "entite_1478": {
+    "label": "LOC",
+    "text": "La Régence",
+    "jalons": [
+      514464,
+      514474
+    ]
+  },
+  "entite_1479": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      514585,
+      514595
+    ]
+  },
+  "entite_1480": {
+    "label": "PER",
+    "text": "Cerf",
+    "jalons": [
+      514604,
+      514608
+    ]
+  },
+  "entite_1481": {
+    "label": "MISC",
+    "text": "Les Requins de l'Atlantique",
+    "jalons": [
+      514750,
+      514777
+    ]
+  },
+  "entite_1482": {
+    "label": "LOC",
+    "text": "Lv.",
+    "jalons": [
+      514779,
+      514782
+    ]
+  },
+  "entite_1483": {
+    "label": "MISC",
+    "text": "Scènes de Ja vie Aggtiohné",
+    "jalons": [
+      514878,
+      514904
+    ]
+  },
+  "entite_1484": {
+    "label": "PER",
+    "text": "Hippolyte Philibert",
+    "jalons": [
+      514942,
+      514961
+    ]
+  },
+  "entite_1485": {
+    "label": "PER",
+    "text": "Iambes d'aujourd'hui",
+    "jalons": [
+      514970,
+      514990
+    ]
+  },
+  "entite_1486": {
+    "label": "PER",
+    "text": "Arinnnt Renaud",
+    "jalons": [
+      515012,
+      515026
+    ]
+  },
+  "entite_1487": {
+    "label": "MISC",
+    "text": "Les Poëmes de l'amour",
+    "jalons": [
+      515073,
+      515094
+    ]
+  },
+  "entite_1488": {
+    "label": "PER",
+    "text": "Auguste Luchet",
+    "jalons": [
+      515111,
+      515125
+    ]
+  },
+  "entite_1489": {
+    "label": "LOC",
+    "text": "ES",
+    "jalons": [
+      515303,
+      515305
+    ]
+  },
+  "entite_1490": {
+    "label": "LOC",
+    "text": "Les Femmes de province",
+    "jalons": [
+      515366,
+      515388
+    ]
+  },
+  "entite_1491": {
+    "label": "PER",
+    "text": "Madame Cnnitié Périe",
+    "jalons": [
+      515606,
+      515626
+    ]
+  },
+  "entite_1492": {
+    "label": "PER",
+    "text": "Bubots de Géÿnes",
+    "jalons": [
+      515643,
+      515659
+    ]
+  }
+}

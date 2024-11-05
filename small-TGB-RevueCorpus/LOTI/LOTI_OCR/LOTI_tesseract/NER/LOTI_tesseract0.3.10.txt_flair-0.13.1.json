@@ -1,0 +1,8450 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gallica     Oeuvres",
+    "jalons": [
+      6,
+      25
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "de Pierre Loti",
+    "jalons": [
+      36,
+      50
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Tome",
+    "jalons": [
+      52,
+      56
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      84,
+      116
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Gallica     Loti",
+    "jalons": [
+      122,
+      138
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      140,
+      146
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      160,
+      175
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "de Pierre Loti",
+    "jalons": [
+      195,
+      209
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "le cadre de la loi",
+    "jalons": [
+      441,
+      459
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de",
+    "jalons": [
+      609,
+      713
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      816,
+      822
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      1411,
+      1473
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Bibliothèque",
+    "jalons": [
+      2027,
+      2039
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "FRANÇAISE Di   Drails de reproduction el de",
+    "jalons": [
+      3097,
+      3140
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "EEE  ÉVRAEUX",
+    "jalons": [
+      3216,
+      3228
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "CHARLES HÉRISSEY",
+    "jalons": [
+      3244,
+      3260
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "ANCIENNE MAISON MICIIEL LÉVY FRÈRES",
+    "jalons": [
+      3479,
+      3514
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "RUE AUBER",
+    "jalons": [
+      3518,
+      3527
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Oasis de Moïse",
+    "jalons": [
+      4338,
+      4352
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Pierre Loti",
+    "jalons": [
+      4497,
+      4508
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Chaban",
+    "jalons": [
+      4868,
+      4874
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "OMAR Fils d'Edriss",
+    "jalons": [
+      4883,
+      4901
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "El Senoussi El Hosni",
+    "jalons": [
+      4903,
+      4923
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Senoussi",
+    "jalons": [
+      5203,
+      5211
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Enfin",
+    "jalons": [
+      6078,
+      6083
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Akabah",
+    "jalons": [
+      6127,
+      6133
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "ôté-ci de la mer Rouge",
+    "jalons": [
+      7680,
+      7702
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "de la Fontaine de Moïse",
+    "jalons": [
+      8600,
+      8623
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Arabes de Syrie",
+    "jalons": [
+      8815,
+      8830
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "avec déjà l’accoutumance de",
+    "jalons": [
+      10752,
+      10779
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "les Israé- lites de la mer Rouge",
+    "jalons": [
+      11846,
+      11878
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Tout un essai de vie. Et deux",
+    "jalons": [
+      22024,
+      22053
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Vers le soir",
+    "jalons": [
+      23127,
+      23139
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      28662,
+      28665
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "VI Etant donc partis de Rephidim",
+    "jalons": [
+      32419,
+      32451
+    ]
+  },
+  "entite_35": {
+    "label": "ORG",
+    "text": "LE DÉSERT",
+    "jalons": [
+      32756,
+      32765
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Sahara",
+    "jalons": [
+      34524,
+      34530
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "frère et la sœur",
+    "jalons": [
+      34817,
+      34833
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "dans les parages de la « Montagne de la Myrrhe",
+    "jalons": [
+      35363,
+      35409
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Sinaï",
+    "jalons": [
+      35899,
+      35904
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      38812,
+      38816
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "arde la terre",
+    "jalons": [
+      38912,
+      38925
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Tremblant de",
+    "jalons": [
+      46594,
+      46606
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Caire",
+    "jalons": [
+      47025,
+      47030
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Prince de Beauvau",
+    "jalons": [
+      51100,
+      51117
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "gi  La vue",
+    "jalons": [
+      55553,
+      55563
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Exode",
+    "jalons": [
+      57836,
+      57841
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Derr",
+    "jalons": [
+      57852,
+      57856
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Moïse",
+    "jalons": [
+      60214,
+      60219
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Puis",
+    "jalons": [
+      62480,
+      62484
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Mille",
+    "jalons": [
+      62966,
+      62971
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Suez",
+    "jalons": [
+      64890,
+      64894
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Le Père Daniel",
+    "jalons": [
+      66445,
+      66459
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "Sous de",
+    "jalons": [
+      67115,
+      67122
+    ]
+  },
+  "entite_54": {
+    "label": "ORG",
+    "text": "Avant de franchir de nouveau",
+    "jalons": [
+      67556,
+      67584
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "Nord et de l'Orient",
+    "jalons": [
+      68280,
+      68299
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Puis les moines",
+    "jalons": [
+      72195,
+      72210
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "la tête de la",
+    "jalons": [
+      77014,
+      77027
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Elles",
+    "jalons": [
+      79863,
+      79868
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Ilest de grand matin",
+    "jalons": [
+      81739,
+      81759
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Clair",
+    "jalons": [
+      82185,
+      82190
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "Le Père Daniel et le Père Économe descendent du cou",
+    "jalons": [
+      85237,
+      85288
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Chées de la terre",
+    "jalons": [
+      87940,
+      87957
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Ailleu",
+    "jalons": [
+      89082,
+      89088
+    ]
+  },
+  "entite_64": {
+    "label": "MISC",
+    "text": "Pendant des millénaires et des millénaires",
+    "jalons": [
+      94625,
+      94667
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Mais sur le soir",
+    "jalons": [
+      95776,
+      95792
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Vallée de la Fontaine",
+    "jalons": [
+      95814,
+      95835
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Sinaï",
+    "jalons": [
+      96193,
+      96198
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Mohamme",
+    "jalons": [
+      97273,
+      97280
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "désert de Pétra",
+    "jalons": [
+      97296,
+      97311
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "la vallée de la Fontaine",
+    "jalons": [
+      97672,
+      97696
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      97782,
+      97788
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      102034,
+      102043
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "La Vallée de la Fontaine",
+    "jalons": [
+      102585,
+      102609
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Djebel",
+    "jalons": [
+      105097,
+      105103
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "la Vallée de la Fontaine",
+    "jalons": [
+      107520,
+      107544
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "Au-dessus de la haute muraille de cendre qui barre la moitié du ciel",
+    "jalons": [
+      109737,
+      109805
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      116222,
+      116224
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "Suez",
+    "jalons": [
+      116459,
+      116463
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "côte de La Grande Arabie",
+    "jalons": [
+      116812,
+      116836
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "l'Orient de la Terre",
+    "jalons": [
+      117056,
+      117076
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      118181,
+      118187
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      118785,
+      118791
+    ]
+  },
+  "entite_83": {
+    "label": "MISC",
+    "text": "Déjà désagréables dans les   LE DÉSERT",
+    "jalons": [
+      118869,
+      118907
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Le village arabe",
+    "jalons": [
+      120227,
+      120243
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "de la terre et du ciel",
+    "jalons": [
+      122272,
+      122294
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "l'Islam",
+    "jalons": [
+      122370,
+      122377
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "aussi le dieu des",
+    "jalons": [
+      122387,
+      122404
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "lelong de la mer",
+    "jalons": [
+      123865,
+      123881
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "L'une de",
+    "jalons": [
+      128311,
+      128319
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "LE DÉSERT",
+    "jalons": [
+      130551,
+      130560
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Aujourd’hui",
+    "jalons": [
+      132560,
+      132571
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Akabah",
+    "jalons": [
+      132588,
+      132594
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Sinaï",
+    "jalons": [
+      134641,
+      134646
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "côte de la Grande Arabie se fait de",
+    "jalons": [
+      134782,
+      134817
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Ja ville des beaux",
+    "jalons": [
+      135653,
+      135671
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Au bord de la",
+    "jalons": [
+      136207,
+      136220
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "la grande ville de",
+    "jalons": [
+      139087,
+      139105
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "Sur la cita",
+    "jalons": [
+      139732,
+      139743
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Stamboul",
+    "jalons": [
+      140289,
+      140297
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "la route de Pétra",
+    "jalons": [
+      141312,
+      141329
+    ]
+  },
+  "entite_101": {
+    "label": "MISC",
+    "text": "L’immobilité de l’Islam et la paix de la",
+    "jalons": [
+      145137,
+      145177
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Aller",
+    "jalons": [
+      146391,
+      146396
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Damas",
+    "jalons": [
+      146868,
+      146873
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Caire",
+    "jalons": [
+      146946,
+      146951
+    ]
+  },
+  "entite_105": {
+    "label": "PER",
+    "text": "E. Mouktar-pacha",
+    "jalons": [
+      146967,
+      146983
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Suez",
+    "jalons": [
+      147283,
+      147287
+    ]
+  },
+  "entite_107": {
+    "label": "LOC",
+    "text": "Caire",
+    "jalons": [
+      147895,
+      147900
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "LE",
+    "jalons": [
+      148105,
+      148107
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Suez",
+    "jalons": [
+      148614,
+      148618
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Kérak",
+    "jalons": [
+      148983,
+      148988
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "Suez",
+    "jalons": [
+      149137,
+      149141
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Malgré la chaleur",
+    "jalons": [
+      149415,
+      149432
+    ]
+  },
+  "entite_113": {
+    "label": "MISC",
+    "text": "Au délin de la chaleur et du soleil",
+    "jalons": [
+      149711,
+      149746
+    ]
+  },
+  "entite_114": {
+    "label": "ORG",
+    "text": "XXV Mercredi",
+    "jalons": [
+      153075,
+      153087
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Mohammed-Jahl",
+    "jalons": [
+      153984,
+      153997
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "Suez",
+    "jalons": [
+      157436,
+      157440
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Égypte",
+    "jalons": [
+      158089,
+      158095
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "de la Mecque",
+    "jalons": [
+      158151,
+      158163
+    ]
+  },
+  "entite_119": {
+    "label": "MISC",
+    "text": "Nackel et le désert de Tih",
+    "jalons": [
+      158165,
+      158191
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Renvoie",
+    "jalons": [
+      158353,
+      158360
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "D'abord celle du prix de location des",
+    "jalons": [
+      158654,
+      158691
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Sinaï",
+    "jalons": [
+      159618,
+      159623
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "L'idée de",
+    "jalons": [
+      159885,
+      159894
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "environs de Kérak et de Tafileh",
+    "jalons": [
+      161801,
+      161832
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      161889,
+      161893
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "Pétra et de la mer Morte",
+    "jalons": [
+      162050,
+      162074
+    ]
+  },
+  "entite_127": {
+    "label": "ORG",
+    "text": "Cette dernière",
+    "jalons": [
+      162288,
+      162302
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "Moghreb",
+    "jalons": [
+      162933,
+      162940
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "Hassan et Mustapha",
+    "jalons": [
+      164385,
+      164403
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      166670,
+      166679
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Akabah",
+    "jalons": [
+      168861,
+      168867
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "Bédouins du désert de Pétra",
+    "jalons": [
+      171600,
+      171627
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Aïlleurs",
+    "jalons": [
+      174610,
+      174618
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Pétra",
+    "jalons": [
+      174897,
+      174902
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "de Prusse de la mer",
+    "jalons": [
+      177455,
+      177474
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      178509,
+      178518
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "Mohammed-Jahl",
+    "jalons": [
+      178594,
+      178607
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      181147,
+      181156
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "fils Hassan",
+    "jalons": [
+      181262,
+      181273
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      182730,
+      182739
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "cheik Hassan",
+    "jalons": [
+      182771,
+      182783
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      185247,
+      185251
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Suez",
+    "jalons": [
+      185470,
+      185474
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Judée",
+    "jalons": [
+      185971,
+      185976
+    ]
+  },
+  "entite_145": {
+    "label": "MISC",
+    "text": "Bédouins de Pétra",
+    "jalons": [
+      186831,
+      186848
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "la Mecq",
+    "jalons": [
+      188921,
+      188928
+    ]
+  },
+  "entite_147": {
+    "label": "MISC",
+    "text": "Isambert et Chauvet dans leur Zlinéraire d'Arabie Pélrée :  Les Arabes qui occupent le désert de Tih",
+    "jalons": [
+      189558,
+      189658
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Akabah",
+    "jalons": [
+      191258,
+      191264
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "désert de Tih",
+    "jalons": [
+      193024,
+      193037
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "le désert des Amalékites",
+    "jalons": [
+      193039,
+      193063
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      193344,
+      193348
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Moghrebh",
+    "jalons": [
+      193439,
+      193447
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Palestine et de Syrie",
+    "jalons": [
+      193510,
+      193531
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Ce",
+    "jalons": [
+      193534,
+      193536
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Salomon ou de Moïse",
+    "jalons": [
+      195163,
+      195182
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Beyrouth",
+    "jalons": [
+      197672,
+      197680
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Bédouin de Pétra",
+    "jalons": [
+      197964,
+      197980
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "ik Hassan",
+    "jalons": [
+      199168,
+      199177
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      201158,
+      201167
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Hassan",
+    "jalons": [
+      203440,
+      203446
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Bagdad",
+    "jalons": [
+      203976,
+      203982
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      204118,
+      204122
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "de Cédar",
+    "jalons": [
+      204153,
+      204161
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Esaïe",
+    "jalons": [
+      204163,
+      204168
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "Le cheik Hassan",
+    "jalons": [
+      204838,
+      204853
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Syrie",
+    "jalons": [
+      209088,
+      209093
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Gazal",
+    "jalons": [
+      212506,
+      212511
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Gazal",
+    "jalons": [
+      212513,
+      212518
+    ]
+  },
+  "entite_169": {
+    "label": "LOC",
+    "text": "Gherafeh",
+    "jalons": [
+      213899,
+      213907
+    ]
+  },
+  "entite_170": {
+    "label": "MISC",
+    "text": "milieu de telles étendues de désert et que dore en ce moment la lumière de",
+    "jalons": [
+      215044,
+      215118
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Hassan",
+    "jalons": [
+      217807,
+      217813
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "dimanche des Rameaux",
+    "jalons": [
+      219065,
+      219085
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      222491,
+      222495
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "reste de la lumière du",
+    "jalons": [
+      225405,
+      225427
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "ravin de l'Ouady-Loussein",
+    "jalons": [
+      228879,
+      228904
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      232355,
+      232359
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "la ville de Palestine la",
+    "jalons": [
+      232361,
+      232385
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Sud",
+    "jalons": [
+      232423,
+      232426
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "déjà",
+    "jalons": [
+      232453,
+      232457
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Sortis du désert de Pharan",
+    "jalons": [
+      234255,
+      234281
+    ]
+  },
+  "entite_181": {
+    "label": "MISC",
+    "text": "Envoyez en Cédar",
+    "jalons": [
+      234445,
+      234461
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "de la terre",
+    "jalons": [
+      234994,
+      235005
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "illes de bête",
+    "jalons": [
+      237056,
+      237069
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "Mercredi",
+    "jalons": [
+      237153,
+      237161
+    ]
+  },
+  "entite_185": {
+    "label": "MISC",
+    "text": "XXXV Jeudi",
+    "jalons": [
+      238636,
+      238646
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Tanger",
+    "jalons": [
+      238789,
+      238795
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Maroc",
+    "jalons": [
+      238833,
+      238838
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      241624,
+      241633
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      242866,
+      242875
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "la Terr",
+    "jalons": [
+      243193,
+      243200
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "Beauce",
+    "jalons": [
+      243510,
+      243516
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Chanaan",
+    "jalons": [
+      244162,
+      244169
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      247633,
+      247637
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Chanaa",
+    "jalons": [
+      248314,
+      248320
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Jérémie",
+    "jalons": [
+      249781,
+      249788
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      250501,
+      250505
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      250563,
+      250567
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      250610,
+      250614
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "de nous donner le soleil chaud du sud",
+    "jalons": [
+      250919,
+      250956
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Et des Arabes",
+    "jalons": [
+      251531,
+      251544
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "l'entrée de la ville",
+    "jalons": [
+      251728,
+      251748
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "La ville",
+    "jalons": [
+      252582,
+      252590
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Le gouverneur ottoman de Gaza",
+    "jalons": [
+      254645,
+      254674
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Constantinople",
+    "jalons": [
+      254897,
+      254911
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "milieu de la ville",
+    "jalons": [
+      254927,
+      254945
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      255207,
+      255216
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Mais le reste de la ville",
+    "jalons": [
+      255218,
+      255243
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Sud",
+    "jalons": [
+      255373,
+      255376
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      255423,
+      255427
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "Bédouins",
+    "jalons": [
+      256099,
+      256107
+    ]
+  },
+  "entite_211": {
+    "label": "MISC",
+    "text": "Palestine Dans la ruelle des faiseurs de",
+    "jalons": [
+      256362,
+      256402
+    ]
+  },
+  "entite_212": {
+    "label": "ORG",
+    "text": "LE DÉSERT  XXXVIII  Dimanche",
+    "jalons": [
+      258064,
+      258092
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Dimanche de Püques",
+    "jalons": [
+      258102,
+      258120
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      258123,
+      258127
+    ]
+  },
+  "entite_215": {
+    "label": "MISC",
+    "text": "Genèse",
+    "jalons": [
+      258249,
+      258255
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      258265,
+      258269
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Josué",
+    "jalons": [
+      258461,
+      258466
+    ]
+  },
+  "entite_218": {
+    "label": "MISC",
+    "text": "Assyriens",
+    "jalons": [
+      258485,
+      258494
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "La colline de terre",
+    "jalons": [
+      258652,
+      258671
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Aujour",
+    "jalons": [
+      259064,
+      259070
+    ]
+  },
+  "entite_221": {
+    "label": "LOC",
+    "text": "d’hui",
+    "jalons": [
+      259072,
+      259077
+    ]
+  },
+  "entite_222": {
+    "label": "LOC",
+    "text": "Débris de",
+    "jalons": [
+      259673,
+      259682
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "l'argent de",
+    "jalons": [
+      260096,
+      260107
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "el-Hachem",
+    "jalons": [
+      260244,
+      260253
+    ]
+  },
+  "entite_225": {
+    "label": "MISC",
+    "text": "C’est au clair soleil de ce matin de Pâques",
+    "jalons": [
+      260308,
+      260351
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "Eù Orient",
+    "jalons": [
+      260584,
+      260593
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "de la fète de Pâques.",
+    "jalons": [
+      263658,
+      263679
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "La cita",
+    "jalons": [
+      263856,
+      263863
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "portes de la Gaza des Philistins",
+    "jalons": [
+      265162,
+      265194
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Juges",
+    "jalons": [
+      265197,
+      265202
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      265673,
+      265677
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "je vois venir de la TERRE",
+    "jalons": [
+      266763,
+      266788
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Esaie",
+    "jalons": [
+      266875,
+      266880
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Hassan",
+    "jalons": [
+      267768,
+      267774
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "La lune",
+    "jalons": [
+      269304,
+      269311
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Jéru",
+    "jalons": [
+      269785,
+      269789
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "JÉRUSALEM",
+    "jalons": [
+      269804,
+      269813
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "PIERRE LOTI",
+    "jalons": [
+      269962,
+      269973
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Arrivés du",
+    "jalons": [
+      271823,
+      271833
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      271907,
+      271911
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Précédés de",
+    "jalons": [
+      272201,
+      272212
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "Hébron",
+    "jalons": [
+      272938,
+      272944
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "la vallée de Beït-Djibrin",
+    "jalons": [
+      273809,
+      273834
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Vraie vallée de la Terre Prom",
+    "jalons": [
+      273891,
+      273920
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "de Maho",
+    "jalons": [
+      275961,
+      275968
+    ]
+  },
+  "entite_246": {
+    "label": "MISC",
+    "text": "cette terre de la Bible et du Christ",
+    "jalons": [
+      276006,
+      276042
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Hébron",
+    "jalons": [
+      276672,
+      276678
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Beït-Djibrin",
+    "jalons": [
+      276680,
+      276692
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "Aujour",
+    "jalons": [
+      276905,
+      276911
+    ]
+  },
+  "entite_250": {
+    "label": "MISC",
+    "text": "les villes de la Palestine et de l’Idumée",
+    "jalons": [
+      277024,
+      277065
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      278993,
+      278997
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      280018,
+      280024
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      280154,
+      280160
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Hébron",
+    "jalons": [
+      281559,
+      281565
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "l'entrée de la ville",
+    "jalons": [
+      282071,
+      282091
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "d’Isaac et de Jacob.  Arabes et Juifs",
+    "jalons": [
+      282791,
+      282828
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Manbré",
+    "jalons": [
+      284880,
+      284886
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      286202,
+      286207
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "de la vallée de Beït-Djibrin ou des plaines de Gaza",
+    "jalons": [
+      288304,
+      288355
+    ]
+  },
+  "entite_260": {
+    "label": "ORG",
+    "text": "JÉRU",
+    "jalons": [
+      289788,
+      289792
+    ]
+  },
+  "entite_261": {
+    "label": "MISC",
+    "text": "Eu face de nous",
+    "jalons": [
+      289803,
+      289818
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      290030,
+      290034
+    ]
+  },
+  "entite_263": {
+    "label": "PER",
+    "text": "Mercredi",
+    "jalons": [
+      290305,
+      290313
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "La ca",
+    "jalons": [
+      290811,
+      290816
+    ]
+  },
+  "entite_265": {
+    "label": "MISC",
+    "text": "de la Provence ou de l'Italie",
+    "jalons": [
+      290860,
+      290889
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Hébron",
+    "jalons": [
+      291317,
+      291323
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "Moghreb",
+    "jalons": [
+      291483,
+      291490
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Occident",
+    "jalons": [
+      291492,
+      291500
+    ]
+  },
+  "entite_269": {
+    "label": "MISC",
+    "text": "Arabes de Palestine",
+    "jalons": [
+      291516,
+      291535
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Maroc",
+    "jalons": [
+      291571,
+      291576
+    ]
+  },
+  "entite_271": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      293850,
+      293859
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "Toujours",
+    "jalons": [
+      293862,
+      293870
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "réveil qui ramènerait vers la terre sainte les peuples et les",
+    "jalons": [
+      294434,
+      294495
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      294636,
+      294640
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      294777,
+      294786
+    ]
+  },
+  "entite_276": {
+    "label": "MISC",
+    "text": "Sarrasins ou les Bédouins",
+    "jalons": [
+      294913,
+      294938
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "Bethléem",
+    "jalons": [
+      297955,
+      297963
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "urnant de montagne",
+    "jalons": [
+      297984,
+      298002
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      298080,
+      298089
+    ]
+  },
+  "entite_280": {
+    "label": "MISC",
+    "text": "Un petit Arabe",
+    "jalons": [
+      299019,
+      299033
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "Bethléem",
+    "jalons": [
+      300123,
+      300131
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "l’entrée de la ville",
+    "jalons": [
+      300219,
+      300239
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "la Vierge Marie",
+    "jalons": [
+      302312,
+      302327
+    ]
+  },
+  "entite_284": {
+    "label": "MISC",
+    "text": "la grotte de la Nativité",
+    "jalons": [
+      303008,
+      303032
+    ]
+  },
+  "entite_285": {
+    "label": "MISC",
+    "text": "Latins et les Arméniens",
+    "jalons": [
+      305242,
+      305265
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "La porte",
+    "jalons": [
+      305291,
+      305299
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "Sinai",
+    "jalons": [
+      305893,
+      305898
+    ]
+  },
+  "entite_288": {
+    "label": "MISC",
+    "text": "Baudoin I° fut sacré roi de Jérusalem",
+    "jalons": [
+      307211,
+      307248
+    ]
+  },
+  "entite_289": {
+    "label": "MISC",
+    "text": "Elle est un des",
+    "jalons": [
+      307250,
+      307265
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Sinaï",
+    "jalons": [
+      307363,
+      307368
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      310014,
+      310020
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Au clair de la lune",
+    "jalons": [
+      310025,
+      310044
+    ]
+  },
+  "entite_293": {
+    "label": "MISC",
+    "text": "Grand Souvenir",
+    "jalons": [
+      310690,
+      310704
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "de Bethléem",
+    "jalons": [
+      311297,
+      311308
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Bethléem",
+    "jalons": [
+      311312,
+      311320
+    ]
+  },
+  "entite_296": {
+    "label": "MISC",
+    "text": "F1 Vierge Marie en personne",
+    "jalons": [
+      311591,
+      311618
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Sous la magie du",
+    "jalons": [
+      312266,
+      312282
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "Bethléem des lointains de la Russie",
+    "jalons": [
+      313792,
+      313827
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      315598,
+      315604
+    ]
+  },
+  "entite_300": {
+    "label": "MISC",
+    "text": "Arabes",
+    "jalons": [
+      316871,
+      316877
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "Turcs",
+    "jalons": [
+      316879,
+      316884
+    ]
+  },
+  "entite_302": {
+    "label": "MISC",
+    "text": "Bédouins",
+    "jalons": [
+      316886,
+      316894
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      318464,
+      318470
+    ]
+  },
+  "entite_304": {
+    "label": "LOC",
+    "text": "Gethsémani",
+    "jalons": [
+      318689,
+      318699
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      319113,
+      319119
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "M. L.….",
+    "jalons": [
+      319121,
+      319128
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "la porte de Damas",
+    "jalons": [
+      319595,
+      319612
+    ]
+  },
+  "entite_308": {
+    "label": "MISC",
+    "text": "Dans leur jardin",
+    "jalons": [
+      320871,
+      320887
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "cette terre de Jérusalem",
+    "jalons": [
+      321029,
+      321053
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "la porte de Damas",
+    "jalons": [
+      321219,
+      321236
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "Étienne",
+    "jalons": [
+      321835,
+      321842
+    ]
+  },
+  "entite_312": {
+    "label": "MISC",
+    "text": "Entrés hier dans la ville sainte",
+    "jalons": [
+      325129,
+      325161
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Étienne",
+    "jalons": [
+      326751,
+      326758
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "La rotonde",
+    "jalons": [
+      329605,
+      329615
+    ]
+  },
+  "entite_315": {
+    "label": "ORG",
+    "text": "des Arabe",
+    "jalons": [
+      330231,
+      330240
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Saint",
+    "jalons": [
+      330420,
+      330425
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "Sépulcre",
+    "jalons": [
+      330427,
+      330435
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      333003,
+      333012
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "la chapelle de Sainte-Hélène",
+    "jalons": [
+      333354,
+      333382
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "la chapelle de Sainte-Hélène",
+    "jalons": [
+      333920,
+      333948
+    ]
+  },
+  "entite_321": {
+    "label": "ORG",
+    "text": "JÉRUSA",
+    "jalons": [
+      334842,
+      334848
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      336365,
+      336367
+    ]
+  },
+  "entite_323": {
+    "label": "MISC",
+    "text": "JÉRUSALEM  des deux est celle des Grecs",
+    "jalons": [
+      336389,
+      336428
+    ]
+  },
+  "entite_324": {
+    "label": "PER",
+    "text": "Surto",
+    "jalons": [
+      337915,
+      337920
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Sauveur",
+    "jalons": [
+      338875,
+      338882
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      341342,
+      341351
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "Le consul général de France",
+    "jalons": [
+      341472,
+      341499
+    ]
+  },
+  "entite_328": {
+    "label": "PER",
+    "text": "le Haram-ech-Chérif",
+    "jalons": [
+      342528,
+      342547
+    ]
+  },
+  "entite_329": {
+    "label": "MISC",
+    "text": "qu'à l'époque de la poussière",
+    "jalons": [
+      346624,
+      346653
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "Chacune de",
+    "jalons": [
+      348134,
+      348144
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "JÉRUSALEM",
+    "jalons": [
+      350210,
+      350219
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "II Rois",
+    "jalons": [
+      352644,
+      352651
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "Salom",
+    "jalons": [
+      352763,
+      352768
+    ]
+  },
+  "entite_334": {
+    "label": "LOC",
+    "text": "Seigneur sur la montagne de Moriah",
+    "jalons": [
+      352968,
+      353002
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Dans la suite des",
+    "jalons": [
+      353146,
+      353163
+    ]
+  },
+  "entite_336": {
+    "label": "MISC",
+    "text": "Après l’anéantissement de Jérusalem par Titus",
+    "jalons": [
+      353732,
+      353777
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Jupiter",
+    "jalons": [
+      353792,
+      353799
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      354084,
+      354093
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Melek",
+    "jalons": [
+      354135,
+      354140
+    ]
+  },
+  "entite_340": {
+    "label": "MISC",
+    "text": "Christ d’après le Coran",
+    "jalons": [
+      355070,
+      355093
+    ]
+  },
+  "entite_341": {
+    "label": "MISC",
+    "text": "Le Messie Jésus west que le fils de Marie",
+    "jalons": [
+      355277,
+      355318
+    ]
+  },
+  "entite_342": {
+    "label": "MISC",
+    "text": "de Dieu et son Verbe",
+    "jalons": [
+      355329,
+      355349
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      355367,
+      355372
+    ]
+  },
+  "entite_344": {
+    "label": "MISC",
+    "text": "Croyez donc en Dieu et en",
+    "jalons": [
+      355374,
+      355399
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "Trinité",
+    "jalons": [
+      355444,
+      355451
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Médine",
+    "jalons": [
+      356639,
+      356645
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      357012,
+      357021
+    ]
+  },
+  "entite_348": {
+    "label": "MISC",
+    "text": "Islam",
+    "jalons": [
+      357368,
+      357373
+    ]
+  },
+  "entite_349": {
+    "label": "ORG",
+    "text": "El Aksa",
+    "jalons": [
+      357377,
+      357384
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "Le Gethsémani",
+    "jalons": [
+      359411,
+      359424
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      359884,
+      359889
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": "m'indiquant de la mai",
+    "jalons": [
+      359915,
+      359936
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "la vallée de Josa",
+    "jalons": [
+      360179,
+      360196
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "Puis",
+    "jalons": [
+      360498,
+      360502
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "la vallée de Josaphat",
+    "jalons": [
+      361166,
+      361187
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "es du temple de Jérusalem",
+    "jalons": [
+      361984,
+      362009
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "L'une",
+    "jalons": [
+      362012,
+      362017
+    ]
+  },
+  "entite_358": {
+    "label": "MISC",
+    "text": "la porte Dorée, qui donne sur la vallée du Cédron  et",
+    "jalons": [
+      362019,
+      362072
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "L'autre",
+    "jalons": [
+      362709,
+      362716
+    ]
+  },
+  "entite_360": {
+    "label": "MISC",
+    "text": "Salomon et la reine de Saba",
+    "jalons": [
+      362895,
+      362922
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      364253,
+      364262
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Pères de Sainte-Anne",
+    "jalons": [
+      364840,
+      364860
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "de la Voie Douloureuse",
+    "jalons": [
+      364991,
+      365013
+    ]
+  },
+  "entite_364": {
+    "label": "LOC",
+    "text": "JÉRUSALEM",
+    "jalons": [
+      365056,
+      365065
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Pères de Sainte-Anne",
+    "jalons": [
+      365149,
+      365169
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "la maison de Sainte-Anne",
+    "jalons": [
+      365426,
+      365450
+    ]
+  },
+  "entite_367": {
+    "label": "MISC",
+    "text": "mère de Ia Vierge Marie et où",
+    "jalons": [
+      365452,
+      365481
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "Hélène",
+    "jalons": [
+      365552,
+      365558
+    ]
+  },
+  "entite_369": {
+    "label": "PER",
+    "text": "taires du Carmel",
+    "jalons": [
+      365568,
+      365584
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "Jaffa",
+    "jalons": [
+      365999,
+      366004
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Haram",
+    "jalons": [
+      366056,
+      366061
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Calvaire",
+    "jalons": [
+      366580,
+      366588
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "de la chapelle des Pères de Sainte-Anne",
+    "jalons": [
+      367157,
+      367196
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "Elle monte",
+    "jalons": [
+      367235,
+      367245
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "de la Voie Douloureuse",
+    "jalons": [
+      368323,
+      368345
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "Voici la",
+    "jalons": [
+      368347,
+      368355
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "du Chemin de | la Croix",
+    "jalons": [
+      368436,
+      368459
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "des Pères de Sainte-Anne est près de",
+    "jalons": [
+      368641,
+      368677
+    ]
+  },
+  "entite_379": {
+    "label": "MISC",
+    "text": "les Filles de Sion qui",
+    "jalons": [
+      368994,
+      369016
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "Sauveur",
+    "jalons": [
+      369063,
+      369070
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "La Voie",
+    "jalons": [
+      369073,
+      369080
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "des Filles de Sion",
+    "jalons": [
+      369320,
+      369338
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "Les cantiques des Filles de",
+    "jalons": [
+      369637,
+      369664
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Parfois",
+    "jalons": [
+      370085,
+      370092
+    ]
+  },
+  "entite_385": {
+    "label": "LOC",
+    "text": "Croix",
+    "jalons": [
+      370689,
+      370694
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "Bazar de",
+    "jalons": [
+      370996,
+      371004
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "de la Voie Douloureuse",
+    "jalons": [
+      371570,
+      371592
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "Sépulcre",
+    "jalons": [
+      372720,
+      372728
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "De la haute terrasse du couvent des Filles de Sion",
+    "jalons": [
+      373954,
+      374004
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Grecs",
+    "jalons": [
+      375364,
+      375369
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Haram",
+    "jalons": [
+      375853,
+      375858
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "Moab",
+    "jalons": [
+      376804,
+      376808
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      376920,
+      376929
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "les Filles de Sion",
+    "jalons": [
+      376932,
+      376950
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "Haram-ech-Chérif",
+    "jalons": [
+      377796,
+      377812
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Temple",
+    "jalons": [
+      377830,
+      377836
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "C’est",
+    "jalons": [
+      377840,
+      377845
+    ]
+  },
+  "entite_398": {
+    "label": "MISC",
+    "text": "Ia Jérusalem du Christ",
+    "jalons": [
+      378002,
+      378024
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "Chez les Filles de Sion",
+    "jalons": [
+      378027,
+      378050
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Prétoire",
+    "jalons": [
+      379861,
+      379869
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "Sa",
+    "jalons": [
+      381944,
+      381946
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "la sœur de sa mère",
+    "jalons": [
+      381953,
+      381971
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Saint Jean",
+    "jalons": [
+      382444,
+      382454
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Saint-Sépulcre",
+    "jalons": [
+      383874,
+      383888
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Calvair",
+    "jalons": [
+      383993,
+      384000
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "de Gordon",
+    "jalons": [
+      384002,
+      384011
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Ilya quelque",
+    "jalons": [
+      384016,
+      384028
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "Gordon",
+    "jalons": [
+      384041,
+      384047
+    ]
+  },
+  "entite_409": {
+    "label": "MISC",
+    "text": "Chez les Dominicains",
+    "jalons": [
+      384759,
+      384779
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Hélène",
+    "jalons": [
+      385051,
+      385057
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "que la ville",
+    "jalons": [
+      386048,
+      386060
+    ]
+  },
+  "entite_412": {
+    "label": "LOC",
+    "text": "la porte de Jaffa",
+    "jalons": [
+      386864,
+      386881
+    ]
+  },
+  "entite_413": {
+    "label": "LOC",
+    "text": "Derrière la chapelle",
+    "jalons": [
+      387087,
+      387107
+    ]
+  },
+  "entite_414": {
+    "label": "MISC",
+    "text": "Filles de 5100",
+    "jalons": [
+      387500,
+      387514
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Sépulcre",
+    "jalons": [
+      387573,
+      387581
+    ]
+  },
+  "entite_416": {
+    "label": "MISC",
+    "text": "côté du Levant et du Nord",
+    "jalons": [
+      390098,
+      390123
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "la muraille de Jérusalem",
+    "jalons": [
+      390793,
+      390817
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "Saladin",
+    "jalons": [
+      390951,
+      390958
+    ]
+  },
+  "entite_419": {
+    "label": "MISC",
+    "text": "XIII Vendredi",
+    "jalons": [
+      391553,
+      391566
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "la vallée de Josaphat et au Geths",
+    "jalons": [
+      391647,
+      391680
+    ]
+  },
+  "entite_421": {
+    "label": "ORG",
+    "text": "remparts de Sé",
+    "jalons": [
+      392178,
+      392192
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "oriental de la ville et que la vallée de Josaphat s'ouvre",
+    "jalons": [
+      392274,
+      392331
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Des Grecs, des Arabes",
+    "jalons": [
+      392506,
+      392527
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "Cédron",
+    "jalons": [
+      392852,
+      392858
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "Saini",
+    "jalons": [
+      395165,
+      395170
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "Sépulcre",
+    "jalons": [
+      395172,
+      395180
+    ]
+  },
+  "entite_427": {
+    "label": "LOC",
+    "text": "tombeau de la Vierge",
+    "jalons": [
+      396569,
+      396589
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "Auprès de nous",
+    "jalons": [
+      397750,
+      397764
+    ]
+  },
+  "entite_429": {
+    "label": "PER",
+    "text": "Madame Marie",
+    "jalons": [
+      397916,
+      397928
+    ]
+  },
+  "entite_430": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      399052,
+      399059
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "atigue et d'angoisse",
+    "jalons": [
+      399872,
+      399892
+    ]
+  },
+  "entite_432": {
+    "label": "PER",
+    "text": "Mathieu",
+    "jalons": [
+      399894,
+      399901
+    ]
+  },
+  "entite_433": {
+    "label": "PER",
+    "text": "Marc",
+    "jalons": [
+      399917,
+      399921
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Chemin de Croix",
+    "jalons": [
+      400667,
+      400682
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "de la vallée de Josaphat",
+    "jalons": [
+      401759,
+      401783
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      402424,
+      402430
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Haram",
+    "jalons": [
+      403059,
+      403064
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Dans la vallée de Josaphat",
+    "jalons": [
+      403791,
+      403817
+    ]
+  },
+  "entite_439": {
+    "label": "MISC",
+    "text": "ue de Siloë et le faite du mont des Oliviers",
+    "jalons": [
+      404480,
+      404524
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "La veille de la Passion",
+    "jalons": [
+      405862,
+      405885
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "de la terre",
+    "jalons": [
+      408065,
+      408076
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Moriah des",
+    "jalons": [
+      408506,
+      408516
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "Sion",
+    "jalons": [
+      408545,
+      408549
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "Déjà",
+    "jalons": [
+      409169,
+      409173
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "Doir",
+    "jalons": [
+      410055,
+      410059
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Contre la muraille du",
+    "jalons": [
+      412190,
+      412211
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "Mur des Pleurs",
+    "jalons": [
+      413079,
+      413093
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "Josaphat",
+    "jalons": [
+      413264,
+      413272
+    ]
+  },
+  "entite_449": {
+    "label": "MISC",
+    "text": "Ramène les enfants de Jérusalem! Hâte-toi",
+    "jalons": [
+      414797,
+      414838
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Jéricho",
+    "jalons": [
+      416248,
+      416255
+    ]
+  },
+  "entite_451": {
+    "label": "MISC",
+    "text": "vers le Jourdain et la mer Morte.",
+    "jalons": [
+      416257,
+      416290
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "La ville",
+    "jalons": [
+      416291,
+      416299
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "Hébron",
+    "jalons": [
+      417673,
+      417679
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      417716,
+      417722
+    ]
+  },
+  "entite_455": {
+    "label": "MISC",
+    "text": "Syriens et les Grecs",
+    "jalons": [
+      418256,
+      418276
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "L'air",
+    "jalons": [
+      419320,
+      419325
+    ]
+  },
+  "entite_457": {
+    "label": "PER",
+    "text": "elle aussi",
+    "jalons": [
+      421377,
+      421387
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "Moab",
+    "jalons": [
+      421860,
+      421864
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Alentour",
+    "jalons": [
+      423131,
+      423139
+    ]
+  },
+  "entite_460": {
+    "label": "ORG",
+    "text": "XV Dimanche",
+    "jalons": [
+      423857,
+      423868
+    ]
+  },
+  "entite_461": {
+    "label": "PER",
+    "text": "De Jéricho",
+    "jalons": [
+      423880,
+      423890
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "la mer Morte",
+    "jalons": [
+      423921,
+      423933
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "de la mer Morte",
+    "jalons": [
+      425042,
+      425057
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "de la mer Morte",
+    "jalons": [
+      425231,
+      425246
+    ]
+  },
+  "entite_465": {
+    "label": "LOC",
+    "text": "Vallée des bois",
+    "jalons": [
+      425502,
+      425517
+    ]
+  },
+  "entite_466": {
+    "label": "MISC",
+    "text": "de Séboïm et de Ségor",
+    "jalons": [
+      425628,
+      425649
+    ]
+  },
+  "entite_467": {
+    "label": "PER",
+    "text": "de Judée",
+    "jalons": [
+      426488,
+      426496
+    ]
+  },
+  "entite_468": {
+    "label": "MISC",
+    "text": "dans ces jours",
+    "jalons": [
+      427521,
+      427535
+    ]
+  },
+  "entite_469": {
+    "label": "MISC",
+    "text": "Les montagnes de la Judée et du Moah",
+    "jalons": [
+      429637,
+      429673
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Jéru",
+    "jalons": [
+      429966,
+      429970
+    ]
+  },
+  "entite_471": {
+    "label": "MISC",
+    "text": "jamais vu les parages de la mer Morte",
+    "jalons": [
+      430154,
+      430191
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      431298,
+      431307
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "Oasis",
+    "jalons": [
+      432114,
+      432119
+    ]
+  },
+  "entite_474": {
+    "label": "PER",
+    "text": "golfe de Gênes",
+    "jalons": [
+      432650,
+      432664
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Salomon",
+    "jalons": [
+      432736,
+      432743
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "L’eau",
+    "jalons": [
+      432805,
+      432810
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Élie",
+    "jalons": [
+      433512,
+      433516
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Antoine à Cléopâtre",
+    "jalons": [
+      433562,
+      433581
+    ]
+  },
+  "entite_479": {
+    "label": "LOC",
+    "text": "mont de la Quarantaine",
+    "jalons": [
+      435538,
+      435560
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "la Grande Arabie",
+    "jalons": [
+      436188,
+      436204
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Jourdaïn",
+    "jalons": [
+      436684,
+      436692
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "de-Galaad",
+    "jalons": [
+      437163,
+      437172
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Berlin",
+    "jalons": [
+      437617,
+      437623
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      438174,
+      438183
+    ]
+  },
+  "entite_485": {
+    "label": "MISC",
+    "text": "La lumière est dure et éblouissante sur les blan",
+    "jalons": [
+      438736,
+      438784
+    ]
+  },
+  "entite_486": {
+    "label": "MISC",
+    "text": "Cheurs des rochers et du",
+    "jalons": [
+      438786,
+      438810
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Parfois",
+    "jalons": [
+      439930,
+      439937
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      440235,
+      440244
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Sur la route",
+    "jalons": [
+      440811,
+      440823
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Mainte",
+    "jalons": [
+      440858,
+      440864
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Blanche",
+    "jalons": [
+      441601,
+      441608
+    ]
+  },
+  "entite_492": {
+    "label": "MISC",
+    "text": "Du Levant au Moghreb",
+    "jalons": [
+      442583,
+      442603
+    ]
+  },
+  "entite_493": {
+    "label": "MISC",
+    "text": "Amas de",
+    "jalons": [
+      444012,
+      444019
+    ]
+  },
+  "entite_494": {
+    "label": "MISC",
+    "text": "Et des Turcs et des Serbes",
+    "jalons": [
+      444338,
+      444364
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      444906,
+      444912
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      445312,
+      445321
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "Béthanie",
+    "jalons": [
+      446185,
+      446193
+    ]
+  },
+  "entite_498": {
+    "label": "LOC",
+    "text": "de la maison de Marie et de Madeleine",
+    "jalons": [
+      447320,
+      447357
+    ]
+  },
+  "entite_499": {
+    "label": "LOC",
+    "text": "Béthanie de l'Évangile",
+    "jalons": [
+      447558,
+      447580
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "la vallée de Josa",
+    "jalons": [
+      447680,
+      447697
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "de la grande",
+    "jalons": [
+      448001,
+      448013
+    ]
+  },
+  "entite_502": {
+    "label": "MISC",
+    "text": "Depuis le moyen",
+    "jalons": [
+      448057,
+      448072
+    ]
+  },
+  "entite_503": {
+    "label": "MISC",
+    "text": "don de la République de Venise",
+    "jalons": [
+      448703,
+      448733
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Le dernier des dons de la France",
+    "jalons": [
+      448934,
+      448966
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Notre-Dame de Paris",
+    "jalons": [
+      449117,
+      449136
+    ]
+  },
+  "entite_506": {
+    "label": "LOC",
+    "text": "prélats de Jérusalem",
+    "jalons": [
+      450563,
+      450583
+    ]
+  },
+  "entite_507": {
+    "label": "MISC",
+    "text": "la grande lecon de simplicilé que Jésus est venu donner aü monde! Certes",
+    "jalons": [
+      451074,
+      451146
+    ]
+  },
+  "entite_508": {
+    "label": "MISC",
+    "text": "C’est l’époque de la grande animation de Jérusalem",
+    "jalons": [
+      452617,
+      452667
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "Grecs",
+    "jalons": [
+      453610,
+      453615
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Le Christ",
+    "jalons": [
+      454147,
+      454156
+    ]
+  },
+  "entite_511": {
+    "label": "PER",
+    "text": "le Christ de l'Évangile",
+    "jalons": [
+      454158,
+      454181
+    ]
+  },
+  "entite_512": {
+    "label": "LOC",
+    "text": "Mercredi",
+    "jalons": [
+      454880,
+      454888
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Baïram",
+    "jalons": [
+      459167,
+      459173
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Sion",
+    "jalons": [
+      459647,
+      459651
+    ]
+  },
+  "entite_515": {
+    "label": "MISC",
+    "text": "rte de Jaffa jusqu’à celle des Moghrabis",
+    "jalons": [
+      459776,
+      459816
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "la vallée de Josaphat",
+    "jalons": [
+      460562,
+      460583
+    ]
+  },
+  "entite_517": {
+    "label": "MISC",
+    "text": "ourd’hui de bonne heure au Saint-Sépulcre",
+    "jalons": [
+      462336,
+      462377
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Trésor des Grecs",
+    "jalons": [
+      462455,
+      462471
+    ]
+  },
+  "entite_519": {
+    "label": "PER",
+    "text": "Rameau",
+    "jalons": [
+      462842,
+      462848
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Trésor",
+    "jalons": [
+      463250,
+      463256
+    ]
+  },
+  "entite_521": {
+    "label": "MISC",
+    "text": "’or alourdies de diamants et de rubis",
+    "jalons": [
+      463872,
+      463909
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Aujourd'hui",
+    "jalons": [
+      464921,
+      464932
+    ]
+  },
+  "entite_523": {
+    "label": "MISC",
+    "text": "Dans l’après-midi de ce même jour",
+    "jalons": [
+      465366,
+      465399
+    ]
+  },
+  "entite_524": {
+    "label": "MISC",
+    "text": "Islam",
+    "jalons": [
+      467010,
+      467015
+    ]
+  },
+  "entite_525": {
+    "label": "MISC",
+    "text": "JÉRUSALEM",
+    "jalons": [
+      467021,
+      467030
+    ]
+  },
+  "entite_526": {
+    "label": "MISC",
+    "text": "XX Vendredi",
+    "jalons": [
+      467036,
+      467047
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Galilée",
+    "jalons": [
+      467118,
+      467125
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "Aujourd’hui",
+    "jalons": [
+      467190,
+      467201
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "Patriarche des Grecs",
+    "jalons": [
+      467245,
+      467265
+    ]
+  },
+  "entite_530": {
+    "label": "LOC",
+    "text": "Dames de Sion",
+    "jalons": [
+      467294,
+      467307
+    ]
+  },
+  "entite_531": {
+    "label": "MISC",
+    "text": "soléardien la Jérusalem du Christ et à élever des",
+    "jalons": [
+      467456,
+      467505
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "Quelque",
+    "jalons": [
+      468448,
+      468455
+    ]
+  },
+  "entite_533": {
+    "label": "LOC",
+    "text": "Gethsémani",
+    "jalons": [
+      469198,
+      469208
+    ]
+  },
+  "entite_534": {
+    "label": "MISC",
+    "text": "d’Absalon et de Josaphat",
+    "jalons": [
+      471286,
+      471310
+    ]
+  },
+  "entite_535": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      471543,
+      471547
+    ]
+  },
+  "entite_536": {
+    "label": "LOC",
+    "text": "collines de l'ouest que couronne la longue muraille de Jérusalem",
+    "jalons": [
+      472478,
+      472542
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "de la vallée de Josaphat",
+    "jalons": [
+      472780,
+      472804
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "Siloë",
+    "jalons": [
+      473040,
+      473045
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "Sur la fin de",
+    "jalons": [
+      473094,
+      473107
+    ]
+  },
+  "entite_540": {
+    "label": "LOC",
+    "text": "Lourdes",
+    "jalons": [
+      473666,
+      473673
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "herbes de la vallée de Josaphat",
+    "jalons": [
+      473906,
+      473937
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "de l'hôtel",
+    "jalons": [
+      474627,
+      474637
+    ]
+  },
+  "entite_543": {
+    "label": "MISC",
+    "text": "Après la vie",
+    "jalons": [
+      476273,
+      476285
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Sion",
+    "jalons": [
+      476912,
+      476916
+    ]
+  },
+  "entite_545": {
+    "label": "MISC",
+    "text": "Sa Béatitude le Patriarche",
+    "jalons": [
+      477099,
+      477125
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "Près de",
+    "jalons": [
+      478404,
+      478411
+    ]
+  },
+  "entite_547": {
+    "label": "LOC",
+    "text": "Sinaï",
+    "jalons": [
+      478553,
+      478558
+    ]
+  },
+  "entite_548": {
+    "label": "LOC",
+    "text": "Arméniens de l'Inde",
+    "jalons": [
+      479593,
+      479612
+    ]
+  },
+  "entite_549": {
+    "label": "MISC",
+    "text": "de Damas ou en soie de Brousse",
+    "jalons": [
+      481703,
+      481733
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "de la Perse la vraie croix",
+    "jalons": [
+      482584,
+      482610
+    ]
+  },
+  "entite_551": {
+    "label": "MISC",
+    "text": "JÉRUSALEM  Puisque je suis sur le mont Sion",
+    "jalons": [
+      483328,
+      483371
+    ]
+  },
+  "entite_552": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      483513,
+      483522
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "la Voie Douloureuse",
+    "jalons": [
+      487146,
+      487165
+    ]
+  },
+  "entite_554": {
+    "label": "MISC",
+    "text": "Rien que le bruit de nos pas",
+    "jalons": [
+      487548,
+      487576
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "porte de la ville qui donne sur la vallée des",
+    "jalons": [
+      488314,
+      488359
+    ]
+  },
+  "entite_556": {
+    "label": "ORG",
+    "text": "Étienne, et les Arabes",
+    "jalons": [
+      488406,
+      488428
+    ]
+  },
+  "entite_557": {
+    "label": "ORG",
+    "text": "porte de Madame-Ma",
+    "jalons": [
+      488430,
+      488448
+    ]
+  },
+  "entite_558": {
+    "label": "MISC",
+    "text": "la vallée de Josaphat et le Gethsémani",
+    "jalons": [
+      488917,
+      488955
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Cédron",
+    "jalons": [
+      489943,
+      489949
+    ]
+  },
+  "entite_560": {
+    "label": "MISC",
+    "text": "Jacques et de Josaphat",
+    "jalons": [
+      490143,
+      490165
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Vallée de la",
+    "jalons": [
+      490561,
+      490573
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Osman Pacha",
+    "jalons": [
+      491255,
+      491266
+    ]
+  },
+  "entite_563": {
+    "label": "LOC",
+    "text": "Ghazi",
+    "jalons": [
+      491271,
+      491276
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "Plevna",
+    "jalons": [
+      491304,
+      491310
+    ]
+  },
+  "entite_565": {
+    "label": "LOC",
+    "text": "Bédoui",
+    "jalons": [
+      491514,
+      491520
+    ]
+  },
+  "entite_566": {
+    "label": "LOC",
+    "text": "Gethsémani",
+    "jalons": [
+      491960,
+      491970
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "de la vallée des morts",
+    "jalons": [
+      493605,
+      493627
+    ]
+  },
+  "entite_568": {
+    "label": "LOC",
+    "text": "Près de moi",
+    "jalons": [
+      494495,
+      494506
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "La clameur des chiens de Jérusalem",
+    "jalons": [
+      494776,
+      494810
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "Jaffa",
+    "jalons": [
+      497111,
+      497116
+    ]
+  },
+  "entite_571": {
+    "label": "ORG",
+    "text": "Voie Douloureuse",
+    "jalons": [
+      497135,
+      497151
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Jons de",
+    "jalons": [
+      497910,
+      497917
+    ]
+  },
+  "entite_573": {
+    "label": "MISC",
+    "text": "Avant de quitter Jérusalem",
+    "jalons": [
+      499609,
+      499635
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Isis",
+    "jalons": [
+      500730,
+      500734
+    ]
+  },
+  "entite_575": {
+    "label": "LOC",
+    "text": "Saint-Sépulcre",
+    "jalons": [
+      500779,
+      500793
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "Aujourd’hui",
+    "jalons": [
+      501210,
+      501221
+    ]
+  },
+  "entite_577": {
+    "label": "LOC",
+    "text": "Gabriel",
+    "jalons": [
+      502535,
+      502542
+    ]
+  },
+  "entite_578": {
+    "label": "MISC",
+    "text": "Damas la ville sarrasine",
+    "jalons": [
+      503654,
+      503678
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "d'Europe",
+    "jalons": [
+      504288,
+      504296
+    ]
+  },
+  "entite_580": {
+    "label": "LOC",
+    "text": "Osés",
+    "jalons": [
+      504833,
+      504837
+    ]
+  },
+  "entite_581": {
+    "label": "PER",
+    "text": "Près de l’entrée",
+    "jalons": [
+      504842,
+      504858
+    ]
+  },
+  "entite_582": {
+    "label": "MISC",
+    "text": "Une  VII",
+    "jalons": [
+      506408,
+      506416
+    ]
+  },
+  "entite_583": {
+    "label": "LOC",
+    "text": "la croix de Jésus.  Des femmes de",
+    "jalons": [
+      507002,
+      507035
+    ]
+  },
+  "entite_584": {
+    "label": "LOC",
+    "text": "Évangile",
+    "jalons": [
+      507359,
+      507367
+    ]
+  },
+  "entite_585": {
+    "label": "MISC",
+    "text": "Le Mal et la Mort",
+    "jalons": [
+      509680,
+      509697
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "Qu'importe",
+    "jalons": [
+      510872,
+      510882
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "Dieu",
+    "jalons": [
+      510888,
+      510892
+    ]
+  },
+  "entite_588": {
+    "label": "ORG",
+    "text": "JÉRUSALEM",
+    "jalons": [
+      510965,
+      510974
+    ]
+  },
+  "entite_589": {
+    "label": "PER",
+    "text": "Au Gethsémani",
+    "jalons": [
+      513499,
+      513512
+    ]
+  },
+  "entite_590": {
+    "label": "LOC",
+    "text": "Saint-Sépulcre",
+    "jalons": [
+      515801,
+      515815
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Cherchez-Le",
+    "jalons": [
+      515818,
+      515829
+    ]
+  },
+  "entite_592": {
+    "label": "MISC",
+    "text": "de Nazareth et de la mer de Thibé",
+    "jalons": [
+      516824,
+      516857
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "Mardi",
+    "jalons": [
+      517365,
+      517370
+    ]
+  },
+  "entite_594": {
+    "label": "LOC",
+    "text": "Damas",
+    "jalons": [
+      517862,
+      517867
+    ]
+  },
+  "entite_595": {
+    "label": "LOC",
+    "text": "Arabe",
+    "jalons": [
+      519054,
+      519059
+    ]
+  },
+  "entite_596": {
+    "label": "MISC",
+    "text": "Il donna aussi le nom de Béthel c'est",
+    "jalons": [
+      520124,
+      520161
+    ]
+  },
+  "entite_597": {
+    "label": "PER",
+    "text": "de Dieu",
+    "jalons": [
+      520177,
+      520184
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "Luza",
+    "jalons": [
+      520223,
+      520227
+    ]
+  },
+  "entite_599": {
+    "label": "LOC",
+    "text": "Béïtine",
+    "jalons": [
+      520717,
+      520724
+    ]
+  },
+  "entite_600": {
+    "label": "LOC",
+    "text": "la Luza de la Genèse",
+    "jalons": [
+      520746,
+      520766
+    ]
+  },
+  "entite_601": {
+    "label": "MISC",
+    "text": "Toutes les nations de la terre",
+    "jalons": [
+      520904,
+      520934
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "Dans la",
+    "jalons": [
+      520979,
+      520986
+    ]
+  },
+  "entite_603": {
+    "label": "LOC",
+    "text": "Veau d’or",
+    "jalons": [
+      521196,
+      521205
+    ]
+  },
+  "entite_604": {
+    "label": "LOC",
+    "text": "Aujourd'h",
+    "jalons": [
+      521207,
+      521216
+    ]
+  },
+  "entite_605": {
+    "label": "PER",
+    "text": "Il Mercredi",
+    "jalons": [
+      523270,
+      523281
+    ]
+  },
+  "entite_606": {
+    "label": "LOC",
+    "text": "Dé la",
+    "jalons": [
+      523937,
+      523942
+    ]
+  },
+  "entite_607": {
+    "label": "MISC",
+    "text": "Sichem de la Genèse",
+    "jalons": [
+      524834,
+      524853
+    ]
+  },
+  "entite_608": {
+    "label": "MISC",
+    "text": "Flavia Neapolis de Vespasien",
+    "jalons": [
+      525058,
+      525086
+    ]
+  },
+  "entite_609": {
+    "label": "LOC",
+    "text": "Aujourd'hui",
+    "jalons": [
+      525220,
+      525231
+    ]
+  },
+  "entite_610": {
+    "label": "LOC",
+    "text": "Hébron",
+    "jalons": [
+      525398,
+      525404
+    ]
+  },
+  "entite_611": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      525412,
+      525416
+    ]
+  },
+  "entite_612": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      525747,
+      525751
+    ]
+  },
+  "entite_613": {
+    "label": "LOC",
+    "text": "Aujourd'hui",
+    "jalons": [
+      525799,
+      525810
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      527929,
+      527935
+    ]
+  },
+  "entite_615": {
+    "label": "LOC",
+    "text": "LA",
+    "jalons": [
+      528382,
+      528384
+    ]
+  },
+  "entite_616": {
+    "label": "LOC",
+    "text": "GALILÉE",
+    "jalons": [
+      528385,
+      528392
+    ]
+  },
+  "entite_617": {
+    "label": "LOC",
+    "text": "Manassé",
+    "jalons": [
+      528397,
+      528404
+    ]
+  },
+  "entite_618": {
+    "label": "LOC",
+    "text": "Salmanazar",
+    "jalons": [
+      528658,
+      528668
+    ]
+  },
+  "entite_619": {
+    "label": "PER",
+    "text": "de Babel",
+    "jalons": [
+      528709,
+      528717
+    ]
+  },
+  "entite_620": {
+    "label": "LOC",
+    "text": "Au retour de la captivité de Babylone",
+    "jalons": [
+      528845,
+      528882
+    ]
+  },
+  "entite_621": {
+    "label": "LOC",
+    "text": "Israélit",
+    "jalons": [
+      528888,
+      528896
+    ]
+  },
+  "entite_622": {
+    "label": "LOC",
+    "text": "Moïse",
+    "jalons": [
+      529228,
+      529233
+    ]
+  },
+  "entite_623": {
+    "label": "MISC",
+    "text": "es les fenêtres",
+    "jalons": [
+      529920,
+      529935
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "La porte",
+    "jalons": [
+      529999,
+      530007
+    ]
+  },
+  "entite_625": {
+    "label": "LOC",
+    "text": "Jants de",
+    "jalons": [
+      530143,
+      530151
+    ]
+  },
+  "entite_626": {
+    "label": "LOC",
+    "text": "de la tribu de Lévi",
+    "jalons": [
+      530621,
+      530640
+    ]
+  },
+  "entite_627": {
+    "label": "LOC",
+    "text": "Syrie",
+    "jalons": [
+      533358,
+      533363
+    ]
+  },
+  "entite_628": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      534489,
+      534498
+    ]
+  },
+  "entite_629": {
+    "label": "MISC",
+    "text": "Des Français",
+    "jalons": [
+      534820,
+      534832
+    ]
+  },
+  "entite_630": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      535021,
+      535027
+    ]
+  },
+  "entite_631": {
+    "label": "ORG",
+    "text": "la Sy",
+    "jalons": [
+      535035,
+      535040
+    ]
+  },
+  "entite_632": {
+    "label": "MISC",
+    "text": "Algérien et un Hindou",
+    "jalons": [
+      535603,
+      535624
+    ]
+  },
+  "entite_633": {
+    "label": "LOC",
+    "text": "Terre Sainte",
+    "jalons": [
+      535717,
+      535729
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Litfellah",
+    "jalons": [
+      536009,
+      536018
+    ]
+  },
+  "entite_635": {
+    "label": "ORG",
+    "text": "LA GALIL",
+    "jalons": [
+      538616,
+      538624
+    ]
+  },
+  "entite_636": {
+    "label": "MISC",
+    "text": "Ia magie de l'Orient",
+    "jalons": [
+      538779,
+      538799
+    ]
+  },
+  "entite_637": {
+    "label": "MISC",
+    "text": "Au sortir de la ville",
+    "jalons": [
+      538849,
+      538870
+    ]
+  },
+  "entite_638": {
+    "label": "PER",
+    "text": "le Garizim",
+    "jalons": [
+      539669,
+      539679
+    ]
+  },
+  "entite_639": {
+    "label": "MISC",
+    "text": "Alors la triste Naplouse",
+    "jalons": [
+      540078,
+      540102
+    ]
+  },
+  "entite_640": {
+    "label": "MISC",
+    "text": "eu la ville de Mille et une Nuits, la ville   LA GALILÉE",
+    "jalons": [
+      540160,
+      540216
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "gue de celui des juifs de Palestine que",
+    "jalons": [
+      541696,
+      541735
+    ]
+  },
+  "entite_642": {
+    "label": "LOC",
+    "text": "Garizim",
+    "jalons": [
+      542694,
+      542701
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      542752,
+      542760
+    ]
+  },
+  "entite_644": {
+    "label": "LOC",
+    "text": "Neapolis",
+    "jalons": [
+      544089,
+      544097
+    ]
+  },
+  "entite_645": {
+    "label": "MISC",
+    "text": "Dans le pays que le Seigneur votre Dieu vous donnera",
+    "jalons": [
+      544335,
+      544387
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "Jourdain",
+    "jalons": [
+      544992,
+      545000
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Vil",
+    "jalons": [
+      545005,
+      545008
+    ]
+  },
+  "entite_648": {
+    "label": "MISC",
+    "text": "Toute la vallée du Jourdain se dessine au",
+    "jalons": [
+      545486,
+      545527
+    ]
+  },
+  "entite_649": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      545528,
+      545534
+    ]
+  },
+  "entite_650": {
+    "label": "LOC",
+    "text": "la plaine de Saron",
+    "jalons": [
+      545608,
+      545626
+    ]
+  },
+  "entite_651": {
+    "label": "MISC",
+    "text": "des groupes de Samaritains et de Samaritaines",
+    "jalons": [
+      545815,
+      545860
+    ]
+  },
+  "entite_652": {
+    "label": "LOC",
+    "text": "Dans la région",
+    "jalons": [
+      546283,
+      546297
+    ]
+  },
+  "entite_653": {
+    "label": "MISC",
+    "text": "Au flanc de la montagne, un peu en dehors et au-dessus de la blanche ville de Naplouse",
+    "jalons": [
+      547082,
+      547168
+    ]
+  },
+  "entite_654": {
+    "label": "LOC",
+    "text": "Pas de",
+    "jalons": [
+      547741,
+      547747
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      548732,
+      548741
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Samarie",
+    "jalons": [
+      549194,
+      549201
+    ]
+  },
+  "entite_657": {
+    "label": "LOC",
+    "text": "Israël",
+    "jalons": [
+      550400,
+      550406
+    ]
+  },
+  "entite_658": {
+    "label": "LOC",
+    "text": "Salmanazar",
+    "jalons": [
+      550441,
+      550451
+    ]
+  },
+  "entite_659": {
+    "label": "LOC",
+    "text": "Couth ou de Babel",
+    "jalons": [
+      550537,
+      550554
+    ]
+  },
+  "entite_660": {
+    "label": "PER",
+    "text": "Alexandre le Grand",
+    "jalons": [
+      550662,
+      550680
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "Hérode",
+    "jalons": [
+      550789,
+      550795
+    ]
+  },
+  "entite_662": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      550865,
+      550869
+    ]
+  },
+  "entite_663": {
+    "label": "LOC",
+    "text": "Samarie",
+    "jalons": [
+      551414,
+      551421
+    ]
+  },
+  "entite_664": {
+    "label": "LOC",
+    "text": "Samarie",
+    "jalons": [
+      552143,
+      552150
+    ]
+  },
+  "entite_665": {
+    "label": "MISC",
+    "text": "Avant de descendre de cheval",
+    "jalons": [
+      552647,
+      552675
+    ]
+  },
+  "entite_666": {
+    "label": "PER",
+    "text": "de Samarie",
+    "jalons": [
+      553460,
+      553470
+    ]
+  },
+  "entite_667": {
+    "label": "LOC",
+    "text": "de la Sébasti",
+    "jalons": [
+      553971,
+      553984
+    ]
+  },
+  "entite_668": {
+    "label": "PER",
+    "text": "eh Hérodienne",
+    "jalons": [
+      553984,
+      553997
+    ]
+  },
+  "entite_669": {
+    "label": "LOC",
+    "text": "Mahomet",
+    "jalons": [
+      555414,
+      555421
+    ]
+  },
+  "entite_670": {
+    "label": "LOC",
+    "text": "Sânour",
+    "jalons": [
+      556010,
+      556016
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "Djéninn",
+    "jalons": [
+      556536,
+      556543
+    ]
+  },
+  "entite_672": {
+    "label": "LOC",
+    "text": "En-Ganim",
+    "jalons": [
+      556792,
+      556800
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "Djéninn",
+    "jalons": [
+      556880,
+      556887
+    ]
+  },
+  "entite_674": {
+    "label": "MISC",
+    "text": "Très jolie",
+    "jalons": [
+      557500,
+      557510
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "Près de",
+    "jalons": [
+      559037,
+      559044
+    ]
+  },
+  "entite_676": {
+    "label": "LOC",
+    "text": "l’entrée de la Galilée",
+    "jalons": [
+      559630,
+      559652
+    ]
+  },
+  "entite_677": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      559682,
+      559690
+    ]
+  },
+  "entite_678": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      559822,
+      559829
+    ]
+  },
+  "entite_679": {
+    "label": "ORG",
+    "text": "LA GALI",
+    "jalons": [
+      560121,
+      560128
+    ]
+  },
+  "entite_680": {
+    "label": "PER",
+    "text": "Salam Aleikoum",
+    "jalons": [
+      560376,
+      560390
+    ]
+  },
+  "entite_681": {
+    "label": "LOC",
+    "text": "Monts de Gilboë",
+    "jalons": [
+      562435,
+      562450
+    ]
+  },
+  "entite_682": {
+    "label": "PER",
+    "text": "IL Rois",
+    "jalons": [
+      562577,
+      562584
+    ]
+  },
+  "entite_683": {
+    "label": "MISC",
+    "text": "s'élevait le palais du roi Achab",
+    "jalons": [
+      563130,
+      563162
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Jézabel",
+    "jalons": [
+      563456,
+      563463
+    ]
+  },
+  "entite_685": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      563517,
+      563526
+    ]
+  },
+  "entite_686": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      564403,
+      564412
+    ]
+  },
+  "entite_687": {
+    "label": "MISC",
+    "text": "s’abattit des hauteurs de Nazareth",
+    "jalons": [
+      565248,
+      565282
+    ]
+  },
+  "entite_688": {
+    "label": "MISC",
+    "text": "dans le silence et dans la  lumière de midi",
+    "jalons": [
+      566277,
+      566320
+    ]
+  },
+  "entite_689": {
+    "label": "LOC",
+    "text": "Luc",
+    "jalons": [
+      566506,
+      566509
+    ]
+  },
+  "entite_690": {
+    "label": "LOC",
+    "text": "Endoür",
+    "jalons": [
+      566543,
+      566549
+    ]
+  },
+  "entite_691": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      566757,
+      566766
+    ]
+  },
+  "entite_692": {
+    "label": "LOC",
+    "text": "Thabor",
+    "jalons": [
+      567209,
+      567215
+    ]
+  },
+  "entite_693": {
+    "label": "LOC",
+    "text": "Thabor",
+    "jalons": [
+      567233,
+      567239
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "Déborah",
+    "jalons": [
+      568800,
+      568807
+    ]
+  },
+  "entite_695": {
+    "label": "LOC",
+    "text": "Puis",
+    "jalons": [
+      568809,
+      568813
+    ]
+  },
+  "entite_696": {
+    "label": "MISC",
+    "text": "Pendant les Croisades",
+    "jalons": [
+      569067,
+      569088
+    ]
+  },
+  "entite_697": {
+    "label": "MISC",
+    "text": "Francs et les  Sarrasins, et le grand Saladin en personne",
+    "jalons": [
+      569198,
+      569255
+    ]
+  },
+  "entite_698": {
+    "label": "MISC",
+    "text": "Franciscains de Nazareth y",
+    "jalons": [
+      569388,
+      569414
+    ]
+  },
+  "entite_699": {
+    "label": "MISC",
+    "text": "prendre les oiseaux",
+    "jalons": [
+      569856,
+      569875
+    ]
+  },
+  "entite_700": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      570017,
+      570025
+    ]
+  },
+  "entite_701": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      570717,
+      570725
+    ]
+  },
+  "entite_702": {
+    "label": "LOC",
+    "text": "LA",
+    "jalons": [
+      570876,
+      570878
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      571042,
+      571050
+    ]
+  },
+  "entite_704": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      571394,
+      571402
+    ]
+  },
+  "entite_705": {
+    "label": "LOC",
+    "text": "es de la plaine",
+    "jalons": [
+      571904,
+      571919
+    ]
+  },
+  "entite_706": {
+    "label": "PER",
+    "text": "Luc",
+    "jalons": [
+      575554,
+      575557
+    ]
+  },
+  "entite_707": {
+    "label": "MISC",
+    "text": "Comme on en rencontre dans les champs de Palestine et qui",
+    "jalons": [
+      576082,
+      576139
+    ]
+  },
+  "entite_708": {
+    "label": "MISC",
+    "text": "La lumière du ciel",
+    "jalons": [
+      576477,
+      576495
+    ]
+  },
+  "entite_709": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      577261,
+      577269
+    ]
+  },
+  "entite_710": {
+    "label": "MISC",
+    "text": "sur les murs de",
+    "jalons": [
+      577536,
+      577551
+    ]
+  },
+  "entite_711": {
+    "label": "LOC",
+    "text": "Khaïfa",
+    "jalons": [
+      577786,
+      577792
+    ]
+  },
+  "entite_712": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      577987,
+      577996
+    ]
+  },
+  "entite_713": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      578410,
+      578418
+    ]
+  },
+  "entite_714": {
+    "label": "LOC",
+    "text": "Saladin",
+    "jalons": [
+      578631,
+      578638
+    ]
+  },
+  "entite_715": {
+    "label": "LOC",
+    "text": "Saint-Louis",
+    "jalons": [
+      578645,
+      578656
+    ]
+  },
+  "entite_716": {
+    "label": "MISC",
+    "text": "la maison de Joseph et de Marie",
+    "jalons": [
+      579457,
+      579488
+    ]
+  },
+  "entite_717": {
+    "label": "LOC",
+    "text": "Aïlleurs",
+    "jalons": [
+      579491,
+      579499
+    ]
+  },
+  "entite_718": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      580564,
+      580572
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Grecs",
+    "jalons": [
+      580800,
+      580805
+    ]
+  },
+  "entite_720": {
+    "label": "ORG",
+    "text": "LA GALILÉE",
+    "jalons": [
+      586219,
+      586229
+    ]
+  },
+  "entite_721": {
+    "label": "ORG",
+    "text": "Sa",
+    "jalons": [
+      586238,
+      586240
+    ]
+  },
+  "entite_722": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      586424,
+      586432
+    ]
+  },
+  "entite_723": {
+    "label": "LOC",
+    "text": "près de la Fontaine de la Vierge que",
+    "jalons": [
+      587133,
+      587169
+    ]
+  },
+  "entite_724": {
+    "label": "LOC",
+    "text": "Nazareth",
+    "jalons": [
+      587237,
+      587245
+    ]
+  },
+  "entite_725": {
+    "label": "LOC",
+    "text": "Thanagra",
+    "jalons": [
+      587753,
+      587761
+    ]
+  },
+  "entite_726": {
+    "label": "MISC",
+    "text": "C’est Kefre-Kena",
+    "jalons": [
+      589319,
+      589335
+    ]
+  },
+  "entite_727": {
+    "label": "LOC",
+    "text": "Cana de jadis",
+    "jalons": [
+      589399,
+      589412
+    ]
+  },
+  "entite_728": {
+    "label": "LOC",
+    "text": "Au delà de Cana",
+    "jalons": [
+      589972,
+      589987
+    ]
+  },
+  "entite_729": {
+    "label": "PER",
+    "text": "Ensuit",
+    "jalons": [
+      590330,
+      590336
+    ]
+  },
+  "entite_730": {
+    "label": "LOC",
+    "text": "Galilée",
+    "jalons": [
+      590814,
+      590821
+    ]
+  },
+  "entite_731": {
+    "label": "LOC",
+    "text": "Hattinn",
+    "jalons": [
+      591336,
+      591343
+    ]
+  },
+  "entite_732": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      593530,
+      593539
+    ]
+  },
+  "entite_733": {
+    "label": "PER",
+    "text": "Luc",
+    "jalons": [
+      593583,
+      593586
+    ]
+  },
+  "entite_734": {
+    "label": "LOC",
+    "text": "Bethsaïde-Julias",
+    "jalons": [
+      593677,
+      593693
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      593745,
+      593754
+    ]
+  },
+  "entite_736": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      593941,
+      593947
+    ]
+  },
+  "entite_737": {
+    "label": "PER",
+    "text": "Guy de Lusignan",
+    "jalons": [
+      594132,
+      594147
+    ]
+  },
+  "entite_738": {
+    "label": "PER",
+    "text": "Renaud de Châtillon",
+    "jalons": [
+      594433,
+      594452
+    ]
+  },
+  "entite_739": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      596709,
+      596715
+    ]
+  },
+  "entite_740": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      597325,
+      597329
+    ]
+  },
+  "entite_741": {
+    "label": "MISC",
+    "text": "Dans le Sud",
+    "jalons": [
+      597482,
+      597493
+    ]
+  },
+  "entite_742": {
+    "label": "LOC",
+    "text": "de Terre Sainte",
+    "jalons": [
+      600203,
+      600218
+    ]
+  },
+  "entite_743": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      601918,
+      601922
+    ]
+  },
+  "entite_744": {
+    "label": "MISC",
+    "text": "C’est dans l'Évangile de saint Jean qu’elle est une des",
+    "jalons": [
+      601924,
+      601979
+    ]
+  },
+  "entite_745": {
+    "label": "PER",
+    "text": "Jean",
+    "jalons": [
+      602090,
+      602094
+    ]
+  },
+  "entite_746": {
+    "label": "ORG",
+    "text": "Après",
+    "jalons": [
+      602106,
+      602111
+    ]
+  },
+  "entite_747": {
+    "label": "MISC",
+    "text": "la destruction de Jérusalem",
+    "jalons": [
+      602112,
+      602139
+    ]
+  },
+  "entite_748": {
+    "label": "LOC",
+    "text": "Israël",
+    "jalons": [
+      602513,
+      602519
+    ]
+  },
+  "entite_749": {
+    "label": "MISC",
+    "text": "Fief de Tancrède au temps des Croisades",
+    "jalons": [
+      602767,
+      602806
+    ]
+  },
+  "entite_750": {
+    "label": "LOC",
+    "text": "Francs de Palestine",
+    "jalons": [
+      602893,
+      602912
+    ]
+  },
+  "entite_751": {
+    "label": "PER",
+    "text": "Dzaher-el-Khamr",
+    "jalons": [
+      603167,
+      603182
+    ]
+  },
+  "entite_752": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      604009,
+      604013
+    ]
+  },
+  "entite_753": {
+    "label": "LOC",
+    "text": "Sud",
+    "jalons": [
+      604028,
+      604031
+    ]
+  },
+  "entite_754": {
+    "label": "LOC",
+    "text": "le jour de la Pâque",
+    "jalons": [
+      604315,
+      604334
+    ]
+  },
+  "entite_755": {
+    "label": "MISC",
+    "text": "Séfardim de Pologne",
+    "jalons": [
+      604563,
+      604582
+    ]
+  },
+  "entite_756": {
+    "label": "MISC",
+    "text": "Jérusalem de belles robes de   LA GALILÉE",
+    "jalons": [
+      604687,
+      604728
+    ]
+  },
+  "entite_757": {
+    "label": "LOC",
+    "text": "la porte du Nord",
+    "jalons": [
+      605582,
+      605598
+    ]
+  },
+  "entite_758": {
+    "label": "LOC",
+    "text": "Sud",
+    "jalons": [
+      605871,
+      605874
+    ]
+  },
+  "entite_759": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      606832,
+      606836
+    ]
+  },
+  "entite_760": {
+    "label": "LOC",
+    "text": "terre",
+    "jalons": [
+      607233,
+      607238
+    ]
+  },
+  "entite_761": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      607575,
+      607579
+    ]
+  },
+  "entite_762": {
+    "label": "LOC",
+    "text": "Magdala",
+    "jalons": [
+      607604,
+      607611
+    ]
+  },
+  "entite_763": {
+    "label": "LOC",
+    "text": "Bethsaïda",
+    "jalons": [
+      607613,
+      607622
+    ]
+  },
+  "entite_764": {
+    "label": "LOC",
+    "text": "Capernaüm",
+    "jalons": [
+      607626,
+      607635
+    ]
+  },
+  "entite_765": {
+    "label": "MISC",
+    "text": "eau du christianisme et du   LA GALILÉE",
+    "jalons": [
+      607744,
+      607783
+    ]
+  },
+  "entite_766": {
+    "label": "LOC",
+    "text": "Hatinn",
+    "jalons": [
+      609126,
+      609132
+    ]
+  },
+  "entite_767": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      610158,
+      610162
+    ]
+  },
+  "entite_768": {
+    "label": "LOC",
+    "text": "Jourdain",
+    "jalons": [
+      610304,
+      610312
+    ]
+  },
+  "entite_769": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      610957,
+      610966
+    ]
+  },
+  "entite_770": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      610984,
+      610993
+    ]
+  },
+  "entite_771": {
+    "label": "LOC",
+    "text": "Magdala",
+    "jalons": [
+      611195,
+      611202
+    ]
+  },
+  "entite_772": {
+    "label": "MISC",
+    "text": "la joie de la patrie retrouvée et des vieux",
+    "jalons": [
+      611861,
+      611904
+    ]
+  },
+  "entite_773": {
+    "label": "MISC",
+    "text": "erdre en nous la notion de",
+    "jalons": [
+      612864,
+      612890
+    ]
+  },
+  "entite_774": {
+    "label": "MISC",
+    "text": "Kyrie et les Sanctus en",
+    "jalons": [
+      613864,
+      613887
+    ]
+  },
+  "entite_775": {
+    "label": "LOC",
+    "text": "Bethsaïda",
+    "jalons": [
+      614757,
+      614766
+    ]
+  },
+  "entite_776": {
+    "label": "LOC",
+    "text": "Gamala",
+    "jalons": [
+      616979,
+      616985
+    ]
+  },
+  "entite_777": {
+    "label": "LOC",
+    "text": "Gergesa",
+    "jalons": [
+      616987,
+      616994
+    ]
+  },
+  "entite_778": {
+    "label": "LOC",
+    "text": "Bethsaïde",
+    "jalons": [
+      616996,
+      617005
+    ]
+  },
+  "entite_779": {
+    "label": "LOC",
+    "text": "Julias",
+    "jalons": [
+      617007,
+      617013
+    ]
+  },
+  "entite_780": {
+    "label": "LOC",
+    "text": "Capernaüm",
+    "jalons": [
+      617015,
+      617024
+    ]
+  },
+  "entite_781": {
+    "label": "MISC",
+    "text": "Bethsaïda et Magdala",
+    "jalons": [
+      617026,
+      617046
+    ]
+  },
+  "entite_782": {
+    "label": "MISC",
+    "text": "partout dans la Palestine et l'Idu",
+    "jalons": [
+      617536,
+      617570
+    ]
+  },
+  "entite_783": {
+    "label": "LOC",
+    "text": "El-Medjdel",
+    "jalons": [
+      617699,
+      617709
+    ]
+  },
+  "entite_784": {
+    "label": "LOC",
+    "text": "de la plaine de Gennezareth",
+    "jalons": [
+      617777,
+      617804
+    ]
+  },
+  "entite_785": {
+    "label": "LOC",
+    "text": "Proba",
+    "jalons": [
+      617806,
+      617811
+    ]
+  },
+  "entite_786": {
+    "label": "LOC",
+    "text": "Magdala",
+    "jalons": [
+      617855,
+      617862
+    ]
+  },
+  "entite_787": {
+    "label": "LOC",
+    "text": "patrie de Marie-Magdeleine",
+    "jalons": [
+      617864,
+      617890
+    ]
+  },
+  "entite_788": {
+    "label": "LOC",
+    "text": "grande ville des",
+    "jalons": [
+      617892,
+      617908
+    ]
+  },
+  "entite_789": {
+    "label": "PER",
+    "text": "de Jérusalem",
+    "jalons": [
+      617985,
+      617997
+    ]
+  },
+  "entite_790": {
+    "label": "LOC",
+    "text": "Damas",
+    "jalons": [
+      618000,
+      618005
+    ]
+  },
+  "entite_791": {
+    "label": "LOC",
+    "text": "de la mer Morte",
+    "jalons": [
+      619062,
+      619077
+    ]
+  },
+  "entite_792": {
+    "label": "MISC",
+    "text": "de Jérusalem à Damas la tra",
+    "jalons": [
+      620282,
+      620309
+    ]
+  },
+  "entite_793": {
+    "label": "LOC",
+    "text": "Saint-Mathieu",
+    "jalons": [
+      621374,
+      621387
+    ]
+  },
+  "entite_794": {
+    "label": "LOC",
+    "text": "Malheur",
+    "jalons": [
+      621494,
+      621501
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "Bethsaïde",
+    "jalons": [
+      621535,
+      621544
+    ]
+  },
+  "entite_796": {
+    "label": "LOC",
+    "text": "Tyr",
+    "jalons": [
+      621549,
+      621552
+    ]
+  },
+  "entite_797": {
+    "label": "LOC",
+    "text": "Sidon",
+    "jalons": [
+      621556,
+      621561
+    ]
+  },
+  "entite_798": {
+    "label": "PER",
+    "text": "Luc",
+    "jalons": [
+      621643,
+      621646
+    ]
+  },
+  "entite_799": {
+    "label": "PER",
+    "text": "Mathieu",
+    "jalons": [
+      621659,
+      621666
+    ]
+  },
+  "entite_800": {
+    "label": "LOC",
+    "text": "Alor",
+    "jalons": [
+      623612,
+      623616
+    ]
+  },
+  "entite_801": {
+    "label": "LOC",
+    "text": "Bethsaïda",
+    "jalons": [
+      624110,
+      624119
+    ]
+  },
+  "entite_802": {
+    "label": "LOC",
+    "text": "Auprès",
+    "jalons": [
+      628726,
+      628732
+    ]
+  },
+  "entite_803": {
+    "label": "MISC",
+    "text": "puits de Sichem",
+    "jalons": [
+      628736,
+      628751
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "Bethsaïda",
+    "jalons": [
+      631095,
+      631104
+    ]
+  },
+  "entite_805": {
+    "label": "LOC",
+    "text": "La mais",
+    "jalons": [
+      631289,
+      631296
+    ]
+  },
+  "entite_806": {
+    "label": "LOC",
+    "text": "Aïn-Mellaha",
+    "jalons": [
+      631773,
+      631784
+    ]
+  },
+  "entite_807": {
+    "label": "LOC",
+    "text": "chapelle",
+    "jalons": [
+      632321,
+      632329
+    ]
+  },
+  "entite_808": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      633273,
+      633279
+    ]
+  },
+  "entite_809": {
+    "label": "MISC",
+    "text": "au souvenir de Celui qui vivait",
+    "jalons": [
+      633368,
+      633399
+    ]
+  },
+  "entite_810": {
+    "label": "LOC",
+    "text": "la plaine de Gennesareth",
+    "jalons": [
+      634306,
+      634330
+    ]
+  },
+  "entite_811": {
+    "label": "LOC",
+    "text": "journée de marche sur la gauche de",
+    "jalons": [
+      635296,
+      635330
+    ]
+  },
+  "entite_812": {
+    "label": "LOC",
+    "text": "Syrie",
+    "jalons": [
+      636178,
+      636183
+    ]
+  },
+  "entite_813": {
+    "label": "LOC",
+    "text": "Khân",
+    "jalons": [
+      636187,
+      636191
+    ]
+  },
+  "entite_814": {
+    "label": "MISC",
+    "text": "C’est de là que nous jetons notre regard d'adieu sur la mer de Tibériade",
+    "jalons": [
+      636609,
+      636681
+    ]
+  },
+  "entite_815": {
+    "label": "MISC",
+    "text": "colie grandissante du soir qui tombe",
+    "jalons": [
+      637952,
+      637988
+    ]
+  },
+  "entite_816": {
+    "label": "LOC",
+    "text": "Téglat-Phalazar",
+    "jalons": [
+      639895,
+      639910
+    ]
+  },
+  "entite_817": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      640218,
+      640224
+    ]
+  },
+  "entite_818": {
+    "label": "LOC",
+    "text": "d’une grande ville",
+    "jalons": [
+      643076,
+      643094
+    ]
+  },
+  "entite_819": {
+    "label": "LOC",
+    "text": "de la plaine",
+    "jalons": [
+      646367,
+      646379
+    ]
+  },
+  "entite_820": {
+    "label": "LOC",
+    "text": "Aïn-Mellaha",
+    "jalons": [
+      646693,
+      646704
+    ]
+  },
+  "entite_821": {
+    "label": "LOC",
+    "text": "Selim",
+    "jalons": [
+      646967,
+      646972
+    ]
+  },
+  "entite_822": {
+    "label": "LOC",
+    "text": "Jourdain",
+    "jalons": [
+      648834,
+      648842
+    ]
+  },
+  "entite_823": {
+    "label": "MISC",
+    "text": "Grand Cheikh de Neige",
+    "jalons": [
+      649602,
+      649623
+    ]
+  },
+  "entite_824": {
+    "label": "LOC",
+    "text": "la mer de Mérom",
+    "jalons": [
+      649798,
+      649813
+    ]
+  },
+  "entite_825": {
+    "label": "LOC",
+    "text": "ville de Lesem",
+    "jalons": [
+      650911,
+      650925
+    ]
+  },
+  "entite_826": {
+    "label": "LOC",
+    "text": "colonie de Sidon",
+    "jalons": [
+      650927,
+      650943
+    ]
+  },
+  "entite_827": {
+    "label": "PER",
+    "text": "Josué",
+    "jalons": [
+      650982,
+      650987
+    ]
+  },
+  "entite_828": {
+    "label": "LOC",
+    "text": "reste de la ville de Lesem-Dan, du témple de l’idole de Michas",
+    "jalons": [
+      651352,
+      651414
+    ]
+  },
+  "entite_829": {
+    "label": "LOC",
+    "text": "Juges",
+    "jalons": [
+      651416,
+      651421
+    ]
+  },
+  "entite_830": {
+    "label": "LOC",
+    "text": "Près de",
+    "jalons": [
+      651497,
+      651504
+    ]
+  },
+  "entite_831": {
+    "label": "LOC",
+    "text": "Cette ville de Lesem-Dan",
+    "jalons": [
+      652115,
+      652139
+    ]
+  },
+  "entite_832": {
+    "label": "PER",
+    "text": "vallée du Haut Jourdain",
+    "jalons": [
+      652814,
+      652837
+    ]
+  },
+  "entite_833": {
+    "label": "MISC",
+    "text": "de la beauté et de l'amour",
+    "jalons": [
+      654908,
+      654934
+    ]
+  },
+  "entite_834": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      656083,
+      656089
+    ]
+  },
+  "entite_835": {
+    "label": "PER",
+    "text": "de laine",
+    "jalons": [
+      656385,
+      656393
+    ]
+  },
+  "entite_836": {
+    "label": "ORG",
+    "text": "Nous sortons de Cés",
+    "jalons": [
+      660973,
+      660992
+    ]
+  },
+  "entite_837": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      662217,
+      662224
+    ]
+  },
+  "entite_838": {
+    "label": "LOC",
+    "text": "Tant de",
+    "jalons": [
+      662638,
+      662645
+    ]
+  },
+  "entite_839": {
+    "label": "MISC",
+    "text": "Croisades par les Francs et les Sarrasins",
+    "jalons": [
+      662681,
+      662722
+    ]
+  },
+  "entite_840": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      662769,
+      662778
+    ]
+  },
+  "entite_841": {
+    "label": "PER",
+    "text": "Haut Jourdain",
+    "jalons": [
+      663128,
+      663141
+    ]
+  },
+  "entite_842": {
+    "label": "PER",
+    "text": "Cheikh de Neige",
+    "jalons": [
+      663555,
+      663570
+    ]
+  },
+  "entite_843": {
+    "label": "LOC",
+    "text": "Hermon",
+    "jalons": [
+      665122,
+      665128
+    ]
+  },
+  "entite_844": {
+    "label": "MISC",
+    "text": "Et enfin les plaines de Damas s'ouvrent",
+    "jalons": [
+      666052,
+      666091
+    ]
+  },
+  "entite_845": {
+    "label": "LOC",
+    "text": "Haouar",
+    "jalons": [
+      666721,
+      666727
+    ]
+  },
+  "entite_846": {
+    "label": "LOC",
+    "text": "Kefr-Haouar",
+    "jalons": [
+      669929,
+      669940
+    ]
+  },
+  "entite_847": {
+    "label": "LOC",
+    "text": "Palestine",
+    "jalons": [
+      670027,
+      670036
+    ]
+  },
+  "entite_848": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      670290,
+      670296
+    ]
+  },
+  "entite_849": {
+    "label": "MISC",
+    "text": "Syriens et Syriennes sur des",
+    "jalons": [
+      671792,
+      671820
+    ]
+  },
+  "entite_850": {
+    "label": "LOC",
+    "text": "Idumée",
+    "jalons": [
+      671944,
+      671950
+    ]
+  },
+  "entite_851": {
+    "label": "MISC",
+    "text": "des Tropiques ou même les oasis du Sud",
+    "jalons": [
+      672257,
+      672295
+    ]
+  },
+  "entite_852": {
+    "label": "MISC",
+    "text": "des gens de Palmyre, de Bagdad ou de l'Orient",
+    "jalons": [
+      675413,
+      675458
+    ]
+  },
+  "entite_853": {
+    "label": "LOC",
+    "text": "d'Abraham",
+    "jalons": [
+      675877,
+      675886
+    ]
+  },
+  "entite_854": {
+    "label": "LOC",
+    "text": "Téglath-Phalasar",
+    "jalons": [
+      676668,
+      676684
+    ]
+  },
+  "entite_855": {
+    "label": "LOC",
+    "text": "Samari",
+    "jalons": [
+      676858,
+      676864
+    ]
+  },
+  "entite_856": {
+    "label": "LOC",
+    "text": "Bagdad",
+    "jalons": [
+      677452,
+      677458
+    ]
+  },
+  "entite_857": {
+    "label": "LOC",
+    "text": "L’ouragan des Croi",
+    "jalons": [
+      677588,
+      677606
+    ]
+  },
+  "entite_858": {
+    "label": "LOC",
+    "text": "Saladin",
+    "jalons": [
+      677731,
+      677738
+    ]
+  },
+  "entite_859": {
+    "label": "LOC",
+    "text": "la Perse",
+    "jalons": [
+      678289,
+      678297
+    ]
+  },
+  "entite_860": {
+    "label": "LOC",
+    "text": "Des",
+    "jalons": [
+      680432,
+      680435
+    ]
+  },
+  "entite_861": {
+    "label": "LOC",
+    "text": "de Fez ou de Méquinez",
+    "jalons": [
+      680815,
+      680836
+    ]
+  },
+  "entite_862": {
+    "label": "LOC",
+    "text": "Moghreb",
+    "jalons": [
+      680859,
+      680866
+    ]
+  },
+  "entite_863": {
+    "label": "LOC",
+    "text": "Stamboul",
+    "jalons": [
+      681104,
+      681112
+    ]
+  },
+  "entite_864": {
+    "label": "ORG",
+    "text": "De l'Orient",
+    "jalons": [
+      681458,
+      681469
+    ]
+  },
+  "entite_865": {
+    "label": "ORG",
+    "text": "LA GALILÉE",
+    "jalons": [
+      681970,
+      681980
+    ]
+  },
+  "entite_866": {
+    "label": "LOC",
+    "text": "Avenues de mille",
+    "jalons": [
+      682477,
+      682493
+    ]
+  },
+  "entite_867": {
+    "label": "MISC",
+    "text": "de Beyrouth pour les travaux du chemin de",
+    "jalons": [
+      686125,
+      686166
+    ]
+  },
+  "entite_868": {
+    "label": "MISC",
+    "text": "Orient des Soliman et des Saladin",
+    "jalons": [
+      686272,
+      686305
+    ]
+  },
+  "entite_869": {
+    "label": "MISC",
+    "text": "la Damas de nos jours",
+    "jalons": [
+      687535,
+      687556
+    ]
+  },
+  "entite_870": {
+    "label": "ORG",
+    "text": "Le soir",
+    "jalons": [
+      688063,
+      688070
+    ]
+  },
+  "entite_871": {
+    "label": "MISC",
+    "text": "Comme d’un rêve des Mille et une Nuits",
+    "jalons": [
+      688536,
+      688574
+    ]
+  },
+  "entite_872": {
+    "label": "PER",
+    "text": "aison du pacha Abdullah",
+    "jalons": [
+      688640,
+      688663
+    ]
+  },
+  "entite_873": {
+    "label": "LOC",
+    "text": "Tamerlan",
+    "jalons": [
+      690149,
+      690157
+    ]
+  },
+  "entite_874": {
+    "label": "MISC",
+    "text": "Les riches d'Israël qui habitent de l’autre côté de la",
+    "jalons": [
+      692248,
+      692302
+    ]
+  },
+  "entite_875": {
+    "label": "LOC",
+    "text": "Louis XV",
+    "jalons": [
+      692930,
+      692938
+    ]
+  },
+  "entite_876": {
+    "label": "LOC",
+    "text": "Pompadour",
+    "jalons": [
+      692940,
+      692949
+    ]
+  },
+  "entite_877": {
+    "label": "LOC",
+    "text": "Chez l’un des princes de",
+    "jalons": [
+      692951,
+      692975
+    ]
+  },
+  "entite_878": {
+    "label": "MISC",
+    "text": "Damas est par excellence la ville de l’eau vive et des fleurs",
+    "jalons": [
+      693444,
+      693505
+    ]
+  },
+  "entite_879": {
+    "label": "LOC",
+    "text": "Damas",
+    "jalons": [
+      694160,
+      694165
+    ]
+  },
+  "entite_880": {
+    "label": "LOC",
+    "text": "Du côté du Levant et du Sud",
+    "jalons": [
+      694322,
+      694349
+    ]
+  },
+  "entite_881": {
+    "label": "MISC",
+    "text": "Damas est bien en effet la ville",
+    "jalons": [
+      695073,
+      695105
+    ]
+  },
+  "entite_882": {
+    "label": "MISC",
+    "text": "Maïs la grande et la célèbre",
+    "jalons": [
+      696031,
+      696059
+    ]
+  },
+  "entite_883": {
+    "label": "MISC",
+    "text": "nus sur les dalles de marbre des tranquilles",
+    "jalons": [
+      696321,
+      696365
+    ]
+  },
+  "entite_884": {
+    "label": "MISC",
+    "text": "Auprès de ces",
+    "jalons": [
+      696814,
+      696827
+    ]
+  },
+  "entite_885": {
+    "label": "MISC",
+    "text": "palais de l’Algérie ou du Maroc et qui sont en général de",
+    "jalons": [
+      696951,
+      697008
+    ]
+  },
+  "entite_886": {
+    "label": "LOC",
+    "text": "Quelq",
+    "jalons": [
+      697851,
+      697856
+    ]
+  },
+  "entite_887": {
+    "label": "LOC",
+    "text": "Au centre de la ville",
+    "jalons": [
+      698178,
+      698199
+    ]
+  },
+  "entite_888": {
+    "label": "LOC",
+    "text": "de Saint-Jean de Damas",
+    "jalons": [
+      698280,
+      698302
+    ]
+  },
+  "entite_889": {
+    "label": "ORG",
+    "text": "LA GALILÉ",
+    "jalons": [
+      698359,
+      698368
+    ]
+  },
+  "entite_890": {
+    "label": "PER",
+    "text": "E  de Constantin",
+    "jalons": [
+      698368,
+      698384
+    ]
+  },
+  "entite_891": {
+    "label": "MISC",
+    "text": "ceux de la Mecque et de Jérusalem",
+    "jalons": [
+      698542,
+      698575
+    ]
+  },
+  "entite_892": {
+    "label": "MISC",
+    "text": "Depuis",
+    "jalons": [
+      699093,
+      699099
+    ]
+  },
+  "entite_893": {
+    "label": "LOC",
+    "text": "La. cour de la",
+    "jalons": [
+      699395,
+      699409
+    ]
+  },
+  "entite_894": {
+    "label": "MISC",
+    "text": "Un point de vue célèbre en Orient est celui qu’on a de la",
+    "jalons": [
+      701802,
+      701859
+    ]
+  },
+  "entite_895": {
+    "label": "ORG",
+    "text": "LA GALILÉE",
+    "jalons": [
+      702927,
+      702937
+    ]
+  },
+  "entite_896": {
+    "label": "ORG",
+    "text": "XIII Damas",
+    "jalons": [
+      702943,
+      702953
+    ]
+  },
+  "entite_897": {
+    "label": "LOC",
+    "text": "Tout le long de la rue",
+    "jalons": [
+      703449,
+      703471
+    ]
+  },
+  "entite_898": {
+    "label": "LOC",
+    "text": "Trois Dames de Bagdad",
+    "jalons": [
+      703781,
+      703802
+    ]
+  },
+  "entite_899": {
+    "label": "MISC",
+    "text": "Elle les serre dans sa",
+    "jalons": [
+      704810,
+      704832
+    ]
+  },
+  "entite_900": {
+    "label": "LOC",
+    "text": "Oriental",
+    "jalons": [
+      706552,
+      706560
+    ]
+  },
+  "entite_901": {
+    "label": "MISC",
+    "text": "Arabe ou Grec",
+    "jalons": [
+      708014,
+      708027
+    ]
+  },
+  "entite_902": {
+    "label": "ORG",
+    "text": "dimanche de Pâques",
+    "jalons": [
+      709098,
+      709116
+    ]
+  },
+  "entite_903": {
+    "label": "MISC",
+    "text": "Damas en fait de",
+    "jalons": [
+      709344,
+      709360
+    ]
+  },
+  "entite_904": {
+    "label": "LOC",
+    "text": "Seule",
+    "jalons": [
+      709579,
+      709584
+    ]
+  },
+  "entite_905": {
+    "label": "LOC",
+    "text": "Des",
+    "jalons": [
+      710136,
+      710139
+    ]
+  },
+  "entite_906": {
+    "label": "LOC",
+    "text": "eilles de l’art arabe",
+    "jalons": [
+      710144,
+      710165
+    ]
+  },
+  "entite_907": {
+    "label": "LOC",
+    "text": "Bazar des",
+    "jalons": [
+      710975,
+      710984
+    ]
+  },
+  "entite_908": {
+    "label": "LOC",
+    "text": "Bazar",
+    "jalons": [
+      711120,
+      711125
+    ]
+  },
+  "entite_909": {
+    "label": "LOC",
+    "text": "Occident",
+    "jalons": [
+      712342,
+      712350
+    ]
+  },
+  "entite_910": {
+    "label": "LOC",
+    "text": "la grande vie de",
+    "jalons": [
+      712352,
+      712368
+    ]
+  },
+  "entite_911": {
+    "label": "LOC",
+    "text": "Sud",
+    "jalons": [
+      712622,
+      712625
+    ]
+  },
+  "entite_912": {
+    "label": "PER",
+    "text": "des Bédouives",
+    "jalons": [
+      712688,
+      712701
+    ]
+  },
+  "entite_913": {
+    "label": "LOC",
+    "text": "faubourg de Meïdan",
+    "jalons": [
+      712777,
+      712795
+    ]
+  },
+  "entite_914": {
+    "label": "LOC",
+    "text": "Porte de Dieu",
+    "jalons": [
+      712812,
+      712825
+    ]
+  },
+  "entite_915": {
+    "label": "MISC",
+    "text": "èlerins à Djeddah; les Algériens",
+    "jalons": [
+      713216,
+      713248
+    ]
+  },
+  "entite_916": {
+    "label": "MISC",
+    "text": "Tures de la Turquie d'Europe ont cessé de venir prendre ici la",
+    "jalons": [
+      713321,
+      713383
+    ]
+  },
+  "entite_917": {
+    "label": "LOC",
+    "text": "Ka’aba",
+    "jalons": [
+      713983,
+      713989
+    ]
+  },
+  "entite_918": {
+    "label": "LOC",
+    "text": "Idumée",
+    "jalons": [
+      714040,
+      714046
+    ]
+  },
+  "entite_919": {
+    "label": "LOC",
+    "text": "Elle sera de retour à Damas vers la fin de",
+    "jalons": [
+      714068,
+      714110
+    ]
+  },
+  "entite_920": {
+    "label": "LOC",
+    "text": "le pacha de la ville",
+    "jalons": [
+      714121,
+      714141
+    ]
+  },
+  "entite_921": {
+    "label": "LOC",
+    "text": "Aujourd'hui",
+    "jalons": [
+      714434,
+      714445
+    ]
+  },
+  "entite_922": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      714803,
+      714809
+    ]
+  },
+  "entite_923": {
+    "label": "LOC",
+    "text": "Damas de",
+    "jalons": [
+      715534,
+      715542
+    ]
+  },
+  "entite_924": {
+    "label": "MISC",
+    "text": "Dans un quartier de",
+    "jalons": [
+      715560,
+      715579
+    ]
+  },
+  "entite_925": {
+    "label": "LOC",
+    "text": "Salah-ed-Din",
+    "jalons": [
+      715627,
+      715639
+    ]
+  },
+  "entite_926": {
+    "label": "LOC",
+    "text": "Arabi",
+    "jalons": [
+      716693,
+      716698
+    ]
+  },
+  "entite_927": {
+    "label": "PER",
+    "text": "Bafoué",
+    "jalons": [
+      716773,
+      716779
+    ]
+  },
+  "entite_928": {
+    "label": "PER",
+    "text": "L'émir Abd-el-Kader",
+    "jalons": [
+      718720,
+      718739
+    ]
+  },
+  "entite_929": {
+    "label": "PER",
+    "text": "L'émir Abd-el-Kader",
+    "jalons": [
+      718742,
+      718761
+    ]
+  },
+  "entite_930": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      719255,
+      719257
+    ]
+  },
+  "entite_931": {
+    "label": "MISC",
+    "text": "c'est la vallée du Barada et Ia grande voie qui",
+    "jalons": [
+      719874,
+      719921
+    ]
+  },
+  "entite_932": {
+    "label": "LOC",
+    "text": "Beyrouth",
+    "jalons": [
+      719929,
+      719937
+    ]
+  },
+  "entite_933": {
+    "label": "LOC",
+    "text": "Vers",
+    "jalons": [
+      719939,
+      719943
+    ]
+  },
+  "entite_934": {
+    "label": "LOC",
+    "text": "Sud",
+    "jalons": [
+      719947,
+      719950
+    ]
+  },
+  "entite_935": {
+    "label": "LOC",
+    "text": "de la Mecque et de Médine",
+    "jalons": [
+      720082,
+      720107
+    ]
+  },
+  "entite_936": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      720203,
+      720209
+    ]
+  },
+  "entite_937": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      721186,
+      721192
+    ]
+  },
+  "entite_938": {
+    "label": "MISC",
+    "text": "XIV Lundi",
+    "jalons": [
+      721796,
+      721805
+    ]
+  },
+  "entite_939": {
+    "label": "PER",
+    "text": "Allah Akbar",
+    "jalons": [
+      721831,
+      721842
+    ]
+  },
+  "entite_940": {
+    "label": "PER",
+    "text": "Allah",
+    "jalons": [
+      721848,
+      721853
+    ]
+  },
+  "entite_941": {
+    "label": "MISC",
+    "text": "C’est le muézin de la",
+    "jalons": [
+      722226,
+      722247
+    ]
+  },
+  "entite_942": {
+    "label": "MISC",
+    "text": "l'Occident et vers le Nord",
+    "jalons": [
+      722439,
+      722465
+    ]
+  },
+  "entite_943": {
+    "label": "LOC",
+    "text": "Chaque",
+    "jalons": [
+      722935,
+      722941
+    ]
+  },
+  "entite_944": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      723255,
+      723262
+    ]
+  },
+  "entite_945": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      723871,
+      723875
+    ]
+  },
+  "entite_946": {
+    "label": "ORG",
+    "text": "LA GAL",
+    "jalons": [
+      723962,
+      723968
+    ]
+  },
+  "entite_947": {
+    "label": "LOC",
+    "text": "Lacs des Prairies",
+    "jalons": [
+      724168,
+      724185
+    ]
+  },
+  "entite_948": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      727832,
+      727838
+    ]
+  },
+  "entite_949": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      727893,
+      727897
+    ]
+  },
+  "entite_950": {
+    "label": "LOC",
+    "text": "Baalbek",
+    "jalons": [
+      728020,
+      728027
+    ]
+  },
+  "entite_951": {
+    "label": "PER",
+    "text": "de la Syrie",
+    "jalons": [
+      728048,
+      728059
+    ]
+  },
+  "entite_952": {
+    "label": "LOC",
+    "text": "Baalbek",
+    "jalons": [
+      728203,
+      728210
+    ]
+  },
+  "entite_953": {
+    "label": "LOC",
+    "text": "Baalbek",
+    "jalons": [
+      728886,
+      728893
+    ]
+  },
+  "entite_954": {
+    "label": "LOC",
+    "text": "Baalbek",
+    "jalons": [
+      729856,
+      729863
+    ]
+  },
+  "entite_955": {
+    "label": "LOC",
+    "text": "Baalbek",
+    "jalons": [
+      731229,
+      731236
+    ]
+  },
+  "entite_956": {
+    "label": "LOC",
+    "text": "Soleil",
+    "jalons": [
+      731775,
+      731781
+    ]
+  },
+  "entite_957": {
+    "label": "LOC",
+    "text": "de la « ville de Baal",
+    "jalons": [
+      732248,
+      732269
+    ]
+  },
+  "entite_958": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      732399,
+      732403
+    ]
+  },
+  "entite_959": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      732479,
+      732485
+    ]
+  },
+  "entite_960": {
+    "label": "LOC",
+    "text": "Soleil",
+    "jalons": [
+      733570,
+      733576
+    ]
+  },
+  "entite_961": {
+    "label": "LOC",
+    "text": "Baalhek",
+    "jalons": [
+      733744,
+      733751
+    ]
+  },
+  "entite_962": {
+    "label": "LOC",
+    "text": "ville de Baal",
+    "jalons": [
+      733766,
+      733779
+    ]
+  },
+  "entite_963": {
+    "label": "MISC",
+    "text": "Antonin le Pieux et",
+    "jalons": [
+      734105,
+      734124
+    ]
+  },
+  "entite_964": {
+    "label": "LOC",
+    "text": "Caracala",
+    "jalons": [
+      734125,
+      734133
+    ]
+  },
+  "entite_965": {
+    "label": "MISC",
+    "text": "Comme Damas",
+    "jalons": [
+      734136,
+      734147
+    ]
+  },
+  "entite_966": {
+    "label": "LOC",
+    "text": "Palmyre",
+    "jalons": [
+      734306,
+      734313
+    ]
+  },
+  "entite_967": {
+    "label": "MISC",
+    "text": "Maronites de la plaine et les Druzes de la montagne achèvent de la",
+    "jalons": [
+      734898,
+      734964
+    ]
+  },
+  "entite_968": {
+    "label": "MISC",
+    "text": "Baalbek de nos jours",
+    "jalons": [
+      735019,
+      735039
+    ]
+  },
+  "entite_969": {
+    "label": "LOC",
+    "text": "Beyrouth",
+    "jalons": [
+      735332,
+      735340
+    ]
+  },
+  "entite_970": {
+    "label": "LOC",
+    "text": "Palestine et de Syrie",
+    "jalons": [
+      735534,
+      735555
+    ]
+  },
+  "entite_971": {
+    "label": "LOC",
+    "text": "Baalbek",
+    "jalons": [
+      735676,
+      735683
+    ]
+  },
+  "entite_972": {
+    "label": "LOC",
+    "text": "Baalbek",
+    "jalons": [
+      736014,
+      736021
+    ]
+  },
+  "entite_973": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      738690,
+      738696
+    ]
+  },
+  "entite_974": {
+    "label": "ORG",
+    "text": "Au sortir de ces",
+    "jalons": [
+      738841,
+      738857
+    ]
+  },
+  "entite_975": {
+    "label": "MISC",
+    "text": "Auprès de telles",
+    "jalons": [
+      739919,
+      739935
+    ]
+  },
+  "entite_976": {
+    "label": "MISC",
+    "text": "Devant ces travaux de Titans",
+    "jalons": [
+      740135,
+      740163
+    ]
+  },
+  "entite_977": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      740502,
+      740508
+    ]
+  },
+  "entite_978": {
+    "label": "MISC",
+    "text": "Les Sarrasins",
+    "jalons": [
+      741745,
+      741758
+    ]
+  },
+  "entite_979": {
+    "label": "MISC",
+    "text": "Ces deux",
+    "jalons": [
+      744433,
+      744441
+    ]
+  },
+  "entite_980": {
+    "label": "PER",
+    "text": "Don Pedro d’Alcantara",
+    "jalons": [
+      749525,
+      749546
+    ]
+  },
+  "entite_981": {
+    "label": "PER",
+    "text": "Nicolas de  Russie",
+    "jalons": [
+      749598,
+      749616
+    ]
+  },
+  "entite_982": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      751033,
+      751042
+    ]
+  },
+  "entite_983": {
+    "label": "LOC",
+    "text": "de cette ville de Baal",
+    "jalons": [
+      751935,
+      751957
+    ]
+  },
+  "entite_984": {
+    "label": "ORG",
+    "text": "la Baalbe",
+    "jalons": [
+      752631,
+      752640
+    ]
+  },
+  "entite_985": {
+    "label": "LOC",
+    "text": "reste de la grande, de la Baalbek de Baal.",
+    "jalons": [
+      752700,
+      752742
+    ]
+  },
+  "entite_986": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      752744,
+      752748
+    ]
+  },
+  "entite_987": {
+    "label": "LOC",
+    "text": "là-bas",
+    "jalons": [
+      753178,
+      753184
+    ]
+  },
+  "entite_988": {
+    "label": "MISC",
+    "text": "que les grands rêves",
+    "jalons": [
+      757248,
+      757268
+    ]
+  },
+  "entite_989": {
+    "label": "LOC",
+    "text": "Liban",
+    "jalons": [
+      757665,
+      757670
+    ]
+  },
+  "entite_990": {
+    "label": "LOC",
+    "text": "les travaux du chemin de fer de Damas",
+    "jalons": [
+      758804,
+      758841
+    ]
+  },
+  "entite_991": {
+    "label": "LOC",
+    "text": "L'air",
+    "jalons": [
+      759802,
+      759807
+    ]
+  },
+  "entite_992": {
+    "label": "LOC",
+    "text": "la caravane des gens de Bagdad",
+    "jalons": [
+      760840,
+      760870
+    ]
+  },
+  "entite_993": {
+    "label": "LOC",
+    "text": "L’un des",
+    "jalons": [
+      760905,
+      760913
+    ]
+  },
+  "entite_994": {
+    "label": "LOC",
+    "text": "Sur la Méditerranée",
+    "jalons": [
+      762052,
+      762071
+    ]
+  },
+  "entite_995": {
+    "label": "LOC",
+    "text": "Fin de la vaine",
+    "jalons": [
+      762855,
+      762870
+    ]
+  },
+  "entite_996": {
+    "label": "LOC",
+    "text": "Jérusalem",
+    "jalons": [
+      763100,
+      763109
+    ]
+  },
+  "entite_997": {
+    "label": "MISC",
+    "text": "Terre Sainte",
+    "jalons": [
+      763181,
+      763193
+    ]
+  },
+  "entite_998": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      763269,
+      763276
+    ]
+  },
+  "entite_999": {
+    "label": "LOC",
+    "text": "Liban",
+    "jalons": [
+      764102,
+      764107
+    ]
+  },
+  "entite_1000": {
+    "label": "MISC",
+    "text": "MONSIEUR PAUL CAMBON  AMBASSADEUR DE FRANCE     Brousse",
+    "jalons": [
+      765277,
+      765332
+    ]
+  },
+  "entite_1001": {
+    "label": "LOC",
+    "text": "Les Imans de la Mosquée Verte",
+    "jalons": [
+      765348,
+      765377
+    ]
+  },
+  "entite_1002": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      765436,
+      765439
+    ]
+  },
+  "entite_1003": {
+    "label": "MISC",
+    "text": "heures du soleil nouveau venaient de les réunir dans leur",
+    "jalons": [
+      765450,
+      765507
+    ]
+  },
+  "entite_1004": {
+    "label": "MISC",
+    "text": "Imans de la Mosquée Verte",
+    "jalons": [
+      765828,
+      765853
+    ]
+  },
+  "entite_1005": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      766917,
+      766923
+    ]
+  },
+  "entite_1006": {
+    "label": "LOC",
+    "text": "dehors de la ville",
+    "jalons": [
+      767045,
+      767063
+    ]
+  },
+  "entite_1007": {
+    "label": "LOC",
+    "text": "Tchékirgué",
+    "jalons": [
+      767121,
+      767131
+    ]
+  },
+  "entite_1008": {
+    "label": "PER",
+    "text": "Orie",
+    "jalons": [
+      768508,
+      768512
+    ]
+  },
+  "entite_1009": {
+    "label": "MISC",
+    "text": "çà et là les dômes des mos",
+    "jalons": [
+      769537,
+      769563
+    ]
+  },
+  "entite_1010": {
+    "label": "LOC",
+    "text": "Brousse",
+    "jalons": [
+      769980,
+      769987
+    ]
+  },
+  "entite_1011": {
+    "label": "LOC",
+    "text": "Leurs",
+    "jalons": [
+      773619,
+      773624
+    ]
+  },
+  "entite_1012": {
+    "label": "MISC",
+    "text": "tombeau du sultan Mehemed I",
+    "jalons": [
+      777729,
+      777756
+    ]
+  },
+  "entite_1013": {
+    "label": "MISC",
+    "text": "sorte de fleur de lis",
+    "jalons": [
+      778754,
+      778775
+    ]
+  },
+  "entite_1014": {
+    "label": "LOC",
+    "text": "voile de la Mecque",
+    "jalons": [
+      779238,
+      779256
+    ]
+  },
+  "entite_1015": {
+    "label": "MISC",
+    "text": "Les Imans",
+    "jalons": [
+      779666,
+      779675
+    ]
+  },
+  "entite_1016": {
+    "label": "LOC",
+    "text": "Sur la terrasse des Imans",
+    "jalons": [
+      781263,
+      781288
+    ]
+  },
+  "entite_1017": {
+    "label": "LOC",
+    "text": "Olympe",
+    "jalons": [
+      781578,
+      781584
+    ]
+  },
+  "entite_1018": {
+    "label": "LOC",
+    "text": "la ville de Brousse",
+    "jalons": [
+      781595,
+      781614
+    ]
+  },
+  "entite_1019": {
+    "label": "LOC",
+    "text": "berceau des Osmanlis",
+    "jalons": [
+      781616,
+      781636
+    ]
+  },
+  "entite_1020": {
+    "label": "PER",
+    "text": "Les Turcs",
+    "jalons": [
+      781803,
+      781812
+    ]
+  },
+  "entite_1021": {
+    "label": "LOC",
+    "text": "Turqui",
+    "jalons": [
+      783866,
+      783872
+    ]
+  },
+  "entite_1022": {
+    "label": "LOC",
+    "text": "Dieu",
+    "jalons": [
+      784380,
+      784384
+    ]
+  },
+  "entite_1023": {
+    "label": "MISC",
+    "text": "Imans de la Mosquée Verte",
+    "jalons": [
+      784611,
+      784636
+    ]
+  },
+  "entite_1024": {
+    "label": "LOC",
+    "text": "Mouradieh",
+    "jalons": [
+      785290,
+      785299
+    ]
+  },
+  "entite_1025": {
+    "label": "LOC",
+    "text": "LA",
+    "jalons": [
+      785301,
+      785303
+    ]
+  },
+  "entite_1026": {
+    "label": "ORG",
+    "text": "Les Imans alors",
+    "jalons": [
+      787948,
+      787963
+    ]
+  },
+  "entite_1027": {
+    "label": "MISC",
+    "text": "Gardiens de vieux",
+    "jalons": [
+      789519,
+      789536
+    ]
+  },
+  "entite_1028": {
+    "label": "LOC",
+    "text": "Stamboul",
+    "jalons": [
+      789697,
+      789705
+    ]
+  },
+  "entite_1029": {
+    "label": "MISC",
+    "text": "Et les Imans de la Mosquée Verte",
+    "jalons": [
+      791111,
+      791143
+    ]
+  },
+  "entite_1030": {
+    "label": "MISC",
+    "text": "Imans de la Mosquée Verte et du loueur de",
+    "jalons": [
+      791956,
+      791997
+    ]
+  },
+  "entite_1031": {
+    "label": "ORG",
+    "text": "LA MOSQUÉE VERTE",
+    "jalons": [
+      792048,
+      792064
+    ]
+  },
+  "entite_1032": {
+    "label": "LOC",
+    "text": "Bounar-Bachi",
+    "jalons": [
+      792155,
+      792167
+    ]
+  },
+  "entite_1033": {
+    "label": "LOC",
+    "text": "la Tête des Sources",
+    "jalons": [
+      792169,
+      792188
+    ]
+  },
+  "entite_1034": {
+    "label": "LOC",
+    "text": "Olvmpe",
+    "jalons": [
+      792576,
+      792582
+    ]
+  },
+  "entite_1035": {
+    "label": "LOC",
+    "text": "Bounar-Bachi",
+    "jalons": [
+      792675,
+      792687
+    ]
+  },
+  "entite_1036": {
+    "label": "LOC",
+    "text": "Olympe",
+    "jalons": [
+      794607,
+      794613
+    ]
+  },
+  "entite_1037": {
+    "label": "ORG",
+    "text": "III Mercr",
+    "jalons": [
+      795127,
+      795136
+    ]
+  },
+  "entite_1038": {
+    "label": "PER",
+    "text": "Lés Imans de la Mosquée Verte",
+    "jalons": [
+      795151,
+      795180
+    ]
+  },
+  "entite_1039": {
+    "label": "LOC",
+    "text": "Moghrabi",
+    "jalons": [
+      795719,
+      795727
+    ]
+  },
+  "entite_1040": {
+    "label": "LOC",
+    "text": "Maroc",
+    "jalons": [
+      796950,
+      796955
+    ]
+  },
+  "entite_1041": {
+    "label": "MISC",
+    "text": "Très peu de viandes",
+    "jalons": [
+      798776,
+      798795
+    ]
+  },
+  "entite_1042": {
+    "label": "LOC",
+    "text": "Osman",
+    "jalons": [
+      800451,
+      800456
+    ]
+  },
+  "entite_1043": {
+    "label": "ORG",
+    "text": "LA MOSQUÉE",
+    "jalons": [
+      800758,
+      800768
+    ]
+  },
+  "entite_1044": {
+    "label": "LOC",
+    "text": "Hélas",
+    "jalons": [
+      801254,
+      801259
+    ]
+  },
+  "entite_1045": {
+    "label": "LOC",
+    "text": "de la mer de Marmara",
+    "jalons": [
+      801450,
+      801470
+    ]
+  },
+  "entite_1046": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      801939,
+      801945
+    ]
+  },
+  "entite_1047": {
+    "label": "MISC",
+    "text": "les Imans de la Mosquée Verte",
+    "jalons": [
+      802357,
+      802386
+    ]
+  },
+  "entite_1048": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      803217,
+      803223
+    ]
+  },
+  "entite_1049": {
+    "label": "PER",
+    "text": "ral du sultan Mehmed I",
+    "jalons": [
+      803328,
+      803350
+    ]
+  },
+  "entite_1050": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      804348,
+      804350
+    ]
+  },
+  "entite_1051": {
+    "label": "LOC",
+    "text": "LA",
+    "jalons": [
+      806396,
+      806398
+    ]
+  },
+  "entite_1052": {
+    "label": "MISC",
+    "text": "OSQUÉE VERTE",
+    "jalons": [
+      806400,
+      806412
+    ]
+  },
+  "entite_1053": {
+    "label": "LOC",
+    "text": "Osmanlis",
+    "jalons": [
+      807400,
+      807408
+    ]
+  },
+  "entite_1054": {
+    "label": "PER",
+    "text": "IMPRIMERIE DE CHARLES HÉRISSEY",
+    "jalons": [
+      807789,
+      807819
+    ]
+  },
+  "entite_1055": {
+    "label": "PER",
+    "text": "QU Le Lo",
+    "jalons": [
+      807835,
+      807843
+    ]
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Gallica  Les fourmis du parc de Versailles",
+    "jalons": [
+      6,
+      48
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      163,
+      195
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Gallica     Lambert",
+    "jalons": [
+      201,
+      220
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Charles",
+    "jalons": [
+      222,
+      229
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      243,
+      258
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Les fourmis du parc de Versailles",
+    "jalons": [
+      260,
+      293
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Bibliothèque",
+    "jalons": [
+      991,
+      1003
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      1017,
+      1023
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "la revente de contenus sous forme de produits élaborés ou de fourniture de",
+    "jalons": [
+      1196,
+      1270
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      1612,
+      1674
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Te de Bel",
+    "jalons": [
+      3832,
+      3841
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Golden-Square",
+    "jalons": [
+      3909,
+      3922
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3942,
+      3947
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "chez les Marchands de",
+    "jalons": [
+      3949,
+      3970
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Nouveautés",
+    "jalons": [
+      3975,
+      3985
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Royal",
+    "jalons": [
+      4007,
+      4012
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Les     Le",
+    "jalons": [
+      5405,
+      5415
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "château et du parc de Ve",
+    "jalons": [
+      8168,
+      8192
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Elles",
+    "jalons": [
+      9708,
+      9713
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "vez droit de vie et de mort sur",
+    "jalons": [
+      13824,
+      13855
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Fourmi",
+    "jalons": [
+      16046,
+      16052
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "descendre de son palais dans de",
+    "jalons": [
+      16387,
+      16418
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Marly",
+    "jalons": [
+      19422,
+      19427
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Meudon",
+    "jalons": [
+      19440,
+      19446
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Bellevue",
+    "jalons": [
+      19448,
+      19456
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      19458,
+      19466
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Germain",
+    "jalons": [
+      19474,
+      19481
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Fourmi",
+    "jalons": [
+      26419,
+      26425
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Matière",
+    "jalons": [
+      32504,
+      32511
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Tout le monde sait ou doit savoir",
+    "jalons": [
+      35681,
+      35714
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      37973,
+      37979
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "même parmi les gens de lettres",
+    "jalons": [
+      37982,
+      38012
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "la classe des Mille et Une Nuits",
+    "jalons": [
+      40193,
+      40225
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Les Philosophes de tous les pays et de",
+    "jalons": [
+      40232,
+      40270
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Montesquieu",
+    "jalons": [
+      41114,
+      41125
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      41402,
+      41407
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "dans les Essais de Montagne",
+    "jalons": [
+      41495,
+      41522
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Lois",
+    "jalons": [
+      41639,
+      41643
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Antonin",
+    "jalons": [
+      42905,
+      42912
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Aurèle",
+    "jalons": [
+      42924,
+      42930
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "vu des Charl",
+    "jalons": [
+      42996,
+      43008
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Zsaac Newton",
+    "jalons": [
+      43285,
+      43297
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "en se succédant de siècle en siècle",
+    "jalons": [
+      43520,
+      43555
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Montagne",
+    "jalons": [
+      43767,
+      43775
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Fourmis du parc de Versailles",
+    "jalons": [
+      44510,
+      44539
+    ]
+  },
+  "entite_45": {
+    "label": "ORG",
+    "text": "CNE",
+    "jalons": [
+      47105,
+      47108
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "d’ Aristote",
+    "jalons": [
+      47240,
+      47251
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "de Newton et de Léïbnitz",
+    "jalons": [
+      47253,
+      47277
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "Socimiens",
+    "jalons": [
+      48288,
+      48297
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Pyrrhonniens",
+    "jalons": [
+      49139,
+      49151
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Eclic",
+    "jalons": [
+      49154,
+      49159
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Athées",
+    "jalons": [
+      49318,
+      49324
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "Fatalistes",
+    "jalons": [
+      49326,
+      49336
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Démocrite",
+    "jalons": [
+      50521,
+      50530
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "Lucrèce",
+    "jalons": [
+      50621,
+      50628
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "s de la poësie et de l’éloquence",
+    "jalons": [
+      50688,
+      50720
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      50754,
+      50758
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Shafiesbury",
+    "jalons": [
+      51223,
+      51234
+    ]
+  },
+  "entite_58": {
+    "label": "MISC",
+    "text": "Bolimgbrock",
+    "jalons": [
+      51237,
+      51248
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Voltaire",
+    "jalons": [
+      51250,
+      51258
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Montesquieu",
+    "jalons": [
+      51264,
+      51275
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "Un capitaine Suisse",
+    "jalons": [
+      54032,
+      54051
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "Zoroastre et Manès à qui",
+    "jalons": [
+      54247,
+      54271
+    ]
+  },
+  "entite_63": {
+    "label": "MISC",
+    "text": "sciences et les lettres dans le si",
+    "jalons": [
+      55897,
+      55931
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Diderot",
+    "jalons": [
+      57297,
+      57304
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Alembert",
+    "jalons": [
+      57311,
+      57319
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Dargental",
+    "jalons": [
+      57323,
+      57332
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      58032,
+      58038
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "Babylone et à la Chine",
+    "jalons": [
+      58434,
+      58456
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Newton qui",
+    "jalons": [
+      60398,
+      60408
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      60928,
+      60934
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Duc de Virtemberg",
+    "jalons": [
+      60965,
+      60982
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "de Gassendi",
+    "jalons": [
+      63952,
+      63963
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "de Tyndal",
+    "jalons": [
+      63965,
+      63974
+    ]
+  }
+}

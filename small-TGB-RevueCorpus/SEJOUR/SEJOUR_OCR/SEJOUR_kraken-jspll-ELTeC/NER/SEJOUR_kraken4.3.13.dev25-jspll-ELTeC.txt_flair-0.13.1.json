@@ -1,0 +1,602 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Caltica Diegarias",
+    "jalons": [
+      4,
+      21
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Victor Ce jour",
+    "jalons": [
+      54,
+      68
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "PAris",
+    "jalons": [
+      72,
+      77
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Victor",
+    "jalons": [
+      157,
+      163
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Victor Sejour",
+    "jalons": [
+      242,
+      255
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      259,
+      264
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "dans le cadre de la",
+    "jalons": [
+      512,
+      531
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Comercidle de ces Contenus ou dans le Cadre",
+    "jalons": [
+      585,
+      628
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la legislation en viqueur et notamment du maintien de la mention de",
+    "jalons": [
+      679,
+      783
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      882,
+      888
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "lescontenus de Callica sont la propricté de la Bnf au sens de l'article",
+    "jalons": [
+      1461,
+      1533
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Pourobtenir un document de Callica en haute de",
+    "jalons": [
+      2920,
+      2966
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "EAU",
+    "jalons": [
+      3087,
+      3090
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Il    A  V. AvAit1",
+    "jalons": [
+      3623,
+      3641
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "MADAME",
+    "jalons": [
+      4202,
+      4208
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "IRAI",
+    "jalons": [
+      4210,
+      4214
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "ITALIE",
+    "jalons": [
+      4242,
+      4248
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "AEAHA  Ah  Du Au",
+    "jalons": [
+      4589,
+      4605
+    ]
+  },
+  "entite_18": {
+    "label": "ORG",
+    "text": "BA ATl ME",
+    "jalons": [
+      5110,
+      5119
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "A. MamaN",
+    "jalons": [
+      6544,
+      6552
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "M. P. Ah Da P GAE",
+    "jalons": [
+      6842,
+      6859
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "R. JEEERAE  JE",
+    "jalons": [
+      7260,
+      7274
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "ACTE DE LINRRREE",
+    "jalons": [
+      8232,
+      8248
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Teelawr le Ails",
+    "jalons": [
+      8620,
+      8635
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "en Khal",
+    "jalons": [
+      8765,
+      8772
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "MS Luya",
+    "jalons": [
+      8777,
+      8784
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "AI RIEN",
+    "jalons": [
+      8811,
+      8818
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "AI JEIEEI DEANYAE",
+    "jalons": [
+      8820,
+      8837
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "aletir de lieis Srew",
+    "jalons": [
+      9246,
+      9266
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "dIT Eullllo",
+    "jalons": [
+      10718,
+      10729
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Satrenhr",
+    "jalons": [
+      10731,
+      10739
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "aEilalis",
+    "jalons": [
+      14325,
+      14333
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Nur Lwsi",
+    "jalons": [
+      15121,
+      15129
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Gimaley",
+    "jalons": [
+      15132,
+      15139
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Bob REGIYCIAILRIT",
+    "jalons": [
+      15196,
+      15213
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      15215,
+      15218
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "AMitié DuRoY",
+    "jalons": [
+      15949,
+      15961
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "atakadi Ami",
+    "jalons": [
+      15973,
+      15984
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "len Beryfo",
+    "jalons": [
+      18484,
+      18494
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Sawt Balles De Cik an le DRAS",
+    "jalons": [
+      19354,
+      19383
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      19672,
+      19675
+    ]
+  },
+  "entite_41": {
+    "label": "ORG",
+    "text": "EEEAR Bas",
+    "jalons": [
+      19692,
+      19701
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Jen Ba",
+    "jalons": [
+      20425,
+      20431
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "ES  PAr L Grebko.",
+    "jalons": [
+      20439,
+      20456
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "ET     Mucles",
+    "jalons": [
+      23026,
+      23039
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "A Des",
+    "jalons": [
+      23233,
+      23238
+    ]
+  },
+  "entite_46": {
+    "label": "ORG",
+    "text": "ELLE DE N ES  D DA   MAA",
+    "jalons": [
+      23284,
+      23308
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "A MiB",
+    "jalons": [
+      23327,
+      23332
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "EaU   la   I  RosE  I A  De I",
+    "jalons": [
+      23863,
+      23892
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "CEMA De  D",
+    "jalons": [
+      24387,
+      24397
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "AI  M DEEI",
+    "jalons": [
+      24445,
+      24455
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "DE Na A",
+    "jalons": [
+      24910,
+      24917
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "SIRe   LE MOI Midi   MARIE",
+    "jalons": [
+      24986,
+      25012
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "MMe  AH",
+    "jalons": [
+      25257,
+      25264
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "MARTIN DE PRIE AI",
+    "jalons": [
+      25583,
+      25600
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "AH     Ah  N AIMER",
+    "jalons": [
+      25612,
+      25630
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "DE  Je I  E.",
+    "jalons": [
+      25662,
+      25674
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "MADAME",
+    "jalons": [
+      25679,
+      25685
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Vibi",
+    "jalons": [
+      25848,
+      25852
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "En I  De L  NTER",
+    "jalons": [
+      25920,
+      25936
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "BELLE",
+    "jalons": [
+      25942,
+      25947
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "A  Ai VU",
+    "jalons": [
+      25980,
+      25988
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "ELLE I",
+    "jalons": [
+      26062,
+      26068
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "N. AH ELLE  D Il IL",
+    "jalons": [
+      26265,
+      26284
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "AJA C        D MyA  M DiT",
+    "jalons": [
+      26287,
+      26312
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Y A N D     E N DE i   JE M  Y A   AH    EH     Y A D  N      RA GE",
+    "jalons": [
+      26324,
+      26391
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "D. JE M D.",
+    "jalons": [
+      26464,
+      26474
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "R. MARIE",
+    "jalons": [
+      26801,
+      26809
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "Lu le Binww Sal",
+    "jalons": [
+      26843,
+      26858
+    ]
+  },
+  "entite_69": {
+    "label": "ORG",
+    "text": "ELLE      AH Je",
+    "jalons": [
+      27702,
+      27717
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "ME   BELLE",
+    "jalons": [
+      27791,
+      27801
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "D. D",
+    "jalons": [
+      28023,
+      28027
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Ai",
+    "jalons": [
+      28392,
+      28394
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "I DES",
+    "jalons": [
+      28724,
+      28729
+    ]
+  },
+  "entite_74": {
+    "label": "ORG",
+    "text": "VITE DE VIE",
+    "jalons": [
+      28746,
+      28757
+    ]
+  }
+}
