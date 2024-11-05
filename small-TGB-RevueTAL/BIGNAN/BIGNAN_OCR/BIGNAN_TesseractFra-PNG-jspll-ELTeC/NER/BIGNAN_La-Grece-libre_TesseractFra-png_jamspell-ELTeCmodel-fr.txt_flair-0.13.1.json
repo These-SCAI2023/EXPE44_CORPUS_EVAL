@@ -67,112 +67,112 @@
     "label": "MISC",
     "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de",
     "jalons": [
-      75,
-      179
+      587,
+      691
     ]
   },
   "entite_9": {
     "label": "MISC",
     "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
     "jalons": [
-      368,
-      430
+      1392,
+      1454
     ]
   },
   "entite_10": {
     "label": "LOC",
     "text": "PARIS",
     "jalons": [
-      104,
-      109
+      3176,
+      3181
     ]
   },
   "entite_11": {
     "label": "PER",
     "text": "GALERIE DE BOIS",
     "jalons": [
-      186,
-      201
+      3258,
+      3273
     ]
   },
   "entite_12": {
     "label": "LOC",
     "text": "PARIS",
     "jalons": [
-      236,
-      241
+      3820,
+      3825
     ]
   },
   "entite_13": {
     "label": "ORG",
     "text": "AU PALAIS-ROYAL",
     "jalons": [
-      276,
-      291
+      3860,
+      3875
     ]
   },
   "entite_14": {
     "label": "PER",
     "text": "GALERIE DE BOIS",
     "jalons": [
-      293,
-      308
+      3877,
+      3892
     ]
   },
   "entite_15": {
     "label": "PER",
     "text": "Capti",
     "jalons": [
-      507,
-      512
+      4091,
+      4096
     ]
   },
   "entite_16": {
     "label": "LOC",
     "text": "la valeur de la Grèce",
     "jalons": [
-      172,
-      193
+      5292,
+      5313
     ]
   },
   "entite_17": {
     "label": "LOC",
     "text": "Xercès de Byza",
     "jalons": [
-      498,
-      512
+      7666,
+      7680
     ]
   },
   "entite_18": {
     "label": "LOC",
     "text": "Jurez",
     "jalons": [
-      463,
-      468
+      8655,
+      8660
     ]
   },
   "entite_19": {
     "label": "PER",
     "text": "lA tErre",
     "jalons": [
-      49,
-      57
+      8753,
+      8761
     ]
   },
   "entite_20": {
     "label": "PER",
     "text": "Poëtes",
     "jalons": [
-      497,
-      503
+      9201,
+      9207
     ]
   },
   "entite_21": {
     "label": "MISC",
     "text": "Mais avant que la Croix",
     "jalons": [
-      393,
-      416
+      9609,
+      9632
     ]
   }
 }

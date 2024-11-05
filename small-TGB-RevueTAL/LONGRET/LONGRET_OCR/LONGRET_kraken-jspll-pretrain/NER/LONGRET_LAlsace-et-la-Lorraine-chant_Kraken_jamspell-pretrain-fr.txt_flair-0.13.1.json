@@ -35,104 +35,104 @@
     "label": "MISC",
     "text": "dans le respect de la legislation en vigueur et notamment du maintien de la mention de",
     "jalons": [
-      1,
-      87
+      513,
+      599
     ]
   },
   "entite_5": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      188,
-      194
+      700,
+      706
     ]
   },
   "entite_6": {
     "label": "MISC",
     "text": "la revente de contenus sous forme de produits elabores ou de fourniture de",
     "jalons": [
-      356,
-      430
+      868,
+      942
     ]
   },
   "entite_7": {
     "label": "MISC",
     "text": "Les contenus de Gallica sont la propriete de la BnF au sens de",
     "jalons": [
-      249,
-      311
+      1273,
+      1335
     ]
   },
   "entite_8": {
     "label": "MISC",
     "text": "le Jour de Bonheur",
     "jalons": [
-      230,
-      248
+      3302,
+      3320
     ]
   },
   "entite_9": {
     "label": "LOC",
     "text": "Lorraine",
     "jalons": [
-      198,
-      206
+      3782,
+      3790
     ]
   },
   "entite_10": {
     "label": "LOC",
     "text": "Bonne France",
     "jalons": [
-      391,
-      403
+      3975,
+      3987
     ]
   },
   "entite_11": {
     "label": "LOC",
     "text": "Lorraine",
     "jalons": [
-      204,
-      212
+      4300,
+      4308
     ]
   },
   "entite_12": {
     "label": "LOC",
     "text": "Alsace",
     "jalons": [
-      217,
-      223
+      4313,
+      4319
     ]
   },
   "entite_13": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      427,
-      433
+      4523,
+      4529
     ]
   },
   "entite_14": {
     "label": "LOC",
     "text": "LILle",
     "jalons": [
-      26,
-      31
+      4634,
+      4639
     ]
   },
   "entite_15": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      148,
-      154
+      4756,
+      4762
     ]
   },
   "entite_16": {
     "label": "LOC",
     "text": "Bouira",
     "jalons": [
-      32,
-      38
+      6176,
+      6182
     ]
   }
 }

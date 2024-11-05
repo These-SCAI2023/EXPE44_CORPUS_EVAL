@@ -91,840 +91,840 @@
     "label": "MISC",
     "text": "dans le cadre de la loi",
     "jalons": [
-      16,
-      39
+      528,
+      551
     ]
   },
   "entite_12": {
     "label": "MISC",
     "text": "libre et gratuite dans le respect de la legislation en vigueur et notamment du maintien de la mention de",
     "jalons": [
-      183,
-      287
+      695,
+      799
     ]
   },
   "entite_13": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      389,
-      395
+      901,
+      907
     ]
   },
   "entite_14": {
     "label": "MISC",
     "text": "Les contenus de Gallica sont la propriete de la BnF au sens",
     "jalons": [
-      452,
-      511
+      1476,
+      1535
     ]
   },
   "entite_15": {
     "label": "MISC",
     "text": "La famille de M. de 'Espinasse est originaire de la pro",
     "jalons": [
-      213,
-      268
+      3285,
+      3340
     ]
   },
   "entite_16": {
     "label": "PER",
     "text": "vince du Rouergue",
     "jalons": [
-      270,
-      287
+      3342,
+      3359
     ]
   },
   "entite_17": {
     "label": "LOC",
     "text": "chateau de Saint-Paul, dans la valle de Salles-la-Source",
     "jalons": [
-      316,
-      372
+      3388,
+      3444
     ]
   },
   "entite_18": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      99,
-      105
+      3683,
+      3689
     ]
   },
   "entite_19": {
     "label": "LOC",
     "text": "Rouergue",
     "jalons": [
-      210,
-      218
+      3794,
+      3802
     ]
   },
   "entite_20": {
     "label": "LOC",
     "text": "de celle de Jean de 1'Espinasse",
     "jalons": [
-      277,
-      308
+      3861,
+      3892
     ]
   },
   "entite_21": {
     "label": "LOC",
     "text": "chalet de la",
     "jalons": [
-      493,
-      505
+      4077,
+      4089
     ]
   },
   "entite_22": {
     "label": "LOC",
     "text": "Guienne",
     "jalons": [
-      108,
-      115
+      4204,
+      4211
     ]
   },
   "entite_23": {
     "label": "LOC",
     "text": "Foix",
     "jalons": [
-      134,
-      138
+      4230,
+      4234
     ]
   },
   "entite_24": {
     "label": "LOC",
     "text": "Rouergue",
     "jalons": [
-      210,
-      218
+      4306,
+      4314
     ]
   },
   "entite_25": {
     "label": "LOC",
     "text": "Saint-Hilaire",
     "jalons": [
-      288,
-      301
+      4384,
+      4397
     ]
   },
   "entite_26": {
     "label": "LOC",
     "text": "Bourg-Saint-Paul",
     "jalons": [
-      360,
-      376
+      4456,
+      4472
     ]
   },
   "entite_27": {
     "label": "LOC",
     "text": "Rodez",
     "jalons": [
-      391,
-      396
+      4487,
+      4492
     ]
   },
   "entite_28": {
     "label": "ORG",
     "text": "Les l'Espinasse de Combroude",
     "jalons": [
-      398,
-      426
+      4494,
+      4522
     ]
   },
   "entite_29": {
     "label": "LOC",
     "text": "Rouergue",
     "jalons": [
-      461,
-      469
+      4557,
+      4565
     ]
   },
   "entite_30": {
     "label": "PER",
     "text": "de Philibert de lEspinasse",
     "jalons": [
-      484,
-      510
+      4580,
+      4606
     ]
   },
   "entite_31": {
     "label": "MISC",
     "text": "Voir le Dictionnaire Historique, tome VII",
     "jalons": [
-      221,
-      262
+      4829,
+      4870
     ]
   },
   "entite_32": {
     "label": "PER",
     "text": "Dauphin Bernard",
     "jalons": [
-      271,
-      286
+      4879,
+      4894
     ]
   },
   "entite_33": {
     "label": "LOC",
     "text": "Saint-Paul",
     "jalons": [
-      417,
-      427
+      5025,
+      5035
     ]
   },
   "entite_34": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      74,
-      80
+      5194,
+      5200
     ]
   },
   "entite_35": {
     "label": "PER",
     "text": "thee-Louise-Sophie-Josephine de Fraysse",
     "jalons": [
-      140,
-      179
+      5260,
+      5299
     ]
   },
   "entite_36": {
     "label": "PER",
     "text": "marquis de Villalobos",
     "jalons": [
-      217,
-      238
+      5337,
+      5358
     ]
   },
   "entite_37": {
     "label": "PER",
     "text": "Marie-Antoinette-Therese de l'Espinasse",
     "jalons": [
-      388,
-      427
+      5508,
+      5547
     ]
   },
   "entite_38": {
     "label": "PER",
     "text": "M. de l'Es",
     "jalons": [
-      70,
-      80
+      5702,
+      5712
     ]
   },
   "entite_39": {
     "label": "LOC",
     "text": "Boulogne",
     "jalons": [
-      30,
-      38
+      6174,
+      6182
     ]
   },
   "entite_40": {
     "label": "MISC",
     "text": "Selon les projets de lEmpereur",
     "jalons": [
-      151,
-      181
+      6295,
+      6325
     ]
   },
   "entite_41": {
     "label": "LOC",
     "text": "Angleterre",
     "jalons": [
-      218,
-      228
+      6362,
+      6372
     ]
   },
   "entite_42": {
     "label": "PER",
     "text": "M. de l'Espinasse",
     "jalons": [
-      318,
-      335
+      6462,
+      6479
     ]
   },
   "entite_43": {
     "label": "ORG",
     "text": "le baptise du feu  Ulm",
     "jalons": [
-      342,
-      364
+      6486,
+      6508
     ]
   },
   "entite_44": {
     "label": "LOC",
     "text": "Austerlitz",
     "jalons": [
-      44,
-      54
+      6700,
+      6710
     ]
   },
   "entite_45": {
     "label": "PER",
     "text": "M. de lEspinasse",
     "jalons": [
-      113,
-      129
+      6769,
+      6785
     ]
   },
   "entite_46": {
     "label": "LOC",
     "text": "de Prusse et de Pologne",
     "jalons": [
-      148,
-      171
+      6804,
+      6827
     ]
   },
   "entite_47": {
     "label": "LOC",
     "text": "Il",
     "jalons": [
-      173,
-      175
+      6829,
+      6831
     ]
   },
   "entite_48": {
     "label": "LOC",
     "text": "Mena",
     "jalons": [
-      183,
-      187
+      6839,
+      6843
     ]
   },
   "entite_49": {
     "label": "LOC",
     "text": "Eylau",
     "jalons": [
-      274,
-      279
+      6930,
+      6935
     ]
   },
   "entite_50": {
     "label": "LOC",
     "text": "Friedland",
     "jalons": [
-      465,
-      474
+      7121,
+      7130
     ]
   },
   "entite_51": {
     "label": "PER",
     "text": "M. de l'Espinasse",
     "jalons": [
-      476,
-      493
+      8156,
+      8173
     ]
   },
   "entite_52": {
     "label": "PER",
     "text": "M. de l'Espinasse",
     "jalons": [
-      317,
-      334
+      9533,
+      9550
     ]
   },
   "entite_53": {
     "label": "LOC",
     "text": "Espagne",
     "jalons": [
-      344,
-      351
+      9560,
+      9567
     ]
   },
   "entite_54": {
     "label": "LOC",
     "text": "La grande penses de Louis",
     "jalons": [
-      353,
-      378
+      9569,
+      9594
     ]
   },
   "entite_55": {
     "label": "LOC",
     "text": "Mais",
     "jalons": [
-      463,
-      467
+      9679,
+      9683
     ]
   },
   "entite_56": {
     "label": "LOC",
     "text": "Espagne",
     "jalons": [
-      264,
-      271
+      9992,
+      9999
     ]
   },
   "entite_57": {
     "label": "LOC",
     "text": "Portugal",
     "jalons": [
-      362,
-      370
+      10090,
+      10098
     ]
   },
   "entite_58": {
     "label": "LOC",
     "text": "Massena",
     "jalons": [
-      375,
-      382
+      10103,
+      10110
     ]
   },
   "entite_59": {
     "label": "LOC",
     "text": "Anglais",
     "jalons": [
-      415,
-      422
+      10143,
+      10150
     ]
   },
   "entite_60": {
     "label": "LOC",
     "text": "Russie",
     "jalons": [
-      456,
-      462
+      10184,
+      10190
     ]
   },
   "entite_61": {
     "label": "MISC",
     "text": "Pologne et en Prusse",
     "jalons": [
-      467,
-      487
+      10195,
+      10215
     ]
   },
   "entite_62": {
     "label": "LOC",
     "text": "Leipsick",
     "jalons": [
-      491,
-      499
+      10219,
+      10227
     ]
   },
   "entite_63": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      41,
-      47
+      10281,
+      10287
     ]
   },
   "entite_64": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      245,
-      250
+      10485,
+      10490
     ]
   },
   "entite_65": {
     "label": "LOC",
     "text": "L'arme de la Loire",
     "jalons": [
-      294,
-      312
+      10534,
+      10552
     ]
   },
   "entite_66": {
     "label": "PER",
     "text": "M. de 1'Espinasse",
     "jalons": [
-      331,
-      348
+      10571,
+      10588
     ]
   },
   "entite_67": {
     "label": "LOC",
     "text": "Saint-Louis",
     "jalons": [
-      157,
-      168
+      10909,
+      10920
     ]
   },
   "entite_68": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      397,
-      403
+      11149,
+      11155
     ]
   },
   "entite_69": {
     "label": "LOC",
     "text": "Bel",
     "jalons": [
-      352,
-      355
+      11616,
+      11619
     ]
   },
   "entite_70": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      16,
-      21
+      12304,
+      12309
     ]
   },
   "entite_71": {
     "label": "MISC",
     "text": "Depute de la Haute-Garonne, le colonel de lEspinasse debut par un appel  la justice et  la reconnaissance des representants de son pays en faveur de ses",
     "jalons": [
-      48,
-      200
+      12848,
+      13000
     ]
   },
   "entite_72": {
     "label": "MISC",
     "text": "la decoration de la Legion-d'Honneur",
     "jalons": [
-      296,
-      332
+      13096,
+      13132
     ]
   },
   "entite_73": {
     "label": "MISC",
     "text": "Le colonel de l'Espinasse est du nombre de ceux qui en",
     "jalons": [
-      425,
-      479
+      13737,
+      13791
     ]
   },
   "entite_74": {
     "label": "PER",
     "text": "M. Crevel",
     "jalons": [
-      255,
-      264
+      14079,
+      14088
     ]
   },
   "entite_75": {
     "label": "LOC",
     "text": "Port-au-Prince",
     "jalons": [
-      441,
-      455
+      14265,
+      14279
     ]
   },
   "entite_76": {
     "label": "LOC",
     "text": "Les",
     "jalons": [
-      505,
-      508
+      14329,
+      14332
     ]
   },
   "entite_77": {
     "label": "PER",
     "text": "M. Crevel",
     "jalons": [
-      72,
-      81
+      14408,
+      14417
     ]
   },
   "entite_78": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      244,
-      250
+      14580,
+      14586
     ]
   },
   "entite_79": {
     "label": "MISC",
     "text": "que la manie des",
     "jalons": [
-      1,
-      17
+      14849,
+      14865
     ]
   },
   "entite_80": {
     "label": "LOC",
     "text": "Toulouse",
     "jalons": [
-      370,
-      378
+      15730,
+      15738
     ]
   },
   "entite_81": {
     "label": "LOC",
     "text": "Pyrenees",
     "jalons": [
-      112,
-      120
+      15984,
+      15992
     ]
   },
   "entite_82": {
     "label": "LOC",
     "text": "la ville de Toulouse",
     "jalons": [
-      183,
-      203
+      16055,
+      16075
     ]
   },
   "entite_83": {
     "label": "PER",
     "text": "M. de l'Espinasse",
     "jalons": [
-      359,
-      376
+      16743,
+      16760
     ]
   },
   "entite_84": {
     "label": "LOC",
     "text": "La vie",
     "jalons": [
-      437,
-      443
+      17333,
+      17339
     ]
   },
   "entite_85": {
     "label": "MISC",
     "text": "Depuis",
     "jalons": [
-      463,
-      469
+      19407,
+      19413
     ]
   },
   "entite_86": {
     "label": "LOC",
     "text": "Languedoc",
     "jalons": [
-      159,
-      168
+      19615,
+      19624
     ]
   },
   "entite_87": {
     "label": "PER",
     "text": "Dom SAMEDI0",
     "jalons": [
-      51,
-      62
+      20019,
+      20030
     ]
   },
   "entite_88": {
     "label": "PER",
     "text": "du Perdu",
     "jalons": [
-      97,
-      105
+      20065,
+      20073
     ]
   },
   "entite_89": {
     "label": "PER",
     "text": "Dom SAnIEDIo DE VILLA",
     "jalons": [
-      126,
-      147
+      20094,
+      20115
     ]
   },
   "entite_90": {
     "label": "PER",
     "text": "DoNn1 SAMEDI De VILLA",
     "jalons": [
-      151,
-      172
+      20119,
+      20140
     ]
   },
   "entite_91": {
     "label": "LOC",
     "text": "LoBos",
     "jalons": [
-      216,
-      221
+      20184,
+      20189
     ]
   },
   "entite_92": {
     "label": "PER",
     "text": "Jean de Fraysse",
     "jalons": [
-      393,
-      408
+      20361,
+      20376
     ]
   },
   "entite_93": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      457,
-      463
+      20425,
+      20431
     ]
   },
   "entite_94": {
     "label": "MISC",
     "text": "seigneur de Lauzerte-Lios et au",
     "jalons": [
-      466,
-      497
+      20434,
+      20465
     ]
   },
   "entite_95": {
     "label": "PER",
     "text": "Noble Therese",
     "jalons": [
-      47,
-      60
+      20527,
+      20540
     ]
   },
   "entite_96": {
     "label": "PER",
     "text": "Foss",
     "jalons": [
-      64,
-      68
+      20544,
+      20548
     ]
   },
   "entite_97": {
     "label": "PER",
     "text": "Marie de ] rieure du couvent des Benedictines",
     "jalons": [
-      103,
-      148
+      20583,
+      20628
     ]
   },
   "entite_98": {
     "label": "PER",
     "text": "baron de Pressac",
     "jalons": [
-      174,
-      190
+      20654,
+      20670
     ]
   },
   "entite_99": {
     "label": "LOC",
     "text": "Toulouse",
     "jalons": [
-      194,
-      202
+      20674,
+      20682
     ]
   },
   "entite_100": {
     "label": "PER",
     "text": "de Toulouse",
     "jalons": [
-      256,
-      267
+      20736,
+      20747
     ]
   },
   "entite_101": {
     "label": "PER",
     "text": "Dona Maria de Villalobos",
     "jalons": [
-      284,
-      308
+      20764,
+      20788
     ]
   },
   "entite_102": {
     "label": "PER",
     "text": "seigneur de Pressac",
     "jalons": [
-      310,
-      329
+      20790,
+      20809
     ]
   },
   "entite_103": {
     "label": "PER",
     "text": "Aigues-Vives",
     "jalons": [
-      331,
-      343
+      20811,
+      20823
     ]
   },
   "entite_104": {
     "label": "PER",
     "text": "Du mariage de Bernard nE FRAYSsE",
     "jalons": [
-      379,
-      411
+      20859,
+      20891
     ]
   },
   "entite_105": {
     "label": "PER",
     "text": "Louise",
     "jalons": [
-      50,
-      56
+      21042,
+      21048
     ]
   },
   "entite_106": {
     "label": "PER",
     "text": "Sophie",
     "jalons": [
-      59,
-      65
+      21051,
+      21057
     ]
   },
   "entite_107": {
     "label": "PER",
     "text": "Josephine",
     "jalons": [
-      68,
-      77
+      21060,
+      21069
     ]
   },
   "entite_108": {
     "label": "PER",
     "text": "ile Saint-Domingue, en ]Fausses",
     "jalons": [
-      94,
-      125
+      21086,
+      21117
     ]
   },
   "entite_109": {
     "label": "PER",
     "text": "Mathieu janvier",
     "jalons": [
-      142,
-      157
+      21134,
+      21149
     ]
   },
   "entite_110": {
     "label": "PER",
     "text": "de Toulouse",
     "jalons": [
-      266,
-      277
+      21258,
+      21269
     ]
   },
   "entite_111": {
     "label": "PER",
     "text": "actuel de lEspinasse,] Morte",
     "jalons": [
-      295,
-      323
+      21287,
+      21315
     ]
   },
   "entite_112": {
     "label": "PER",
     "text": "Pierre - Marie",
     "jalons": [
-      392,
-      406
+      21384,
+      21398
     ]
   },
   "entite_113": {
     "label": "PER",
     "text": "Antoinette",
     "jalons": [
-      427,
-      437
+      21419,
+      21429
     ]
   },
   "entite_114": {
     "label": "PER",
     "text": "Therese ps 'EmbrAss",
     "jalons": [
-      439,
-      458
+      21431,
+      21450
     ]
   },
   "entite_115": {
     "label": "PER",
     "text": "pute de la Haute-Garonne",
     "jalons": [
-      9,
-      33
+      21513,
+      21537
     ]
   }
 }

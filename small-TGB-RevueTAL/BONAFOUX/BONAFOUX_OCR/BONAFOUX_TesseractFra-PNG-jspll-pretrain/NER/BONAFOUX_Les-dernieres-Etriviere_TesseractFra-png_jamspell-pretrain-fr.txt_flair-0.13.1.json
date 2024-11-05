@@ -59,280 +59,280 @@
     "label": "PER",
     "text": "cadre de la loi",
     "jalons": [
-      1,
-      16
+      513,
+      528
     ]
   },
   "entite_8": {
     "label": "MISC",
     "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la",
     "jalons": [
-      166,
-      259
+      678,
+      771
     ]
   },
   "entite_9": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      373,
-      379
+      885,
+      891
     ]
   },
   "entite_10": {
     "label": "ORG",
     "text": "de Gallica sont la propriété de la BnF",
     "jalons": [
-      472,
-      510
+      1496,
+      1534
     ]
   },
   "entite_11": {
     "label": "LOC",
     "text": "BERNARD",
     "jalons": [
-      505,
-      512
+      3065,
+      3072
     ]
   },
   "entite_12": {
     "label": "PER",
     "text": "De e de Poëles",
     "jalons": [
-      15,
-      29
+      3087,
+      3101
     ]
   },
   "entite_13": {
     "label": "MISC",
     "text": "Les Sonnets de Provence",
     "jalons": [
-      249,
-      272
+      3321,
+      3344
     ]
   },
   "entite_14": {
     "label": "PER",
     "text": "André Expirer",
     "jalons": [
-      290,
-      303
+      3362,
+      3375
     ]
   },
   "entite_15": {
     "label": "PER",
     "text": "rue Vivienne",
     "jalons": [
-      305,
-      317
+      3377,
+      3389
     ]
   },
   "entite_16": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      322,
-      327
+      3394,
+      3399
     ]
   },
   "entite_17": {
     "label": "PER",
     "text": "Marius Einar",
     "jalons": [
-      359,
-      371
+      3431,
+      3443
     ]
   },
   "entite_18": {
     "label": "LOC",
     "text": "Brignoles",
     "jalons": [
-      375,
-      384
+      3447,
+      3456
     ]
   },
   "entite_19": {
     "label": "MISC",
     "text": "Le Retour",
     "jalons": [
-      64,
-      73
+      3648,
+      3657
     ]
   },
   "entite_20": {
     "label": "LOC",
     "text": "Lyre",
     "jalons": [
-      132,
-      136
+      4228,
+      4232
     ]
   },
   "entite_21": {
     "label": "PER",
     "text": "Voltaire",
     "jalons": [
-      214,
-      222
+      6870,
+      6878
     ]
   },
   "entite_22": {
     "label": "MISC",
     "text": "Arouet est mort dans des accès de fureur et de",
     "jalons": [
-      313,
-      359
+      6969,
+      7015
     ]
   },
   "entite_23": {
     "label": "PER",
     "text": "M. Tronchin",
     "jalons": [
-      163,
-      174
+      7331,
+      7342
     ]
   },
   "entite_24": {
     "label": "LOC",
     "text": "Augsbourg",
     "jalons": [
-      310,
-      319
+      7478,
+      7487
     ]
   },
   "entite_25": {
     "label": "LOC",
     "text": "DernIer",
     "jalons": [
-      499,
-      506
+      8179,
+      8186
     ]
   },
   "entite_26": {
     "label": "LOC",
     "text": "Faute de",
     "jalons": [
-      169,
-      177
+      8873,
+      8881
     ]
   },
   "entite_27": {
     "label": "LOC",
     "text": "Des",
     "jalons": [
-      506,
-      509
+      9722,
+      9725
     ]
   },
   "entite_28": {
     "label": "LOC",
     "text": "TITI",
     "jalons": [
-      499,
-      503
+      10227,
+      10231
     ]
   },
   "entite_29": {
     "label": "MISC",
     "text": "qu'au ciel et sur la terre  Le Maître",
     "jalons": [
-      350,
-      387
+      10590,
+      10627
     ]
   },
   "entite_30": {
     "label": "LOC",
     "text": "L'un de",
     "jalons": [
-      425,
-      432
+      11177,
+      11184
     ]
   },
   "entite_31": {
     "label": "LOC",
     "text": "Amis",
     "jalons": [
-      252,
-      256
+      11516,
+      11520
     ]
   },
   "entite_32": {
     "label": "LOC",
     "text": "Par des lettres de",
     "jalons": [
-      37,
-      55
+      12837,
+      12855
     ]
   },
   "entite_33": {
     "label": "MISC",
     "text": "Quelques De Profundis",
     "jalons": [
-      447,
-      468
+      13247,
+      13268
     ]
   },
   "entite_34": {
     "label": "LOC",
     "text": "Écoutez",
     "jalons": [
-      501,
-      508
+      13813,
+      13820
     ]
   },
   "entite_35": {
     "label": "MISC",
     "text": "Les Riches en Esprit et 5 Les Hypocrites de l'Athéisme",
     "jalons": [
-      45,
-      99
+      15917,
+      15971
     ]
   },
   "entite_36": {
     "label": "PER",
     "text": "Le Convoi Funèbre",
     "jalons": [
-      119,
-      136
+      15991,
+      16008
     ]
   },
   "entite_37": {
     "label": "MISC",
     "text": "Une Forte Tête",
     "jalons": [
-      165,
-      179
+      16037,
+      16051
     ]
   },
   "entite_38": {
     "label": "PER",
     "text": "Eos Brignoles",
     "jalons": [
-      212,
-      225
+      16084,
+      16097
     ]
   },
   "entite_39": {
     "label": "PER",
     "text": "Typographie de A",
     "jalons": [
-      229,
-      245
+      16101,
+      16117
     ]
   },
   "entite_40": {
     "label": "LOC",
     "text": "VIAN",
     "jalons": [
-      247,
-      251
+      16119,
+      16123
     ]
   },
   "entite_41": {
     "label": "ORG",
     "text": "Objets de Religio",
     "jalons": [
-      495,
-      512
+      16367,
+      16384
     ]
   }
 }

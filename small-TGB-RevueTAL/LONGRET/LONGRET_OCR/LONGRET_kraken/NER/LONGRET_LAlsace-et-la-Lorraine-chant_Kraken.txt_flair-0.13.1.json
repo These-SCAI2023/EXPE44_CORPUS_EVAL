@@ -27,88 +27,88 @@
     "label": "MISC",
     "text": "uite dans le respect de la legislation en vigueur et notamment du maintien de la mention de",
     "jalons": [
-      0,
-      91
+      512,
+      603
     ]
   },
   "entite_4": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      193,
-      199
+      705,
+      711
     ]
   },
   "entite_5": {
     "label": "MISC",
     "text": "Les contenus de Gallica sont la propriete de la BnF au sens de",
     "jalons": [
-      262,
-      324
+      1286,
+      1348
     ]
   },
   "entite_6": {
     "label": "LOC",
     "text": "Patois de Lille",
     "jalons": [
-      430,
-      445
+      2990,
+      3005
     ]
   },
   "entite_7": {
     "label": "LOC",
     "text": "Lorraine",
     "jalons": [
-      228,
-      236
+      3812,
+      3820
     ]
   },
   "entite_8": {
     "label": "MISC",
     "text": "Bonne Frnce",
     "jalons": [
-      424,
-      435
+      4008,
+      4019
     ]
   },
   "entite_9": {
     "label": "LOC",
     "text": "Lorraine",
     "jalons": [
-      242,
-      250
+      4338,
+      4346
     ]
   },
   "entite_10": {
     "label": "LOC",
     "text": "Alsace",
     "jalons": [
-      255,
-      261
+      4351,
+      4357
     ]
   },
   "entite_11": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      465,
-      471
+      4561,
+      4567
     ]
   },
   "entite_12": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      191,
-      197
+      4799,
+      4805
     ]
   },
   "entite_13": {
     "label": "LOC",
     "text": "aMdo",
     "jalons": [
-      508,
-      512
+      6140,
+      6144
     ]
   }
 }

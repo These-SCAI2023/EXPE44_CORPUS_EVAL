@@ -27,88 +27,88 @@
     "label": "LOC",
     "text": "Marchez",
     "jalons": [
-      31,
-      38
+      543,
+      550
     ]
   },
   "entite_4": {
     "label": "LOC",
     "text": "Lioiydas",
     "jalons": [
-      151,
-      159
+      663,
+      671
     ]
   },
   "entite_5": {
     "label": "PER",
     "text": "Déesse",
     "jalons": [
-      506,
-      512
+      1018,
+      1024
     ]
   },
   "entite_6": {
     "label": "LOC",
     "text": "Lorsque",
     "jalons": [
-      502,
-      509
+      2038,
+      2045
     ]
   },
   "entite_7": {
     "label": "MISC",
     "text": "De Platée et de Marathon",
     "jalons": [
-      349,
-      373
+      3421,
+      3445
     ]
   },
   "entite_8": {
     "label": "LOC",
     "text": "Portez",
     "jalons": [
-      378,
-      384
+      3450,
+      3456
     ]
   },
   "entite_9": {
     "label": "LOC",
     "text": "Xercès de Byzance",
     "jalons": [
-      406,
-      423
+      3478,
+      3495
     ]
   },
   "entite_10": {
     "label": "PER",
     "text": "Honneur au citoyen",
     "jalons": [
-      11,
-      29
+      3595,
+      3613
     ]
   },
   "entite_11": {
     "label": "LOC",
     "text": "Jurez",
     "jalons": [
-      169,
-      174
+      4265,
+      4270
     ]
   },
   "entite_12": {
     "label": "MISC",
     "text": "L’honneur et la vertu contre la tyrannie-j",
     "jalons": [
-      470,
-      512
+      4566,
+      4608
     ]
   },
   "entite_13": {
     "label": "MISC",
     "text": "Mais avant que la Croix",
     "jalons": [
-      39,
-      62
+      5159,
+      5182
     ]
   }
 }

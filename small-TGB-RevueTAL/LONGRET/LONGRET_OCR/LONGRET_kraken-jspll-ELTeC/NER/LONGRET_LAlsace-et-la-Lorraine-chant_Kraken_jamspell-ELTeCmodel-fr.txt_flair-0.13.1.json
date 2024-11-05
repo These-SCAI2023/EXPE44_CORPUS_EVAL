@@ -27,104 +27,104 @@
     "label": "MISC",
     "text": "uite dans le respect de la legislation en vigueur et notamment du maintien de la mention de",
     "jalons": [
-      0,
-      91
+      512,
+      603
     ]
   },
   "entite_4": {
     "label": "LOC",
     "text": "Bibliotheque nationale de France",
     "jalons": [
-      167,
-      199
+      679,
+      711
     ]
   },
   "entite_5": {
     "label": "MISC",
     "text": "la revente de contenus sous forme de produits elabores ou de fourniture de",
     "jalons": [
-      364,
-      438
+      876,
+      950
     ]
   },
   "entite_6": {
     "label": "MISC",
     "text": "Les contenus de Gallica sont la propriete de la BnF au sens de",
     "jalons": [
-      261,
-      323
+      1285,
+      1347
     ]
   },
   "entite_7": {
     "label": "LOC",
     "text": "Patois de Lille",
     "jalons": [
-      425,
-      440
+      2985,
+      3000
     ]
   },
   "entite_8": {
     "label": "LOC",
     "text": "Lorraine",
     "jalons": [
-      220,
-      228
+      3804,
+      3812
     ]
   },
   "entite_9": {
     "label": "MISC",
     "text": "Bonne Frnce",
     "jalons": [
-      416,
-      427
+      4000,
+      4011
     ]
   },
   "entite_10": {
     "label": "LOC",
     "text": "Lorraine",
     "jalons": [
-      233,
-      241
+      4329,
+      4337
     ]
   },
   "entite_11": {
     "label": "LOC",
     "text": "Alsace",
     "jalons": [
-      246,
-      252
+      4342,
+      4348
     ]
   },
   "entite_12": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      455,
-      461
+      4551,
+      4557
     ]
   },
   "entite_13": {
     "label": "LOC",
     "text": "Germain",
     "jalons": [
-      493,
-      500
+      4589,
+      4596
     ]
   },
   "entite_14": {
     "label": "PER",
     "text": "D'dese",
     "jalons": [
-      503,
-      509
+      4599,
+      4605
     ]
   },
   "entite_15": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      178,
-      184
+      4786,
+      4792
     ]
   }
 }

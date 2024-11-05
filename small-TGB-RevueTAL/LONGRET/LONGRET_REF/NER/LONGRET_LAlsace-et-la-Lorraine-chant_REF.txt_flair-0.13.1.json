@@ -19,56 +19,56 @@
     "label": "LOC",
     "text": "France",
     "jalons": [
-      192,
-      198
+      704,
+      710
     ]
   },
   "entite_3": {
     "label": "LOC",
     "text": "Lorraine",
     "jalons": [
-      161,
-      169
+      1185,
+      1193
     ]
   },
   "entite_4": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      212,
-      218
+      1236,
+      1242
     ]
   },
   "entite_5": {
     "label": "LOC",
     "text": "Bonne France",
     "jalons": [
-      397,
-      409
+      1421,
+      1433
     ]
   },
   "entite_6": {
     "label": "LOC",
     "text": "Lorraine",
     "jalons": [
-      234,
-      242
+      1770,
+      1778
     ]
   },
   "entite_7": {
     "label": "LOC",
     "text": "Alsace",
     "jalons": [
-      247,
-      253
+      1783,
+      1789
     ]
   },
   "entite_8": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      464,
-      470
+      2000,
+      2006
     ]
   }
 }

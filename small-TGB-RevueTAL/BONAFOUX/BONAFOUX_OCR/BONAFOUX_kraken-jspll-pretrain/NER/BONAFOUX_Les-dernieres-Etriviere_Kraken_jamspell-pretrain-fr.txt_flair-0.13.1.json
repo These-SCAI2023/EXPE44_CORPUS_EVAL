@@ -27,376 +27,376 @@
     "label": "MISC",
     "text": "de la legislation en vigueur et notamment du maintien de la mention de",
     "jalons": [
-      13,
-      83
+      525,
+      595
     ]
   },
   "entite_4": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      184,
-      190
+      696,
+      702
     ]
   },
   "entite_5": {
     "label": "MISC",
     "text": "la revente de contenus sous forme de produits elabores ou de",
     "jalons": [
-      352,
-      412
+      864,
+      924
     ]
   },
   "entite_6": {
     "label": "MISC",
     "text": "Les contenus de Gallica sont la propriete de la BnF au sens de",
     "jalons": [
-      245,
-      307
+      1269,
+      1331
     ]
   },
   "entite_7": {
     "label": "MISC",
     "text": "Brienoles",
     "jalons": [
-      487,
-      496
+      3047,
+      3056
     ]
   },
   "entite_8": {
     "label": "PER",
     "text": "ILes Sonnets de Provence",
     "jalons": [
-      40,
-      64
+      3112,
+      3136
     ]
   },
   "entite_9": {
     "label": "PER",
     "text": "Andre SAGER",
     "jalons": [
-      81,
-      92
+      3153,
+      3164
     ]
   },
   "entite_10": {
     "label": "PER",
     "text": "rue Vivienne",
     "jalons": [
-      94,
-      106
+      3166,
+      3178
     ]
   },
   "entite_11": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      111,
-      116
+      3183,
+      3188
     ]
   },
   "entite_12": {
     "label": "PER",
     "text": "Les Triumvirs",
     "jalons": [
-      118,
-      131
+      3190,
+      3203
     ]
   },
   "entite_13": {
     "label": "LOC",
     "text": "Brignoles",
     "jalons": [
-      159,
-      168
+      3231,
+      3240
     ]
   },
   "entite_14": {
     "label": "MISC",
     "text": "eu Les Joies et les Larmes",
     "jalons": [
-      184,
-      210
+      3256,
+      3282
     ]
   },
   "entite_15": {
     "label": "MISC",
     "text": "Le Retour",
     "jalons": [
-      345,
-      354
+      3417,
+      3426
     ]
   },
   "entite_16": {
     "label": "ORG",
     "text": "Esprits",
     "jalons": [
-      498,
-      505
+      3570,
+      3577
     ]
   },
   "entite_17": {
     "label": "LOC",
     "text": "Lyre",
     "jalons": [
-      281,
-      285
+      3865,
+      3869
     ]
   },
   "entite_18": {
     "label": "ORG",
     "text": "Je ne crois pas",
     "jalons": [
-      497,
-      512
+      4081,
+      4096
     ]
   },
   "entite_19": {
     "label": "LOC",
     "text": "Tendez",
     "jalons": [
-      497,
-      503
+      5617,
+      5623
     ]
   },
   "entite_20": {
     "label": "MISC",
     "text": "Bacon",
     "jalons": [
-      60,
-      65
+      5692,
+      5697
     ]
   },
   "entite_21": {
     "label": "MISC",
     "text": "Chateaubriand",
     "jalons": [
-      67,
-      80
+      5699,
+      5712
     ]
   },
   "entite_22": {
     "label": "LOC",
     "text": "Serres",
     "jalons": [
-      185,
-      191
+      6329,
+      6335
     ]
   },
   "entite_23": {
     "label": "MISC",
     "text": "Arouet est mort dans des actes de fureur et de",
     "jalons": [
-      342,
-      388
+      6486,
+      6532
     ]
   },
   "entite_24": {
     "label": "LOC",
     "text": "Augsbourg",
     "jalons": [
-      327,
-      336
+      6983,
+      6992
     ]
   },
   "entite_25": {
     "label": "MISC",
     "text": "C'feMelle de lorgueil",
     "jalons": [
-      10,
-      31
+      7178,
+      7199
     ]
   },
   "entite_26": {
     "label": "LOC",
     "text": "Dieu",
     "jalons": [
-      476,
-      480
+      7644,
+      7648
     ]
   },
   "entite_27": {
     "label": "ORG",
     "text": "LES DERNIrE",
     "jalons": [
-      501,
-      512
+      8181,
+      8192
     ]
   },
   "entite_28": {
     "label": "LOC",
     "text": "Faute de mieux",
     "jalons": [
-      63,
-      77
+      8255,
+      8269
     ]
   },
   "entite_29": {
     "label": "LOC",
     "text": "aussi",
     "jalons": [
-      1,
-      6
+      8705,
+      8710
     ]
   },
   "entite_30": {
     "label": "MISC",
     "text": "qu'au ciel et sur la terre Le Mettre",
     "jalons": [
-      135,
-      171
+      9863,
+      9899
     ]
   },
   "entite_31": {
     "label": "LOC",
     "text": "Voil",
     "jalons": [
-      493,
-      497
+      10733,
+      10737
     ]
   },
   "entite_32": {
     "label": "LOC",
     "text": "Amis",
     "jalons": [
-      507,
-      511
+      10747,
+      10751
     ]
   },
   "entite_33": {
     "label": "LOC",
     "text": "veuillez",
     "jalons": [
-      1,
-      9
+      10753,
+      10761
     ]
   },
   "entite_34": {
     "label": "LOC",
     "text": "Vietnam",
     "jalons": [
-      384,
-      391
+      11648,
+      11655
     ]
   },
   "entite_35": {
     "label": "LOC",
     "text": "ILE",
     "jalons": [
-      171,
-      174
+      11947,
+      11950
     ]
   },
   "entite_36": {
     "label": "LOC",
     "text": "Par des lettres de",
     "jalons": [
-      239,
-      257
+      12015,
+      12033
     ]
   },
   "entite_37": {
     "label": "LOC",
     "text": "Au bas de la",
     "jalons": [
-      375,
-      387
+      12151,
+      12163
     ]
   },
   "entite_38": {
     "label": "MISC",
     "text": "Portent sur le vent",
     "jalons": [
-      481,
-      500
+      12769,
+      12788
     ]
   },
   "entite_39": {
     "label": "PER",
     "text": "Moi",
     "jalons": [
-      8,
-      11
+      14856,
+      14859
     ]
   },
   "entite_40": {
     "label": "MISC",
     "text": "Les Riches en Esprit",
     "jalons": [
-      129,
-      149
+      14977,
+      14997
     ]
   },
   "entite_41": {
     "label": "PER",
     "text": "Le Convoi Funeste",
     "jalons": [
-      172,
-      189
+      15020,
+      15037
     ]
   },
   "entite_42": {
     "label": "ORG",
     "text": "Les Hypocrites de l'Atheisme",
     "jalons": [
-      197,
-      225
+      15045,
+      15073
     ]
   },
   "entite_43": {
     "label": "ORG",
     "text": "Une Forte Tete",
     "jalons": [
-      231,
-      245
+      15079,
+      15093
     ]
   },
   "entite_44": {
     "label": "LOC",
     "text": "Brignoles",
     "jalons": [
-      259,
-      268
+      15107,
+      15116
     ]
   },
   "entite_45": {
     "label": "ORG",
     "text": "Typographie de A. VIAN, ruo du Portail-Neuf",
     "jalons": [
-      272,
-      315
+      15120,
+      15163
     ]
   },
   "entite_46": {
     "label": "ORG",
     "text": "Assortiment de Paroisses",
     "jalons": [
-      451,
-      475
+      15299,
+      15323
     ]
   },
   "entite_47": {
     "label": "PER",
     "text": "Lives  de Piet",
     "jalons": [
-      477,
-      491
+      15325,
+      15339
     ]
   },
   "entite_48": {
     "label": "PER",
     "text": "Cartes Ographique",
     "jalons": [
-      495,
-      512
+      15343,
+      15360
     ]
   },
   "entite_49": {
     "label": "ORG",
     "text": "Objets de  Religio.",
     "jalons": [
-      37,
-      56
+      15397,
+      15416
     ]
   }
 }

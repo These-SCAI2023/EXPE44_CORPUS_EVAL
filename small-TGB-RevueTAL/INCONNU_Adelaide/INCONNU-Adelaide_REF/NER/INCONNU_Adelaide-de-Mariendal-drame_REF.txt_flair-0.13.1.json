@@ -51,1984 +51,1984 @@
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      6,
-      14
+      518,
+      526
     ]
   },
   "entite_7": {
     "label": "PER",
     "text": "M. J",
     "jalons": [
-      16,
-      20
+      528,
+      532
     ]
   },
   "entite_8": {
     "label": "PER",
     "text": "Jérôme",
     "jalons": [
-      47,
-      53
+      559,
+      565
     ]
   },
   "entite_9": {
     "label": "LOC",
     "text": "Allez",
     "jalons": [
-      341,
-      346
+      853,
+      858
     ]
   },
   "entite_10": {
     "label": "LOC",
     "text": "ADÉLAÏDE",
     "jalons": [
-      458,
-      466
+      1482,
+      1490
     ]
   },
   "entite_11": {
     "label": "ORG",
     "text": "LE BARON",
     "jalons": [
-      468,
-      476
+      1492,
+      1500
     ]
   },
   "entite_12": {
     "label": "LOC",
     "text": "Us",
     "jalons": [
-      17,
-      19
+      1553,
+      1555
     ]
   },
   "entite_13": {
     "label": "MISC",
     "text": "Jérôme de nous choisir dans le",
     "jalons": [
-      92,
-      122
+      3164,
+      3194
     ]
   },
   "entite_14": {
     "label": "PER",
     "text": "Mais",
     "jalons": [
-      508,
-      512
+      3580,
+      3584
     ]
   },
   "entite_15": {
     "label": "PER",
     "text": "Le Baron",
     "jalons": [
-      502,
-      510
+      4086,
+      4094
     ]
   },
   "entite_16": {
     "label": "LOC",
     "text": "Mademoiselle",
     "jalons": [
-      328,
-      340
+      4424,
+      4436
     ]
   },
   "entite_17": {
     "label": "LOC",
     "text": "Pensez-vous",
     "jalons": [
-      179,
-      190
+      4787,
+      4798
     ]
   },
   "entite_18": {
     "label": "LOC",
     "text": "Monsieur",
     "jalons": [
-      192,
-      200
+      4800,
+      4808
     ]
   },
   "entite_19": {
     "label": "LOC",
     "text": "LE",
     "jalons": [
-      357,
-      359
+      5477,
+      5479
     ]
   },
   "entite_20": {
     "label": "LOC",
     "text": "Aiij",
     "jalons": [
-      7,
-      11
+      5639,
+      5643
     ]
   },
   "entite_21": {
     "label": "MISC",
     "text": "Pendant la. derniere Scène la Baronne",
     "jalons": [
-      57,
-      94
+      5689,
+      5726
     ]
   },
   "entite_22": {
     "label": "PER",
     "text": "Madame",
     "jalons": [
-      486,
-      492
+      6118,
+      6124
     ]
   },
   "entite_23": {
     "label": "LOC",
     "text": "US",
     "jalons": [
-      315,
-      317
+      6459,
+      6461
     ]
   },
   "entite_24": {
     "label": "LOC",
     "text": "Baron",
     "jalons": [
-      439,
-      444
+      6583,
+      6588
     ]
   },
   "entite_25": {
     "label": "PER",
     "text": "Baron",
     "jalons": [
-      399,
-      404
+      7055,
+      7060
     ]
   },
   "entite_26": {
     "label": "ORG",
     "text": "LA BAR",
     "jalons": [
-      506,
-      512
+      7162,
+      7168
     ]
   },
   "entite_27": {
     "label": "LOC",
     "text": "ONNE",
     "jalons": [
-      0,
-      4
+      7168,
+      7172
     ]
   },
   "entite_28": {
     "label": "LOC",
     "text": "Adélaïde",
     "jalons": [
-      15,
-      23
+      7183,
+      7191
     ]
   },
   "entite_29": {
     "label": "PER",
     "text": "Monsieur le Baron",
     "jalons": [
-      469,
-      486
+      7637,
+      7654
     ]
   },
   "entite_30": {
     "label": "LOC",
     "text": "Adélaïde",
     "jalons": [
-      195,
-      203
+      8387,
+      8395
     ]
   },
   "entite_31": {
     "label": "LOC",
     "text": "LABARONNE",
     "jalons": [
-      75,
-      84
+      8779,
+      8788
     ]
   },
   "entite_32": {
     "label": "MISC",
     "text": "Vous savez le parti qui",
     "jalons": [
-      86,
-      109
+      8790,
+      8813
     ]
   },
   "entite_33": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      53,
-      61
+      9781,
+      9789
     ]
   },
   "entite_34": {
     "label": "PER",
     "text": "Secon",
     "jalons": [
-      507,
-      512
+      11259,
+      11264
     ]
   },
   "entite_35": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      114,
-      122
+      11378,
+      11386
     ]
   },
   "entite_36": {
     "label": "ORG",
     "text": "LA BARONNE",
     "jalons": [
-      125,
-      135
+      11389,
+      11399
     ]
   },
   "entite_37": {
     "label": "PER",
     "text": "JÉRÔME",
     "jalons": [
-      137,
-      143
+      11401,
+      11407
     ]
   },
   "entite_38": {
     "label": "PER",
     "text": "DUPUIS",
     "jalons": [
-      157,
-      163
+      11421,
+      11427
     ]
   },
   "entite_39": {
     "label": "PER",
     "text": "LÉ BARON",
     "jalons": [
-      165,
-      173
+      11429,
+      11437
     ]
   },
   "entite_40": {
     "label": "LOC",
     "text": "Jérôme",
     "jalons": [
-      176,
-      182
+      11440,
+      11446
     ]
   },
   "entite_41": {
     "label": "PER",
     "text": "«  Antoine",
     "jalons": [
-      401,
-      411
+      11665,
+      11675
     ]
   },
   "entite_42": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      423,
-      431
+      11687,
+      11695
     ]
   },
   "entite_43": {
     "label": "PER",
     "text": "Frankner",
     "jalons": [
-      434,
-      442
+      11698,
+      11706
     ]
   },
   "entite_44": {
     "label": "PER",
     "text": "Dumont",
     "jalons": [
-      464,
-      470
+      11728,
+      11734
     ]
   },
   "entite_45": {
     "label": "PER",
     "text": "L E",
     "jalons": [
-      472,
-      475
+      11736,
+      11739
     ]
   },
   "entite_46": {
     "label": "PER",
     "text": "A R O N. Mes amis",
     "jalons": [
-      478,
-      495
+      11742,
+      11759
     ]
   },
   "entite_47": {
     "label": "PER",
     "text": "soyez",
     "jalons": [
-      497,
-      502
+      11761,
+      11766
     ]
   },
   "entite_48": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      117,
-      125
+      11893,
+      11901
     ]
   },
   "entite_49": {
     "label": "PER",
     "text": "LA BARONNE",
     "jalons": [
-      127,
-      137
+      11903,
+      11913
     ]
   },
   "entite_50": {
     "label": "PER",
     "text": "LE CHEVALIER",
     "jalons": [
-      139,
-      151
+      11915,
+      11927
     ]
   },
   "entite_51": {
     "label": "PER",
     "text": "ADÉLAÏDE",
     "jalons": [
-      153,
-      161
+      11929,
+      11937
     ]
   },
   "entite_52": {
     "label": "PER",
     "text": "DUPUIS",
     "jalons": [
-      174,
-      180
+      11950,
+      11956
     ]
   },
   "entite_53": {
     "label": "PER",
     "text": "JÉRÔME",
     "jalons": [
-      182,
-      188
+      11958,
+      11964
     ]
   },
   "entite_54": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      190,
-      198
+      11966,
+      11974
     ]
   },
   "entite_55": {
     "label": "ORG",
     "text": "Frankner & à Dupuis",
     "jalons": [
-      201,
-      220
+      11977,
+      11996
     ]
   },
   "entite_56": {
     "label": "MISC",
     "text": "Elle se retour",
     "jalons": [
-      498,
-      512
+      12274,
+      12288
     ]
   },
   "entite_57": {
     "label": "LOC",
     "text": "Mademoiselle",
     "jalons": [
-      167,
-      179
+      12455,
+      12467
     ]
   },
   "entite_58": {
     "label": "PER",
     "text": "M. Jérôme",
     "jalons": [
-      474,
-      483
+      12762,
+      12771
     ]
   },
   "entite_59": {
     "label": "LOC",
     "text": "Allez",
     "jalons": [
-      7,
-      12
+      12807,
+      12812
     ]
   },
   "entite_60": {
     "label": "LOC",
     "text": "Allez",
     "jalons": [
-      358,
-      363
+      13158,
+      13163
     ]
   },
   "entite_61": {
     "label": "LOC",
     "text": "Frankner",
     "jalons": [
-      10,
-      18
+      13322,
+      13330
     ]
   },
   "entite_62": {
     "label": "PER",
     "text": "DUPUIS",
     "jalons": [
-      70,
-      76
+      13382,
+      13388
     ]
   },
   "entite_63": {
     "label": "LOC",
     "text": "Monsieur",
     "jalons": [
-      400,
-      408
+      14736,
+      14744
     ]
   },
   "entite_64": {
     "label": "LOC",
     "text": "ADELAIDE",
     "jalons": [
-      124,
-      132
+      14972,
+      14980
     ]
   },
   "entite_65": {
     "label": "LOC",
     "text": "Songez",
     "jalons": [
-      394,
-      400
+      15754,
+      15760
     ]
   },
   "entite_66": {
     "label": "PER",
     "text": "du Chevalier",
     "jalons": [
-      14,
-      26
+      15886,
+      15898
     ]
   },
   "entite_67": {
     "label": "LOC",
     "text": "Baron",
     "jalons": [
-      280,
-      285
+      16152,
+      16157
     ]
   },
   "entite_68": {
     "label": "LOC",
     "text": "Chevalier",
     "jalons": [
-      295,
-      304
+      16167,
+      16176
     ]
   },
   "entite_69": {
     "label": "LOC",
     "text": "Tiens",
     "jalons": [
-      105,
-      110
+      16489,
+      16494
     ]
   },
   "entite_70": {
     "label": "LOC",
     "text": "Dupuis",
     "jalons": [
-      112,
-      118
+      16496,
+      16502
     ]
   },
   "entite_71": {
     "label": "LOC",
     "text": "DUPUIS",
     "jalons": [
-      160,
-      166
+      16544,
+      16550
     ]
   },
   "entite_72": {
     "label": "LOC",
     "text": "Adélaïde",
     "jalons": [
-      498,
-      506
+      16882,
+      16890
     ]
   },
   "entite_73": {
     "label": "LOC",
     "text": "Oui",
     "jalons": [
-      508,
-      511
+      16892,
+      16895
     ]
   },
   "entite_74": {
     "label": "LOC",
     "text": "Laisse",
     "jalons": [
-      342,
-      348
+      17238,
+      17244
     ]
   },
   "entite_75": {
     "label": "PER",
     "text": "ADÉLAÏDE",
     "jalons": [
-      404,
-      412
+      17300,
+      17308
     ]
   },
   "entite_76": {
     "label": "MISC",
     "text": "Pourquoi le Ciel vous",
     "jalons": [
-      343,
-      364
+      18263,
+      18284
     ]
   },
   "entite_77": {
     "label": "PER",
     "text": "J’y resterai",
     "jalons": [
-      54,
-      66
+      18998,
+      19010
     ]
   },
   "entite_78": {
     "label": "PER",
     "text": "ADÉLAÏDE lui",
     "jalons": [
-      499,
-      511
+      20979,
+      20991
     ]
   },
   "entite_79": {
     "label": "LOC",
     "text": "AlîeZ",
     "jalons": [
-      503,
-      508
+      21495,
+      21500
     ]
   },
   "entite_80": {
     "label": "MISC",
     "text": "ADELAIDE LE CHEVALIER Vìnterrompanti De",
     "jalons": [
-      31,
-      70
+      22559,
+      22598
     ]
   },
   "entite_81": {
     "label": "LOC",
     "text": "Arrêtez",
     "jalons": [
-      128,
-      135
+      22656,
+      22663
     ]
   },
   "entite_82": {
     "label": "PER",
     "text": "Mais Adé",
     "jalons": [
-      36,
-      44
+      23076,
+      23084
     ]
   },
   "entite_83": {
     "label": "LOC",
     "text": "Frankner",
     "jalons": [
-      108,
-      116
+      23660,
+      23668
     ]
   },
   "entite_84": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      45,
-      53
+      24109,
+      24117
     ]
   },
   "entite_85": {
     "label": "PER",
     "text": "ADÉLAÏDE",
     "jalons": [
-      55,
-      63
+      24119,
+      24127
     ]
   },
   "entite_86": {
     "label": "LOC",
     "text": "L’oublier",
     "jalons": [
-      185,
-      194
+      25273,
+      25282
     ]
   },
   "entite_87": {
     "label": "LOC",
     "text": "Adélaïde",
     "jalons": [
-      212,
-      220
+      25300,
+      25308
     ]
   },
   "entite_88": {
     "label": "LOC",
     "text": "ADÉLAÏDE",
     "jalons": [
-      405,
-      413
+      26005,
+      26013
     ]
   },
   "entite_89": {
     "label": "PER",
     "text": "Adélaïde",
     "jalons": [
-      63,
-      71
+      26175,
+      26183
     ]
   },
   "entite_90": {
     "label": "LOC",
     "text": "Quel",
     "jalons": [
-      494,
-      498
+      27118,
+      27122
     ]
   },
   "entite_91": {
     "label": "LOC",
     "text": "LA BARONNE",
     "jalons": [
-      164,
-      174
+      27812,
+      27822
     ]
   },
   "entite_92": {
     "label": "LOC",
     "text": "ADÉLAÏDE",
     "jalons": [
-      176,
-      184
+      27824,
+      27832
     ]
   },
   "entite_93": {
     "label": "LOC",
     "text": "LA BARONNE",
     "jalons": [
-      186,
-      196
+      27834,
+      27844
     ]
   },
   "entite_94": {
     "label": "LOC",
     "text": "JGtHbien",
     "jalons": [
-      198,
-      206
+      27846,
+      27854
     ]
   },
   "entite_95": {
     "label": "PER",
     "text": "Frankner",
     "jalons": [
-      88,
-      96
+      29272,
+      29280
     ]
   },
   "entite_96": {
     "label": "PER",
     "text": "Madame",
     "jalons": [
-      173,
-      179
+      29357,
+      29363
     ]
   },
   "entite_97": {
     "label": "LOC",
     "text": "Voilà",
     "jalons": [
-      506,
-      511
+      29690,
+      29695
     ]
   },
   "entite_98": {
     "label": "PER",
     "text": "la baronne",
     "jalons": [
-      80,
-      90
+      29776,
+      29786
     ]
   },
   "entite_99": {
     "label": "PER",
     "text": "Monsieur le Baron",
     "jalons": [
-      196,
-      213
+      29892,
+      29909
     ]
   },
   "entite_100": {
     "label": "PER",
     "text": "Le Baron jonne",
     "jalons": [
-      290,
-      304
+      29986,
+      30000
     ]
   },
   "entite_101": {
     "label": "MISC",
     "text": "Quelqu’un ! du secours",
     "jalons": [
-      308,
-      330
+      30004,
+      30026
     ]
   },
   "entite_102": {
     "label": "PER",
     "text": "Dupuis",
     "jalons": [
-      334,
-      340
+      30030,
+      30036
     ]
   },
   "entite_103": {
     "label": "PER",
     "text": "Monsieur le Baron",
     "jalons": [
-      426,
-      443
+      30122,
+      30139
     ]
   },
   "entite_104": {
     "label": "PER",
     "text": "Madame",
     "jalons": [
-      480,
-      486
+      30176,
+      30182
     ]
   },
   "entite_105": {
     "label": "LOC",
     "text": "Adélaïde",
     "jalons": [
-      4,
-      12
+      30212,
+      30220
     ]
   },
   "entite_106": {
     "label": "MISC",
     "text": "Frankner seul",
     "jalons": [
-      333,
-      346
+      30541,
+      30554
     ]
   },
   "entite_107": {
     "label": "PER",
     "text": "M. le Baron",
     "jalons": [
-      52,
-      63
+      30772,
+      30783
     ]
   },
   "entite_108": {
     "label": "PER",
     "text": "M. Frankner",
     "jalons": [
-      193,
-      204
+      30913,
+      30924
     ]
   },
   "entite_109": {
     "label": "LOC",
     "text": "FRANKNER",
     "jalons": [
-      499,
-      507
+      31219,
+      31227
     ]
   },
   "entite_110": {
     "label": "LOC",
     "text": "Biermont",
     "jalons": [
-      23,
-      31
+      31255,
+      31263
     ]
   },
   "entite_111": {
     "label": "LOC",
     "text": "Scellier",
     "jalons": [
-      33,
-      41
+      31265,
+      31273
     ]
   },
   "entite_112": {
     "label": "PER",
     "text": "De mariendal",
     "jalons": [
-      467,
-      479
+      31699,
+      31711
     ]
   },
   "entite_113": {
     "label": "PER",
     "text": "CENE VIL FRANKNER",
     "jalons": [
-      486,
-      503
+      31718,
+      31735
     ]
   },
   "entite_114": {
     "label": "PER",
     "text": "Donne",
     "jalons": [
-      93,
-      98
+      31837,
+      31842
     ]
   },
   "entite_115": {
     "label": "PER",
     "text": "du Chevalier ou du Baron",
     "jalons": [
-      45,
-      69
+      32301,
+      32325
     ]
   },
   "entite_116": {
     "label": "LOC",
     "text": "Frankner",
     "jalons": [
-      307,
-      315
+      33075,
+      33083
     ]
   },
   "entite_117": {
     "label": "LOC",
     "text": "Sois",
     "jalons": [
-      500,
-      504
+      36852,
+      36856
     ]
   },
   "entite_118": {
     "label": "LOC",
     "text": "Conten",
     "jalons": [
-      506,
-      512
+      36858,
+      36864
     ]
   },
   "entite_119": {
     "label": "LOC",
     "text": "QILA donc la fille du Baron de Mariendal la sable & le jouet de",
     "jalons": [
-      395,
-      458
+      37259,
+      37322
     ]
   },
   "entite_120": {
     "label": "MISC",
     "text": "nous reste que le parti de la",
     "jalons": [
-      1,
-      30
+      40449,
+      40478
     ]
   },
   "entite_121": {
     "label": "ORG",
     "text": "LE CHE",
     "jalons": [
-      506,
-      512
+      40954,
+      40960
     ]
   },
   "entite_122": {
     "label": "LOC",
     "text": "Arrête",
     "jalons": [
-      170,
-      176
+      41642,
+      41648
     ]
   },
   "entite_123": {
     "label": "LOC",
     "text": "Frankner",
     "jalons": [
-      452,
-      460
+      41924,
+      41932
     ]
   },
   "entite_124": {
     "label": "PER",
     "text": "Adélaïde",
     "jalons": [
-      26,
-      34
+      42010,
+      42018
     ]
   },
   "entite_125": {
     "label": "LOC",
     "text": "Ecoutez",
     "jalons": [
-      330,
-      337
+      42314,
+      42321
     ]
   },
   "entite_126": {
     "label": "ORG",
     "text": "LE CHEVALIER",
     "jalons": [
-      451,
-      463
+      42435,
+      42447
     ]
   },
   "entite_127": {
     "label": "PER",
     "text": "LE CHEVALIER",
     "jalons": [
-      39,
-      51
+      42535,
+      42547
     ]
   },
   "entite_128": {
     "label": "LOC",
     "text": "Frémissez de la",
     "jalons": [
-      286,
-      301
+      42782,
+      42797
     ]
   },
   "entite_129": {
     "label": "LOC",
     "text": "Sac",
     "jalons": [
-      509,
-      512
+      43517,
+      43520
     ]
   },
   "entite_130": {
     "label": "PER",
     "text": "jouira pas de fa témérité",
     "jalons": [
-      0,
-      25
+      44032,
+      44057
     ]
   },
   "entite_131": {
     "label": "PER",
     "text": "jé íaufaí lá dérober",
     "jalons": [
-      27,
-      47
+      44059,
+      44079
     ]
   },
   "entite_132": {
     "label": "PER",
     "text": "Le Baron",
     "jalons": [
-      279,
-      287
+      44823,
+      44831
     ]
   },
   "entite_133": {
     "label": "PER",
     "text": "Je crois qu’oui",
     "jalons": [
-      421,
-      436
+      44965,
+      44980
     ]
   },
   "entite_134": {
     "label": "ORG",
     "text": "LE CHEVALIER. Allez vous",
     "jalons": [
-      448,
-      472
+      44992,
+      45016
     ]
   },
   "entite_135": {
     "label": "PER",
     "text": "LE CHEVALIER",
     "jalons": [
-      287,
-      299
+      45855,
+      45867
     ]
   },
   "entite_136": {
     "label": "ORG",
     "text": "LE CHEVALIER",
     "jalons": [
-      313,
-      325
+      45881,
+      45893
     ]
   },
   "entite_137": {
     "label": "LOC",
     "text": "J’obéis",
     "jalons": [
-      379,
-      386
+      45947,
+      45954
     ]
   },
   "entite_138": {
     "label": "LOC",
     "text": "Monsieur",
     "jalons": [
-      388,
-      396
+      45956,
+      45964
     ]
   },
   "entite_139": {
     "label": "LOC",
     "text": "Adélaïde",
     "jalons": [
-      492,
-      500
+      46060,
+      46068
     ]
   },
   "entite_140": {
     "label": "LOC",
     "text": "Suivons de",
     "jalons": [
-      502,
-      512
+      46070,
+      46080
     ]
   },
   "entite_141": {
     "label": "PER",
     "text": "près Dumont",
     "jalons": [
-      1,
-      12
+      46081,
+      46092
     ]
   },
   "entite_142": {
     "label": "LOC",
     "text": "L’obéissance",
     "jalons": [
-      293,
-      305
+      46373,
+      46385
     ]
   },
   "entite_143": {
     "label": "MISC",
     "text": "Dieux ! voila le Chevalier",
     "jalons": [
-      380,
-      406
+      47484,
+      47510
     ]
   },
   "entite_144": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      439,
-      447
+      47543,
+      47551
     ]
   },
   "entite_145": {
     "label": "PER",
     "text": "LE CHEVALIER",
     "jalons": [
-      449,
-      461
+      47553,
+      47565
     ]
   },
   "entite_146": {
     "label": "LOC",
     "text": "ADÉLAÏDE",
     "jalons": [
-      463,
-      471
+      47567,
+      47575
     ]
   },
   "entite_147": {
     "label": "PER",
     "text": "Le Baron",
     "jalons": [
-      476,
-      484
+      47580,
+      47588
     ]
   },
   "entite_148": {
     "label": "PER",
     "text": "LE CHEVALIER",
     "jalons": [
-      496,
-      508
+      48112,
+      48124
     ]
   },
   "entite_149": {
     "label": "LOC",
     "text": "Su",
     "jalons": [
-      510,
-      512
+      48126,
+      48128
     ]
   },
   "entite_150": {
     "label": "PER",
     "text": "Adélaïde",
     "jalons": [
-      5,
-      13
+      48645,
+      48653
     ]
   },
   "entite_151": {
     "label": "LOC",
     "text": "Qbu'aiije",
     "jalons": [
-      6,
-      15
+      49158,
+      49167
     ]
   },
   "entite_152": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      368,
-      376
+      50032,
+      50040
     ]
   },
   "entite_153": {
     "label": "PER",
     "text": "Laissez-nous",
     "jalons": [
-      488,
-      500
+      50152,
+      50164
     ]
   },
   "entite_154": {
     "label": "PER",
     "text": "FRANKNER",
     "jalons": [
-      502,
-      510
+      50166,
+      50174
     ]
   },
   "entite_155": {
     "label": "PER",
     "text": "Monsieur",
     "jalons": [
-      11,
-      19
+      50187,
+      50195
     ]
   },
   "entite_156": {
     "label": "PER",
     "text": "Obéissez",
     "jalons": [
-      166,
-      174
+      50342,
+      50350
     ]
   },
   "entite_157": {
     "label": "PER",
     "text": "Sortez",
     "jalons": [
-      257,
-      263
+      50433,
+      50439
     ]
   },
   "entite_158": {
     "label": "PER",
     "text": "Eì le baron",
     "jalons": [
-      11,
-      22
+      51211,
+      51222
     ]
   },
   "entite_159": {
     "label": "PER",
     "text": "la baronne",
     "jalons": [
-      24,
-      34
+      51224,
+      51234
     ]
   },
   "entite_160": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      36,
-      44
+      51236,
+      51244
     ]
   },
   "entite_161": {
     "label": "LOC",
     "text": "Baron",
     "jalons": [
-      356,
-      361
+      51556,
+      51561
     ]
   },
   "entite_162": {
     "label": "LOC",
     "text": "Monsieur",
     "jalons": [
-      381,
-      389
+      52605,
+      52613
     ]
   },
   "entite_163": {
     "label": "PER",
     "text": "Franckner",
     "jalons": [
-      503,
-      512
+      52727,
+      52736
     ]
   },
   "entite_164": {
     "label": "PER",
     "text": "Dupuis",
     "jalons": [
-      2,
-      8
+      52738,
+      52744
     ]
   },
   "entite_165": {
     "label": "PER",
     "text": "Jérôme",
     "jalons": [
-      10,
-      16
+      52746,
+      52752
     ]
   },
   "entite_166": {
     "label": "PER",
     "text": "Jérôme",
     "jalons": [
-      147,
-      153
+      52883,
+      52889
     ]
   },
   "entite_167": {
     "label": "PER",
     "text": "Dumont",
     "jalons": [
-      155,
-      161
+      52891,
+      52897
     ]
   },
   "entite_168": {
     "label": "PER",
     "text": "Antoine… Quoi",
     "jalons": [
-      163,
-      176
+      52899,
+      52912
     ]
   },
   "entite_169": {
     "label": "LOC",
     "text": "Frankner",
     "jalons": [
-      217,
-      225
+      52953,
+      52961
     ]
   },
   "entite_170": {
     "label": "PER",
     "text": "Madame",
     "jalons": [
-      297,
-      303
+      53033,
+      53039
     ]
   },
   "entite_171": {
     "label": "PER",
     "text": "Monsieur le Baron",
     "jalons": [
-      451,
-      468
+      53187,
+      53204
     ]
   },
   "entite_172": {
     "label": "PER",
     "text": "Madame",
     "jalons": [
-      115,
-      121
+      54899,
+      54905
     ]
   },
   "entite_173": {
     "label": "LOC",
     "text": "Cessez",
     "jalons": [
-      258,
-      264
+      55042,
+      55048
     ]
   },
   "entite_174": {
     "label": "PER",
     "text": "la baronne",
     "jalons": [
-      15,
-      25
+      55311,
+      55321
     ]
   },
   "entite_175": {
     "label": "LOC",
     "text": "LA BARONNE",
     "jalons": [
-      286,
-      296
+      55582,
+      55592
     ]
   },
   "entite_176": {
     "label": "LOC",
     "text": "Parlez",
     "jalons": [
-      298,
-      304
+      55594,
+      55600
     ]
   },
   "entite_177": {
     "label": "LOC",
     "text": "LA BARONNE",
     "jalons": [
-      487,
-      497
+      55783,
+      55793
     ]
   },
   "entite_178": {
     "label": "ORG",
     "text": "Ciel ! FRANKN",
     "jalons": [
-      499,
-      512
+      55795,
+      55808
     ]
   },
   "entite_179": {
     "label": "LOC",
     "text": "DE MARI",
     "jalons": [
-      497,
-      504
+      56305,
+      56312
     ]
   },
   "entite_180": {
     "label": "LOC",
     "text": "AL",
     "jalons": [
-      509,
-      511
+      56317,
+      56319
     ]
   },
   "entite_181": {
     "label": "LOC",
     "text": "Baron",
     "jalons": [
-      95,
-      100
+      56415,
+      56420
     ]
   },
   "entite_182": {
     "label": "LOC",
     "text": "Priezle",
     "jalons": [
-      102,
-      109
+      56422,
+      56429
     ]
   },
   "entite_183": {
     "label": "ORG",
     "text": "FRANKNER",
     "jalons": [
-      501,
-      509
+      56821,
+      56829
     ]
   },
   "entite_184": {
     "label": "PER",
     "text": "Dumoht",
     "jalons": [
-      46,
-      52
+      57390,
+      57396
     ]
   },
   "entite_185": {
     "label": "PER",
     "text": "Vous",
     "jalons": [
-      12,
-      16
+      57868,
+      57872
     ]
   },
   "entite_186": {
     "label": "PER",
     "text": "Frankner ?",
     "jalons": [
-      18,
-      28
+      57874,
+      57884
     ]
   },
   "entite_187": {
     "label": "LOC",
     "text": "Frankner",
     "jalons": [
-      366,
-      374
+      58222,
+      58230
     ]
   },
   "entite_188": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      35,
-      43
+      59427,
+      59435
     ]
   },
   "entite_189": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      62,
-      70
+      59454,
+      59462
     ]
   },
   "entite_190": {
     "label": "PER",
     "text": "LE CHEVALIER",
     "jalons": [
-      217,
-      229
+      60633,
+      60645
     ]
   },
   "entite_191": {
     "label": "LOC",
     "text": "Rassurez-vous",
     "jalons": [
-      328,
-      341
+      60744,
+      60757
     ]
   },
   "entite_192": {
     "label": "LOC",
     "text": "Adélaïde",
     "jalons": [
-      425,
-      433
+      63401,
+      63409
     ]
   },
   "entite_193": {
     "label": "MISC",
     "text": "Écki De mari",
     "jalons": [
-      466,
-      478
+      63442,
+      63454
     ]
   },
   "entite_194": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      9,
-      17
+      66057,
+      66065
     ]
   },
   "entite_195": {
     "label": "LOC",
     "text": "LE",
     "jalons": [
-      19,
-      21
+      66067,
+      66069
     ]
   },
   "entite_196": {
     "label": "PER",
     "text": "Le Chevalier",
     "jalons": [
-      44,
-      56
+      66092,
+      66104
     ]
   },
   "entite_197": {
     "label": "PER",
     "text": "Sortons",
     "jalons": [
-      119,
-      126
+      66679,
+      66686
     ]
   },
   "entite_198": {
     "label": "LOC",
     "text": "Bientôt",
     "jalons": [
-      89,
-      96
+      67673,
+      67680
     ]
   },
   "entite_199": {
     "label": "LOC",
     "text": "Adélaïde",
     "jalons": [
-      21,
-      29
+      68117,
+      68125
     ]
   },
   "entite_200": {
     "label": "LOC",
     "text": "ADELAIDE",
     "jalons": [
-      321,
-      329
+      68417,
+      68425
     ]
   },
   "entite_201": {
     "label": "MISC",
     "text": "ADÉLAÏDE se jettant dans les bras de la Baronne",
     "jalons": [
-      349,
-      396
+      68445,
+      68492
     ]
   },
   "entite_202": {
     "label": "PER",
     "text": "Le voilà",
     "jalons": [
-      296,
-      304
+      68904,
+      68912
     ]
   },
   "entite_203": {
     "label": "PER",
     "text": "Frankner",
     "jalons": [
-      355,
-      363
+      68963,
+      68971
     ]
   },
   "entite_204": {
     "label": "ORG",
     "text": "les Iras de la Baronne",
     "jalons": [
-      485,
-      507
+      69093,
+      69115
     ]
   },
   "entite_205": {
     "label": "MISC",
     "text": "fasse le bonheur de fa fille",
     "jalons": [
-      20,
-      48
+      69652,
+      69680
     ]
   },
   "entite_206": {
     "label": "PER",
     "text": "Monsieur le Chevalier",
     "jalons": [
-      13,
-      34
+      70157,
+      70178
     ]
   },
   "entite_207": {
     "label": "LOC",
     "text": "Demeurez",
     "jalons": [
-      53,
-      61
+      70709,
+      70717
     ]
   },
   "entite_208": {
     "label": "LOC",
     "text": "Madame",
     "jalons": [
-      63,
-      69
+      70719,
+      70725
     ]
   },
   "entite_209": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      273,
-      281
+      70929,
+      70937
     ]
   },
   "entite_210": {
     "label": "PER",
     "text": "LA BARONNE",
     "jalons": [
-      283,
-      293
+      70939,
+      70949
     ]
   },
   "entite_211": {
     "label": "PER",
     "text": "ADÉLAÏDE",
     "jalons": [
-      295,
-      303
+      70951,
+      70959
     ]
   },
   "entite_212": {
     "label": "PER",
     "text": "JEROME",
     "jalons": [
-      305,
-      311
+      70961,
+      70967
     ]
   },
   "entite_213": {
     "label": "LOC",
     "text": "Monsieur",
     "jalons": [
-      343,
-      351
+      70999,
+      71007
     ]
   },
   "entite_214": {
     "label": "PER",
     "text": "Vous allez",
     "jalons": [
-      3,
-      13
+      71171,
+      71181
     ]
   },
   "entite_215": {
     "label": "LOC",
     "text": "Croyez-moi",
     "jalons": [
-      93,
-      103
+      71261,
+      71271
     ]
   },
   "entite_216": {
     "label": "PER",
     "text": "Rougissez de la ruine de vos",
     "jalons": [
-      285,
-      313
+      71453,
+      71481
     ]
   },
   "entite_217": {
     "label": "LOC",
     "text": "Adélaïde",
     "jalons": [
-      411,
-      419
+      71579,
+      71587
     ]
   },
   "entite_218": {
     "label": "LOC",
     "text": "Voyez",
     "jalons": [
-      415,
-      420
+      72095,
+      72100
     ]
   },
   "entite_219": {
     "label": "ORG",
     "text": "Ces",
     "jalons": [
-      509,
-      512
+      72189,
+      72192
     ]
   },
   "entite_220": {
     "label": "PER",
     "text": "Allez Jérôme",
     "jalons": [
-      158,
-      170
+      72350,
+      72362
     ]
   },
   "entite_221": {
     "label": "PER",
     "text": "Laissez-moi",
     "jalons": [
-      58,
-      69
+      73786,
+      73797
     ]
   },
   "entite_222": {
     "label": "PER",
     "text": "ADÉLAÏDE",
     "jalons": [
-      132,
-      140
+      73860,
+      73868
     ]
   },
   "entite_223": {
     "label": "PER",
     "text": "JÉRÔME",
     "jalons": [
-      142,
-      148
+      73870,
+      73876
     ]
   },
   "entite_224": {
     "label": "PER",
     "text": "JÉRÔME",
     "jalons": [
-      150,
-      156
+      73878,
+      73884
     ]
   },
   "entite_225": {
     "label": "LOC",
     "text": "Frankner",
     "jalons": [
-      291,
-      299
+      74019,
+      74027
     ]
   },
   "entite_226": {
     "label": "PER",
     "text": "de M. le Chevalier",
     "jalons": [
-      134,
-      152
+      74374,
+      74392
     ]
   },
   "entite_227": {
     "label": "PER",
     "text": "Monsieur le Baron",
     "jalons": [
-      245,
-      262
+      74485,
+      74502
     ]
   },
   "entite_228": {
     "label": "PER",
     "text": "Madame",
     "jalons": [
-      378,
-      384
+      74618,
+      74624
     ]
   },
   "entite_229": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      408,
-      416
+      74648,
+      74656
     ]
   },
   "entite_230": {
     "label": "PER",
     "text": "LA BARONNE",
     "jalons": [
-      418,
-      428
+      74658,
+      74668
     ]
   },
   "entite_231": {
     "label": "PER",
     "text": "ADÉLAÏDE",
     "jalons": [
-      430,
-      438
+      74670,
+      74678
     ]
   },
   "entite_232": {
     "label": "PER",
     "text": "LE CHEVALIER",
     "jalons": [
-      440,
-      452
+      74680,
+      74692
     ]
   },
   "entite_233": {
     "label": "ORG",
     "text": "FRANKNER",
     "jalons": [
-      454,
-      462
+      74694,
+      74702
     ]
   },
   "entite_234": {
     "label": "PER",
     "text": "JÉRÔME",
     "jalons": [
-      464,
-      470
+      74704,
+      74710
     ]
   },
   "entite_235": {
     "label": "PER",
     "text": "Le Chevalier",
     "jalons": [
-      473,
-      485
+      74713,
+      74725
     ]
   },
   "entite_236": {
     "label": "LOC",
     "text": "C’en",
     "jalons": [
-      110,
-      114
+      75374,
+      75378
     ]
   },
   "entite_237": {
     "label": "LOC",
     "text": "Arrêtez",
     "jalons": [
-      464,
-      471
+      75728,
+      75735
     ]
   },
   "entite_238": {
     "label": "LOC",
     "text": "Madame",
     "jalons": [
-      473,
-      479
+      75737,
+      75743
     ]
   },
   "entite_239": {
     "label": "LOC",
     "text": "Le",
     "jalons": [
-      510,
-      512
+      75774,
+      75776
     ]
   },
   "entite_240": {
     "label": "LOC",
     "text": "Chevalier",
     "jalons": [
-      394,
-      403
+      76170,
+      76179
     ]
   },
   "entite_241": {
     "label": "LOC",
     "text": "Tenez",
     "jalons": [
-      405,
-      410
+      76181,
+      76186
     ]
   },
   "entite_242": {
     "label": "ORG",
     "text": "LA BARONNE",
     "jalons": [
-      500,
-      510
+      76276,
+      76286
     ]
   },
   "entite_243": {
     "label": "MISC",
     "text": "C’est un présent de Frankner",
     "jalons": [
-      0,
-      28
+      76288,
+      76316
     ]
   },
   "entite_244": {
     "label": "PER",
     "text": "Mais Adélaïde",
     "jalons": [
-      462,
-      475
+      76750,
+      76763
     ]
   },
   "entite_245": {
     "label": "PER",
     "text": "de Frankner",
     "jalons": [
-      134,
-      145
+      77446,
+      77457
     ]
   },
   "entite_246": {
     "label": "LOC",
     "text": "Frankner",
     "jalons": [
-      254,
-      262
+      77566,
+      77574
     ]
   },
   "entite_247": {
     "label": "PER",
     "text": "LE BARON",
     "jalons": [
-      369,
-      377
+      77681,
+      77689
     ]
   },
   "entite_248": {
     "label": "PER",
     "text": "Qu’il parle",
     "jalons": [
-      379,
-      390
+      77691,
+      77702
     ]
   },
   "entite_249": {
     "label": "PER",
     "text": "FRANKNER",
     "jalons": [
-      392,
-      400
+      77704,
+      77712
     ]
   },
   "entite_250": {
     "label": "PER",
     "text": "Gelui de votre",
     "jalons": [
-      402,
-      416
+      77714,
+      77728
     ]
   },
   "entite_251": {
     "label": "ORG",
     "text": "Le Chevalier relevé sa soeur, va prendre la main de Fran",
     "jalons": [
-      456,
-      512
+      77768,
+      77824
     ]
   },
   "entite_252": {
     "label": "PER",
     "text": "Chevalier",
     "jalons": [
-      198,
-      207
+      78022,
+      78031
     ]
   },
   "entite_253": {
     "label": "ORG",
     "text": "le Baron & la. De mariendal",
     "jalons": [
-      459,
-      486
+      78283,
+      78310
     ]
   }
 }

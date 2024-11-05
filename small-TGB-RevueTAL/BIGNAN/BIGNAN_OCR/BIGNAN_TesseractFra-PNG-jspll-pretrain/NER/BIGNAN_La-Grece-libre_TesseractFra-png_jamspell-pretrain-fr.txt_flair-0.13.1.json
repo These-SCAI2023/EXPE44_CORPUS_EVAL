@@ -67,112 +67,112 @@
     "label": "MISC",
     "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de",
     "jalons": [
-      75,
-      179
+      587,
+      691
     ]
   },
   "entite_9": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      282,
-      288
+      794,
+      800
     ]
   },
   "entite_10": {
     "label": "MISC",
     "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
     "jalons": [
-      368,
-      430
+      1392,
+      1454
     ]
   },
   "entite_11": {
     "label": "LOC",
     "text": "PARIS",
     "jalons": [
-      107,
-      112
+      3179,
+      3184
     ]
   },
   "entite_12": {
     "label": "PER",
     "text": "GALERIE DE BOIS",
     "jalons": [
-      189,
-      204
+      3261,
+      3276
     ]
   },
   "entite_13": {
     "label": "LOC",
     "text": "PARIS",
     "jalons": [
-      238,
-      243
+      3822,
+      3827
     ]
   },
   "entite_14": {
     "label": "PER",
     "text": "GALERIE DE BOIS",
     "jalons": [
-      295,
-      310
+      3879,
+      3894
     ]
   },
   "entite_15": {
     "label": "MISC",
     "text": "Crinéreux descendants et de Sparte et d'Athènes",
     "jalons": [
-      402,
-      449
+      3986,
+      4033
     ]
   },
   "entite_16": {
     "label": "LOC",
     "text": "Imitez",
     "jalons": [
-      89,
-      95
+      4185,
+      4191
     ]
   },
   "entite_17": {
     "label": "MISC",
     "text": "Croyais-tu que jamais la valeur de la Grèce",
     "jalons": [
-      156,
-      199
+      5276,
+      5319
     ]
   },
   "entite_18": {
     "label": "LOC",
     "text": "Aurez",
     "jalons": [
-      465,
-      470
+      8657,
+      8662
     ]
   },
   "entite_19": {
     "label": "PER",
     "text": "Poëtes",
     "jalons": [
-      504,
-      510
+      9208,
+      9214
     ]
   },
   "entite_20": {
     "label": "MISC",
     "text": "Mais avant que la Croix",
     "jalons": [
-      398,
-      421
+      9614,
+      9637
     ]
   },
   "entite_21": {
     "label": "ORG",
     "text": "Quel péri",
     "jalons": [
-      503,
-      512
+      9719,
+      9728
     ]
   }
 }
