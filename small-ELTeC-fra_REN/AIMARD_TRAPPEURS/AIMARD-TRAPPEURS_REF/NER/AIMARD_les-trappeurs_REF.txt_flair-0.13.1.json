@@ -1,0 +1,3586 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Hermosillo  Le voyageur qui pour la première fois débarque dans l'Amérique du Sud éprouve malgré lui",
+    "jalons": [
+      30,
+      130
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "La recherche de l'or fut l'origine de la découverte du Nouveau Monde",
+    "jalons": [
+      327,
+      395
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Amérique",
+    "jalons": [
+      849,
+      857
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Charles Quint",
+    "jalons": [
+      2544,
+      2557
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "l'État de Sonora est le seul",
+    "jalons": [
+      2785,
+      2813
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Le rio Gila",
+    "jalons": [
+      3110,
+      3121
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Madre et le golfe de Californie",
+    "jalons": [
+      3238,
+      3269
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "La sierra Madre",
+    "jalons": [
+      3272,
+      3287
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Durango",
+    "jalons": [
+      3298,
+      3305
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "États de Durango et de Guadalajara",
+    "jalons": [
+      3455,
+      3489
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Pacifique",
+    "jalons": [
+      3533,
+      3542
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "de la Sonora",
+    "jalons": [
+      3605,
+      3617
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Gila et de la sierra Madre les Indiens indépendants",
+    "jalons": [
+      4098,
+      4149
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Comanches",
+    "jalons": [
+      4151,
+      4160
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Pawnees",
+    "jalons": [
+      4162,
+      4169
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Pimas",
+    "jalons": [
+      4171,
+      4176
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Opatas et Apaches",
+    "jalons": [
+      4178,
+      4195
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "de la Sonora",
+    "jalons": [
+      4458,
+      4470
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Guaymas",
+    "jalons": [
+      4478,
+      4485
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Hermosillo",
+    "jalons": [
+      4487,
+      4497
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Arispe",
+    "jalons": [
+      4501,
+      4507
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Hermosillo",
+    "jalons": [
+      4510,
+      4520
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "le Pitic et que l'expédition du comte de Raousset-Boulbon",
+    "jalons": [
+      4535,
+      4592
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Cette ville",
+    "jalons": [
+      4705,
+      4716
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "el Cerro de la",
+    "jalons": [
+      4876,
+      4890
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Montagne de la",
+    "jalons": [
+      4902,
+      4916
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "la calle del Rosario",
+    "jalons": [
+      5673,
+      5693
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "rue du Rosaire",
+    "jalons": [
+      5697,
+      5711
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Cerro de la",
+    "jalons": [
+      6291,
+      6302
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Cornejo",
+    "jalons": [
+      7971,
+      7978
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Cornejo",
+    "jalons": [
+      8354,
+      8361
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Ciboto",
+    "jalons": [
+      8682,
+      8688
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Laisse-moi",
+    "jalons": [
+      8922,
+      8932
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Rafaël",
+    "jalons": [
+      9121,
+      9127
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Albaceyte",
+    "jalons": [
+      10376,
+      10385
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "ut pas le moins du monde déconcerté de la fuite de",
+    "jalons": [
+      10752,
+      10802
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "don Ramon",
+    "jalons": [
+      11494,
+      11503
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      11508,
+      11513
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "don Aguilar",
+    "jalons": [
+      11861,
+      11872
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Don Inigo",
+    "jalons": [
+      13264,
+      13273
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Ramon Garillas",
+    "jalons": [
+      13483,
+      13497
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "de don Ramon Garillas",
+    "jalons": [
+      14165,
+      14186
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "L'hacienda del milagro  Les environs d'Hermosillo",
+    "jalons": [
+      14268,
+      14317
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Le chemin qui conduit de cette ville",
+    "jalons": [
+      14347,
+      14383
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Milagro",
+    "jalons": [
+      15563,
+      15570
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "don Ramon Garillas de Saavedra",
+    "jalons": [
+      19975,
+      20005
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Le mariage de don Ramon et de doña Jesusita",
+    "jalons": [
+      20751,
+      20794
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "rio Gila",
+    "jalons": [
+      21574,
+      21582
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Pour don Ramon",
+    "jalons": [
+      22588,
+      22602
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Eusébio",
+    "jalons": [
+      23514,
+      23521
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Eusébio",
+    "jalons": [
+      23955,
+      23962
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Derrière les fauteuils un Christ en ivoire de",
+    "jalons": [
+      25185,
+      25230
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Ramon en s'élançant hors de la salle",
+    "jalons": [
+      26551,
+      26587
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "dans la plaine",
+    "jalons": [
+      26609,
+      26623
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "don Ramon",
+    "jalons": [
+      27136,
+      27145
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Don Ramon lui aussi",
+    "jalons": [
+      27593,
+      27612
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Malheur",
+    "jalons": [
+      28709,
+      28716
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "Nô Eusébio",
+    "jalons": [
+      29610,
+      29620
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Inigo Albaceyte",
+    "jalons": [
+      31724,
+      31739
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Hermosillo",
+    "jalons": [
+      32015,
+      32025
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "don Inigo",
+    "jalons": [
+      32280,
+      32289
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "je vous jure que lorsque je suis sorti hier soir de la ville",
+    "jalons": [
+      32291,
+      32351
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      33427,
+      33432
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Ramon",
+    "jalons": [
+      33661,
+      33666
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Soyez",
+    "jalons": [
+      33786,
+      33791
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "don Inigo",
+    "jalons": [
+      33804,
+      33813
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Le juez de letras",
+    "jalons": [
+      34218,
+      34235
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      34256,
+      34262
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "don Ramon",
+    "jalons": [
+      34271,
+      34280
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "don Inigo Albaceyte",
+    "jalons": [
+      34412,
+      34431
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "Don Ramon Garillas",
+    "jalons": [
+      36107,
+      36125
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "de Rafaël",
+    "jalons": [
+      36342,
+      36351
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Don Ramon se leva",
+    "jalons": [
+      37324,
+      37341
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "Hermosillo",
+    "jalons": [
+      37830,
+      37840
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Doña Jesusita",
+    "jalons": [
+      38888,
+      38901
+    ]
+  },
+  "entite_75": {
+    "label": "PER",
+    "text": "Don Rafaël",
+    "jalons": [
+      41015,
+      41025
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      41790,
+      41795
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Don Ramon lui",
+    "jalons": [
+      42274,
+      42287
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "Doña Jesusita",
+    "jalons": [
+      42385,
+      42398
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Rafaël",
+    "jalons": [
+      42490,
+      42496
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "La mère  Deux",
+    "jalons": [
+      42992,
+      43005
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Don Ramon",
+    "jalons": [
+      44876,
+      44885
+    ]
+  },
+  "entite_82": {
+    "label": "PER",
+    "text": "Don Ramon",
+    "jalons": [
+      45146,
+      45155
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Don Ramon",
+    "jalons": [
+      45465,
+      45474
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "Don Ramon tressaillit",
+    "jalons": [
+      46368,
+      46389
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "Ramon",
+    "jalons": [
+      47418,
+      47423
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "Rafaël",
+    "jalons": [
+      47609,
+      47615
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "Ramon",
+    "jalons": [
+      49155,
+      49160
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "Don Ra",
+    "jalons": [
+      50170,
+      50176
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Don Ramon descendit de cheval",
+    "jalons": [
+      50745,
+      50774
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Jesusita",
+    "jalons": [
+      50779,
+      50787
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Don Ramon",
+    "jalons": [
+      52283,
+      52292
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "Jesus",
+    "jalons": [
+      53755,
+      53760
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Milagro",
+    "jalons": [
+      53992,
+      53999
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "Doña Jesusita",
+    "jalons": [
+      54002,
+      54015
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "Don Ramon",
+    "jalons": [
+      54054,
+      54063
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "Don Ramon",
+    "jalons": [
+      54504,
+      54513
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Eusébio",
+    "jalons": [
+      54897,
+      54904
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "Blanc",
+    "jalons": [
+      55152,
+      55157
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Canadienne",
+    "jalons": [
+      55458,
+      55468
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "l'Arkansas et la rivière Rouge",
+    "jalons": [
+      55470,
+      55500
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "Auss",
+    "jalons": [
+      55804,
+      55808
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Les Delawares",
+    "jalons": [
+      55913,
+      55926
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Pawnees",
+    "jalons": [
+      56142,
+      56149
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Aussi la prairie",
+    "jalons": [
+      56789,
+      56805
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Blanc",
+    "jalons": [
+      57989,
+      57994
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      64523,
+      64532
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Les Comanches",
+    "jalons": [
+      65056,
+      65069
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      66227,
+      66236
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      66745,
+      66754
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Le Cœur-Loyal",
+    "jalons": [
+      67596,
+      67609
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      68085,
+      68088
+    ]
+  },
+  "entite_112": {
+    "label": "ORG",
+    "text": "Mais la lu",
+    "jalons": [
+      71670,
+      71680
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "L'histoire",
+    "jalons": [
+      72971,
+      72981
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "Canada",
+    "jalons": [
+      73020,
+      73026
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      76071,
+      76080
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Georges Talbot",
+    "jalons": [
+      76125,
+      76139
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      76267,
+      76276
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Belhum",
+    "jalons": [
+      77818,
+      77824
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "la Tête",
+    "jalons": [
+      78329,
+      78336
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "L'Indien",
+    "jalons": [
+      78475,
+      78483
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "œur-Loyal",
+    "jalons": [
+      80896,
+      80905
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      83790,
+      83799
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      83929,
+      83937
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      84668,
+      84677
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "d'Europe",
+    "jalons": [
+      86465,
+      86473
+    ]
+  },
+  "entite_126": {
+    "label": "MISC",
+    "text": "les Châteaux Blancs",
+    "jalons": [
+      86530,
+      86549
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      87498,
+      87503
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Avant de monter",
+    "jalons": [
+      88121,
+      88136
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Cœur-Loyal enchanté de la découverte de",
+    "jalons": [
+      89148,
+      89187
+    ]
+  },
+  "entite_130": {
+    "label": "PER",
+    "text": "Belhumeur lui serra la gorge",
+    "jalons": [
+      92125,
+      92153
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Chimborazo",
+    "jalons": [
+      94776,
+      94786
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Doña Luz de Bermudez",
+    "jalons": [
+      98316,
+      98336
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Heureuse de",
+    "jalons": [
+      100090,
+      100101
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      103622,
+      103627
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "Agir",
+    "jalons": [
+      108862,
+      108866
+    ]
+  },
+  "entite_136": {
+    "label": "MISC",
+    "text": "Alors les chevaux",
+    "jalons": [
+      109191,
+      109208
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "Peau-Rouge",
+    "jalons": [
+      110474,
+      110484
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      112010,
+      112020
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "Comanches",
+    "jalons": [
+      112629,
+      112638
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      114350,
+      114355
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      115511,
+      115517
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "La vue de",
+    "jalons": [
+      119760,
+      119769
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Doña Luz",
+    "jalons": [
+      125257,
+      125265
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Commandez",
+    "jalons": [
+      126128,
+      126137
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Alors",
+    "jalons": [
+      126291,
+      126296
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "au Babillard",
+    "jalons": [
+      126452,
+      126464
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      127471,
+      127478
+    ]
+  },
+  "entite_148": {
+    "label": "MISC",
+    "text": "monceau de plantes et de bois",
+    "jalons": [
+      128691,
+      128720
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "Doña Luz",
+    "jalons": [
+      130747,
+      130755
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Gardez",
+    "jalons": [
+      131291,
+      131297
+    ]
+  },
+  "entite_151": {
+    "label": "MISC",
+    "text": "Ces deux",
+    "jalons": [
+      133545,
+      133553
+    ]
+  },
+  "entite_152": {
+    "label": "MISC",
+    "text": "Régences d'Alger et de Tripoli et dans lequel",
+    "jalons": [
+      134046,
+      134091
+    ]
+  },
+  "entite_153": {
+    "label": "PER",
+    "text": "de Blancs",
+    "jalons": [
+      135186,
+      135195
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Syracuse",
+    "jalons": [
+      135312,
+      135320
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      135322,
+      135326
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      135330,
+      135338
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Blancs-Yeux",
+    "jalons": [
+      138207,
+      138218
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Blancs-Yeux",
+    "jalons": [
+      138762,
+      138773
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Blancs-Yeux",
+    "jalons": [
+      139241,
+      139252
+    ]
+  },
+  "entite_160": {
+    "label": "MISC",
+    "text": "Arrivé sur la lisière de la",
+    "jalons": [
+      141404,
+      141431
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Donnant",
+    "jalons": [
+      142118,
+      142125
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "Sautant",
+    "jalons": [
+      143857,
+      143864
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Tel",
+    "jalons": [
+      144891,
+      144894
+    ]
+  },
+  "entite_164": {
+    "label": "MISC",
+    "text": "Tirant alors un pistolet de sa ceinture",
+    "jalons": [
+      145932,
+      145971
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Trêve de raillerie",
+    "jalons": [
+      146406,
+      146424
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Bourreau",
+    "jalons": [
+      150494,
+      150502
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      153243,
+      153248
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      156163,
+      156172
+    ]
+  },
+  "entite_169": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      159215,
+      159220
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Frère",
+    "jalons": [
+      162113,
+      162118
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      162427,
+      162436
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      162763,
+      162772
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Espérez",
+    "jalons": [
+      165299,
+      165306
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      165326,
+      165335
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "Celui-ci la lui donna",
+    "jalons": [
+      165834,
+      165855
+    ]
+  },
+  "entite_176": {
+    "label": "MISC",
+    "text": "Déjà je sentais que la mort qui avait",
+    "jalons": [
+      167955,
+      167992
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      169402,
+      169408
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Doña Luz",
+    "jalons": [
+      171334,
+      171342
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      171521,
+      171528
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      171574,
+      171581
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      173583,
+      173592
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      174588,
+      174590
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "Belhumeur et le Cœur-Loyal",
+    "jalons": [
+      176252,
+      176278
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "L'aspect de la",
+    "jalons": [
+      176952,
+      176966
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "infaillible de l'homme de guerre",
+    "jalons": [
+      179131,
+      179163
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": "Le marché  Les Indiens et les",
+    "jalons": [
+      182180,
+      182209
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Kennedy",
+    "jalons": [
+      183233,
+      183240
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Kennedy",
+    "jalons": [
+      183841,
+      183848
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Continuez",
+    "jalons": [
+      185333,
+      185342
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Kennedy",
+    "jalons": [
+      186354,
+      186361
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      189297,
+      189302
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Babillard",
+    "jalons": [
+      189304,
+      189313
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Luz",
+    "jalons": [
+      189659,
+      189662
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "irie de lieu",
+    "jalons": [
+      189952,
+      189964
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Viens",
+    "jalons": [
+      190971,
+      190976
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Franck",
+    "jalons": [
+      190978,
+      190984
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "Kennedy",
+    "jalons": [
+      190990,
+      190997
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Kennedy",
+    "jalons": [
+      191092,
+      191099
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Rien de bien",
+    "jalons": [
+      191104,
+      191116
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Assez",
+    "jalons": [
+      191231,
+      191236
+    ]
+  },
+  "entite_201": {
+    "label": "MISC",
+    "text": "Elle coupe la prairie de l'est à l'ouest",
+    "jalons": [
+      191268,
+      191308
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      191313,
+      191317
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Franck",
+    "jalons": [
+      191319,
+      191325
+    ]
+  },
+  "entite_204": {
+    "label": "MISC",
+    "text": "Les deux hommes se mirent en selle",
+    "jalons": [
+      191542,
+      191576
+    ]
+  },
+  "entite_205": {
+    "label": "MISC",
+    "text": "Franck et toi",
+    "jalons": [
+      191581,
+      191594
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Kennedy",
+    "jalons": [
+      191596,
+      191603
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "le Babilla",
+    "jalons": [
+      191990,
+      192000
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Déjà",
+    "jalons": [
+      192508,
+      192512
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "l'esprit de doña Luz",
+    "jalons": [
+      197426,
+      197446
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "couvent de la Merced",
+    "jalons": [
+      198183,
+      198203
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "la veille de",
+    "jalons": [
+      202471,
+      202483
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "Votre sauveur de la calle de Plateros",
+    "jalons": [
+      202761,
+      202798
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      203442,
+      203450
+    ]
+  },
+  "entite_214": {
+    "label": "MISC",
+    "text": "Doña Luz avait enfin trouvé le moyen de se mettre à la recherche du",
+    "jalons": [
+      204317,
+      204384
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      204385,
+      204395
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "Lucila",
+    "jalons": [
+      206062,
+      206068
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Doña Luz",
+    "jalons": [
+      209004,
+      209012
+    ]
+  },
+  "entite_218": {
+    "label": "LOC",
+    "text": "Le Babillard",
+    "jalons": [
+      209096,
+      209108
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "Faites",
+    "jalons": [
+      210389,
+      210395
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      213768,
+      213774
+    ]
+  },
+  "entite_221": {
+    "label": "LOC",
+    "text": "La cha",
+    "jalons": [
+      215034,
+      215040
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "Dans le désert",
+    "jalons": [
+      217296,
+      217310
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Blancs",
+    "jalons": [
+      217692,
+      217698
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      222417,
+      222422
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      222473,
+      222478
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "doña Luz",
+    "jalons": [
+      222728,
+      222736
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "la cathédrale de Mexico",
+    "jalons": [
+      223291,
+      223314
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      224540,
+      224545
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "l'Élan-Noir",
+    "jalons": [
+      226645,
+      226656
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "l'Élan-Noir",
+    "jalons": [
+      226659,
+      226670
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "l'Élan-Noir",
+    "jalons": [
+      226752,
+      226763
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      227944,
+      227949
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Doña Luz",
+    "jalons": [
+      232568,
+      232576
+    ]
+  },
+  "entite_234": {
+    "label": "MISC",
+    "text": "Tandis que doña Luz",
+    "jalons": [
+      239241,
+      239260
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      240311,
+      240316
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "Je venais de Québec",
+    "jalons": [
+      242078,
+      242097
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Le Cœur-Loyal",
+    "jalons": [
+      242455,
+      242468
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Le Cœur-Loyal",
+    "jalons": [
+      242473,
+      242486
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      243293,
+      243298
+    ]
+  },
+  "entite_240": {
+    "label": "MISC",
+    "text": "Trahison  Le retour fut triste",
+    "jalons": [
+      243599,
+      243629
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "Doña Luz",
+    "jalons": [
+      243728,
+      243736
+    ]
+  },
+  "entite_242": {
+    "label": "MISC",
+    "text": "de l'Élan-Noir avec la jeune fille et le général",
+    "jalons": [
+      243835,
+      243883
+    ]
+  },
+  "entite_243": {
+    "label": "MISC",
+    "text": "Le capitaine Aguilar et le docteur",
+    "jalons": [
+      244782,
+      244816
+    ]
+  },
+  "entite_244": {
+    "label": "MISC",
+    "text": "mauvais pas dans lequel il se",
+    "jalons": [
+      245760,
+      245789
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Kennedy",
+    "jalons": [
+      247143,
+      247150
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "La garde du",
+    "jalons": [
+      249802,
+      249813
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Kennedy",
+    "jalons": [
+      253705,
+      253712
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Kennedy",
+    "jalons": [
+      254661,
+      254668
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "L'Élan-Noir",
+    "jalons": [
+      256191,
+      256202
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "l'Élan-Noir",
+    "jalons": [
+      256490,
+      256501
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      256688,
+      256693
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "de la grande Canadienne",
+    "jalons": [
+      257706,
+      257729
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "Malgré le luxe de",
+    "jalons": [
+      259171,
+      259188
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Indiens sur le sentier de la guerre",
+    "jalons": [
+      259526,
+      259561
+    ]
+  },
+  "entite_255": {
+    "label": "MISC",
+    "text": "J'ai un fils qui est un",
+    "jalons": [
+      264228,
+      264251
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "Señorita",
+    "jalons": [
+      264576,
+      264584
+    ]
+  },
+  "entite_257": {
+    "label": "PER",
+    "text": "du Comanche",
+    "jalons": [
+      265759,
+      265770
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Demain",
+    "jalons": [
+      268521,
+      268527
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Allez",
+    "jalons": [
+      268803,
+      268808
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Surtout",
+    "jalons": [
+      269017,
+      269024
+    ]
+  },
+  "entite_261": {
+    "label": "PER",
+    "text": "Eusébio",
+    "jalons": [
+      269026,
+      269033
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      269308,
+      269310
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      270658,
+      270667
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      271030,
+      271039
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "étachement de guerre",
+    "jalons": [
+      272384,
+      272404
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      272733,
+      272738
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "Demain",
+    "jalons": [
+      273291,
+      273297
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      274135,
+      274141
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      274168,
+      274178
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      274828,
+      274837
+    ]
+  },
+  "entite_271": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      276579,
+      276588
+    ]
+  },
+  "entite_272": {
+    "label": "MISC",
+    "text": "milieu des Peaux-Rouges que si elle se",
+    "jalons": [
+      276996,
+      277034
+    ]
+  },
+  "entite_273": {
+    "label": "LOC",
+    "text": "Québec",
+    "jalons": [
+      277067,
+      277073
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "lui",
+    "jalons": [
+      277495,
+      277498
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Malheur",
+    "jalons": [
+      279646,
+      279653
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "Eusébio",
+    "jalons": [
+      279721,
+      279728
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "don Rafaël",
+    "jalons": [
+      279795,
+      279805
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "Don Rafaël",
+    "jalons": [
+      280081,
+      280091
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "prisonnière de la Tête-d'Aigle",
+    "jalons": [
+      280230,
+      280260
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      280987,
+      280996
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "T'aider",
+    "jalons": [
+      281064,
+      281071
+    ]
+  },
+  "entite_282": {
+    "label": "MISC",
+    "text": "égouttants de sang et de sueur",
+    "jalons": [
+      281600,
+      281630
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Eusébio",
+    "jalons": [
+      281968,
+      281975
+    ]
+  },
+  "entite_284": {
+    "label": "MISC",
+    "text": "Rien de pittoresque et de",
+    "jalons": [
+      283254,
+      283279
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Eusébio",
+    "jalons": [
+      284475,
+      284482
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Chefs de la grande",
+    "jalons": [
+      285349,
+      285367
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "le Soleil",
+    "jalons": [
+      285918,
+      285927
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      286185,
+      286190
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "Ce matin au lever",
+    "jalons": [
+      289304,
+      289321
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      290317,
+      290322
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "le Soleil",
+    "jalons": [
+      290331,
+      290340
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      295421,
+      295423
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "ému de pitié malgré lui",
+    "jalons": [
+      298000,
+      298023
+    ]
+  },
+  "entite_294": {
+    "label": "MISC",
+    "text": "nait signe de vie que",
+    "jalons": [
+      300544,
+      300565
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      303127,
+      303132
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Dieu",
+    "jalons": [
+      304102,
+      304106
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Eusébio",
+    "jalons": [
+      305902,
+      305909
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "Cœur-L",
+    "jalons": [
+      306170,
+      306176
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "l'amour de la famille",
+    "jalons": [
+      309479,
+      309500
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "le camp des Comanches des",
+    "jalons": [
+      310725,
+      310750
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "Maître de la vie de",
+    "jalons": [
+      312048,
+      312067
+    ]
+  },
+  "entite_302": {
+    "label": "ORG",
+    "text": "Nous",
+    "jalons": [
+      312315,
+      312319
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Le Maître de la vie",
+    "jalons": [
+      313067,
+      313086
+    ]
+  },
+  "entite_304": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      314499,
+      314508
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      315119,
+      315129
+    ]
+  },
+  "entite_306": {
+    "label": "MISC",
+    "text": "Enfin la Tête-d'Aigle",
+    "jalons": [
+      316364,
+      316385
+    ]
+  },
+  "entite_307": {
+    "label": "MISC",
+    "text": "franche entre le Cœur-Loyal et la Tête-d'Aigle",
+    "jalons": [
+      318004,
+      318050
+    ]
+  },
+  "entite_308": {
+    "label": "ORG",
+    "text": "Longs Cou",
+    "jalons": [
+      318967,
+      318976
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "l'Élan-Noir",
+    "jalons": [
+      319821,
+      319832
+    ]
+  },
+  "entite_310": {
+    "label": "MISC",
+    "text": "Mexicains et de celui de Comanches",
+    "jalons": [
+      321194,
+      321228
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "Callot",
+    "jalons": [
+      321632,
+      321638
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "de Salvator Rosa",
+    "jalons": [
+      321654,
+      321670
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      322899,
+      322905
+    ]
+  },
+  "entite_314": {
+    "label": "MISC",
+    "text": "Doña Luz ! s'écria le capitaine en",
+    "jalons": [
+      328899,
+      328933
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "Donnez-moi de l'eau-de-vie",
+    "jalons": [
+      329478,
+      329504
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      337388,
+      337393
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "Moitié de",
+    "jalons": [
+      338302,
+      338311
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Dieu",
+    "jalons": [
+      351413,
+      351417
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Lui-même",
+    "jalons": [
+      352243,
+      352251
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Vou",
+    "jalons": [
+      352253,
+      352256
+    ]
+  },
+  "entite_321": {
+    "label": "ORG",
+    "text": "Le Babillard",
+    "jalons": [
+      352743,
+      352755
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      354059,
+      354065
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Alors",
+    "jalons": [
+      355312,
+      355317
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "la vue du Cœur-Loyal furent ceux de l'Élan-Noir et de nô Eusébio",
+    "jalons": [
+      357651,
+      357715
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      359278,
+      359288
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      359379,
+      359384
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "l'Élan-Noir",
+    "jalons": [
+      359903,
+      359914
+    ]
+  },
+  "entite_328": {
+    "label": "MISC",
+    "text": "En sûreté dans la hutte de l'Élan-Noir",
+    "jalons": [
+      360487,
+      360525
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      360560,
+      360564
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "la Tête-d'Aigle",
+    "jalons": [
+      364529,
+      364544
+    ]
+  },
+  "entite_331": {
+    "label": "MISC",
+    "text": "Lorsqu'il arriva devant la Tête-d'Aigle et le Cœur-Loyal",
+    "jalons": [
+      367403,
+      367459
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "Babillard",
+    "jalons": [
+      368578,
+      368587
+    ]
+  },
+  "entite_333": {
+    "label": "MISC",
+    "text": "urieux de la perte que le capitaine Aguilar lui",
+    "jalons": [
+      368640,
+      368687
+    ]
+  },
+  "entite_334": {
+    "label": "MISC",
+    "text": "déjà à Mexico il avait",
+    "jalons": [
+      371712,
+      371734
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Mexico",
+    "jalons": [
+      371847,
+      371853
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "auprès de lui",
+    "jalons": [
+      372211,
+      372224
+    ]
+  },
+  "entite_337": {
+    "label": "PER",
+    "text": "Doña Luz",
+    "jalons": [
+      374148,
+      374156
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Aussitôt",
+    "jalons": [
+      378849,
+      378857
+    ]
+  },
+  "entite_339": {
+    "label": "PER",
+    "text": "parer ceux qu'on lui lançait",
+    "jalons": [
+      379905,
+      379933
+    ]
+  },
+  "entite_340": {
+    "label": "MISC",
+    "text": "Belhumeur et l'Élan-Noir",
+    "jalons": [
+      383583,
+      383607
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "la découverte de Phébé",
+    "jalons": [
+      385487,
+      385509
+    ]
+  },
+  "entite_342": {
+    "label": "MISC",
+    "text": "Hélas ! oui, répondit la jeune fille avec un soupir de regret à l'adresse du pauvre officier",
+    "jalons": [
+      386567,
+      386659
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Caballero",
+    "jalons": [
+      388120,
+      388129
+    ]
+  },
+  "entite_344": {
+    "label": "MISC",
+    "text": "L'arrivée des chasseurs et la voix du Cœur-Loyal",
+    "jalons": [
+      389495,
+      389543
+    ]
+  },
+  "entite_345": {
+    "label": "MISC",
+    "text": "doña Luz et la mère du Cœur-Loyal",
+    "jalons": [
+      391911,
+      391944
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Le Cœur-Loyal",
+    "jalons": [
+      392527,
+      392540
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Eusébio",
+    "jalons": [
+      393377,
+      393384
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      397163,
+      397168
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Près de la mère de celui",
+    "jalons": [
+      398210,
+      398234
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "de de madame",
+    "jalons": [
+      398848,
+      398860
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "La recherche des",
+    "jalons": [
+      399827,
+      399843
+    ]
+  },
+  "entite_352": {
+    "label": "MISC",
+    "text": "mande la permission de vous",
+    "jalons": [
+      400384,
+      400411
+    ]
+  },
+  "entite_353": {
+    "label": "MISC",
+    "text": "Le capitaine Ouaktehno ! murmura le Cœur",
+    "jalons": [
+      401879,
+      401919
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "de doña Luz",
+    "jalons": [
+      404914,
+      404925
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "Depuis Mexico",
+    "jalons": [
+      404927,
+      404940
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "le Babillard",
+    "jalons": [
+      405010,
+      405022
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      406448,
+      406458
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "Mexico",
+    "jalons": [
+      407889,
+      407895
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Mexico",
+    "jalons": [
+      408200,
+      408206
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "Doña Luz",
+    "jalons": [
+      408612,
+      408620
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      409619,
+      409629
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Doña Luz",
+    "jalons": [
+      410256,
+      410264
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      413817,
+      413827
+    ]
+  },
+  "entite_364": {
+    "label": "MISC",
+    "text": "sant la tête et lançant un regard de suprême",
+    "jalons": [
+      414208,
+      414252
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Arrêtez",
+    "jalons": [
+      414412,
+      414419
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      414421,
+      414431
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "viendrai",
+    "jalons": [
+      414720,
+      414728
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      416070,
+      416079
+    ]
+  },
+  "entite_369": {
+    "label": "PER",
+    "text": "Amour  Doña Luz",
+    "jalons": [
+      416294,
+      416309
+    ]
+  },
+  "entite_370": {
+    "label": "MISC",
+    "text": "L'enfance de la jeune",
+    "jalons": [
+      416655,
+      416676
+    ]
+  },
+  "entite_371": {
+    "label": "MISC",
+    "text": "bouche de sa mère et de celle de",
+    "jalons": [
+      418818,
+      418850
+    ]
+  },
+  "entite_372": {
+    "label": "MISC",
+    "text": "la grandeur de ses idées et la délicatesse de ses",
+    "jalons": [
+      419841,
+      419890
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "ami Belhumeur",
+    "jalons": [
+      421342,
+      421355
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "lui sur cette",
+    "jalons": [
+      421376,
+      421389
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "de doña Luz",
+    "jalons": [
+      421839,
+      421850
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "de la voix de la",
+    "jalons": [
+      422778,
+      422794
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "doña Luz",
+    "jalons": [
+      426008,
+      426016
+    ]
+  },
+  "entite_378": {
+    "label": "PER",
+    "text": "Espérez",
+    "jalons": [
+      427000,
+      427007
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      428493,
+      428497
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      428820,
+      428830
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "Espérez",
+    "jalons": [
+      429485,
+      429492
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      429805,
+      429810
+    ]
+  },
+  "entite_383": {
+    "label": "MISC",
+    "text": "Tirant un briquet de sa",
+    "jalons": [
+      432129,
+      432152
+    ]
+  },
+  "entite_384": {
+    "label": "MISC",
+    "text": "Le capitaine connaissait trop bien les prairies de l'Ouest",
+    "jalons": [
+      435219,
+      435277
+    ]
+  },
+  "entite_385": {
+    "label": "LOC",
+    "text": "Franck",
+    "jalons": [
+      436768,
+      436774
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "Gonza",
+    "jalons": [
+      437243,
+      437248
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      439111,
+      439117
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      440288,
+      440294
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Vers le milieu de la",
+    "jalons": [
+      440844,
+      440864
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "de la bande",
+    "jalons": [
+      440923,
+      440934
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Caballeros",
+    "jalons": [
+      440939,
+      440949
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "Cœur-Loyal",
+    "jalons": [
+      441992,
+      442002
+    ]
+  },
+  "entite_393": {
+    "label": "MISC",
+    "text": "Ruse de guerre  Après",
+    "jalons": [
+      442081,
+      442102
+    ]
+  },
+  "entite_394": {
+    "label": "MISC",
+    "text": "Arrivé sur les bords de la rivière dont les eaux baignaient l'entrée de la",
+    "jalons": [
+      442666,
+      442740
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "Franck",
+    "jalons": [
+      446710,
+      446716
+    ]
+  },
+  "entite_396": {
+    "label": "MISC",
+    "text": "Parce que je me suis chargé moi-même de",
+    "jalons": [
+      452102,
+      452141
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Ma",
+    "jalons": [
+      453118,
+      453120
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "La loi des",
+    "jalons": [
+      454043,
+      454053
+    ]
+  },
+  "entite_399": {
+    "label": "MISC",
+    "text": "voyait les Peaux-Rouges et les chass",
+    "jalons": [
+      455132,
+      455168
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Eshis",
+    "jalons": [
+      455675,
+      455680
+    ]
+  },
+  "entite_401": {
+    "label": "MISC",
+    "text": "ou le Soleil",
+    "jalons": [
+      455681,
+      455693
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "qu'on lui",
+    "jalons": [
+      456183,
+      456192
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Doña Luz",
+    "jalons": [
+      456732,
+      456740
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Eusébio",
+    "jalons": [
+      456824,
+      456831
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      458786,
+      458791
+    ]
+  },
+  "entite_406": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      459190,
+      459197
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      463352,
+      463356
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "l'Élan-Noir",
+    "jalons": [
+      467137,
+      467148
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "Malheur",
+    "jalons": [
+      469390,
+      469397
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      472608,
+      472617
+    ]
+  },
+  "entite_411": {
+    "label": "MISC",
+    "text": "Maître de la vie",
+    "jalons": [
+      474496,
+      474512
+    ]
+  },
+  "entite_412": {
+    "label": "LOC",
+    "text": "Soleil",
+    "jalons": [
+      475256,
+      475262
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "Laisso",
+    "jalons": [
+      476154,
+      476160
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "Le Maître de la vie",
+    "jalons": [
+      476216,
+      476235
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "frère le Cœur-Loyal",
+    "jalons": [
+      476649,
+      476668
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      476893,
+      476898
+    ]
+  },
+  "entite_417": {
+    "label": "MISC",
+    "text": "les membres de la tribu et les chasseurs",
+    "jalons": [
+      477252,
+      477292
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "Franck",
+    "jalons": [
+      478543,
+      478549
+    ]
+  },
+  "entite_419": {
+    "label": "PER",
+    "text": "Franck",
+    "jalons": [
+      480279,
+      480285
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "Le chasseur le lui donna",
+    "jalons": [
+      480288,
+      480312
+    ]
+  },
+  "entite_421": {
+    "label": "MISC",
+    "text": "Merci et adieu",
+    "jalons": [
+      480317,
+      480331
+    ]
+  },
+  "entite_422": {
+    "label": "MISC",
+    "text": "Le pardon  L'entrevue du général et de",
+    "jalons": [
+      483170,
+      483208
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Hélas",
+    "jalons": [
+      483829,
+      483834
+    ]
+  },
+  "entite_424": {
+    "label": "MISC",
+    "text": "Le cœur de la jeune fille",
+    "jalons": [
+      483985,
+      484010
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "Merci de",
+    "jalons": [
+      490808,
+      490816
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "Ramon de Garillas",
+    "jalons": [
+      493519,
+      493536
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "don Ramon",
+    "jalons": [
+      494259,
+      494268
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "la Sonora",
+    "jalons": [
+      495551,
+      495560
+    ]
+  },
+  "entite_429": {
+    "label": "MISC",
+    "text": "nait dans cette partie de l'Amérique",
+    "jalons": [
+      495616,
+      495652
+    ]
+  },
+  "entite_430": {
+    "label": "LOC",
+    "text": "Mexico",
+    "jalons": [
+      495861,
+      495867
+    ]
+  },
+  "entite_431": {
+    "label": "LOC",
+    "text": "Bravo",
+    "jalons": [
+      496797,
+      496802
+    ]
+  },
+  "entite_432": {
+    "label": "MISC",
+    "text": "le comte de Raousset à la tête de moins de deux",
+    "jalons": [
+      496903,
+      496950
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "Français",
+    "jalons": [
+      496966,
+      496974
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Guaymas",
+    "jalons": [
+      497242,
+      497249
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      502367,
+      502376
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Esa casa se de",
+    "jalons": [
+      504149,
+      504163
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      505623,
+      505632
+    ]
+  },
+  "entite_438": {
+    "label": "PER",
+    "text": "don Rafaël",
+    "jalons": [
+      507928,
+      507938
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      508121,
+      508131
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Maître de la vie",
+    "jalons": [
+      508188,
+      508204
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "Leurs",
+    "jalons": [
+      509432,
+      509437
+    ]
+  },
+  "entite_442": {
+    "label": "MISC",
+    "text": "Un soir que don Rafaël et moi nous revenions de la",
+    "jalons": [
+      510139,
+      510189
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      511379,
+      511385
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "Belhumeur",
+    "jalons": [
+      512861,
+      512870
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "l'Élan-Noir",
+    "jalons": [
+      512872,
+      512883
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "la Tête-d'Aigle",
+    "jalons": [
+      512885,
+      512900
+    ]
+  },
+  "entite_447": {
+    "label": "MISC",
+    "text": "les discours des Indiens",
+    "jalons": [
+      514601,
+      514625
+    ]
+  }
+}

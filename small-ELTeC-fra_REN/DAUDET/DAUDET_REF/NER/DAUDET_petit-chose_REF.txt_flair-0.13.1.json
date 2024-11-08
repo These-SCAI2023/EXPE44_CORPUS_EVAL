@@ -1,0 +1,7554 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "LA FABRIQUE  Je suis né le",
+    "jalons": [
+      24,
+      50
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      261,
+      272
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "La vieille Annou",
+    "jalons": [
+      955,
+      971
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "la nouvelle de mon apparition dans le monde et celle de la disparition d'un de ses clients de",
+    "jalons": [
+      1080,
+      1173
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      1174,
+      1183
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      1374,
+      1383
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "fus la mauvaise étoile de mes",
+    "jalons": [
+      1536,
+      1565
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      1697,
+      1706
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "besoin de donner le",
+    "jalons": [
+      4099,
+      4118
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Autour de lui",
+    "jalons": [
+      5169,
+      5182
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Mme Eyssette",
+    "jalons": [
+      5665,
+      5677
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "frère Jacques",
+    "jalons": [
+      5862,
+      5875
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      6324,
+      6335
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Jacques grandissait",
+    "jalons": [
+      6577,
+      6596
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "fidèle Vendre",
+    "jalons": [
+      7667,
+      7680
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      7798,
+      7813
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Robinson",
+    "jalons": [
+      7989,
+      7997
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Robinson",
+    "jalons": [
+      8925,
+      8933
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Rouget",
+    "jalons": [
+      9038,
+      9044
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Dieu",
+    "jalons": [
+      10629,
+      10633
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      10635,
+      10640
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Robinson",
+    "jalons": [
+      11843,
+      11851
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Ce jour-là",
+    "jalons": [
+      12328,
+      12338
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "la voix du concierge Colombe",
+    "jalons": [
+      12816,
+      12844
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      13856,
+      13860
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "J'étais",
+    "jalons": [
+      14814,
+      14821
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Pourtant",
+    "jalons": [
+      14840,
+      14848
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "M. Eyssette était déjà",
+    "jalons": [
+      15195,
+      15217
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      15220,
+      15224
+    ]
+  },
+  "entite_29": {
+    "label": "ORG",
+    "text": "Je partis donc en compagnie de Jacques, de ma mère et de la vieille",
+    "jalons": [
+      15293,
+      15360
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      15831,
+      15835
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      15912,
+      15927
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      16240,
+      16255
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Rhône",
+    "jalons": [
+      16512,
+      16517
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Géniès",
+    "jalons": [
+      16657,
+      16663
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Montélimart",
+    "jalons": [
+      16679,
+      16690
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "C'était Lyon",
+    "jalons": [
+      18000,
+      18012
+    ]
+  },
+  "entite_37": {
+    "label": "ORG",
+    "text": "Dieu !",
+    "jalons": [
+      19448,
+      19454
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      21555,
+      21559
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Rhône",
+    "jalons": [
+      22088,
+      22093
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "Arrivée dans le Midi",
+    "jalons": [
+      22839,
+      22859
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      23403,
+      23414
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Jacques, tu es",
+    "jalons": [
+      23555,
+      23569
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Jacques, tu es",
+    "jalons": [
+      23581,
+      23595
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Écoutez la scène de la",
+    "jalons": [
+      23800,
+      23822
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      24069,
+      24080
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Jacques qui y va",
+    "jalons": [
+      24113,
+      24129
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      24188,
+      24195
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      24309,
+      24320
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "lui dire de ne pas la casser",
+    "jalons": [
+      24350,
+      24378
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Ici",
+    "jalons": [
+      24409,
+      24412
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      25614,
+      25618
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "malheur",
+    "jalons": [
+      28673,
+      28680
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Un ami de la famille",
+    "jalons": [
+      28715,
+      28735
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      29166,
+      29177
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      29487,
+      29491
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Jacques faisait bien de",
+    "jalons": [
+      30611,
+      30634
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "gros carton et de la colle",
+    "jalons": [
+      30672,
+      30698
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "J'ai",
+    "jalons": [
+      31739,
+      31743
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Et la voix pleurarde de Jacques qui reprenait",
+    "jalons": [
+      31779,
+      31824
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "De la place des Terreaux à la rue Lanterne",
+    "jalons": [
+      32818,
+      32860
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      33836,
+      33847
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      33945,
+      33951
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Restez",
+    "jalons": [
+      36592,
+      36598
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      37083,
+      37089
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Eyssette",
+    "jalons": [
+      39923,
+      39931
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Finet",
+    "jalons": [
+      40065,
+      40070
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      40359,
+      40370
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      41573,
+      41577
+    ]
+  },
+  "entite_69": {
+    "label": "MISC",
+    "text": "éré dans les habitudes de l'ami Jacques",
+    "jalons": [
+      42496,
+      42535
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      42537,
+      42544
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "la porte de notre chambre, cette idée de folie me revint dans la tête et j'eus",
+    "jalons": [
+      43526,
+      43604
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      43736,
+      43742
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      43941,
+      43948
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Jacques ! Tu fais",
+    "jalons": [
+      44040,
+      44057
+    ]
+  },
+  "entite_75": {
+    "label": "MISC",
+    "text": "C'était si grand que j'en eus",
+    "jalons": [
+      44309,
+      44338
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      44383,
+      44390
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "frère Jacques",
+    "jalons": [
+      44396,
+      44409
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      44704,
+      44711
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Eyssette",
+    "jalons": [
+      44749,
+      44757
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      44759,
+      44766
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      45236,
+      45243
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Voix",
+    "jalons": [
+      45560,
+      45564
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      45737,
+      45744
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "Jacques m'avait",
+    "jalons": [
+      46505,
+      46520
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      48089,
+      48100
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "M. Eyssette",
+    "jalons": [
+      48267,
+      48278
+    ]
+  },
+  "entite_87": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      48542,
+      48549
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      48652,
+      48656
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Jacques vint",
+    "jalons": [
+      49136,
+      49148
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Daniel de fermer la porte",
+    "jalons": [
+      49260,
+      49285
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "l'oncle Baptiste",
+    "jalons": [
+      49434,
+      49450
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "Jacques restera",
+    "jalons": [
+      49452,
+      49467
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      49470,
+      49474
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "qui avait amené les Eyssette à",
+    "jalons": [
+      50688,
+      50718
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      50719,
+      50723
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "Jacques voulait",
+    "jalons": [
+      51243,
+      51258
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      51715,
+      51719
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "Rhône",
+    "jalons": [
+      52007,
+      52012
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "l'horizon",
+    "jalons": [
+      52224,
+      52233
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "Vienne",
+    "jalons": [
+      52615,
+      52621
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Sarlande",
+    "jalons": [
+      54987,
+      54995
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      56091,
+      56097
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Des",
+    "jalons": [
+      56317,
+      56320
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "Daniel !",
+    "jalons": [
+      56895,
+      56903
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "Et les voilà dans les bras l'un de l'autre",
+    "jalons": [
+      56958,
+      57000
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Dieu",
+    "jalons": [
+      57012,
+      57016
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Jean Peyrol",
+    "jalons": [
+      57141,
+      57152
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Daniel !",
+    "jalons": [
+      57300,
+      57308
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      57600,
+      57615
+    ]
+  },
+  "entite_110": {
+    "label": "PER",
+    "text": "Jean Peyrol",
+    "jalons": [
+      57629,
+      57640
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "M. Daniel n'a",
+    "jalons": [
+      57858,
+      57871
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Jean Peyrol",
+    "jalons": [
+      57927,
+      57938
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "Le petit",
+    "jalons": [
+      58353,
+      58361
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "Daniel gagne",
+    "jalons": [
+      58784,
+      58796
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      58855,
+      58861
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Jean Peyrol",
+    "jalons": [
+      58868,
+      58879
+    ]
+  },
+  "entite_117": {
+    "label": "MISC",
+    "text": "déjà quatre ou cinq ans",
+    "jalons": [
+      58905,
+      58928
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "Jean Peyrol",
+    "jalons": [
+      59072,
+      59083
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      59086,
+      59101
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      59447,
+      59454
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      59694,
+      59698
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "la rue Lanterne",
+    "jalons": [
+      59700,
+      59715
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "Daniel a quelqu'un de la ville à voir, ses amis du Tour de France ne veulent pas le",
+    "jalons": [
+      60082,
+      60165
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Jean Peyrol",
+    "jalons": [
+      60295,
+      60306
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "Chose veut voir avant de partir",
+    "jalons": [
+      60419,
+      60450
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      60870,
+      60880
+    ]
+  },
+  "entite_127": {
+    "label": "MISC",
+    "text": "Déjà les",
+    "jalons": [
+      61060,
+      61068
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      61300,
+      61315
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      61318,
+      61333
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Au-dessus de la",
+    "jalons": [
+      61592,
+      61607
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Cévennes",
+    "jalons": [
+      61847,
+      61855
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Monsieur Viot",
+    "jalons": [
+      67654,
+      67667
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "M. Viot",
+    "jalons": [
+      67743,
+      67750
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Serriè",
+    "jalons": [
+      68090,
+      68096
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "M. Viot",
+    "jalons": [
+      68941,
+      68948
+    ]
+  },
+  "entite_136": {
+    "label": "MISC",
+    "text": "d'escrime et de gymnastique au collège de Sarlande",
+    "jalons": [
+      71170,
+      71220
+    ]
+  },
+  "entite_137": {
+    "label": "MISC",
+    "text": "la maison Eyssette et de",
+    "jalons": [
+      72206,
+      72230
+    ]
+  },
+  "entite_138": {
+    "label": "PER",
+    "text": "M. Viot",
+    "jalons": [
+      73867,
+      73874
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "Un seul de ces messieurs me",
+    "jalons": [
+      74250,
+      74277
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      74702,
+      74717
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Ayant",
+    "jalons": [
+      74745,
+      74750
+    ]
+  },
+  "entite_142": {
+    "label": "MISC",
+    "text": "Sans me laisser le temps de répondre",
+    "jalons": [
+      75818,
+      75854
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Roger",
+    "jalons": [
+      79258,
+      79263
+    ]
+  },
+  "entite_144": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      79334,
+      79349
+    ]
+  },
+  "entite_145": {
+    "label": "ORG",
+    "text": "Vous",
+    "jalons": [
+      79351,
+      79355
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "Daniel Eyssette donna le",
+    "jalons": [
+      79402,
+      79426
+    ]
+  },
+  "entite_147": {
+    "label": "MISC",
+    "text": "Infortunes de Jean Lapin",
+    "jalons": [
+      82152,
+      82176
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      82547,
+      82554
+    ]
+  },
+  "entite_149": {
+    "label": "MISC",
+    "text": "tique de l'histoire de",
+    "jalons": [
+      82944,
+      82966
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Jean Lapin",
+    "jalons": [
+      82967,
+      82977
+    ]
+  },
+  "entite_151": {
+    "label": "PER",
+    "text": "Jean Lapin",
+    "jalons": [
+      83095,
+      83105
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "M. Viot",
+    "jalons": [
+      84517,
+      84524
+    ]
+  },
+  "entite_153": {
+    "label": "PER",
+    "text": "Mais le petit",
+    "jalons": [
+      87044,
+      87057
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Il s'agissait bien de la Muse",
+    "jalons": [
+      87085,
+      87114
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "J'avais",
+    "jalons": [
+      89222,
+      89229
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Gardez",
+    "jalons": [
+      89250,
+      89256
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "de donner à ça le nom d'élève",
+    "jalons": [
+      90625,
+      90654
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Bamban",
+    "jalons": [
+      91013,
+      91019
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Bamban",
+    "jalons": [
+      91921,
+      91927
+    ]
+  },
+  "entite_160": {
+    "label": "MISC",
+    "text": "dimanche de fête et de grand soleil",
+    "jalons": [
+      92001,
+      92036
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "de la ville des rires",
+    "jalons": [
+      93185,
+      93206
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "collège de Lyon",
+    "jalons": [
+      94065,
+      94080
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Bamban",
+    "jalons": [
+      95036,
+      95042
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Bamban",
+    "jalons": [
+      97252,
+      97258
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Bamban",
+    "jalons": [
+      97265,
+      97271
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Veillon",
+    "jalons": [
+      98909,
+      98916
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "niel Eyssette",
+    "jalons": [
+      100352,
+      100365
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "collège de Sarlande",
+    "jalons": [
+      100410,
+      100429
+    ]
+  },
+  "entite_169": {
+    "label": "LOC",
+    "text": "J'aurai",
+    "jalons": [
+      101369,
+      101376
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Bien des",
+    "jalons": [
+      103643,
+      103651
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Condillac",
+    "jalons": [
+      104437,
+      104446
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Condillac de la terre",
+    "jalons": [
+      106543,
+      106564
+    ]
+  },
+  "entite_173": {
+    "label": "MISC",
+    "text": "J'atteignis le Condillac sur le troisième rayon",
+    "jalons": [
+      106808,
+      106855
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Bon Dieu",
+    "jalons": [
+      108043,
+      108051
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Il faut l'aimer",
+    "jalons": [
+      108057,
+      108072
+    ]
+  },
+  "entite_176": {
+    "label": "MISC",
+    "text": "Jusqu'à la fin de l'année",
+    "jalons": [
+      109581,
+      109606
+    ]
+  },
+  "entite_177": {
+    "label": "MISC",
+    "text": "ait sur le sien le jour qui venait de finir",
+    "jalons": [
+      110080,
+      110123
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "Encore un de",
+    "jalons": [
+      110128,
+      110140
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      115524,
+      115539
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      116201,
+      116207
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Daniel !..",
+    "jalons": [
+      116209,
+      116219
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      116361,
+      116367
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      116373,
+      116379
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      117177,
+      117183
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "Cévennes",
+    "jalons": [
+      117751,
+      117759
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Pas de Daniel",
+    "jalons": [
+      117880,
+      117893
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "M. Viot",
+    "jalons": [
+      118473,
+      118480
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Jacques ?",
+    "jalons": [
+      119165,
+      119174
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Cévennes",
+    "jalons": [
+      120209,
+      120217
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      120673,
+      120678
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "t-il aujourd'hui",
+    "jalons": [
+      120832,
+      120848
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "Adieu les beaux jours de l'infirmerie",
+    "jalons": [
+      125035,
+      125072
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      125422,
+      125425
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Le matin de la",
+    "jalons": [
+      126109,
+      126123
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "Spiritus",
+    "jalons": [
+      126211,
+      126219
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Voici M. le",
+    "jalons": [
+      126225,
+      126236
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "Derrière lui",
+    "jalons": [
+      126318,
+      126330
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Spiritus",
+    "jalons": [
+      126940,
+      126948
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Spiritus",
+    "jalons": [
+      127260,
+      127268
+    ]
+  },
+  "entite_200": {
+    "label": "MISC",
+    "text": "la messe du Saint-Esprit",
+    "jalons": [
+      127292,
+      127316
+    ]
+  },
+  "entite_201": {
+    "label": "PER",
+    "text": "M. Viot",
+    "jalons": [
+      128925,
+      128932
+    ]
+  },
+  "entite_202": {
+    "label": "MISC",
+    "text": "mande la permission de vous les lire",
+    "jalons": [
+      129024,
+      129060
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Limoux",
+    "jalons": [
+      129908,
+      129914
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "L'élève Ménalque",
+    "jalons": [
+      130542,
+      130558
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "M. Viot",
+    "jalons": [
+      131601,
+      131608
+    ]
+  },
+  "entite_206": {
+    "label": "ORG",
+    "text": "Avec la Saint-T",
+    "jalons": [
+      132081,
+      132096
+    ]
+  },
+  "entite_207": {
+    "label": "MISC",
+    "text": "Viot, dans le collège modèle de Sarlande",
+    "jalons": [
+      133137,
+      133177
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Boucoyran",
+    "jalons": [
+      135231,
+      135240
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "de la noblesse cévenole au collège de Sarlande",
+    "jalons": [
+      135683,
+      135729
+    ]
+  },
+  "entite_210": {
+    "label": "MISC",
+    "text": "Dans le collège",
+    "jalons": [
+      135858,
+      135873
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "Monsieur de Boucoyran",
+    "jalons": [
+      136463,
+      136484
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Sortez",
+    "jalons": [
+      136809,
+      136815
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "Bravo",
+    "jalons": [
+      138233,
+      138238
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "Boucoyran",
+    "jalons": [
+      138265,
+      138274
+    ]
+  },
+  "entite_215": {
+    "label": "PER",
+    "text": "M. Viot",
+    "jalons": [
+      138607,
+      138614
+    ]
+  },
+  "entite_216": {
+    "label": "MISC",
+    "text": "J'eus peur",
+    "jalons": [
+      138823,
+      138833
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "M. de Boucoyran",
+    "jalons": [
+      141074,
+      141089
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "M. de Boucoyran le père",
+    "jalons": [
+      141511,
+      141534
+    ]
+  },
+  "entite_219": {
+    "label": "MISC",
+    "text": "L'affaire Boucoyran avait achevé de tuer",
+    "jalons": [
+      142345,
+      142385
+    ]
+  },
+  "entite_220": {
+    "label": "ORG",
+    "text": "Quand le jeune Boucoyran",
+    "jalons": [
+      142822,
+      142846
+    ]
+  },
+  "entite_221": {
+    "label": "ORG",
+    "text": "Le journal de l'oppositi",
+    "jalons": [
+      143336,
+      143360
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "M. de Boucoyran",
+    "jalons": [
+      144284,
+      144299
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      144620,
+      144627
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Boucoyran",
+    "jalons": [
+      144629,
+      144638
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      144645,
+      144652
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "la Prairie",
+    "jalons": [
+      144897,
+      144907
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Roger",
+    "jalons": [
+      145470,
+      145475
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      146202,
+      146207
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "înmes aussi du prix qui serait un prix",
+    "jalons": [
+      146432,
+      146470
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Monsieur Daniel",
+    "jalons": [
+      146685,
+      146700
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Avec",
+    "jalons": [
+      147964,
+      147968
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Boucoyran",
+    "jalons": [
+      149218,
+      149227
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Roger vint",
+    "jalons": [
+      149559,
+      149569
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      151390,
+      151395
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Mirabeau de Sophie",
+    "jalons": [
+      151993,
+      152011
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Fanfan la Tulipe",
+    "jalons": [
+      153428,
+      153444
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      154039,
+      154044
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "lui donna",
+    "jalons": [
+      154103,
+      154112
+    ]
+  },
+  "entite_239": {
+    "label": "MISC",
+    "text": "C'était une lettre de Jacques que je venais de",
+    "jalons": [
+      155675,
+      155721
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      155759,
+      155764
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      155788,
+      155793
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Cher Daniel",
+    "jalons": [
+      155830,
+      155841
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      155923,
+      155928
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "M. le curé de Saint-Nizier",
+    "jalons": [
+      156173,
+      156199
+    ]
+  },
+  "entite_245": {
+    "label": "MISC",
+    "text": "Heureusement la Providence m'a protégé tout de",
+    "jalons": [
+      156201,
+      156247
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      156620,
+      156626
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "la jolie ville",
+    "jalons": [
+      156628,
+      156642
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      156650,
+      156655
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "Ici",
+    "jalons": [
+      156658,
+      156661
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      158193,
+      158199
+    ]
+  },
+  "entite_251": {
+    "label": "MISC",
+    "text": "Toute ma vie de ces",
+    "jalons": [
+      159244,
+      159263
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Monsieur Daniel",
+    "jalons": [
+      159845,
+      159860
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "La lettre de Jacques avec ses histoires de",
+    "jalons": [
+      160529,
+      160571
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "de joie",
+    "jalons": [
+      160768,
+      160775
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "Daniel Eyssette que j'ai",
+    "jalons": [
+      162008,
+      162032
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      162065,
+      162080
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "voici des",
+    "jalons": [
+      162817,
+      162826
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      166352,
+      166358
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      166820,
+      166826
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      169526,
+      169533
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      169721,
+      169726
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Le moyen de",
+    "jalons": [
+      170053,
+      170064
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      170470,
+      170475
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "J'étais",
+    "jalons": [
+      170477,
+      170484
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "du côté de la Prairie, à la recherche de",
+    "jalons": [
+      171332,
+      171372
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "L'ANNEAU DE FER  Des portes de",
+    "jalons": [
+      171412,
+      171442
+    ]
+  },
+  "entite_267": {
+    "label": "MISC",
+    "text": "Sarlande à la Prairie il y",
+    "jalons": [
+      171443,
+      171469
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      172058,
+      172063
+    ]
+  },
+  "entite_269": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      172068,
+      172075
+    ]
+  },
+  "entite_270": {
+    "label": "ORG",
+    "text": "Quel jardin",
+    "jalons": [
+      173556,
+      173567
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Roger parlait de moi",
+    "jalons": [
+      174139,
+      174159
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "Alors",
+    "jalons": [
+      176116,
+      176121
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "Roger, et en avant la grande scène",
+    "jalons": [
+      176154,
+      176188
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      176634,
+      176637
+    ]
+  },
+  "entite_275": {
+    "label": "MISC",
+    "text": "J'eus envie de sortir de la tonnelle",
+    "jalons": [
+      177309,
+      177345
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "frère Jacques",
+    "jalons": [
+      178269,
+      178282
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "Dénoncer Roger ne m'aurait",
+    "jalons": [
+      178285,
+      178311
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "Sarlande",
+    "jalons": [
+      179191,
+      179199
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "Monsieur Jacques Eyssette",
+    "jalons": [
+      179712,
+      179737
+    ]
+  },
+  "entite_280": {
+    "label": "PER",
+    "text": "rue Bonaparte",
+    "jalons": [
+      179739,
+      179752
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      179756,
+      179761
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Pardonne-moi",
+    "jalons": [
+      179766,
+      179778
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      180191,
+      180198
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Adieu",
+    "jalons": [
+      180719,
+      180724
+    ]
+  },
+  "entite_285": {
+    "label": "PER",
+    "text": "Jacques !",
+    "jalons": [
+      180726,
+      180735
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "Souviens-toi de Daniel",
+    "jalons": [
+      181167,
+      181189
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "DANIEL EYSSETTE",
+    "jalons": [
+      181683,
+      181698
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "Jacques ! Adieu Mme Eyssette",
+    "jalons": [
+      184031,
+      184059
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      187182,
+      187185
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "Cela",
+    "jalons": [
+      187898,
+      187902
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Germane",
+    "jalons": [
+      188405,
+      188412
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      189343,
+      189348
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "J'ai bien",
+    "jalons": [
+      189936,
+      189945
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      189957,
+      189962
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "la grande bibliothèque",
+    "jalons": [
+      190464,
+      190486
+    ]
+  },
+  "entite_296": {
+    "label": "PER",
+    "text": "M. Barbette",
+    "jalons": [
+      192053,
+      192064
+    ]
+  },
+  "entite_297": {
+    "label": "PER",
+    "text": "M. Cassagne",
+    "jalons": [
+      192078,
+      192089
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "Cassagne",
+    "jalons": [
+      192443,
+      192451
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "Sans répondre",
+    "jalons": [
+      192454,
+      192467
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      196080,
+      196083
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "Fouette",
+    "jalons": [
+      199161,
+      199168
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      199480,
+      199487
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Baptiste",
+    "jalons": [
+      199594,
+      199602
+    ]
+  },
+  "entite_304": {
+    "label": "MISC",
+    "text": "gendarme de femme avare et maigre qui lui",
+    "jalons": [
+      199682,
+      199723
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      200696,
+      200700
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Joli",
+    "jalons": [
+      202169,
+      202173
+    ]
+  },
+  "entite_307": {
+    "label": "PER",
+    "text": "L'oncle Baptiste",
+    "jalons": [
+      202220,
+      202236
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      202344,
+      202349
+    ]
+  },
+  "entite_309": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      202652,
+      202658
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      202702,
+      202707
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "la joie de retrouver Daniel lui",
+    "jalons": [
+      203273,
+      203304
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "Hier elle",
+    "jalons": [
+      203322,
+      203331
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Baptiste",
+    "jalons": [
+      204496,
+      204504
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      204635,
+      204640
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      206030,
+      206035
+    ]
+  },
+  "entite_316": {
+    "label": "MISC",
+    "text": "l'ami Jacques à la gare",
+    "jalons": [
+      206058,
+      206081
+    ]
+  },
+  "entite_317": {
+    "label": "MISC",
+    "text": "J'étais parti de Sarlande sans",
+    "jalons": [
+      206529,
+      206559
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      207318,
+      207323
+    ]
+  },
+  "entite_319": {
+    "label": "MISC",
+    "text": "Dans la nuit",
+    "jalons": [
+      207326,
+      207338
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      207585,
+      207590
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      207936,
+      207941
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      207944,
+      207949
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "Malgré moi",
+    "jalons": [
+      207968,
+      207978
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      208036,
+      208041
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "Jacques !",
+    "jalons": [
+      208375,
+      208384
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      209071,
+      209076
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      209804,
+      209811
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      210146,
+      210151
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      210384,
+      210391
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      210417,
+      210424
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "Jacque",
+    "jalons": [
+      210426,
+      210432
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      211393,
+      211398
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Lanterne",
+    "jalons": [
+      214223,
+      214231
+    ]
+  },
+  "entite_334": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      214987,
+      214991
+    ]
+  },
+  "entite_335": {
+    "label": "MISC",
+    "text": "D'abord j'essayai de résister",
+    "jalons": [
+      215108,
+      215137
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      215482,
+      215486
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      215899,
+      215903
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Lanterne",
+    "jalons": [
+      216703,
+      216711
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      216773,
+      216777
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      216987,
+      216993
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      217837,
+      217842
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "Saint-Germain",
+    "jalons": [
+      218401,
+      218414
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      218889,
+      218894
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      219079,
+      219084
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      219141,
+      219144
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      219398,
+      219403
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "rue de Lille",
+    "jalons": [
+      219561,
+      219573
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "Saint-Nizier",
+    "jalons": [
+      219829,
+      219841
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "toujours de la part du curé de Saint-Nizier",
+    "jalons": [
+      220378,
+      220421
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Le comte de la rue de Lille",
+    "jalons": [
+      220586,
+      220613
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "la lettre du curé de Saint-Nizier",
+    "jalons": [
+      220809,
+      220842
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": "Saint-Guillaume",
+    "jalons": [
+      221449,
+      221464
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "l'hôtel de la rue Saint-Guillaume",
+    "jalons": [
+      221946,
+      221979
+    ]
+  },
+  "entite_354": {
+    "label": "MISC",
+    "text": "Dites que c'est de la part du curé de Saint Nizier",
+    "jalons": [
+      222071,
+      222121
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "la personne de la part \"du curé de Saint-Nizier",
+    "jalons": [
+      222594,
+      222641
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "De la part du curé de Saint-Nizier",
+    "jalons": [
+      223008,
+      223042
+    ]
+  },
+  "entite_357": {
+    "label": "MISC",
+    "text": "la personne qui vient de la part du curé de Saint-Nizier",
+    "jalons": [
+      223234,
+      223290
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      223554,
+      223559
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Devine de qui",
+    "jalons": [
+      223765,
+      223778
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "du comte de la rue de Lille",
+    "jalons": [
+      223818,
+      223845
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Saint-Nizier",
+    "jalons": [
+      224240,
+      224252
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      224330,
+      224335
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "Voici du",
+    "jalons": [
+      227414,
+      227422
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "M. de Villéle",
+    "jalons": [
+      227532,
+      227545
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Écrivez",
+    "jalons": [
+      227547,
+      227554
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      227690,
+      227696
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "M. Pilois",
+    "jalons": [
+      228308,
+      228317
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "M. de Villèle",
+    "jalons": [
+      228489,
+      228502
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "Pierrotte des Cévennes",
+    "jalons": [
+      228784,
+      228806
+    ]
+  },
+  "entite_370": {
+    "label": "PER",
+    "text": "Aujourd'hui Pierrotte",
+    "jalons": [
+      228836,
+      228857
+    ]
+  },
+  "entite_371": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      229255,
+      229261
+    ]
+  },
+  "entite_372": {
+    "label": "PER",
+    "text": "JACQUES  Jacques",
+    "jalons": [
+      229338,
+      229354
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "Son Odyssée",
+    "jalons": [
+      229362,
+      229373
+    ]
+  },
+  "entite_374": {
+    "label": "MISC",
+    "text": "aintenant C'est le tour de la mienne",
+    "jalons": [
+      229376,
+      229412
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "Jacques, de Lyon",
+    "jalons": [
+      231443,
+      231459
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "Le Jacques",
+    "jalons": [
+      231461,
+      231471
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      231720,
+      231726
+    ]
+  },
+  "entite_378": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      231732,
+      231739
+    ]
+  },
+  "entite_379": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      231820,
+      231827
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      234761,
+      234766
+    ]
+  },
+  "entite_381": {
+    "label": "PER",
+    "text": "Allons voir Paris",
+    "jalons": [
+      235107,
+      235124
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      235668,
+      235673
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "Saint-Germain-des-Prés",
+    "jalons": [
+      236948,
+      236970
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      237043,
+      237047
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "de Pâques",
+    "jalons": [
+      237057,
+      237066
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "Saint-Germain",
+    "jalons": [
+      237362,
+      237375
+    ]
+  },
+  "entite_387": {
+    "label": "PER",
+    "text": "Daniel ! Que fais-tu là, bon Dieu",
+    "jalons": [
+      237568,
+      237601
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      237881,
+      237885
+    ]
+  },
+  "entite_389": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      238008,
+      238015
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      238264,
+      238269
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      238534,
+      238541
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      238741,
+      238748
+    ]
+  },
+  "entite_393": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      239503,
+      239510
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "L'inspection",
+    "jalons": [
+      239588,
+      239600
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      239611,
+      239613
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Boucoyran",
+    "jalons": [
+      240059,
+      240068
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Soubeyrol",
+    "jalons": [
+      240084,
+      240093
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Boucoyran",
+    "jalons": [
+      240109,
+      240118
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "Boucoyran",
+    "jalons": [
+      240134,
+      240143
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Boucoyran",
+    "jalons": [
+      240147,
+      240156
+    ]
+  },
+  "entite_401": {
+    "label": "MISC",
+    "text": "Souviens-toi de Religion ! Religion !  « Poème en douze",
+    "jalons": [
+      240674,
+      240729
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Sarlande",
+    "jalons": [
+      241123,
+      241131
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "de la Prairie",
+    "jalons": [
+      241155,
+      241168
+    ]
+  },
+  "entite_404": {
+    "label": "PER",
+    "text": "Jacques m'écoute",
+    "jalons": [
+      241566,
+      241582
+    ]
+  },
+  "entite_405": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      242109,
+      242116
+    ]
+  },
+  "entite_406": {
+    "label": "LOC",
+    "text": "Jacqu",
+    "jalons": [
+      242683,
+      242688
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      244024,
+      244039
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "l'Académie",
+    "jalons": [
+      244042,
+      244052
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "Saint-Benoît",
+    "jalons": [
+      244194,
+      244206
+    ]
+  },
+  "entite_410": {
+    "label": "PER",
+    "text": "Jacques de",
+    "jalons": [
+      244635,
+      244645
+    ]
+  },
+  "entite_411": {
+    "label": "PER",
+    "text": "M. Daniel Eyssette",
+    "jalons": [
+      244706,
+      244724
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "de l'Acadé",
+    "jalons": [
+      244726,
+      244736
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      245216,
+      245223
+    ]
+  },
+  "entite_414": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      245752,
+      245759
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Hein",
+    "jalons": [
+      246751,
+      246755
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      246911,
+      246917
+    ]
+  },
+  "entite_417": {
+    "label": "MISC",
+    "text": "Voici le mois de",
+    "jalons": [
+      247315,
+      247331
+    ]
+  },
+  "entite_418": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      247409,
+      247416
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      247431,
+      247437
+    ]
+  },
+  "entite_420": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      248052,
+      248059
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      248202,
+      248207
+    ]
+  },
+  "entite_422": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      248313,
+      248320
+    ]
+  },
+  "entite_423": {
+    "label": "PER",
+    "text": "Est-elle jolie",
+    "jalons": [
+      248324,
+      248338
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Mlle Pierrotte",
+    "jalons": [
+      248340,
+      248354
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      248738,
+      248742
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "Lanterne",
+    "jalons": [
+      248748,
+      248756
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "T'en souviens-tu",
+    "jalons": [
+      248761,
+      248777
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      248779,
+      248786
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Lanterne",
+    "jalons": [
+      248817,
+      248825
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      249295,
+      249302
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "Je ris de l'abbé Micou",
+    "jalons": [
+      249311,
+      249333
+    ]
+  },
+  "entite_432": {
+    "label": "MISC",
+    "text": "l'abbé Micou de la",
+    "jalons": [
+      249344,
+      249362
+    ]
+  },
+  "entite_433": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      249627,
+      249634
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      249859,
+      249871
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      249919,
+      249931
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      250143,
+      250155
+    ]
+  },
+  "entite_437": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      250427,
+      250442
+    ]
+  },
+  "entite_438": {
+    "label": "MISC",
+    "text": "COUCOU-BLANC ET LA DAME DU PREMIER  Il y a, sur la place de Saint-Germain-des-Prés",
+    "jalons": [
+      250540,
+      250622
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "Daniel d'au",
+    "jalons": [
+      250869,
+      250880
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Saint-Germain",
+    "jalons": [
+      251063,
+      251076
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "Jacque",
+    "jalons": [
+      251386,
+      251392
+    ]
+  },
+  "entite_442": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      251651,
+      251657
+    ]
+  },
+  "entite_443": {
+    "label": "MISC",
+    "text": "Droite et fière",
+    "jalons": [
+      252928,
+      252943
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "Jacques s'en",
+    "jalons": [
+      253978,
+      253990
+    ]
+  },
+  "entite_445": {
+    "label": "MISC",
+    "text": "J'avais aussi les cloches de Saint-Germain qui me",
+    "jalons": [
+      254507,
+      254556
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Saint-Benoît",
+    "jalons": [
+      255329,
+      255341
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "Luxembourg",
+    "jalons": [
+      255628,
+      255638
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "revenant de la",
+    "jalons": [
+      256004,
+      256018
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "de Jacques",
+    "jalons": [
+      256341,
+      256351
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      257011,
+      257017
+    ]
+  },
+  "entite_451": {
+    "label": "PER",
+    "text": "Jacques parti",
+    "jalons": [
+      257484,
+      257497
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      258097,
+      258104
+    ]
+  },
+  "entite_453": {
+    "label": "MISC",
+    "text": "plein de saveur",
+    "jalons": [
+      258560,
+      258575
+    ]
+  },
+  "entite_454": {
+    "label": "PER",
+    "text": "Mimi Pinson",
+    "jalons": [
+      258629,
+      258640
+    ]
+  },
+  "entite_455": {
+    "label": "MISC",
+    "text": "Musette de Nanterre",
+    "jalons": [
+      258727,
+      258746
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      260706,
+      260718
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "la Coucou-Blanc de",
+    "jalons": [
+      260720,
+      260738
+    ]
+  },
+  "entite_458": {
+    "label": "MISC",
+    "text": "mes rêves, la sœur de Mimi Pinson et de Bernerette",
+    "jalons": [
+      260739,
+      260789
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Nègre",
+    "jalons": [
+      261299,
+      261304
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "Jacques me",
+    "jalons": [
+      263613,
+      263623
+    ]
+  },
+  "entite_461": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      263973,
+      263980
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      264073,
+      264080
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      264248,
+      264254
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      264367,
+      264375
+    ]
+  },
+  "entite_465": {
+    "label": "LOC",
+    "text": "Palais-Royal",
+    "jalons": [
+      264845,
+      264857
+    ]
+  },
+  "entite_466": {
+    "label": "MISC",
+    "text": "LE ROMAN DE PIERROTTE  QUAND Pierrotte avait Vingt ans",
+    "jalons": [
+      264908,
+      264962
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      265118,
+      265127
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Saumon",
+    "jalons": [
+      265193,
+      265199
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      265231,
+      265240
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Cévennes",
+    "jalons": [
+      265329,
+      265337
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "Roberte",
+    "jalons": [
+      265800,
+      265807
+    ]
+  },
+  "entite_472": {
+    "label": "MISC",
+    "text": "Très fier de sa Roberte",
+    "jalons": [
+      266023,
+      266046
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "Heureusement Mme Eyssette",
+    "jalons": [
+      266304,
+      266329
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      266805,
+      266810
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      267251,
+      267260
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "Malheureusement",
+    "jalons": [
+      267363,
+      267378
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      267669,
+      267676
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      267689,
+      267694
+    ]
+  },
+  "entite_479": {
+    "label": "MISC",
+    "text": "comptoir de l'ancienne maison Lalouette.  Rien de moins poétique",
+    "jalons": [
+      267776,
+      267840
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      267911,
+      267916
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      269292,
+      269301
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Débarrassez-vous de",
+    "jalons": [
+      269512,
+      269531
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Montmartre",
+    "jalons": [
+      270175,
+      270185
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Anastagille",
+    "jalons": [
+      270579,
+      270590
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "Anastasie",
+    "jalons": [
+      270629,
+      270638
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Anastagille",
+    "jalons": [
+      270658,
+      270669
+    ]
+  },
+  "entite_487": {
+    "label": "MISC",
+    "text": "Dès la première année",
+    "jalons": [
+      271258,
+      271279
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      272183,
+      272188
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Lalouette",
+    "jalons": [
+      272371,
+      272380
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Lalouette",
+    "jalons": [
+      272881,
+      272890
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "ayan",
+    "jalons": [
+      272892,
+      272896
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      272967,
+      272976
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "Voilà le roman de Pierrotte",
+    "jalons": [
+      273364,
+      273391
+    ]
+  },
+  "entite_494": {
+    "label": "PER",
+    "text": "que Jacques",
+    "jalons": [
+      273397,
+      273408
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Saumon",
+    "jalons": [
+      273468,
+      273474
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "Languedoc",
+    "jalons": [
+      274124,
+      274133
+    ]
+  },
+  "entite_497": {
+    "label": "PER",
+    "text": "Mlle Pierrotte",
+    "jalons": [
+      274415,
+      274429
+    ]
+  },
+  "entite_498": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      274512,
+      274519
+    ]
+  },
+  "entite_499": {
+    "label": "LOC",
+    "text": "Lalouette",
+    "jalons": [
+      274683,
+      274692
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      275093,
+      275100
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      275219,
+      275226
+    ]
+  },
+  "entite_502": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      275241,
+      275250
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Jacques d'un",
+    "jalons": [
+      275444,
+      275456
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      275691,
+      275700
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      275728,
+      275735
+    ]
+  },
+  "entite_506": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      275847,
+      275850
+    ]
+  },
+  "entite_507": {
+    "label": "PER",
+    "text": "de sa Camille",
+    "jalons": [
+      276637,
+      276650
+    ]
+  },
+  "entite_508": {
+    "label": "PER",
+    "text": "monsieur Jacques",
+    "jalons": [
+      276997,
+      277013
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      277366,
+      277372
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Montez donc la",
+    "jalons": [
+      277374,
+      277388
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Ja",
+    "jalons": [
+      277502,
+      277504
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      278599,
+      278605
+    ]
+  },
+  "entite_513": {
+    "label": "MISC",
+    "text": "Mais j'eus peur de lui faire de la peine et",
+    "jalons": [
+      278674,
+      278717
+    ]
+  },
+  "entite_514": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      278761,
+      278768
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Mlle Camille",
+    "jalons": [
+      278886,
+      278898
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      279107,
+      279114
+    ]
+  },
+  "entite_517": {
+    "label": "PER",
+    "text": "Mme Veuve Tribou",
+    "jalons": [
+      279140,
+      279156
+    ]
+  },
+  "entite_518": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      279321,
+      279327
+    ]
+  },
+  "entite_519": {
+    "label": "MISC",
+    "text": "Deux vie",
+    "jalons": [
+      279544,
+      279552
+    ]
+  },
+  "entite_520": {
+    "label": "MISC",
+    "text": "Mme Lalouette et la veuve Tribou",
+    "jalons": [
+      279579,
+      279611
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      279823,
+      279830
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      279844,
+      279851
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "Jacques et moi",
+    "jalons": [
+      280011,
+      280025
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "Mlle Pierrotte",
+    "jalons": [
+      280047,
+      280061
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "Blanche",
+    "jalons": [
+      280218,
+      280225
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "la fille de Pierrotte",
+    "jalons": [
+      280405,
+      280426
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Saumon",
+    "jalons": [
+      280491,
+      280497
+    ]
+  },
+  "entite_528": {
+    "label": "PER",
+    "text": "Mlle Pierrotte",
+    "jalons": [
+      280588,
+      280602
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "haute voix",
+    "jalons": [
+      283649,
+      283659
+    ]
+  },
+  "entite_530": {
+    "label": "LOC",
+    "text": "de la Vallée",
+    "jalons": [
+      283767,
+      283779
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      284926,
+      284933
+    ]
+  },
+  "entite_532": {
+    "label": "PER",
+    "text": "Mlle Pierrotte",
+    "jalons": [
+      285696,
+      285710
+    ]
+  },
+  "entite_533": {
+    "label": "MISC",
+    "text": "trôner dans l'ancienne maison Lalouette",
+    "jalons": [
+      286208,
+      286247
+    ]
+  },
+  "entite_534": {
+    "label": "PER",
+    "text": "Mme Lalouette",
+    "jalons": [
+      287045,
+      287058
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "Mme Tribou",
+    "jalons": [
+      287087,
+      287097
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      287670,
+      287677
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "Ce nom de Coucou-Blanc",
+    "jalons": [
+      287748,
+      287770
+    ]
+  },
+  "entite_538": {
+    "label": "PER",
+    "text": "de Pierrotte",
+    "jalons": [
+      287798,
+      287810
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      287848,
+      287855
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "Elle s'appelle Coucou-Blanc",
+    "jalons": [
+      287879,
+      287906
+    ]
+  },
+  "entite_541": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      288185,
+      288192
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "M. Lalouette",
+    "jalons": [
+      288234,
+      288246
+    ]
+  },
+  "entite_543": {
+    "label": "PER",
+    "text": "Mlle Pierrotte",
+    "jalons": [
+      288267,
+      288281
+    ]
+  },
+  "entite_544": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      288870,
+      288877
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      288931,
+      288937
+    ]
+  },
+  "entite_546": {
+    "label": "PER",
+    "text": "Jacques !",
+    "jalons": [
+      289158,
+      289167
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      289230,
+      289233
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      291313,
+      291320
+    ]
+  },
+  "entite_549": {
+    "label": "PER",
+    "text": "l'œil",
+    "jalons": [
+      291322,
+      291327
+    ]
+  },
+  "entite_550": {
+    "label": "PER",
+    "text": "Jacques !",
+    "jalons": [
+      291713,
+      291722
+    ]
+  },
+  "entite_551": {
+    "label": "PER",
+    "text": "Jacques ?»",
+    "jalons": [
+      292354,
+      292364
+    ]
+  },
+  "entite_552": {
+    "label": "ORG",
+    "text": "Quelle",
+    "jalons": [
+      293368,
+      293374
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "Jacques !",
+    "jalons": [
+      293382,
+      293391
+    ]
+  },
+  "entite_554": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      293632,
+      293639
+    ]
+  },
+  "entite_555": {
+    "label": "PER",
+    "text": "de Sain",
+    "jalons": [
+      293881,
+      293888
+    ]
+  },
+  "entite_556": {
+    "label": "PER",
+    "text": "mère Jacques",
+    "jalons": [
+      294404,
+      294416
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "Cristaux de la",
+    "jalons": [
+      294715,
+      294729
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Pierrotte de sa voix de",
+    "jalons": [
+      295342,
+      295365
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      295410,
+      295412
+    ]
+  },
+  "entite_560": {
+    "label": "PER",
+    "text": "Mlle Pierrotte",
+    "jalons": [
+      295612,
+      295626
+    ]
+  },
+  "entite_561": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      295925,
+      295931
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Saint-Germain",
+    "jalons": [
+      296536,
+      296549
+    ]
+  },
+  "entite_563": {
+    "label": "MISC",
+    "text": "Devant les accusations de Pierrotte",
+    "jalons": [
+      296670,
+      296705
+    ]
+  },
+  "entite_564": {
+    "label": "MISC",
+    "text": "j'avais déjà le nom de Jacques sur les",
+    "jalons": [
+      297366,
+      297404
+    ]
+  },
+  "entite_565": {
+    "label": "MISC",
+    "text": "Mlle Pierrotte ne me donna pas le temps de parler",
+    "jalons": [
+      297419,
+      297468
+    ]
+  },
+  "entite_566": {
+    "label": "MISC",
+    "text": "parlé de Coucou-Blanc devant elle",
+    "jalons": [
+      297794,
+      297827
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "Mlle Pierrotte",
+    "jalons": [
+      299013,
+      299027
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      299102,
+      299105
+    ]
+  },
+  "entite_569": {
+    "label": "PER",
+    "text": "Mlle Pierr",
+    "jalons": [
+      300022,
+      300032
+    ]
+  },
+  "entite_570": {
+    "label": "PER",
+    "text": "Jacques la vit",
+    "jalons": [
+      300833,
+      300847
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "Puis",
+    "jalons": [
+      301046,
+      301050
+    ]
+  },
+  "entite_572": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      301188,
+      301195
+    ]
+  },
+  "entite_573": {
+    "label": "PER",
+    "text": "ami Jacques",
+    "jalons": [
+      301201,
+      301212
+    ]
+  },
+  "entite_574": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      301299,
+      301305
+    ]
+  },
+  "entite_575": {
+    "label": "LOC",
+    "text": "Pardonne-moi",
+    "jalons": [
+      301945,
+      301957
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "Peine",
+    "jalons": [
+      302788,
+      302793
+    ]
+  },
+  "entite_577": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      303047,
+      303054
+    ]
+  },
+  "entite_578": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      303280,
+      303287
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "Lalouette",
+    "jalons": [
+      304010,
+      304019
+    ]
+  },
+  "entite_580": {
+    "label": "LOC",
+    "text": "faire la partie de la dame de",
+    "jalons": [
+      304021,
+      304050
+    ]
+  },
+  "entite_581": {
+    "label": "MISC",
+    "text": "Araignée du matin",
+    "jalons": [
+      307713,
+      307730
+    ]
+  },
+  "entite_582": {
+    "label": "MISC",
+    "text": "Dans le clocher de Saint-Germain",
+    "jalons": [
+      308257,
+      308289
+    ]
+  },
+  "entite_583": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      308312,
+      308319
+    ]
+  },
+  "entite_584": {
+    "label": "PER",
+    "text": "Jacques m'aimait",
+    "jalons": [
+      308668,
+      308684
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "Lakçamana",
+    "jalons": [
+      309988,
+      309997
+    ]
+  },
+  "entite_586": {
+    "label": "MISC",
+    "text": "Cunocépa",
+    "jalons": [
+      310075,
+      310083
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "Baghavat",
+    "jalons": [
+      310140,
+      310148
+    ]
+  },
+  "entite_588": {
+    "label": "LOC",
+    "text": "Baghavat",
+    "jalons": [
+      310179,
+      310187
+    ]
+  },
+  "entite_589": {
+    "label": "PER",
+    "text": "J'avais",
+    "jalons": [
+      310276,
+      310283
+    ]
+  },
+  "entite_590": {
+    "label": "LOC",
+    "text": "Baghavat",
+    "jalons": [
+      310898,
+      310906
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Baghavat",
+    "jalons": [
+      311687,
+      311695
+    ]
+  },
+  "entite_592": {
+    "label": "PER",
+    "text": "Si je lui",
+    "jalons": [
+      311799,
+      311808
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "Baghavat",
+    "jalons": [
+      312062,
+      312070
+    ]
+  },
+  "entite_594": {
+    "label": "LOC",
+    "text": "Oua",
+    "jalons": [
+      312533,
+      312536
+    ]
+  },
+  "entite_595": {
+    "label": "LOC",
+    "text": "Marchand de critérium",
+    "jalons": [
+      313902,
+      313923
+    ]
+  },
+  "entite_596": {
+    "label": "PER",
+    "text": "Jacques !",
+    "jalons": [
+      313945,
+      313954
+    ]
+  },
+  "entite_597": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      314061,
+      314067
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      314239,
+      314247
+    ]
+  },
+  "entite_599": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      314369,
+      314376
+    ]
+  },
+  "entite_600": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      314590,
+      314595
+    ]
+  },
+  "entite_601": {
+    "label": "PER",
+    "text": "Dès le lendemain",
+    "jalons": [
+      314932,
+      314948
+    ]
+  },
+  "entite_602": {
+    "label": "MISC",
+    "text": "Le soir de la lecture",
+    "jalons": [
+      315405,
+      315426
+    ]
+  },
+  "entite_603": {
+    "label": "MISC",
+    "text": "l'homme de la soirée",
+    "jalons": [
+      315827,
+      315847
+    ]
+  },
+  "entite_604": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      316211,
+      316220
+    ]
+  },
+  "entite_605": {
+    "label": "MISC",
+    "text": "Dans les premiers jours de sa captivité au collège de Sarlande",
+    "jalons": [
+      316665,
+      316727
+    ]
+  },
+  "entite_606": {
+    "label": "MISC",
+    "text": "que j'avais fait La Comédie pastorale",
+    "jalons": [
+      316929,
+      316966
+    ]
+  },
+  "entite_607": {
+    "label": "ORG",
+    "text": "LES AVENTURES D'UN PAPILLON BLE",
+    "jalons": [
+      317409,
+      317440
+    ]
+  },
+  "entite_608": {
+    "label": "MISC",
+    "text": "Papillon bleu et une jeune Bête à bon Dieu",
+    "jalons": [
+      317550,
+      317592
+    ]
+  },
+  "entite_609": {
+    "label": "ORG",
+    "text": "LE PAPI",
+    "jalons": [
+      318457,
+      318464
+    ]
+  },
+  "entite_610": {
+    "label": "LOC",
+    "text": "LLON",
+    "jalons": [
+      318464,
+      318468
+    ]
+  },
+  "entite_611": {
+    "label": "ORG",
+    "text": "LA BETE",
+    "jalons": [
+      318967,
+      318974
+    ]
+  },
+  "entite_612": {
+    "label": "LOC",
+    "text": "fort des reins",
+    "jalons": [
+      319489,
+      319503
+    ]
+  },
+  "entite_613": {
+    "label": "ORG",
+    "text": "LA BETE",
+    "jalons": [
+      321015,
+      321022
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "LA BETE",
+    "jalons": [
+      321527,
+      321534
+    ]
+  },
+  "entite_615": {
+    "label": "LOC",
+    "text": "Puis.",
+    "jalons": [
+      321676,
+      321681
+    ]
+  },
+  "entite_616": {
+    "label": "LOC",
+    "text": "LE",
+    "jalons": [
+      323269,
+      323271
+    ]
+  },
+  "entite_617": {
+    "label": "MISC",
+    "text": "pas du monde des Chenilles",
+    "jalons": [
+      323589,
+      323615
+    ]
+  },
+  "entite_618": {
+    "label": "MISC",
+    "text": "Quand il parle de toi",
+    "jalons": [
+      323992,
+      324013
+    ]
+  },
+  "entite_619": {
+    "label": "ORG",
+    "text": "LE PAPILLON  Ah",
+    "jalons": [
+      324537,
+      324552
+    ]
+  },
+  "entite_620": {
+    "label": "PER",
+    "text": "des Muguets",
+    "jalons": [
+      324566,
+      324577
+    ]
+  },
+  "entite_621": {
+    "label": "LOC",
+    "text": "J'aime",
+    "jalons": [
+      324602,
+      324608
+    ]
+  },
+  "entite_622": {
+    "label": "MISC",
+    "text": "Chez la Rose",
+    "jalons": [
+      324686,
+      324698
+    ]
+  },
+  "entite_623": {
+    "label": "PER",
+    "text": "LE PAPILLON",
+    "jalons": [
+      324705,
+      324716
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Au",
+    "jalons": [
+      325118,
+      325120
+    ]
+  },
+  "entite_625": {
+    "label": "MISC",
+    "text": "Le Papillon veut ramener la Bête à bon Dieu chez",
+    "jalons": [
+      325219,
+      325267
+    ]
+  },
+  "entite_626": {
+    "label": "MISC",
+    "text": "de la Bête à bon Dieu",
+    "jalons": [
+      325663,
+      325684
+    ]
+  },
+  "entite_627": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      328432,
+      328439
+    ]
+  },
+  "entite_628": {
+    "label": "PER",
+    "text": "Les Passajon",
+    "jalons": [
+      328727,
+      328739
+    ]
+  },
+  "entite_629": {
+    "label": "LOC",
+    "text": "Caveau",
+    "jalons": [
+      330552,
+      330558
+    ]
+  },
+  "entite_630": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      332308,
+      332315
+    ]
+  },
+  "entite_631": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      332735,
+      332742
+    ]
+  },
+  "entite_632": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      332778,
+      332787
+    ]
+  },
+  "entite_633": {
+    "label": "PER",
+    "text": "J'étais si las de",
+    "jalons": [
+      332811,
+      332828
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      333302,
+      333311
+    ]
+  },
+  "entite_635": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      333471,
+      333478
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      333528,
+      333540
+    ]
+  },
+  "entite_637": {
+    "label": "PER",
+    "text": "Jacques se",
+    "jalons": [
+      333647,
+      333657
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      334091,
+      334103
+    ]
+  },
+  "entite_639": {
+    "label": "PER",
+    "text": "Monsieur Daniel",
+    "jalons": [
+      334519,
+      334534
+    ]
+  },
+  "entite_640": {
+    "label": "LOC",
+    "text": "Lalouette",
+    "jalons": [
+      335348,
+      335357
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "J'avais eu le temps de me",
+    "jalons": [
+      338055,
+      338080
+    ]
+  },
+  "entite_642": {
+    "label": "MISC",
+    "text": "la Rêverie de Rosellen que Mlle Pierrotte ne manqua pas de",
+    "jalons": [
+      338756,
+      338814
+    ]
+  },
+  "entite_643": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      339573,
+      339588
+    ]
+  },
+  "entite_644": {
+    "label": "LOC",
+    "text": "Vieille bête de Pierrotte",
+    "jalons": [
+      339842,
+      339867
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      340076,
+      340083
+    ]
+  },
+  "entite_646": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      340459,
+      340466
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Là-dessus",
+    "jalons": [
+      341490,
+      341499
+    ]
+  },
+  "entite_648": {
+    "label": "LOC",
+    "text": "Hein",
+    "jalons": [
+      341720,
+      341724
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Monsieur Pierrotte",
+    "jalons": [
+      342795,
+      342813
+    ]
+  },
+  "entite_650": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      342877,
+      342884
+    ]
+  },
+  "entite_651": {
+    "label": "PER",
+    "text": "Jacques vint",
+    "jalons": [
+      343996,
+      344008
+    ]
+  },
+  "entite_652": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      345068,
+      345074
+    ]
+  },
+  "entite_653": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      345077,
+      345083
+    ]
+  },
+  "entite_654": {
+    "label": "LOC",
+    "text": "Saint-Benoît",
+    "jalons": [
+      345409,
+      345421
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      346270,
+      346276
+    ]
+  },
+  "entite_656": {
+    "label": "PER",
+    "text": "Jacques me faisait",
+    "jalons": [
+      346531,
+      346549
+    ]
+  },
+  "entite_657": {
+    "label": "MISC",
+    "text": "celui de Gustave Planche",
+    "jalons": [
+      346699,
+      346723
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      347122,
+      347128
+    ]
+  },
+  "entite_659": {
+    "label": "LOC",
+    "text": "Hein",
+    "jalons": [
+      347403,
+      347407
+    ]
+  },
+  "entite_660": {
+    "label": "PER",
+    "text": "Monsieur Eyssette",
+    "jalons": [
+      348701,
+      348718
+    ]
+  },
+  "entite_661": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      349870,
+      349876
+    ]
+  },
+  "entite_662": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      352243,
+      352250
+    ]
+  },
+  "entite_663": {
+    "label": "LOC",
+    "text": "Théâtre-Fra",
+    "jalons": [
+      352757,
+      352768
+    ]
+  },
+  "entite_664": {
+    "label": "PER",
+    "text": "La Négresse",
+    "jalons": [
+      353211,
+      353222
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "Théâtre Français",
+    "jalons": [
+      353240,
+      353256
+    ]
+  },
+  "entite_666": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      354951,
+      354957
+    ]
+  },
+  "entite_667": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      355316,
+      355328
+    ]
+  },
+  "entite_668": {
+    "label": "LOC",
+    "text": "Baghavat",
+    "jalons": [
+      355393,
+      355401
+    ]
+  },
+  "entite_669": {
+    "label": "LOC",
+    "text": "Baghavat",
+    "jalons": [
+      355439,
+      355447
+    ]
+  },
+  "entite_670": {
+    "label": "MISC",
+    "text": "Elle va de",
+    "jalons": [
+      356407,
+      356417
+    ]
+  },
+  "entite_671": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      356849,
+      356853
+    ]
+  },
+  "entite_672": {
+    "label": "MISC",
+    "text": "à lui parler de la dame du",
+    "jalons": [
+      357450,
+      357476
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "Rio à celle de Naples",
+    "jalons": [
+      358071,
+      358092
+    ]
+  },
+  "entite_674": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      358094,
+      358098
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "Port-au-Prince",
+    "jalons": [
+      358192,
+      358206
+    ]
+  },
+  "entite_676": {
+    "label": "MISC",
+    "text": "Quand les gens de la maison",
+    "jalons": [
+      358445,
+      358472
+    ]
+  },
+  "entite_677": {
+    "label": "MISC",
+    "text": "Elle est si belle",
+    "jalons": [
+      359427,
+      359444
+    ]
+  },
+  "entite_678": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      359847,
+      359859
+    ]
+  },
+  "entite_679": {
+    "label": "PER",
+    "text": "Irma Borel",
+    "jalons": [
+      361003,
+      361013
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "Porte",
+    "jalons": [
+      361286,
+      361291
+    ]
+  },
+  "entite_681": {
+    "label": "MISC",
+    "text": "nouvelles de sa maîtresse",
+    "jalons": [
+      361473,
+      361498
+    ]
+  },
+  "entite_682": {
+    "label": "MISC",
+    "text": "au Seigneur et cloîtrées toute leur vie comme des Carmélites",
+    "jalons": [
+      361985,
+      362045
+    ]
+  },
+  "entite_683": {
+    "label": "PER",
+    "text": "Méfie-toi",
+    "jalons": [
+      363523,
+      363532
+    ]
+  },
+  "entite_684": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      363534,
+      363540
+    ]
+  },
+  "entite_685": {
+    "label": "MISC",
+    "text": "La persistance de Jacques à veiller sur le bonheur de celle",
+    "jalons": [
+      363680,
+      363739
+    ]
+  },
+  "entite_686": {
+    "label": "LOC",
+    "text": "La chanson de la Négresse",
+    "jalons": [
+      364096,
+      364121
+    ]
+  },
+  "entite_687": {
+    "label": "MISC",
+    "text": "LE CŒUR DE SUCRE  Voila deux mois que Jacques est parti",
+    "jalons": [
+      365107,
+      365162
+    ]
+  },
+  "entite_688": {
+    "label": "PER",
+    "text": "Le marquis",
+    "jalons": [
+      365239,
+      365249
+    ]
+  },
+  "entite_689": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      365384,
+      365391
+    ]
+  },
+  "entite_690": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      365473,
+      365477
+    ]
+  },
+  "entite_691": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      365482,
+      365488
+    ]
+  },
+  "entite_692": {
+    "label": "PER",
+    "text": "de Pise",
+    "jalons": [
+      365490,
+      365497
+    ]
+  },
+  "entite_693": {
+    "label": "PER",
+    "text": "de Palerme",
+    "jalons": [
+      365499,
+      365509
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      365511,
+      365515
+    ]
+  },
+  "entite_695": {
+    "label": "MISC",
+    "text": "L'article de Gustave Planche",
+    "jalons": [
+      365643,
+      365671
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "Irma Borel",
+    "jalons": [
+      365901,
+      365911
+    ]
+  },
+  "entite_697": {
+    "label": "PER",
+    "text": "Gustave Planche",
+    "jalons": [
+      365934,
+      365949
+    ]
+  },
+  "entite_698": {
+    "label": "PER",
+    "text": "Monsieur Jacques Eyssette",
+    "jalons": [
+      366099,
+      366124
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      366165,
+      366172
+    ]
+  },
+  "entite_700": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      366531,
+      366538
+    ]
+  },
+  "entite_701": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      366540,
+      366547
+    ]
+  },
+  "entite_702": {
+    "label": "PER",
+    "text": "Pourquo",
+    "jalons": [
+      366585,
+      366592
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "Dans la vie",
+    "jalons": [
+      367355,
+      367366
+    ]
+  },
+  "entite_704": {
+    "label": "LOC",
+    "text": "Cuba",
+    "jalons": [
+      368277,
+      368281
+    ]
+  },
+  "entite_705": {
+    "label": "LOC",
+    "text": "Turc",
+    "jalons": [
+      370393,
+      370397
+    ]
+  },
+  "entite_706": {
+    "label": "LOC",
+    "text": "Dani-Dan",
+    "jalons": [
+      370415,
+      370423
+    ]
+  },
+  "entite_707": {
+    "label": "LOC",
+    "text": "Danielo",
+    "jalons": [
+      370452,
+      370459
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "J'aurai du reste",
+    "jalons": [
+      370480,
+      370496
+    ]
+  },
+  "entite_709": {
+    "label": "PER",
+    "text": "Mme Irma Borel",
+    "jalons": [
+      370625,
+      370639
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "Mme Irma Borel",
+    "jalons": [
+      370661,
+      370675
+    ]
+  },
+  "entite_711": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      370737,
+      370744
+    ]
+  },
+  "entite_712": {
+    "label": "PER",
+    "text": "Irma Borel",
+    "jalons": [
+      371613,
+      371623
+    ]
+  },
+  "entite_713": {
+    "label": "LOC",
+    "text": "de la lui",
+    "jalons": [
+      371701,
+      371710
+    ]
+  },
+  "entite_714": {
+    "label": "LOC",
+    "text": "rracher des",
+    "jalons": [
+      371712,
+      371723
+    ]
+  },
+  "entite_715": {
+    "label": "PER",
+    "text": "C'était le jour du Turc",
+    "jalons": [
+      372136,
+      372159
+    ]
+  },
+  "entite_716": {
+    "label": "LOC",
+    "text": "Dani-Dan",
+    "jalons": [
+      372168,
+      372176
+    ]
+  },
+  "entite_717": {
+    "label": "MISC",
+    "text": "Donnez-moi la boîte",
+    "jalons": [
+      373253,
+      373272
+    ]
+  },
+  "entite_718": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      373328,
+      373335
+    ]
+  },
+  "entite_719": {
+    "label": "PER",
+    "text": "de Daniel Eyssette",
+    "jalons": [
+      373780,
+      373798
+    ]
+  },
+  "entite_720": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      376214,
+      376226
+    ]
+  },
+  "entite_721": {
+    "label": "LOC",
+    "text": "Coucou",
+    "jalons": [
+      376802,
+      376808
+    ]
+  },
+  "entite_722": {
+    "label": "PER",
+    "text": "Irma Borel",
+    "jalons": [
+      377322,
+      377332
+    ]
+  },
+  "entite_723": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      377755,
+      377762
+    ]
+  },
+  "entite_724": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      378987,
+      378992
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "Quant au jeune Dani-Dan",
+    "jalons": [
+      379918,
+      379941
+    ]
+  },
+  "entite_726": {
+    "label": "PER",
+    "text": "Irma Borel",
+    "jalons": [
+      380374,
+      380384
+    ]
+  },
+  "entite_727": {
+    "label": "LOC",
+    "text": "Dani-Dan",
+    "jalons": [
+      380421,
+      380429
+    ]
+  },
+  "entite_728": {
+    "label": "MISC",
+    "text": "Gymnase et du Théâtre-Français",
+    "jalons": [
+      381009,
+      381039
+    ]
+  },
+  "entite_729": {
+    "label": "LOC",
+    "text": "vrai que la tête de la",
+    "jalons": [
+      381770,
+      381792
+    ]
+  },
+  "entite_730": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      381848,
+      381853
+    ]
+  },
+  "entite_731": {
+    "label": "LOC",
+    "text": "Turc",
+    "jalons": [
+      381938,
+      381942
+    ]
+  },
+  "entite_732": {
+    "label": "PER",
+    "text": "sa Négre",
+    "jalons": [
+      381944,
+      381952
+    ]
+  },
+  "entite_733": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      382226,
+      382233
+    ]
+  },
+  "entite_734": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      384377,
+      384384
+    ]
+  },
+  "entite_735": {
+    "label": "PER",
+    "text": "Gustave Planche",
+    "jalons": [
+      386912,
+      386927
+    ]
+  },
+  "entite_736": {
+    "label": "LOC",
+    "text": "Turc",
+    "jalons": [
+      387156,
+      387160
+    ]
+  },
+  "entite_737": {
+    "label": "LOC",
+    "text": "Saumon",
+    "jalons": [
+      387560,
+      387566
+    ]
+  },
+  "entite_738": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      389348,
+      389355
+    ]
+  },
+  "entite_739": {
+    "label": "MISC",
+    "text": "Elle s'appelle Irma Borel",
+    "jalons": [
+      389742,
+      389767
+    ]
+  },
+  "entite_740": {
+    "label": "LOC",
+    "text": "Borel",
+    "jalons": [
+      389769,
+      389774
+    ]
+  },
+  "entite_741": {
+    "label": "PER",
+    "text": "Irma Bourreau",
+    "jalons": [
+      389812,
+      389825
+    ]
+  },
+  "entite_742": {
+    "label": "LOC",
+    "text": "Dieu !",
+    "jalons": [
+      390131,
+      390137
+    ]
+  },
+  "entite_743": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      390167,
+      390174
+    ]
+  },
+  "entite_744": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      390601,
+      390606
+    ]
+  },
+  "entite_745": {
+    "label": "LOC",
+    "text": "Montparnasse",
+    "jalons": [
+      391174,
+      391186
+    ]
+  },
+  "entite_746": {
+    "label": "MISC",
+    "text": "Tout le jour",
+    "jalons": [
+      391657,
+      391669
+    ]
+  },
+  "entite_747": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      392776,
+      392788
+    ]
+  },
+  "entite_748": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      392834,
+      392846
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "M. de Huit-à-Dix",
+    "jalons": [
+      392849,
+      392865
+    ]
+  },
+  "entite_750": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      393662,
+      393674
+    ]
+  },
+  "entite_751": {
+    "label": "PER",
+    "text": "Par ici",
+    "jalons": [
+      394325,
+      394332
+    ]
+  },
+  "entite_752": {
+    "label": "LOC",
+    "text": "Gaspard",
+    "jalons": [
+      394334,
+      394341
+    ]
+  },
+  "entite_753": {
+    "label": "PER",
+    "text": "Son nom",
+    "jalons": [
+      394347,
+      394354
+    ]
+  },
+  "entite_754": {
+    "label": "PER",
+    "text": "Irma Borel",
+    "jalons": [
+      394533,
+      394543
+    ]
+  },
+  "entite_755": {
+    "label": "MISC",
+    "text": "Gaspardo le Pêcheur",
+    "jalons": [
+      395321,
+      395340
+    ]
+  },
+  "entite_756": {
+    "label": "MISC",
+    "text": "Dans la salle",
+    "jalons": [
+      395674,
+      395687
+    ]
+  },
+  "entite_757": {
+    "label": "LOC",
+    "text": "Mam'selle",
+    "jalons": [
+      396990,
+      396999
+    ]
+  },
+  "entite_758": {
+    "label": "PER",
+    "text": "lui échappait",
+    "jalons": [
+      397824,
+      397837
+    ]
+  },
+  "entite_759": {
+    "label": "LOC",
+    "text": "Grenelle",
+    "jalons": [
+      398631,
+      398639
+    ]
+  },
+  "entite_760": {
+    "label": "LOC",
+    "text": "Montparnasse",
+    "jalons": [
+      398643,
+      398655
+    ]
+  },
+  "entite_761": {
+    "label": "LOC",
+    "text": "Sèvres",
+    "jalons": [
+      398659,
+      398665
+    ]
+  },
+  "entite_762": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      398679,
+      398690
+    ]
+  },
+  "entite_763": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      400790,
+      400795
+    ]
+  },
+  "entite_764": {
+    "label": "LOC",
+    "text": "Maine",
+    "jalons": [
+      400956,
+      400961
+    ]
+  },
+  "entite_765": {
+    "label": "LOC",
+    "text": "Coucou-Blanc",
+    "jalons": [
+      401108,
+      401120
+    ]
+  },
+  "entite_766": {
+    "label": "LOC",
+    "text": "Bonaparte",
+    "jalons": [
+      402854,
+      402863
+    ]
+  },
+  "entite_767": {
+    "label": "MISC",
+    "text": "Jacques et les",
+    "jalons": [
+      402927,
+      402941
+    ]
+  },
+  "entite_768": {
+    "label": "LOC",
+    "text": "de La Comédie pastorale",
+    "jalons": [
+      404078,
+      404101
+    ]
+  },
+  "entite_769": {
+    "label": "LOC",
+    "text": "louis de la part de Jacques",
+    "jalons": [
+      404134,
+      404161
+    ]
+  },
+  "entite_770": {
+    "label": "LOC",
+    "text": "L'imprimeur",
+    "jalons": [
+      404163,
+      404174
+    ]
+  },
+  "entite_771": {
+    "label": "PER",
+    "text": "M. d'Hacqueville",
+    "jalons": [
+      404280,
+      404296
+    ]
+  },
+  "entite_772": {
+    "label": "LOC",
+    "text": "La Comédie",
+    "jalons": [
+      404439,
+      404449
+    ]
+  },
+  "entite_773": {
+    "label": "MISC",
+    "text": "Pauvre mère Jacques ! que de",
+    "jalons": [
+      404521,
+      404549
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "Daniel disparu",
+    "jalons": [
+      404589,
+      404603
+    ]
+  },
+  "entite_775": {
+    "label": "LOC",
+    "text": "Jacques au lieu de la",
+    "jalons": [
+      405094,
+      405115
+    ]
+  },
+  "entite_776": {
+    "label": "PER",
+    "text": "de Jacques",
+    "jalons": [
+      405249,
+      405259
+    ]
+  },
+  "entite_777": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      405262,
+      405269
+    ]
+  },
+  "entite_778": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      405271,
+      405278
+    ]
+  },
+  "entite_779": {
+    "label": "PER",
+    "text": "Jacques ! Chaque matin",
+    "jalons": [
+      405289,
+      405311
+    ]
+  },
+  "entite_780": {
+    "label": "PER",
+    "text": "Jacques était",
+    "jalons": [
+      406024,
+      406037
+    ]
+  },
+  "entite_781": {
+    "label": "PER",
+    "text": "Camille Pierrotte",
+    "jalons": [
+      406111,
+      406128
+    ]
+  },
+  "entite_782": {
+    "label": "LOC",
+    "text": "Pierr",
+    "jalons": [
+      407035,
+      407040
+    ]
+  },
+  "entite_783": {
+    "label": "MISC",
+    "text": "fredonne le refrain de",
+    "jalons": [
+      407552,
+      407574
+    ]
+  },
+  "entite_784": {
+    "label": "PER",
+    "text": "la Négresse",
+    "jalons": [
+      407575,
+      407586
+    ]
+  },
+  "entite_785": {
+    "label": "LOC",
+    "text": "Montparnasse",
+    "jalons": [
+      407726,
+      407738
+    ]
+  },
+  "entite_786": {
+    "label": "MISC",
+    "text": "Viens dans la salle",
+    "jalons": [
+      407996,
+      408015
+    ]
+  },
+  "entite_787": {
+    "label": "MISC",
+    "text": "serai très belle",
+    "jalons": [
+      408065,
+      408081
+    ]
+  },
+  "entite_788": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      409088,
+      409095
+    ]
+  },
+  "entite_789": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      409440,
+      409447
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "Jacques tressaillit",
+    "jalons": [
+      409451,
+      409470
+    ]
+  },
+  "entite_791": {
+    "label": "PER",
+    "text": "Rue des Dames",
+    "jalons": [
+      409574,
+      409587
+    ]
+  },
+  "entite_792": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      409737,
+      409742
+    ]
+  },
+  "entite_793": {
+    "label": "LOC",
+    "text": "Il arrivait de Palerme",
+    "jalons": [
+      409762,
+      409784
+    ]
+  },
+  "entite_794": {
+    "label": "PER",
+    "text": "Jacques devina",
+    "jalons": [
+      409977,
+      409991
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "Pas de",
+    "jalons": [
+      410477,
+      410483
+    ]
+  },
+  "entite_796": {
+    "label": "PER",
+    "text": "Réfléchissez",
+    "jalons": [
+      410610,
+      410622
+    ]
+  },
+  "entite_797": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      410795,
+      410800
+    ]
+  },
+  "entite_798": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      410984,
+      410989
+    ]
+  },
+  "entite_799": {
+    "label": "LOC",
+    "text": "Bonaparte",
+    "jalons": [
+      411005,
+      411014
+    ]
+  },
+  "entite_800": {
+    "label": "ORG",
+    "text": "Le por",
+    "jalons": [
+      411130,
+      411136
+    ]
+  },
+  "entite_801": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      411451,
+      411456
+    ]
+  },
+  "entite_802": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      411585,
+      411591
+    ]
+  },
+  "entite_803": {
+    "label": "PER",
+    "text": "Jacques répondit",
+    "jalons": [
+      412179,
+      412195
+    ]
+  },
+  "entite_804": {
+    "label": "PER",
+    "text": "Dès demain",
+    "jalons": [
+      412230,
+      412240
+    ]
+  },
+  "entite_805": {
+    "label": "MISC",
+    "text": "C'est La Comédie pastorale",
+    "jalons": [
+      412603,
+      412629
+    ]
+  },
+  "entite_806": {
+    "label": "LOC",
+    "text": "Alsacien",
+    "jalons": [
+      413163,
+      413171
+    ]
+  },
+  "entite_807": {
+    "label": "LOC",
+    "text": "Lalouette",
+    "jalons": [
+      414183,
+      414192
+    ]
+  },
+  "entite_808": {
+    "label": "PER",
+    "text": "Jacques aperçu",
+    "jalons": [
+      414194,
+      414208
+    ]
+  },
+  "entite_809": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      415550,
+      415559
+    ]
+  },
+  "entite_810": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      415705,
+      415712
+    ]
+  },
+  "entite_811": {
+    "label": "LOC",
+    "text": "Attendez-moi",
+    "jalons": [
+      415714,
+      415726
+    ]
+  },
+  "entite_812": {
+    "label": "PER",
+    "text": "je vais les cher",
+    "jalons": [
+      415728,
+      415744
+    ]
+  },
+  "entite_813": {
+    "label": "MISC",
+    "text": "Avant de sortir",
+    "jalons": [
+      415760,
+      415775
+    ]
+  },
+  "entite_814": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      416213,
+      416220
+    ]
+  },
+  "entite_815": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      416571,
+      416580
+    ]
+  },
+  "entite_816": {
+    "label": "MISC",
+    "text": "Tous les deux",
+    "jalons": [
+      416706,
+      416719
+    ]
+  },
+  "entite_817": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      416882,
+      416889
+    ]
+  },
+  "entite_818": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      417462,
+      417471
+    ]
+  },
+  "entite_819": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      417615,
+      417621
+    ]
+  },
+  "entite_820": {
+    "label": "LOC",
+    "text": "La Providence",
+    "jalons": [
+      419826,
+      419839
+    ]
+  },
+  "entite_821": {
+    "label": "PER",
+    "text": "Jacques la lut",
+    "jalons": [
+      419889,
+      419903
+    ]
+  },
+  "entite_822": {
+    "label": "LOC",
+    "text": "Montparnasse",
+    "jalons": [
+      419988,
+      420000
+    ]
+  },
+  "entite_823": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      421263,
+      421270
+    ]
+  },
+  "entite_824": {
+    "label": "LOC",
+    "text": "Vatel de la maison d'Hacqueville",
+    "jalons": [
+      421304,
+      421336
+    ]
+  },
+  "entite_825": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      421947,
+      421954
+    ]
+  },
+  "entite_826": {
+    "label": "LOC",
+    "text": "Montparnasse",
+    "jalons": [
+      422968,
+      422980
+    ]
+  },
+  "entite_827": {
+    "label": "LOC",
+    "text": "Montparnasse",
+    "jalons": [
+      423182,
+      423194
+    ]
+  },
+  "entite_828": {
+    "label": "MISC",
+    "text": "Jacques, en les lisant",
+    "jalons": [
+      424024,
+      424046
+    ]
+  },
+  "entite_829": {
+    "label": "PER",
+    "text": "Irma Borel",
+    "jalons": [
+      424175,
+      424185
+    ]
+  },
+  "entite_830": {
+    "label": "PER",
+    "text": "Désirée Levrault",
+    "jalons": [
+      424187,
+      424203
+    ]
+  },
+  "entite_831": {
+    "label": "LOC",
+    "text": "Guigne",
+    "jalons": [
+      424205,
+      424211
+    ]
+  },
+  "entite_832": {
+    "label": "MISC",
+    "text": "Précédé de : Amour et Pruneaux",
+    "jalons": [
+      424219,
+      424249
+    ]
+  },
+  "entite_833": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      424282,
+      424288
+    ]
+  },
+  "entite_834": {
+    "label": "PER",
+    "text": "Antonin et Mlle Léontine",
+    "jalons": [
+      424290,
+      424314
+    ]
+  },
+  "entite_835": {
+    "label": "LOC",
+    "text": "Luxembourg",
+    "jalons": [
+      424435,
+      424445
+    ]
+  },
+  "entite_836": {
+    "label": "MISC",
+    "text": "ville venait de finir",
+    "jalons": [
+      424960,
+      424981
+    ]
+  },
+  "entite_837": {
+    "label": "PER",
+    "text": "Mme Irma Borel",
+    "jalons": [
+      425423,
+      425437
+    ]
+  },
+  "entite_838": {
+    "label": "ORG",
+    "text": "Elle es",
+    "jalons": [
+      425465,
+      425472
+    ]
+  },
+  "entite_839": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      425804,
+      425809
+    ]
+  },
+  "entite_840": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      425843,
+      425849
+    ]
+  },
+  "entite_841": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      425967,
+      425972
+    ]
+  },
+  "entite_842": {
+    "label": "PER",
+    "text": "Pas un",
+    "jalons": [
+      426499,
+      426505
+    ]
+  },
+  "entite_843": {
+    "label": "LOC",
+    "text": "Saint-Germain",
+    "jalons": [
+      426638,
+      426651
+    ]
+  },
+  "entite_844": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      427099,
+      427105
+    ]
+  },
+  "entite_845": {
+    "label": "PER",
+    "text": "dai dans la",
+    "jalons": [
+      427520,
+      427531
+    ]
+  },
+  "entite_846": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      427936,
+      427942
+    ]
+  },
+  "entite_847": {
+    "label": "MISC",
+    "text": "J'ai perdu la confiance de Jacques",
+    "jalons": [
+      429823,
+      429857
+    ]
+  },
+  "entite_848": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      430219,
+      430226
+    ]
+  },
+  "entite_849": {
+    "label": "PER",
+    "text": "Jacques n'était",
+    "jalons": [
+      430631,
+      430646
+    ]
+  },
+  "entite_850": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      431664,
+      431679
+    ]
+  },
+  "entite_851": {
+    "label": "PER",
+    "text": "Éternel Dieu",
+    "jalons": [
+      432256,
+      432268
+    ]
+  },
+  "entite_852": {
+    "label": "LOC",
+    "text": "Pardieu",
+    "jalons": [
+      432622,
+      432629
+    ]
+  },
+  "entite_853": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      432649,
+      432656
+    ]
+  },
+  "entite_854": {
+    "label": "PER",
+    "text": "Juan sans",
+    "jalons": [
+      432704,
+      432713
+    ]
+  },
+  "entite_855": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      432887,
+      432892
+    ]
+  },
+  "entite_856": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      433002,
+      433008
+    ]
+  },
+  "entite_857": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      433010,
+      433016
+    ]
+  },
+  "entite_858": {
+    "label": "LOC",
+    "text": "Voici",
+    "jalons": [
+      433110,
+      433115
+    ]
+  },
+  "entite_859": {
+    "label": "PER",
+    "text": "Jacques en",
+    "jalons": [
+      434678,
+      434688
+    ]
+  },
+  "entite_860": {
+    "label": "PER",
+    "text": "je vais te ramener",
+    "jalons": [
+      434717,
+      434735
+    ]
+  },
+  "entite_861": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      435002,
+      435009
+    ]
+  },
+  "entite_862": {
+    "label": "LOC",
+    "text": "Montparnasse",
+    "jalons": [
+      435183,
+      435195
+    ]
+  },
+  "entite_863": {
+    "label": "LOC",
+    "text": "Ah",
+    "jalons": [
+      435197,
+      435199
+    ]
+  },
+  "entite_864": {
+    "label": "LOC",
+    "text": "Montparnasse",
+    "jalons": [
+      435628,
+      435640
+    ]
+  },
+  "entite_865": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      435701,
+      435708
+    ]
+  },
+  "entite_866": {
+    "label": "PER",
+    "text": "Jacque",
+    "jalons": [
+      438266,
+      438272
+    ]
+  },
+  "entite_867": {
+    "label": "MISC",
+    "text": "L'idée de cette femme le",
+    "jalons": [
+      440842,
+      440866
+    ]
+  },
+  "entite_868": {
+    "label": "LOC",
+    "text": "Dani-Dan",
+    "jalons": [
+      441283,
+      441291
+    ]
+  },
+  "entite_869": {
+    "label": "LOC",
+    "text": "Montmartre",
+    "jalons": [
+      441741,
+      441751
+    ]
+  },
+  "entite_870": {
+    "label": "ORG",
+    "text": "Les dettes de Lyon",
+    "jalons": [
+      444371,
+      444389
+    ]
+  },
+  "entite_871": {
+    "label": "MISC",
+    "text": "Dans un an ou deux",
+    "jalons": [
+      444423,
+      444441
+    ]
+  },
+  "entite_872": {
+    "label": "PER",
+    "text": "M. Pilois",
+    "jalons": [
+      446448,
+      446457
+    ]
+  },
+  "entite_873": {
+    "label": "PER",
+    "text": "M. Pilois",
+    "jalons": [
+      447347,
+      447356
+    ]
+  },
+  "entite_874": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      448797,
+      448804
+    ]
+  },
+  "entite_875": {
+    "label": "PER",
+    "text": "de le",
+    "jalons": [
+      449034,
+      449039
+    ]
+  },
+  "entite_876": {
+    "label": "MISC",
+    "text": "prendre dans mes bras et de le",
+    "jalons": [
+      449040,
+      449070
+    ]
+  },
+  "entite_877": {
+    "label": "LOC",
+    "text": "Saint-Pierre",
+    "jalons": [
+      450246,
+      450258
+    ]
+  },
+  "entite_878": {
+    "label": "PER",
+    "text": "Jacques ! Jacques !",
+    "jalons": [
+      450616,
+      450635
+    ]
+  },
+  "entite_879": {
+    "label": "LOC",
+    "text": "De la main",
+    "jalons": [
+      450650,
+      450660
+    ]
+  },
+  "entite_880": {
+    "label": "PER",
+    "text": "M. Pilois",
+    "jalons": [
+      450760,
+      450769
+    ]
+  },
+  "entite_881": {
+    "label": "PER",
+    "text": "Jacques en",
+    "jalons": [
+      450976,
+      450986
+    ]
+  },
+  "entite_882": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      451109,
+      451115
+    ]
+  },
+  "entite_883": {
+    "label": "PER",
+    "text": "Jacques m'appela",
+    "jalons": [
+      452008,
+      452024
+    ]
+  },
+  "entite_884": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      452080,
+      452086
+    ]
+  },
+  "entite_885": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      452266,
+      452275
+    ]
+  },
+  "entite_886": {
+    "label": "PER",
+    "text": "Essaie de prier",
+    "jalons": [
+      455614,
+      455629
+    ]
+  },
+  "entite_887": {
+    "label": "PER",
+    "text": "ami du collège de Sarlande",
+    "jalons": [
+      455721,
+      455747
+    ]
+  },
+  "entite_888": {
+    "label": "MISC",
+    "text": "J'ai bien un frère",
+    "jalons": [
+      456056,
+      456074
+    ]
+  },
+  "entite_889": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      456077,
+      456082
+    ]
+  },
+  "entite_890": {
+    "label": "PER",
+    "text": "Voyez un peu la destinée",
+    "jalons": [
+      456197,
+      456221
+    ]
+  },
+  "entite_891": {
+    "label": "LOC",
+    "text": "Saint-Pierre",
+    "jalons": [
+      456266,
+      456278
+    ]
+  },
+  "entite_892": {
+    "label": "LOC",
+    "text": "Montmartre",
+    "jalons": [
+      456281,
+      456291
+    ]
+  },
+  "entite_893": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      456437,
+      456442
+    ]
+  },
+  "entite_894": {
+    "label": "PER",
+    "text": "Jacques Eysset",
+    "jalons": [
+      456806,
+      456820
+    ]
+  },
+  "entite_895": {
+    "label": "PER",
+    "text": "Jacques Eyssette",
+    "jalons": [
+      456843,
+      456859
+    ]
+  },
+  "entite_896": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      457689,
+      457694
+    ]
+  },
+  "entite_897": {
+    "label": "LOC",
+    "text": "du collège de Sarlande",
+    "jalons": [
+      458419,
+      458441
+    ]
+  },
+  "entite_898": {
+    "label": "MISC",
+    "text": "J'entends un des hommes qui",
+    "jalons": [
+      459133,
+      459160
+    ]
+  },
+  "entite_899": {
+    "label": "LOC",
+    "text": "l'ombr",
+    "jalons": [
+      459258,
+      459264
+    ]
+  },
+  "entite_900": {
+    "label": "LOC",
+    "text": "Alor",
+    "jalons": [
+      460284,
+      460288
+    ]
+  },
+  "entite_901": {
+    "label": "LOC",
+    "text": "Camphre de",
+    "jalons": [
+      461431,
+      461441
+    ]
+  },
+  "entite_902": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      462842,
+      462844
+    ]
+  },
+  "entite_903": {
+    "label": "LOC",
+    "text": "Dieu",
+    "jalons": [
+      463341,
+      463345
+    ]
+  },
+  "entite_904": {
+    "label": "LOC",
+    "text": "L'hôtel Pilois",
+    "jalons": [
+      464099,
+      464113
+    ]
+  },
+  "entite_905": {
+    "label": "LOC",
+    "text": "la mort de Jacques",
+    "jalons": [
+      464115,
+      464133
+    ]
+  },
+  "entite_906": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      464847,
+      464854
+    ]
+  },
+  "entite_907": {
+    "label": "PER",
+    "text": "Camille Pierrotte",
+    "jalons": [
+      464862,
+      464879
+    ]
+  },
+  "entite_908": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      465077,
+      465084
+    ]
+  },
+  "entite_909": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      465086,
+      465093
+    ]
+  },
+  "entite_910": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      465330,
+      465336
+    ]
+  },
+  "entite_911": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      465634,
+      465641
+    ]
+  },
+  "entite_912": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      467425,
+      467432
+    ]
+  },
+  "entite_913": {
+    "label": "PER",
+    "text": "Daniel",
+    "jalons": [
+      467554,
+      467560
+    ]
+  },
+  "entite_914": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      467921,
+      467928
+    ]
+  },
+  "entite_915": {
+    "label": "PER",
+    "text": "Mme Tribou",
+    "jalons": [
+      468314,
+      468324
+    ]
+  },
+  "entite_916": {
+    "label": "PER",
+    "text": "Mme Tribou",
+    "jalons": [
+      468345,
+      468355
+    ]
+  },
+  "entite_917": {
+    "label": "LOC",
+    "text": "Montmartre",
+    "jalons": [
+      468953,
+      468963
+    ]
+  },
+  "entite_918": {
+    "label": "LOC",
+    "text": "la porte de la",
+    "jalons": [
+      469111,
+      469125
+    ]
+  },
+  "entite_919": {
+    "label": "PER",
+    "text": "Daniel ! Daniel",
+    "jalons": [
+      469943,
+      469958
+    ]
+  },
+  "entite_920": {
+    "label": "PER",
+    "text": "Par ici",
+    "jalons": [
+      469964,
+      469971
+    ]
+  },
+  "entite_921": {
+    "label": "PER",
+    "text": "Mme Eyssette",
+    "jalons": [
+      470089,
+      470101
+    ]
+  },
+  "entite_922": {
+    "label": "PER",
+    "text": "mari loin d'elle",
+    "jalons": [
+      470529,
+      470545
+    ]
+  },
+  "entite_923": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      472222,
+      472231
+    ]
+  },
+  "entite_924": {
+    "label": "LOC",
+    "text": "Lombards",
+    "jalons": [
+      472958,
+      472966
+    ]
+  },
+  "entite_925": {
+    "label": "LOC",
+    "text": "Pierrotte",
+    "jalons": [
+      474186,
+      474195
+    ]
+  },
+  "entite_926": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      474865,
+      474872
+    ]
+  },
+  "entite_927": {
+    "label": "LOC",
+    "text": "Votre",
+    "jalons": [
+      475123,
+      475128
+    ]
+  },
+  "entite_928": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      476233,
+      476240
+    ]
+  },
+  "entite_929": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      476243,
+      476250
+    ]
+  },
+  "entite_930": {
+    "label": "PER",
+    "text": "Camille Pierrotte",
+    "jalons": [
+      476255,
+      476272
+    ]
+  },
+  "entite_931": {
+    "label": "MISC",
+    "text": "Camille Pierrotte en changeant de couleur",
+    "jalons": [
+      476689,
+      476730
+    ]
+  },
+  "entite_932": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      477822,
+      477829
+    ]
+  },
+  "entite_933": {
+    "label": "LOC",
+    "text": "Montparnasse",
+    "jalons": [
+      478721,
+      478733
+    ]
+  },
+  "entite_934": {
+    "label": "MISC",
+    "text": "Quant à la Muse",
+    "jalons": [
+      478736,
+      478751
+    ]
+  },
+  "entite_935": {
+    "label": "PER",
+    "text": "Daniel Eyssette",
+    "jalons": [
+      478773,
+      478788
+    ]
+  },
+  "entite_936": {
+    "label": "MISC",
+    "text": "La Comédie pastorale",
+    "jalons": [
+      478935,
+      478955
+    ]
+  },
+  "entite_937": {
+    "label": "LOC",
+    "text": "Madagascar",
+    "jalons": [
+      479312,
+      479322
+    ]
+  },
+  "entite_938": {
+    "label": "LOC",
+    "text": "Rana-Volo",
+    "jalons": [
+      479674,
+      479683
+    ]
+  },
+  "entite_939": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      479727,
+      479732
+    ]
+  },
+  "entite_940": {
+    "label": "LOC",
+    "text": "Touraine",
+    "jalons": [
+      480203,
+      480211
+    ]
+  },
+  "entite_941": {
+    "label": "LOC",
+    "text": "Attendez",
+    "jalons": [
+      481589,
+      481597
+    ]
+  },
+  "entite_942": {
+    "label": "MISC",
+    "text": "Tenez ! les amoureux",
+    "jalons": [
+      481804,
+      481824
+    ]
+  },
+  "entite_943": {
+    "label": "LOC",
+    "text": "Daniel",
+    "jalons": [
+      482257,
+      482263
+    ]
+  }
+}

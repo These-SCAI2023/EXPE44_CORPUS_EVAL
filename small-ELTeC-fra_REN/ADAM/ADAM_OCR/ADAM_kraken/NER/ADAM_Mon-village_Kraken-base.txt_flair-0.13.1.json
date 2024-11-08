@@ -19,2304 +19,2304 @@
     "label": "PER",
     "text": "Cellier",
     "jalons": [
-      179,
-      186
+      691,
+      698
     ]
   },
   "entite_3": {
     "label": "LOC",
     "text": "de la Rose",
     "jalons": [
-      241,
-      251
+      1265,
+      1275
     ]
   },
   "entite_4": {
     "label": "LOC",
     "text": "Bonsoir",
     "jalons": [
-      343,
-      350
+      2391,
+      2398
     ]
   },
   "entite_5": {
     "label": "MISC",
     "text": "Jcan-Claude",
     "jalons": [
-      352,
-      363
+      2400,
+      2411
     ]
   },
   "entite_6": {
     "label": "LOC",
     "text": "Bonsoir",
     "jalons": [
-      366,
-      373
+      2414,
+      2421
     ]
   },
   "entite_7": {
     "label": "LOC",
     "text": "Bonsoir",
     "jalons": [
-      400,
-      407
+      2448,
+      2455
     ]
   },
   "entite_8": {
     "label": "MISC",
     "text": "Tant de chandelles",
     "jalons": [
-      248,
-      266
+      3320,
+      3338
     ]
   },
   "entite_9": {
     "label": "LOC",
     "text": "La fille",
     "jalons": [
-      485,
-      493
+      3557,
+      3565
     ]
   },
   "entite_10": {
     "label": "LOC",
     "text": "Desiree",
     "jalons": [
-      399,
-      406
+      3983,
+      3990
     ]
   },
   "entite_11": {
     "label": "PER",
     "text": "Mais Gaspard fixait la Rose",
     "jalons": [
-      418,
-      445
+      4514,
+      4541
     ]
   },
   "entite_12": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      15,
-      21
+      4623,
+      4629
     ]
   },
   "entite_13": {
     "label": "LOC",
     "text": "MION",
     "jalons": [
-      507,
-      511
+      5115,
+      5119
     ]
   },
   "entite_14": {
     "label": "PER",
     "text": "de Toinon",
     "jalons": [
-      85,
-      94
+      5205,
+      5214
     ]
   },
   "entite_15": {
     "label": "PER",
     "text": "Jean Claude",
     "jalons": [
-      188,
-      199
+      5308,
+      5319
     ]
   },
   "entite_16": {
     "label": "PER",
     "text": "Lasl pourquo",
     "jalons": [
-      500,
-      512
+      6132,
+      6144
     ]
   },
   "entite_17": {
     "label": "PER",
     "text": "Francei Tiens",
     "jalons": [
-      297,
-      310
+      6953,
+      6966
     ]
   },
   "entite_18": {
     "label": "LOC",
     "text": "Chantez",
     "jalons": [
-      409,
-      416
+      7065,
+      7072
     ]
   },
   "entite_19": {
     "label": "LOC",
     "text": "Bonsoir",
     "jalons": [
-      479,
-      486
+      7135,
+      7142
     ]
   },
   "entite_20": {
     "label": "LOC",
     "text": "Bonsoir",
     "jalons": [
-      501,
-      508
+      7157,
+      7164
     ]
   },
   "entite_21": {
     "label": "PER",
     "text": "Pierre-Louis Gosseu",
     "jalons": [
-      480,
-      499
+      7648,
+      7667
     ]
   },
   "entite_22": {
     "label": "PER",
     "text": "Le",
     "jalons": [
-      505,
-      507
+      7673,
+      7675
     ]
   },
   "entite_23": {
     "label": "LOC",
     "text": "Jean-Claude",
     "jalons": [
-      308,
-      319
+      8500,
+      8511
     ]
   },
   "entite_24": {
     "label": "LOC",
     "text": "Allez",
     "jalons": [
-      413,
-      418
+      8605,
+      8610
     ]
   },
   "entite_25": {
     "label": "PER",
     "text": "Claude",
     "jalons": [
-      467,
-      473
+      8659,
+      8665
     ]
   },
   "entite_26": {
     "label": "PER",
     "text": "Il fallait de la",
     "jalons": [
-      5,
-      21
+      9221,
+      9237
     ]
   },
   "entite_27": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      346,
-      351
+      9562,
+      9567
     ]
   },
   "entite_28": {
     "label": "PER",
     "text": "Jean Claude",
     "jalons": [
-      45,
-      56
+      11821,
+      11832
     ]
   },
   "entite_29": {
     "label": "PER",
     "text": "Ahl je le crois bien",
     "jalons": [
-      155,
-      175
+      11931,
+      11951
     ]
   },
   "entite_30": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      43,
-      49
+      13355,
+      13361
     ]
   },
   "entite_31": {
     "label": "LOC",
     "text": "Armandine",
     "jalons": [
-      222,
-      231
+      13534,
+      13543
     ]
   },
   "entite_32": {
     "label": "LOC",
     "text": "chemin de la porte",
     "jalons": [
-      2,
-      20
+      13826,
+      13844
     ]
   },
   "entite_33": {
     "label": "LOC",
     "text": "Va",
     "jalons": [
-      321,
-      323
+      14145,
+      14147
     ]
   },
   "entite_34": {
     "label": "LOC",
     "text": "Bah",
     "jalons": [
-      51,
-      54
+      14387,
+      14390
     ]
   },
   "entite_35": {
     "label": "PER",
     "text": "de Norine",
     "jalons": [
-      2,
-      11
+      14850,
+      14859
     ]
   },
   "entite_36": {
     "label": "PER",
     "text": "Norine",
     "jalons": [
-      133,
-      139
+      14981,
+      14987
     ]
   },
   "entite_37": {
     "label": "PER",
     "text": "Conte",
     "jalons": [
-      294,
-      299
+      15142,
+      15147
     ]
   },
   "entite_38": {
     "label": "LOC",
     "text": "Cellier",
     "jalons": [
-      301,
-      308
+      15149,
+      15156
     ]
   },
   "entite_39": {
     "label": "MISC",
     "text": "Bonsoir la compagnie",
     "jalons": [
-      26,
-      46
+      15386,
+      15406
     ]
   },
   "entite_40": {
     "label": "LOC",
     "text": "Marie",
     "jalons": [
-      357,
-      362
+      16229,
+      16234
     ]
   },
   "entite_41": {
     "label": "LOC",
     "text": "ure de Morlin",
     "jalons": [
-      0,
-      13
+      16384,
+      16397
     ]
   },
   "entite_42": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      110,
-      115
+      16494,
+      16499
     ]
   },
   "entite_43": {
     "label": "PER",
     "text": "Ml Leonie",
     "jalons": [
-      123,
-      132
+      16507,
+      16516
     ]
   },
   "entite_44": {
     "label": "LOC",
     "text": "Morlincoutt",
     "jalons": [
-      473,
-      484
+      16857,
+      16868
     ]
   },
   "entite_45": {
     "label": "LOC",
     "text": "IIIMON VILLAGE",
     "jalons": [
-      448,
-      462
+      18368,
+      18382
     ]
   },
   "entite_46": {
     "label": "PER",
     "text": "la Rose",
     "jalons": [
-      503,
-      510
+      18423,
+      18430
     ]
   },
   "entite_47": {
     "label": "MISC",
     "text": "Aussi les gar",
     "jalons": [
-      15,
-      28
+      18959,
+      18972
     ]
   },
   "entite_48": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      474,
-      479
+      19418,
+      19423
     ]
   },
   "entite_49": {
     "label": "MISC",
     "text": "de Pierre et de la Rose qui",
     "jalons": [
-      431,
-      458
+      20399,
+      20426
     ]
   },
   "entite_50": {
     "label": "PER",
     "text": "Pierre",
     "jalons": [
-      35,
-      41
+      20515,
+      20521
     ]
   },
   "entite_51": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      417,
-      422
+      20897,
+      20902
     ]
   },
   "entite_52": {
     "label": "PER",
     "text": "de la montagne",
     "jalons": [
-      4,
-      18
+      20996,
+      21010
     ]
   },
   "entite_53": {
     "label": "PER",
     "text": "Quand la derniere chandelle",
     "jalons": [
-      20,
-      47
+      21012,
+      21039
     ]
   },
   "entite_54": {
     "label": "LOC",
     "text": "Pourquoi",
     "jalons": [
-      143,
-      151
+      22159,
+      22167
     ]
   },
   "entite_55": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      470,
-      476
+      22486,
+      22492
     ]
   },
   "entite_56": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      151,
-      157
+      23703,
+      23709
     ]
   },
   "entite_57": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      489,
-      495
+      24041,
+      24047
     ]
   },
   "entite_58": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      402,
-      408
+      24466,
+      24472
     ]
   },
   "entite_59": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      295,
-      301
+      24871,
+      24877
     ]
   },
   "entite_60": {
     "label": "LOC",
     "text": "Iais",
     "jalons": [
-      500,
-      504
+      25588,
+      25592
     ]
   },
   "entite_61": {
     "label": "PER",
     "text": "ur de paysan",
     "jalons": [
-      0,
-      12
+      25600,
+      25612
     ]
   },
   "entite_62": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      197,
-      203
+      25797,
+      25803
     ]
   },
   "entite_63": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      99,
-      105
+      26211,
+      26217
     ]
   },
   "entite_64": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      487,
-      492
+      27111,
+      27116
     ]
   },
   "entite_65": {
     "label": "PER",
     "text": "Alors Pierre tira de",
     "jalons": [
-      384,
-      404
+      27520,
+      27540
     ]
   },
   "entite_66": {
     "label": "PER",
     "text": "Pierre",
     "jalons": [
-      36,
-      42
+      28196,
+      28202
     ]
   },
   "entite_67": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      396,
-      402
+      28556,
+      28562
     ]
   },
   "entite_68": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      441,
-      447
+      29113,
+      29119
     ]
   },
   "entite_69": {
     "label": "MISC",
     "text": "Topel dit le dragon",
     "jalons": [
-      491,
-      510
+      29163,
+      29182
     ]
   },
   "entite_70": {
     "label": "MISC",
     "text": "aussi bien avec les femmes",
     "jalons": [
-      0,
-      26
+      29184,
+      29210
     ]
   },
   "entite_71": {
     "label": "PER",
     "text": "Tiensl cria la Rose",
     "jalons": [
-      11,
-      30
+      29707,
+      29726
     ]
   },
   "entite_72": {
     "label": "LOC",
     "text": "Pierre",
     "jalons": [
-      103,
-      109
+      29799,
+      29805
     ]
   },
   "entite_73": {
     "label": "PER",
     "text": "Pierre",
     "jalons": [
-      180,
-      186
+      29876,
+      29882
     ]
   },
   "entite_74": {
     "label": "PER",
     "text": "Pierre",
     "jalons": [
-      419,
-      425
+      30115,
+      30121
     ]
   },
   "entite_75": {
     "label": "MISC",
     "text": "Le parigot de There",
     "jalons": [
-      493,
-      512
+      30189,
+      30208
     ]
   },
   "entite_76": {
     "label": "PER",
     "text": "Claude",
     "jalons": [
-      21,
-      27
+      30229,
+      30235
     ]
   },
   "entite_77": {
     "label": "LOC",
     "text": "Toinon",
     "jalons": [
-      195,
-      201
+      30403,
+      30409
     ]
   },
   "entite_78": {
     "label": "LOC",
     "text": "Nourrissons de Paris",
     "jalons": [
-      298,
-      318
+      30506,
+      30526
     ]
   },
   "entite_79": {
     "label": "MISC",
     "text": "d'heure de regarder autour de vous et de deviser un brin avec les",
     "jalons": [
-      0,
-      65
+      30720,
+      30785
     ]
   },
   "entite_80": {
     "label": "LOC",
     "text": "Morlincourt",
     "jalons": [
-      100,
-      111
+      30820,
+      30831
     ]
   },
   "entite_81": {
     "label": "LOC",
     "text": "Jean",
     "jalons": [
-      87,
-      91
+      31319,
+      31323
     ]
   },
   "entite_82": {
     "label": "LOC",
     "text": "lMON VILLAGE",
     "jalons": [
-      93,
-      105
+      31325,
+      31337
     ]
   },
   "entite_83": {
     "label": "PER",
     "text": "Claude aller  Morlincourt",
     "jalons": [
-      107,
-      132
+      31339,
+      31364
     ]
   },
   "entite_84": {
     "label": "LOC",
     "text": "Ceran",
     "jalons": [
-      325,
-      330
+      32069,
+      32074
     ]
   },
   "entite_85": {
     "label": "MISC",
     "text": "idee les paroles de Toinon et un tas d'autres choses",
     "jalons": [
-      4,
-      56
+      32772,
+      32824
     ]
   },
   "entite_86": {
     "label": "PER",
     "text": "j'entrais chez le berger de Fa",
     "jalons": [
-      4,
-      34
+      34820,
+      34850
     ]
   },
   "entite_87": {
     "label": "MISC",
     "text": "ippes-la sur le dos de",
     "jalons": [
-      0,
-      22
+      35840,
+      35862
     ]
   },
   "entite_88": {
     "label": "LOC",
     "text": "Afin de",
     "jalons": [
-      113,
-      120
+      35953,
+      35960
     ]
   },
   "entite_89": {
     "label": "LOC",
     "text": "MI",
     "jalons": [
-      165,
-      167
+      36517,
+      36519
     ]
   },
   "entite_90": {
     "label": "LOC",
     "text": "Allez",
     "jalons": [
-      127,
-      132
+      39551,
+      39556
     ]
   },
   "entite_91": {
     "label": "LOC",
     "text": "Claude",
     "jalons": [
-      163,
-      169
+      39587,
+      39593
     ]
   },
   "entite_92": {
     "label": "LOC",
     "text": "Ceran",
     "jalons": [
-      501,
-      506
+      39925,
+      39930
     ]
   },
   "entite_93": {
     "label": "PER",
     "text": "Claude",
     "jalons": [
-      191,
-      197
+      41151,
+      41157
     ]
   },
   "entite_94": {
     "label": "LOC",
     "text": "la maison de Norine",
     "jalons": [
-      237,
-      256
+      41197,
+      41216
     ]
   },
   "entite_95": {
     "label": "LOC",
     "text": "La Rose",
     "jalons": [
-      258,
-      265
+      41218,
+      41225
     ]
   },
   "entite_96": {
     "label": "LOC",
     "text": "Ceran",
     "jalons": [
-      301,
-      306
+      42285,
+      42290
     ]
   },
   "entite_97": {
     "label": "LOC",
     "text": "Saint-Brunelle",
     "jalons": [
-      324,
-      338
+      42308,
+      42322
     ]
   },
   "entite_98": {
     "label": "LOC",
     "text": "Madame la maire",
     "jalons": [
-      497,
-      512
+      42481,
+      42496
     ]
   },
   "entite_99": {
     "label": "LOC",
     "text": "Ceran",
     "jalons": [
-      158,
-      163
+      42654,
+      42659
     ]
   },
   "entite_100": {
     "label": "LOC",
     "text": "Toinon",
     "jalons": [
-      329,
-      335
+      42825,
+      42831
     ]
   },
   "entite_101": {
     "label": "PER",
     "text": "Tout de mdme",
     "jalons": [
-      6,
-      18
+      43014,
+      43026
     ]
   },
   "entite_102": {
     "label": "LOC",
     "text": "Norine",
     "jalons": [
-      155,
-      161
+      43163,
+      43169
     ]
   },
   "entite_103": {
     "label": "MISC",
     "text": "gens de Saint-Brunelle",
     "jalons": [
-      1,
-      23
+      43521,
+      43543
     ]
   },
   "entite_104": {
     "label": "LOC",
     "text": "Brunelle",
     "jalons": [
-      343,
-      351
+      43863,
+      43871
     ]
   },
   "entite_105": {
     "label": "LOC",
     "text": "Mlonsieur",
     "jalons": [
-      294,
-      303
+      44326,
+      44335
     ]
   },
   "entite_106": {
     "label": "LOC",
     "text": "MIonsieur",
     "jalons": [
-      361,
-      370
+      44393,
+      44402
     ]
   },
   "entite_107": {
     "label": "LOC",
     "text": "Mlonsieur",
     "jalons": [
-      89,
-      98
+      44633,
+      44642
     ]
   },
   "entite_108": {
     "label": "LOC",
     "text": "la chapelle de la Vierge",
     "jalons": [
-      331,
-      355
+      45387,
+      45411
     ]
   },
   "entite_109": {
     "label": "LOC",
     "text": "Entendez-vous",
     "jalons": [
-      357,
-      370
+      45413,
+      45426
     ]
   },
   "entite_110": {
     "label": "LOC",
     "text": "Ahl",
     "jalons": [
-      342,
-      345
+      46934,
+      46937
     ]
   },
   "entite_111": {
     "label": "LOC",
     "text": "Riez",
     "jalons": [
-      248,
-      252
+      47352,
+      47356
     ]
   },
   "entite_112": {
     "label": "LOC",
     "text": "Sans",
     "jalons": [
-      151,
-      155
+      48279,
+      48283
     ]
   },
   "entite_113": {
     "label": "LOC",
     "text": "Jean-Claude",
     "jalons": [
-      419,
-      430
+      48547,
+      48558
     ]
   },
   "entite_114": {
     "label": "PER",
     "text": "Mais",
     "jalons": [
-      504,
-      508
+      48632,
+      48636
     ]
   },
   "entite_115": {
     "label": "PER",
     "text": "bon Dieu qu'on",
     "jalons": [
-      0,
-      14
+      48640,
+      48654
     ]
   },
   "entite_116": {
     "label": "LOC",
     "text": "s.S.",
     "jalons": [
-      450,
-      454
+      50114,
+      50118
     ]
   },
   "entite_117": {
     "label": "LOC",
     "text": "L.",
     "jalons": [
-      428,
-      430
+      50604,
+      50606
     ]
   },
   "entite_118": {
     "label": "ORG",
     "text": "J'ai besoin de",
     "jalons": [
-      496,
-      510
+      58864,
+      58878
     ]
   },
   "entite_119": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      193,
-      198
+      59073,
+      59078
     ]
   },
   "entite_120": {
     "label": "PER",
     "text": "Claude lui",
     "jalons": [
-      42,
-      52
+      59434,
+      59444
     ]
   },
   "entite_121": {
     "label": "LOC",
     "text": "Clarisse Manot",
     "jalons": [
-      223,
-      237
+      60639,
+      60653
     ]
   },
   "entite_122": {
     "label": "LOC",
     "text": "Brunelle",
     "jalons": [
-      263,
-      271
+      60679,
+      60687
     ]
   },
   "entite_123": {
     "label": "PER",
     "text": "Jean-Claude",
     "jalons": [
-      478,
-      489
+      61406,
+      61417
     ]
   },
   "entite_124": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      44,
-      49
+      61484,
+      61489
     ]
   },
   "entite_125": {
     "label": "LOC",
     "text": "Tache",
     "jalons": [
-      331,
-      336
+      62283,
+      62288
     ]
   },
   "entite_126": {
     "label": "LOC",
     "text": "Manot",
     "jalons": [
-      338,
-      343
+      62290,
+      62295
     ]
   },
   "entite_127": {
     "label": "LOC",
     "text": "Tiens",
     "jalons": [
-      487,
-      492
+      62439,
+      62444
     ]
   },
   "entite_128": {
     "label": "LOC",
     "text": "Manot",
     "jalons": [
-      498,
-      503
+      62450,
+      62455
     ]
   },
   "entite_129": {
     "label": "LOC",
     "text": "Manot",
     "jalons": [
-      103,
-      108
+      62567,
+      62572
     ]
   },
   "entite_130": {
     "label": "LOC",
     "text": "Allez",
     "jalons": [
-      187,
-      192
+      63675,
+      63680
     ]
   },
   "entite_131": {
     "label": "LOC",
     "text": "Ca",
     "jalons": [
-      509,
-      511
+      64509,
+      64511
     ]
   },
   "entite_132": {
     "label": "LOC",
     "text": "Tais-toi",
     "jalons": [
-      52,
-      60
+      65588,
+      65596
     ]
   },
   "entite_133": {
     "label": "LOC",
     "text": "Manot",
     "jalons": [
-      62,
-      67
+      65598,
+      65603
     ]
   },
   "entite_134": {
     "label": "PER",
     "text": "Clarisse",
     "jalons": [
-      127,
-      135
+      65663,
+      65671
     ]
   },
   "entite_135": {
     "label": "PER",
     "text": "Enri",
     "jalons": [
-      353,
-      357
+      72033,
+      72037
     ]
   },
   "entite_136": {
     "label": "LOC",
     "text": "Jacque",
     "jalons": [
-      235,
-      241
+      72939,
+      72945
     ]
   },
   "entite_137": {
     "label": "LOC",
     "text": "Allez",
     "jalons": [
-      36,
-      41
+      73252,
+      73257
     ]
   },
   "entite_138": {
     "label": "LOC",
     "text": "Malheur",
     "jalons": [
-      86,
-      93
+      73814,
+      73821
     ]
   },
   "entite_139": {
     "label": "LOC",
     "text": "Brunelle",
     "jalons": [
-      269,
-      277
+      73997,
+      74005
     ]
   },
   "entite_140": {
     "label": "LOC",
     "text": "Armandine",
     "jalons": [
-      358,
-      367
+      75622,
+      75631
     ]
   },
   "entite_141": {
     "label": "LOC",
     "text": "de Pierre",
     "jalons": [
-      188,
-      197
+      75964,
+      75973
     ]
   },
   "entite_142": {
     "label": "PER",
     "text": "bon Claude",
     "jalons": [
-      91,
-      101
+      76379,
+      76389
     ]
   },
   "entite_143": {
     "label": "PER",
     "text": "la Rose",
     "jalons": [
-      493,
-      500
+      76781,
+      76788
     ]
   },
   "entite_144": {
     "label": "MISC",
     "text": "qu'elle allait lui faire des reproches de sa",
     "jalons": [
-      2,
-      46
+      76802,
+      76846
     ]
   },
   "entite_145": {
     "label": "LOC",
     "text": "Rassurez-vous",
     "jalons": [
-      385,
-      398
+      77185,
+      77198
     ]
   },
   "entite_146": {
     "label": "LOC",
     "text": "Iose",
     "jalons": [
-      400,
-      404
+      77200,
+      77204
     ]
   },
   "entite_147": {
     "label": "PER",
     "text": "Nori",
     "jalons": [
-      508,
-      512
+      77308,
+      77312
     ]
   },
   "entite_148": {
     "label": "PER",
     "text": "Madame",
     "jalons": [
-      5,
-      11
+      77829,
+      77835
     ]
   },
   "entite_149": {
     "label": "PER",
     "text": "Norine",
     "jalons": [
-      25,
-      31
+      77849,
+      77855
     ]
   },
   "entite_150": {
     "label": "LOC",
     "text": "Mlorlincourt",
     "jalons": [
-      474,
-      486
+      78810,
+      78822
     ]
   },
   "entite_151": {
     "label": "MISC",
     "text": "Assure que si la Rose de",
     "jalons": [
-      488,
-      512
+      78824,
+      78848
     ]
   },
   "entite_152": {
     "label": "MISC",
     "text": "Depuis que le petiot de Toinon est mort",
     "jalons": [
-      383,
-      422
+      79743,
+      79782
     ]
   },
   "entite_153": {
     "label": "MISC",
     "text": "Jean-Claude a la der",
     "jalons": [
-      29,
-      49
+      80925,
+      80945
     ]
   },
   "entite_154": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      132,
-      137
+      82052,
+      82057
     ]
   },
   "entite_155": {
     "label": "LOC",
     "text": "Ml",
     "jalons": [
-      459,
-      461
+      83403,
+      83405
     ]
   },
   "entite_156": {
     "label": "LOC",
     "text": "Ceran",
     "jalons": [
-      463,
-      468
+      83407,
+      83412
     ]
   },
   "entite_157": {
     "label": "PER",
     "text": "cher  Pres de la fontaine Sainte-Radegonde",
     "jalons": [
-      8,
-      50
+      83976,
+      84018
     ]
   },
   "entite_158": {
     "label": "LOC",
     "text": "la cire",
     "jalons": [
-      1,
-      8
+      84993,
+      85000
     ]
   },
   "entite_159": {
     "label": "LOC",
     "text": "Sainl-Brunclle",
     "jalons": [
-      314,
-      328
+      85306,
+      85320
     ]
   },
   "entite_160": {
     "label": "LOC",
     "text": "Sur",
     "jalons": [
-      330,
-      333
+      85322,
+      85325
     ]
   },
   "entite_161": {
     "label": "PER",
     "text": "Denis et le fieu de Toinon",
     "jalons": [
-      61,
-      87
+      85565,
+      85591
     ]
   },
   "entite_162": {
     "label": "PER",
     "text": "J'irai h Mlorlincourt",
     "jalons": [
-      89,
-      110
+      85593,
+      85614
     ]
   },
   "entite_163": {
     "label": "LOC",
     "text": "D'abord",
     "jalons": [
-      140,
-      147
+      85644,
+      85651
     ]
   },
   "entite_164": {
     "label": "LOC",
     "text": "Norine",
     "jalons": [
-      149,
-      155
+      85653,
+      85659
     ]
   },
   "entite_165": {
     "label": "LOC",
     "text": "Desiree",
     "jalons": [
-      157,
-      164
+      85661,
+      85668
     ]
   },
   "entite_166": {
     "label": "MISC",
     "text": "Jean-Claude",
     "jalons": [
-      166,
-      177
+      85670,
+      85681
     ]
   },
   "entite_167": {
     "label": "LOC",
     "text": "Norine",
     "jalons": [
-      242,
-      248
+      85746,
+      85752
     ]
   },
   "entite_168": {
     "label": "LOC",
     "text": "Toinon",
     "jalons": [
-      258,
-      264
+      85762,
+      85768
     ]
   },
   "entite_169": {
     "label": "LOC",
     "text": "ILe",
     "jalons": [
-      492,
-      495
+      85996,
+      85999
     ]
   },
   "entite_170": {
     "label": "PER",
     "text": "Denis",
     "jalons": [
-      503,
-      508
+      86007,
+      86012
     ]
   },
   "entite_171": {
     "label": "LOC",
     "text": "Ga",
     "jalons": [
-      510,
-      512
+      86014,
+      86016
     ]
   },
   "entite_172": {
     "label": "PER",
     "text": "le fieu de Toinon",
     "jalons": [
-      7,
-      24
+      86023,
+      86040
     ]
   },
   "entite_173": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      450,
-      455
+      86978,
+      86983
     ]
   },
   "entite_174": {
     "label": "LOC",
     "text": "MION VILLAGE",
     "jalons": [
-      445,
-      457
+      87997,
+      88009
     ]
   },
   "entite_175": {
     "label": "PER",
     "text": "Denis",
     "jalons": [
-      502,
-      507
+      88054,
+      88059
     ]
   },
   "entite_176": {
     "label": "LOC",
     "text": "Brugnon",
     "jalons": [
-      238,
-      245
+      88814,
+      88821
     ]
   },
   "entite_177": {
     "label": "LOC",
     "text": "Brugnon",
     "jalons": [
-      395,
-      402
+      88971,
+      88978
     ]
   },
   "entite_178": {
     "label": "LOC",
     "text": "De la vallee",
     "jalons": [
-      489,
-      501
+      89065,
+      89077
     ]
   },
   "entite_179": {
     "label": "LOC",
     "text": "Saint-Bru",
     "jalons": [
-      503,
-      512
+      89079,
+      89088
     ]
   },
   "entite_180": {
     "label": "LOC",
     "text": "Brugnon",
     "jalons": [
-      332,
-      339
+      89420,
+      89427
     ]
   },
   "entite_181": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      388,
-      393
+      89476,
+      89481
     ]
   },
   "entite_182": {
     "label": "LOC",
     "text": "Brugnon",
     "jalons": [
-      129,
-      136
+      89729,
+      89736
     ]
   },
   "entite_183": {
     "label": "MISC",
     "text": "Depuis que le monde est monde",
     "jalons": [
-      138,
-      167
+      89738,
+      89767
     ]
   },
   "entite_184": {
     "label": "LOC",
     "text": "Brugnon",
     "jalons": [
-      259,
-      266
+      89859,
+      89866
     ]
   },
   "entite_185": {
     "label": "LOC",
     "text": "Aussi",
     "jalons": [
-      268,
-      273
+      89868,
+      89873
     ]
   },
   "entite_186": {
     "label": "LOC",
     "text": "Toinon",
     "jalons": [
-      461,
-      467
+      91085,
+      91091
     ]
   },
   "entite_187": {
     "label": "MISC",
     "text": "savoir un peu de quelle",
     "jalons": [
-      0,
-      23
+      91648,
+      91671
     ]
   },
   "entite_188": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      340,
-      345
+      91988,
+      91993
     ]
   },
   "entite_189": {
     "label": "PER",
     "text": "Jean-Claude et le pere Roux",
     "jalons": [
-      458,
-      485
+      92106,
+      92133
     ]
   },
   "entite_190": {
     "label": "PER",
     "text": "Pere Roux",
     "jalons": [
-      32,
-      41
+      92704,
+      92713
     ]
   },
   "entite_191": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      469,
-      474
+      93653,
+      93658
     ]
   },
   "entite_192": {
     "label": "LOC",
     "text": "Tiens",
     "jalons": [
-      328,
-      333
+      94024,
+      94029
     ]
   },
   "entite_193": {
     "label": "LOC",
     "text": "Brunelle",
     "jalons": [
-      114,
-      122
+      94834,
+      94842
     ]
   },
   "entite_194": {
     "label": "PER",
     "text": "Claude",
     "jalons": [
-      193,
-      199
+      95425,
+      95431
     ]
   },
   "entite_195": {
     "label": "LOC",
     "text": "Croyez-le",
     "jalons": [
-      21,
-      30
+      95765,
+      95774
     ]
   },
   "entite_196": {
     "label": "LOC",
     "text": "IHIommes-sans-Te",
     "jalons": [
-      496,
-      512
+      96240,
+      96256
     ]
   },
   "entite_197": {
     "label": "PER",
     "text": "Chez Norine",
     "jalons": [
-      402,
-      413
+      96658,
+      96669
     ]
   },
   "entite_198": {
     "label": "LOC",
     "text": "Jacqueline",
     "jalons": [
-      430,
-      440
+      96686,
+      96696
     ]
   },
   "entite_199": {
     "label": "PER",
     "text": "Garn",
     "jalons": [
-      508,
-      512
+      98300,
+      98304
     ]
   },
   "entite_200": {
     "label": "LOC",
     "text": "Tiens",
     "jalons": [
-      94,
-      99
+      98910,
+      98915
     ]
   },
   "entite_201": {
     "label": "LOC",
     "text": "Norine",
     "jalons": [
-      274,
-      280
+      99090,
+      99096
     ]
   },
   "entite_202": {
     "label": "LOC",
     "text": "MoN VILLA",
     "jalons": [
-      503,
-      512
+      99319,
+      99328
     ]
   },
   "entite_203": {
     "label": "PER",
     "text": "Jean-Claude me",
     "jalons": [
-      5,
-      19
+      99845,
+      99859
     ]
   },
   "entite_204": {
     "label": "MISC",
     "text": "trerent dans les chemins et",
     "jalons": [
-      0,
-      27
+      100352,
+      100379
     ]
   },
   "entite_205": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      423,
-      428
+      101287,
+      101292
     ]
   },
   "entite_206": {
     "label": "LOC",
     "text": "Jean",
     "jalons": [
-      506,
-      510
+      101882,
+      101886
     ]
   },
   "entite_207": {
     "label": "PER",
     "text": "Claude y",
     "jalons": [
-      0,
-      8
+      101888,
+      101896
     ]
   },
   "entite_208": {
     "label": "PER",
     "text": "Jean-Claude tira de",
     "jalons": [
-      278,
-      297
+      102678,
+      102697
     ]
   },
   "entite_209": {
     "label": "PER",
     "text": "Jean-Claude et gouailla Dizy",
     "jalons": [
-      444,
-      472
+      102844,
+      102872
     ]
   },
   "entite_210": {
     "label": "LOC",
     "text": "Mlais",
     "jalons": [
-      474,
-      479
+      102874,
+      102879
     ]
   },
   "entite_211": {
     "label": "MISC",
     "text": "Le beau-pre de la mariee et la belle-mere du marie",
     "jalons": [
-      240,
-      290
+      104176,
+      104226
     ]
   },
   "entite_212": {
     "label": "ORG",
     "text": "l'auberge de Clariss",
     "jalons": [
-      492,
-      512
+      104940,
+      104960
     ]
   },
   "entite_213": {
     "label": "PER",
     "text": "Jean-Claude et puis de Norine",
     "jalons": [
-      475,
-      504
+      105947,
+      105976
     ]
   },
   "entite_214": {
     "label": "LOC",
     "text": "Baptiste",
     "jalons": [
-      443,
-      451
+      106427,
+      106435
     ]
   },
   "entite_215": {
     "label": "MISC",
     "text": "es fieux et les filles",
     "jalons": [
-      0,
-      22
+      107520,
+      107542
     ]
   },
   "entite_216": {
     "label": "PER",
     "text": "Chez Norine",
     "jalons": [
-      217,
-      228
+      108249,
+      108260
     ]
   },
   "entite_217": {
     "label": "LOC",
     "text": "La",
     "jalons": [
-      510,
-      512
+      109054,
+      109056
     ]
   },
   "entite_218": {
     "label": "LOC",
     "text": "Bien",
     "jalons": [
-      237,
-      241
+      109293,
+      109297
     ]
   },
   "entite_219": {
     "label": "LOC",
     "text": "Norine",
     "jalons": [
-      380,
-      386
+      110460,
+      110466
     ]
   },
   "entite_220": {
     "label": "PER",
     "text": "Jean-Claude",
     "jalons": [
-      388,
-      399
+      110468,
+      110479
     ]
   },
   "entite_221": {
     "label": "PER",
     "text": "Claude en",
     "jalons": [
-      468,
-      477
+      111060,
+      111069
     ]
   },
   "entite_222": {
     "label": "LOC",
     "text": "de la Rose",
     "jalons": [
-      200,
-      210
+      111816,
+      111826
     ]
   },
   "entite_223": {
     "label": "LOC",
     "text": "de Pierre",
     "jalons": [
-      232,
-      241
+      111848,
+      111857
     ]
   },
   "entite_224": {
     "label": "PER",
     "text": "M. Cran",
     "jalons": [
-      16,
-      23
+      112656,
+      112663
     ]
   },
   "entite_225": {
     "label": "PER",
     "text": "Jean Claude",
     "jalons": [
-      65,
-      76
+      112705,
+      112716
     ]
   },
   "entite_226": {
     "label": "LOC",
     "text": "Ceran",
     "jalons": [
-      493,
-      498
+      113133,
+      113138
     ]
   },
   "entite_227": {
     "label": "LOC",
     "text": "Gaspard",
     "jalons": [
-      140,
-      147
+      113292,
+      113299
     ]
   },
   "entite_228": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      161,
-      166
+      113313,
+      113318
     ]
   },
   "entite_229": {
     "label": "LOC",
     "text": "de Gaspard et puis de la grande Jacqueline",
     "jalons": [
-      440,
-      482
+      113592,
+      113634
     ]
   },
   "entite_230": {
     "label": "LOC",
     "text": "ens de Paris",
     "jalons": [
-      0,
-      12
+      115200,
+      115212
     ]
   },
   "entite_231": {
     "label": "LOC",
     "text": "Clarisse",
     "jalons": [
-      436,
-      444
+      115636,
+      115644
     ]
   },
   "entite_232": {
     "label": "MISC",
     "text": "As-tu vu le Palais-Royal et les boule",
     "jalons": [
-      448,
-      485
+      115648,
+      115685
     ]
   },
   "entite_233": {
     "label": "PER",
     "text": "Jean-Claud",
     "jalons": [
-      502,
-      512
+      115702,
+      115712
     ]
   },
   "entite_234": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      454,
-      459
+      116166,
+      116171
     ]
   },
   "entite_235": {
     "label": "PER",
     "text": "Jean Claude",
     "jalons": [
-      163,
-      174
+      116387,
+      116398
     ]
   },
   "entite_236": {
     "label": "PER",
     "text": "Ainsi j'ai",
     "jalons": [
-      229,
-      239
+      116453,
+      116463
     ]
   },
   "entite_237": {
     "label": "LOC",
     "text": "Adonc",
     "jalons": [
-      37,
-      42
+      116773,
+      116778
     ]
   },
   "entite_238": {
     "label": "LOC",
     "text": "Monsieur",
     "jalons": [
-      191,
-      199
+      116927,
+      116935
     ]
   },
   "entite_239": {
     "label": "LOC",
     "text": "le chemin de la",
     "jalons": [
-      470,
-      485
+      117206,
+      117221
     ]
   },
   "entite_240": {
     "label": "MISC",
     "text": "De la montagne et de la vallee",
     "jalons": [
-      271,
-      301
+      118031,
+      118061
     ]
   },
   "entite_241": {
     "label": "LOC",
     "text": "Sortez des",
     "jalons": [
-      220,
-      230
+      118492,
+      118502
     ]
   },
   "entite_242": {
     "label": "MISC",
     "text": "Dans le but de ne",
     "jalons": [
-      492,
-      509
+      118764,
+      118781
     ]
   },
   "entite_243": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      12,
-      18
+      118796,
+      118802
     ]
   },
   "entite_244": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      173,
-      179
+      118957,
+      118963
     ]
   },
   "entite_245": {
     "label": "LOC",
     "text": "Gens de Morlinval",
     "jalons": [
-      436,
-      453
+      119220,
+      119237
     ]
   },
   "entite_246": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      174,
-      180
+      121006,
+      121012
     ]
   },
   "entite_247": {
     "label": "LOC",
     "text": "MION VILLAGE",
     "jalons": [
-      274,
-      286
+      121618,
+      121630
     ]
   },
   "entite_248": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      424,
-      430
+      122280,
+      122286
     ]
   },
   "entite_249": {
     "label": "LOC",
     "text": "OY VILLAGE",
     "jalons": [
-      497,
-      507
+      122353,
+      122363
     ]
   },
   "entite_250": {
     "label": "LOC",
     "text": "France",
     "jalons": [
-      291,
-      297
+      122659,
+      122665
     ]
   },
   "entite_251": {
     "label": "LOC",
     "text": "Sur",
     "jalons": [
-      508,
-      511
+      122876,
+      122879
     ]
   },
   "entite_252": {
     "label": "PER",
     "text": "t. Nom des",
     "jalons": [
-      137,
-      147
+      123017,
+      123027
     ]
   },
   "entite_253": {
     "label": "PER",
     "text": "Nom de nom",
     "jalons": [
-      275,
-      285
+      123155,
+      123165
     ]
   },
   "entite_254": {
     "label": "LOC",
     "text": "Morlincourt",
     "jalons": [
-      229,
-      240
+      123621,
+      123632
     ]
   },
   "entite_255": {
     "label": "PER",
     "text": "M. Ceran",
     "jalons": [
-      261,
-      269
+      123653,
+      123661
     ]
   },
   "entite_256": {
     "label": "PER",
     "text": "Monsieur Ceran",
     "jalons": [
-      224,
-      238
+      124128,
+      124142
     ]
   },
   "entite_257": {
     "label": "LOC",
     "text": "Saint-Brunelle",
     "jalons": [
-      332,
-      346
+      124236,
+      124250
     ]
   },
   "entite_258": {
     "label": "PER",
     "text": "Monsieur Ceran",
     "jalons": [
-      3,
-      17
+      124419,
+      124433
     ]
   },
   "entite_259": {
     "label": "PER",
     "text": "Monsieur Ceran",
     "jalons": [
-      31,
-      45
+      124447,
+      124461
     ]
   },
   "entite_260": {
     "label": "LOC",
     "text": "Tenez",
     "jalons": [
-      218,
-      223
+      124634,
+      124639
     ]
   },
   "entite_261": {
     "label": "PER",
     "text": "Courez chez l'apothicai",
     "jalons": [
-      489,
-      512
+      124905,
+      124928
     ]
   },
   "entite_262": {
     "label": "PER",
     "text": "la Rose",
     "jalons": [
-      444,
-      451
+      125884,
+      125891
     ]
   },
   "entite_263": {
     "label": "PER",
     "text": "M. Ceran",
     "jalons": [
-      458,
-      466
+      125898,
+      125906
     ]
   },
   "entite_264": {
     "label": "PER",
     "text": "mande S'il",
     "jalons": [
-      501,
-      511
+      125941,
+      125951
     ]
   },
   "entite_265": {
     "label": "MISC",
     "text": "Brunelle des noces",
     "jalons": [
-      0,
-      18
+      126464,
+      126482
     ]
   },
   "entite_266": {
     "label": "LOC",
     "text": "Allez",
     "jalons": [
-      344,
-      349
+      126808,
+      126813
     ]
   },
   "entite_267": {
     "label": "PER",
     "text": "Claude",
     "jalons": [
-      494,
-      500
+      126958,
+      126964
     ]
   },
   "entite_268": {
     "label": "PER",
     "text": "Les maltre",
     "jalons": [
-      502,
-      512
+      126966,
+      126976
     ]
   },
   "entite_269": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      36,
-      41
+      127012,
+      127017
     ]
   },
   "entite_270": {
     "label": "PER",
     "text": "M. Ceran",
     "jalons": [
-      133,
-      141
+      127109,
+      127117
     ]
   },
   "entite_271": {
     "label": "LOC",
     "text": "Berenice",
     "jalons": [
-      179,
-      187
+      128691,
+      128699
     ]
   },
   "entite_272": {
     "label": "LOC",
     "text": "soyez",
     "jalons": [
-      506,
-      511
+      129018,
+      129023
     ]
   },
   "entite_273": {
     "label": "PER",
     "text": "Madame la mairesse",
     "jalons": [
-      8,
-      26
+      129032,
+      129050
     ]
   },
   "entite_274": {
     "label": "LOC",
     "text": "Parle",
     "jalons": [
-      358,
-      363
+      130918,
+      130923
     ]
   },
   "entite_275": {
     "label": "MISC",
     "text": "Messieurs les administrateurs des chemins a de fer du Nord",
     "jalons": [
-      211,
-      269
+      131283,
+      131341
     ]
   },
   "entite_276": {
     "label": "LOC",
     "text": "Messieurs",
     "jalons": [
-      273,
-      282
+      131345,
+      131354
     ]
   },
   "entite_277": {
     "label": "MISC",
     "text": "Parisien connaft les beautes de la pro",
     "jalons": [
-      334,
-      372
+      131406,
+      131444
     ]
   },
   "entite_278": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      404,
-      409
+      131476,
+      131481
     ]
   },
   "entite_279": {
     "label": "MISC",
     "text": "Rien de a mieux",
     "jalons": [
-      411,
-      426
+      131483,
+      131498
     ]
   },
   "entite_280": {
     "label": "PER",
     "text": "Jean-Claude. Hein  la compagnie",
     "jalons": [
-      0,
-      31
+      132608,
+      132639
     ]
   },
   "entite_281": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      231,
-      236
+      132839,
+      132844
     ]
   },
   "entite_282": {
     "label": "PER",
     "text": "Avisez-vous de soutenir",
     "jalons": [
-      13,
-      36
+      133133,
+      133156
     ]
   },
   "entite_283": {
     "label": "PER",
     "text": "Madame la mairesse",
     "jalons": [
-      45,
-      63
+      133677,
+      133695
     ]
   },
   "entite_284": {
     "label": "LOC",
     "text": "Va",
     "jalons": [
-      500,
-      502
+      134132,
+      134134
     ]
   },
   "entite_285": {
     "label": "PER",
     "text": "ma Rose",
     "jalons": [
-      504,
-      511
+      134136,
+      134143
     ]
   },
   "entite_286": {
     "label": "LOC",
     "text": "Tal",
     "jalons": [
-      220,
-      223
+      134876,
+      134879
     ]
   },
   "entite_287": {
     "label": "LOC",
     "text": "Remblay",
     "jalons": [
-      237,
-      244
+      134893,
+      134900
     ]
   },
   "entite_288": {
     "label": "LOC",
     "text": "Paris",
     "jalons": [
-      408,
-      413
+      135576,
+      135581
     ]
   },
   "entite_289": {
     "label": "LOC",
     "text": "Ceran",
     "jalons": [
-      217,
-      222
+      135897,
+      135902
     ]
   }
 }

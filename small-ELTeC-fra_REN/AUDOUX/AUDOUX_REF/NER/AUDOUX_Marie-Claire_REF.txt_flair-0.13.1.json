@@ -1,0 +1,2266 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Geneviève de Brabant",
+    "jalons": [
+      2320,
+      2340
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3990,
+      3995
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      4196,
+      4202
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Je la vis venir vers moi",
+    "jalons": [
+      5648,
+      5672
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "elle s'appelait Ismérie",
+    "jalons": [
+      6145,
+      6168
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Marie-Aimée",
+    "jalons": [
+      8335,
+      8346
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Comme la chaleur des jupes de laine",
+    "jalons": [
+      8710,
+      8745
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Autour de moi",
+    "jalons": [
+      9262,
+      9275
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Ismérie",
+    "jalons": [
+      10223,
+      10230
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      10234,
+      10239
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Renaud",
+    "jalons": [
+      10240,
+      10246
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Gabrielle",
+    "jalons": [
+      10737,
+      10746
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Gabrielle",
+    "jalons": [
+      11080,
+      11089
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      11262,
+      11264
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Ismérie",
+    "jalons": [
+      11456,
+      11463
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Bonne Esther",
+    "jalons": [
+      11931,
+      11943
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      12284,
+      12288
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Bonne Néron",
+    "jalons": [
+      12626,
+      12637
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Sœur Ma",
+    "jalons": [
+      12793,
+      12800
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      13810,
+      13813
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Bonne Esther",
+    "jalons": [
+      15008,
+      15020
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Bonne Esther",
+    "jalons": [
+      15552,
+      15564
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Bonne Esther",
+    "jalons": [
+      15946,
+      15958
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "uite je vis des milliers de",
+    "jalons": [
+      16896,
+      16923
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Bonne Esther",
+    "jalons": [
+      17417,
+      17429
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Marie-Aimée",
+    "jalons": [
+      17920,
+      17931
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Marie Renaud et Ismérie",
+    "jalons": [
+      17934,
+      17957
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "J'avais si envie de dormir",
+    "jalons": [
+      18493,
+      18519
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Ismérie qui parle",
+    "jalons": [
+      19167,
+      19184
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Ismérie",
+    "jalons": [
+      19442,
+      19449
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Toutefois",
+    "jalons": [
+      19972,
+      19981
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Marie Renaud",
+    "jalons": [
+      20836,
+      20848
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Marie Renaud",
+    "jalons": [
+      20964,
+      20976
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "dessert de la veille",
+    "jalons": [
+      21533,
+      21553
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      21989,
+      21998
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Bonne Néron",
+    "jalons": [
+      22335,
+      22346
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Bonne Néron",
+    "jalons": [
+      22934,
+      22945
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Marie Renaud",
+    "jalons": [
+      23646,
+      23658
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Bonne Néron",
+    "jalons": [
+      25606,
+      25617
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Marie Renaud",
+    "jalons": [
+      26965,
+      26977
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Elle lui",
+    "jalons": [
+      26980,
+      26988
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "de Bonne Néron",
+    "jalons": [
+      27188,
+      27202
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      28663,
+      28665
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      28895,
+      28900
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Ismérie",
+    "jalons": [
+      28974,
+      28981
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "Sœur Marie Aimée",
+    "jalons": [
+      29244,
+      29260
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      29655,
+      29663
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "J'en ressenti",
+    "jalons": [
+      30195,
+      30208
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "Sœur Marie-Aimée et Madeleine",
+    "jalons": [
+      32616,
+      32645
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Sœur Marie-Aimée les arrêta d'un",
+    "jalons": [
+      33106,
+      33138
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      33813,
+      33822
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "la porte de la grande",
+    "jalons": [
+      36305,
+      36326
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "la porte de la salle",
+    "jalons": [
+      36396,
+      36416
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Elle m'avoua",
+    "jalons": [
+      39432,
+      39444
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Marie-Aimée",
+    "jalons": [
+      40086,
+      40097
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "Bonne Justine nous apprenait à faire de la lingerie",
+    "jalons": [
+      41501,
+      41552
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Marie Renaud",
+    "jalons": [
+      42115,
+      42127
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Colette",
+    "jalons": [
+      43454,
+      43461
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Bonne Justine",
+    "jalons": [
+      43677,
+      43690
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      44370,
+      44375
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      45928,
+      45933
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Marie-Claire",
+    "jalons": [
+      45935,
+      45947
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Colette",
+    "jalons": [
+      45968,
+      45975
+    ]
+  },
+  "entite_63": {
+    "label": "MISC",
+    "text": "Bonne Justine avait levé les bras au ciel",
+    "jalons": [
+      45977,
+      46018
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Ismérie",
+    "jalons": [
+      46944,
+      46951
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Elle me",
+    "jalons": [
+      47136,
+      47143
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Aussitôt",
+    "jalons": [
+      47379,
+      47387
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "de la Vierge",
+    "jalons": [
+      49446,
+      49458
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Miroir de Justice",
+    "jalons": [
+      50460,
+      50477
+    ]
+  },
+  "entite_69": {
+    "label": "ORG",
+    "text": "Miroir de Justice",
+    "jalons": [
+      50586,
+      50603
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "nant la sœur",
+    "jalons": [
+      51200,
+      51212
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "Deux des nôtres se",
+    "jalons": [
+      51215,
+      51233
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "Colette",
+    "jalons": [
+      52194,
+      52201
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "J'aurais",
+    "jalons": [
+      52204,
+      52212
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Elle",
+    "jalons": [
+      52730,
+      52734
+    ]
+  },
+  "entite_75": {
+    "label": "MISC",
+    "text": "Elle s'avisa un dimanche de me faire",
+    "jalons": [
+      55013,
+      55049
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "La voix de Colette monta",
+    "jalons": [
+      55484,
+      55508
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "ée dans l'église et étouffée par les sons de l'harmonium",
+    "jalons": [
+      55808,
+      55864
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      57334,
+      57343
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Marie Renaud",
+    "jalons": [
+      57365,
+      57377
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Aussitôt Marie Renaud avait",
+    "jalons": [
+      57379,
+      57406
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "dans la chambre de sœur Marie-Aimée et Madeleine avait vite refermé la porte",
+    "jalons": [
+      57539,
+      57615
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "Elle en parla devant moi à la sœur de M. le curé",
+    "jalons": [
+      58389,
+      58437
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "Mlle",
+    "jalons": [
+      59387,
+      59391
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "M. le curé",
+    "jalons": [
+      59936,
+      59946
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      60918,
+      60922
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "de la Sologne",
+    "jalons": [
+      61043,
+      61056
+    ]
+  },
+  "entite_87": {
+    "label": "MISC",
+    "text": "Elle se haussa sur les bras de",
+    "jalons": [
+      61814,
+      61844
+    ]
+  },
+  "entite_88": {
+    "label": "MISC",
+    "text": "mière viendrait me chercher la veille du jour de la Saint-Jean.  Je sortis de chez elle",
+    "jalons": [
+      62464,
+      62551
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "Elle s'élança vers la porte",
+    "jalons": [
+      63287,
+      63314
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "Madeleine qui poussait des cris",
+    "jalons": [
+      64531,
+      64562
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Marie Renaud",
+    "jalons": [
+      65049,
+      65061
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "J'avais un peu honte de moi parce que",
+    "jalons": [
+      65576,
+      65613
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "Dans la soirée",
+    "jalons": [
+      66182,
+      66196
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      66244,
+      66248
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Saint-Jean",
+    "jalons": [
+      66703,
+      66713
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Ismérie",
+    "jalons": [
+      67596,
+      67603
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Sophie",
+    "jalons": [
+      67897,
+      67903
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "Chemineau la Bête",
+    "jalons": [
+      68076,
+      68093
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "Chemineau la Bête était de",
+    "jalons": [
+      68389,
+      68415
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "Agathe",
+    "jalons": [
+      69251,
+      69257
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "voile de la Vierge",
+    "jalons": [
+      70168,
+      70186
+    ]
+  },
+  "entite_102": {
+    "label": "MISC",
+    "text": "Sœur Marie-Aimée la renvoya en",
+    "jalons": [
+      70721,
+      70751
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "Jure-moi que tu diras tous les soirs un De Profundis pour lui",
+    "jalons": [
+      71032,
+      71093
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "la fête de la Saint-Jean",
+    "jalons": [
+      72060,
+      72084
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Castille",
+    "jalons": [
+      74366,
+      74374
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Je n'avais",
+    "jalons": [
+      79862,
+      79872
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "jamais pensé qu'on pût aller à la ville en si peu de",
+    "jalons": [
+      79873,
+      79925
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Celle",
+    "jalons": [
+      81402,
+      81407
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Marie-Aimée",
+    "jalons": [
+      87181,
+      87192
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      88534,
+      88540
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "Le frère du fermier s'appelait Eugène",
+    "jalons": [
+      90633,
+      90670
+    ]
+  },
+  "entite_112": {
+    "label": "MISC",
+    "text": "la chanson de l'Eau et du Vin",
+    "jalons": [
+      91706,
+      91735
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "la Sologne",
+    "jalons": [
+      92137,
+      92147
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "la Blanche",
+    "jalons": [
+      93152,
+      93162
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Eugène",
+    "jalons": [
+      97082,
+      97088
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "carreaux de la grande salle",
+    "jalons": [
+      97744,
+      97771
+    ]
+  },
+  "entite_117": {
+    "label": "ORG",
+    "text": "que le feu de la che",
+    "jalons": [
+      97772,
+      97792
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "de la Sologne",
+    "jalons": [
+      98446,
+      98459
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Martine",
+    "jalons": [
+      98807,
+      98814
+    ]
+  },
+  "entite_120": {
+    "label": "MISC",
+    "text": "Tout le monde sortit de la",
+    "jalons": [
+      103267,
+      103293
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "J'arrivai la première près de Martine",
+    "jalons": [
+      103313,
+      103350
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "donner de la",
+    "jalons": [
+      105391,
+      105403
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      107621,
+      107630
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Le village",
+    "jalons": [
+      110044,
+      110054
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "Sainte-Montagn",
+    "jalons": [
+      110066,
+      110080
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "Il n'avait",
+    "jalons": [
+      110083,
+      110093
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "Cheval Blanc",
+    "jalons": [
+      111651,
+      111663
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Il en sortait un grand bruit de voix et de",
+    "jalons": [
+      111665,
+      111707
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Eugène",
+    "jalons": [
+      111904,
+      111910
+    ]
+  },
+  "entite_130": {
+    "label": "ORG",
+    "text": "Alors",
+    "jalons": [
+      116219,
+      116224
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Eugène",
+    "jalons": [
+      116225,
+      116231
+    ]
+  },
+  "entite_132": {
+    "label": "LOC",
+    "text": "Sainte-Montagne",
+    "jalons": [
+      116895,
+      116910
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Eugène",
+    "jalons": [
+      117329,
+      117335
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Pauline me dit de",
+    "jalons": [
+      117628,
+      117645
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "Eugène",
+    "jalons": [
+      119486,
+      119492
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Pauline me",
+    "jalons": [
+      119701,
+      119711
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "Peu de",
+    "jalons": [
+      122329,
+      122335
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Pauline",
+    "jalons": [
+      122869,
+      122876
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Pauline me",
+    "jalons": [
+      122910,
+      122920
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "de Martine",
+    "jalons": [
+      124940,
+      124950
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Maître Sylvain",
+    "jalons": [
+      124953,
+      124967
+    ]
+  },
+  "entite_142": {
+    "label": "PER",
+    "text": "Pauline lui",
+    "jalons": [
+      125534,
+      125545
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Paulin",
+    "jalons": [
+      126970,
+      126976
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Tirande",
+    "jalons": [
+      128452,
+      128459
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "Paulin",
+    "jalons": [
+      128506,
+      128512
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "M. Tirande",
+    "jalons": [
+      129407,
+      129417
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "M. T",
+    "jalons": [
+      129532,
+      129536
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Tirande",
+    "jalons": [
+      129895,
+      129902
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "Tirande",
+    "jalons": [
+      130178,
+      130185
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Eugène",
+    "jalons": [
+      130188,
+      130194
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "Pauline",
+    "jalons": [
+      130545,
+      130552
+    ]
+  },
+  "entite_152": {
+    "label": "MISC",
+    "text": "le fermier avait eu pitié de moi en me voyant",
+    "jalons": [
+      130561,
+      130606
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "Bonne Justine",
+    "jalons": [
+      131133,
+      131146
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Le clair de",
+    "jalons": [
+      131241,
+      131252
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "Eugène et Martine",
+    "jalons": [
+      132275,
+      132292
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Elle ajouta",
+    "jalons": [
+      132650,
+      132661
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": "Martine",
+    "jalons": [
+      133110,
+      133117
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "Mme Alphonse",
+    "jalons": [
+      133373,
+      133385
+    ]
+  },
+  "entite_159": {
+    "label": "PER",
+    "text": "M. Tirande resta",
+    "jalons": [
+      133388,
+      133404
+    ]
+  },
+  "entite_160": {
+    "label": "MISC",
+    "text": "Dès la première semaine",
+    "jalons": [
+      133559,
+      133582
+    ]
+  },
+  "entite_161": {
+    "label": "PER",
+    "text": "Mme Alphonse",
+    "jalons": [
+      133584,
+      133596
+    ]
+  },
+  "entite_162": {
+    "label": "MISC",
+    "text": "Eugène en lingerie",
+    "jalons": [
+      133633,
+      133651
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "M. Alphonse",
+    "jalons": [
+      134289,
+      134300
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Mme Alphonse",
+    "jalons": [
+      134666,
+      134678
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Tirande",
+    "jalons": [
+      134716,
+      134723
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "Pauline ou Eugène",
+    "jalons": [
+      134863,
+      134880
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Quelquefois",
+    "jalons": [
+      134883,
+      134894
+    ]
+  },
+  "entite_168": {
+    "label": "MISC",
+    "text": "evant la maison de",
+    "jalons": [
+      135168,
+      135186
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      135187,
+      135200
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Villevieille",
+    "jalons": [
+      135493,
+      135505
+    ]
+  },
+  "entite_171": {
+    "label": "PER",
+    "text": "M. Alphonse",
+    "jalons": [
+      135710,
+      135721
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      135804,
+      135817
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      136573,
+      136586
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Noël",
+    "jalons": [
+      137186,
+      137190
+    ]
+  },
+  "entite_175": {
+    "label": "LOC",
+    "text": "Le vieux",
+    "jalons": [
+      137193,
+      137201
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      137558,
+      137571
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Jean voulut la sortir de la fontaine",
+    "jalons": [
+      138250,
+      138286
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "M. Alphonse",
+    "jalons": [
+      139821,
+      139832
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      140233,
+      140246
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      140684,
+      140697
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Villevieille",
+    "jalons": [
+      140763,
+      140775
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "Mais sa",
+    "jalons": [
+      140777,
+      140784
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      140862,
+      140875
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "quitta la maison de la colline à la fin de janvier",
+    "jalons": [
+      140876,
+      140926
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "Adèle",
+    "jalons": [
+      141242,
+      141247
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": "Tout le jour",
+    "jalons": [
+      141249,
+      141261
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "M. Alphonse",
+    "jalons": [
+      142666,
+      142677
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Mme Alphonse",
+    "jalons": [
+      142874,
+      142886
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Villevieille",
+    "jalons": [
+      143613,
+      143625
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Gué Perdu",
+    "jalons": [
+      143844,
+      143853
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "Mme Alphonse",
+    "jalons": [
+      143856,
+      143868
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "Mme Deslois",
+    "jalons": [
+      145461,
+      145472
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "parut sur le pas de la porte en",
+    "jalons": [
+      145473,
+      145504
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Mme Alphonse",
+    "jalons": [
+      147437,
+      147449
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "Depuis",
+    "jalons": [
+      147519,
+      147525
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Pauline",
+    "jalons": [
+      147557,
+      147564
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Alphonse",
+    "jalons": [
+      148251,
+      148259
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Sophie",
+    "jalons": [
+      148627,
+      148633
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "J'étais si heureuse de parler",
+    "jalons": [
+      151048,
+      151077
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "Jusqu'à Jean le Rouge",
+    "jalons": [
+      151595,
+      151616
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Alphonse",
+    "jalons": [
+      151842,
+      151850
+    ]
+  },
+  "entite_202": {
+    "label": "MISC",
+    "text": "onnaissait les laboureurs du Gué Perdu",
+    "jalons": [
+      152064,
+      152102
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      152444,
+      152449
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      153054,
+      153059
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "Henri",
+    "jalons": [
+      153067,
+      153072
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "Elle se",
+    "jalons": [
+      153075,
+      153082
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "Mais lui",
+    "jalons": [
+      153165,
+      153173
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Marie-Aimée",
+    "jalons": [
+      153579,
+      153590
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      153815,
+      153828
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "de Mme Alphonse",
+    "jalons": [
+      154629,
+      154644
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "Villevieille",
+    "jalons": [
+      154725,
+      154737
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "J'évitais de le",
+    "jalons": [
+      154740,
+      154755
+    ]
+  },
+  "entite_213": {
+    "label": "MISC",
+    "text": "Depuis que Jean le Rouge était parti",
+    "jalons": [
+      154820,
+      154856
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      155764,
+      155777
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Voici la",
+    "jalons": [
+      156654,
+      156662
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      157518,
+      157531
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Hier",
+    "jalons": [
+      157699,
+      157703
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      157705,
+      157718
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      158706,
+      158719
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "le seuil de la ferme de Villevieille",
+    "jalons": [
+      158748,
+      158784
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "J'avais écouté",
+    "jalons": [
+      158787,
+      158801
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "Henri Deslois dans l'encadrement de la porte",
+    "jalons": [
+      159355,
+      159399
+    ]
+  },
+  "entite_223": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      160862,
+      160875
+    ]
+  },
+  "entite_224": {
+    "label": "MISC",
+    "text": "me ramena sur le chemin de la",
+    "jalons": [
+      160876,
+      160905
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "La maison de la",
+    "jalons": [
+      161077,
+      161092
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      161154,
+      161167
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      161191,
+      161204
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      161411,
+      161424
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      161565,
+      161578
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Marie-Aimée",
+    "jalons": [
+      161642,
+      161653
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      162199,
+      162212
+    ]
+  },
+  "entite_232": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      162511,
+      162524
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "elle monte de la terre",
+    "jalons": [
+      162777,
+      162799
+    ]
+  },
+  "entite_234": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      163388,
+      163401
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Adèle",
+    "jalons": [
+      163563,
+      163568
+    ]
+  },
+  "entite_236": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      163691,
+      163704
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Villevieille",
+    "jalons": [
+      163714,
+      163726
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      164362,
+      164370
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "M. Alphonse lui",
+    "jalons": [
+      164479,
+      164494
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      164994,
+      165007
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "M. Alphonse",
+    "jalons": [
+      165212,
+      165223
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      165387,
+      165400
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      165489,
+      165502
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "M. Alphonse se mit",
+    "jalons": [
+      165505,
+      165523
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      166142,
+      166155
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "Mais M. Alphonse la",
+    "jalons": [
+      166508,
+      166527
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Sainte-Montagne",
+    "jalons": [
+      167262,
+      167277
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Aussitôt",
+    "jalons": [
+      167341,
+      167349
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "Elle répétait",
+    "jalons": [
+      167411,
+      167424
+    ]
+  },
+  "entite_250": {
+    "label": "MISC",
+    "text": "Elle le criait de",
+    "jalons": [
+      167475,
+      167492
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "de Mme Deslois",
+    "jalons": [
+      167942,
+      167956
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Tireli",
+    "jalons": [
+      169540,
+      169546
+    ]
+  },
+  "entite_253": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      170001,
+      170009
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      170950,
+      170963
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "J'essayai de fixer",
+    "jalons": [
+      173653,
+      173671
+    ]
+  },
+  "entite_256": {
+    "label": "ORG",
+    "text": "Sœur Désirée-des-Anges",
+    "jalons": [
+      175567,
+      175589
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Seule",
+    "jalons": [
+      178069,
+      178074
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "derrière elles",
+    "jalons": [
+      179200,
+      179214
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Joly",
+    "jalons": [
+      180490,
+      180494
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Désirée Joly",
+    "jalons": [
+      180497,
+      180509
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Joly",
+    "jalons": [
+      180834,
+      180838
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Désirée Jol",
+    "jalons": [
+      181237,
+      181248
+    ]
+  },
+  "entite_263": {
+    "label": "PER",
+    "text": "jusque sur la Vierge",
+    "jalons": [
+      183296,
+      183316
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "Mélanie me montra",
+    "jalons": [
+      183776,
+      183793
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      186915,
+      186928
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "Gué Perdu",
+    "jalons": [
+      187068,
+      187077
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      187546,
+      187559
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "petit Jean le Rouge me",
+    "jalons": [
+      188417,
+      188439
+    ]
+  },
+  "entite_269": {
+    "label": "PER",
+    "text": "Jean le Rouge",
+    "jalons": [
+      189090,
+      189103
+    ]
+  },
+  "entite_270": {
+    "label": "MISC",
+    "text": "Elle en connaissait les alentours et les",
+    "jalons": [
+      189469,
+      189509
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Sœur Marie-Aimée la",
+    "jalons": [
+      191096,
+      191115
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "Marie-Aimée",
+    "jalons": [
+      191470,
+      191481
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "Auss",
+    "jalons": [
+      191484,
+      191488
+    ]
+  },
+  "entite_274": {
+    "label": "MISC",
+    "text": "Elle les passa sur mes",
+    "jalons": [
+      193640,
+      193662
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "Désirée Joly",
+    "jalons": [
+      196644,
+      196656
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "Ouvrez la fenêtre",
+    "jalons": [
+      196706,
+      196723
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "Ismérie",
+    "jalons": [
+      199817,
+      199824
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      201160,
+      201165
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      201208,
+      201213
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      201434,
+      201439
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "Donnez",
+    "jalons": [
+      201551,
+      201557
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "Henri Deslois",
+    "jalons": [
+      201938,
+      201951
+    ]
+  }
+}
